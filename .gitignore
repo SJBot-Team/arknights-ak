@@ -1,0 +1,77 @@
+# ============================================================
+# arknights-ak 收录规则
+# 原则：只收录「文本知识 / 源码 / 结构化数据 / 文字证据」。
+#       排除大体积媒体、第三方克隆、隐私数据、可再生成的二进制中间产物。
+#       被排除内容仍完整保留在本地工作区（以及 E:\__file\ak_kb\ 镜像）。
+# 详见 README.md「仓库收录范围」。
+# ============================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- 第三方克隆（各自有上游仓库，不入本仓）----
+code/external/
+code/tools/tools/sqlcipher-src/
+code/tools/tools/sqlcipher-src-full/
+code/tools/tools/sqlcipher-master.tar.gz
+scripts/tools/sqlcipher-src/
+scripts/tools/sqlcipher-src-full/
+scripts/tools/sqlcipher-master.tar.gz
+
+# ---- 隐私：QQ 聊天记录导出与其工具数据库 ----
+_raw/qq/
+scripts/output/
+code/tools/output/
+code/tools/tools/qq_dump_db/
+scripts/tools/qq_dump_db/
+
+# ---- .tmp：只保留脚本与文本，丢弃截图 / 录像 / 二进制中间产物 ----
+.tmp/*
+!.tmp/*.py
+!.tmp/*.md
+!.tmp/*.txt
+!.tmp/*.json
+!.tmp/*.jsonl
+!.tmp/*.csv
+!.tmp/*.ps1
+!.tmp/*.yaml
+!.tmp/*.yml
+
+# ---- 大体积媒体与二进制 ----
+*.mp4
+*.avi
+*.mkv
+*.flv
+*.mov
+*.wav
+*.mp3
+*.npy
+*.npz
+*.pkl
+*.bin
+*.exe
+*.dll
+*.so
+*.pyd
+*.xlsb
+*.xlsx
+*.xls
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.db
+*.log
+
+# ---- 系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store

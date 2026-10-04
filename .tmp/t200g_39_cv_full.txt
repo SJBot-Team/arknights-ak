@@ -1,0 +1,365 @@
+
+======================================================================
+===== transform_map_to_view  argcount=2 nlocals=21 co_code=718B
+  consts=['\n    Transforms a map to a view based on the given parameters.\n\n    Parameters:\n    level (dict): The map data.\n\n    Returns:\n    list: A 2D list of tuples representing the transformed map points in ratio form.\n    ', 180, 'height', 'width', 'view', 1, 0, 'Error loading map data: ', None, (0, 0, 0, 1), 20, 2, (0, 0, -1, 0), (1, 0, 0, 0), 30, 10, (0, 1, 0, 0), 'tiles', 2.0, 'heightType', -0.4, 3, 'Transformed map to view, size: ', 'x']
+  names=['math', 'pi', 'KeyError', 'logger', 'error', 'np', 'array', 'viewconfig', 'FROM_RATIO', 'tan', 'FAR', 'NEAR', 'cos', 'sin', 'copy', 'range', 'append', 'info']
+  varnames=['level', 'side', 'DEGREE', 'height', 'width', 'x', 'y', 'z', 'e', 'transform_matrix', 'perspective_matrix', 'rotate_x_matrix', 'rotate_y_matrix', 'final_matrix', 'out_pos', 'i', 'tmp_pos', 'j', 'tile', 'map_point', 'view_point']
+          0 LOAD_GLOBAL              0 (0)
+          2 LOAD_ATTR                1 (1)
+          4 LOAD_CONST               1 (1)
+          6 BINARY_TRUE_DIVIDE
+          8 STORE_FAST               2 (2)
+         10 SETUP_FINALLY           48 (to 60)
+         12 LOAD_FAST                0 (0)
+         14 LOAD_CONST               2 (2)
+         16 BINARY_SUBSCR
+         18 LOAD_FAST                0 (0)
+         20 LOAD_CONST               3 (3)
+         22 BINARY_SUBSCR
+         24 ROT_TWO
+         26 STORE_FAST               3 (3)
+         28 STORE_FAST               4 (4)
+         30 LOAD_FAST                0 (0)
+         32 LOAD_CONST               4 (4)
+         34 BINARY_SUBSCR
+         36 LOAD_FAST                1 (1)
+         38 POP_JUMP_IF_FALSE       44
+         40 LOAD_CONST               5 (5)
+         42 JUMP_FORWARD             2 (to 46)
+    >>   44 LOAD_CONST               6 (6)
+    >>   46 BINARY_SUBSCR
+         48 UNPACK_SEQUENCE          3
+         50 STORE_FAST               5 (5)
+         52 STORE_FAST               6 (6)
+         54 STORE_FAST               7 (7)
+         56 POP_BLOCK
+         58 JUMP_FORWARD            66 (to 126)
+    >>   60 DUP_TOP
+         62 LOAD_GLOBAL              2 (2)
+         64 JUMP_IF_NOT_EXC_MATCH   124
+         66 POP_TOP
+         68 STORE_FAST               8 (8)
+         70 POP_TOP
+         72 SETUP_FINALLY           42 (to 116)
+         74 LOAD_GLOBAL              3 (3)
+         76 LOAD_METHOD              4 (4)
+         78 LOAD_CONST               7 (7)
+         80 LOAD_FAST                8 (8)
+         82 FORMAT_VALUE             0
+         84 BUILD_STRING             2
+         86 CALL_METHOD              1
+         88 POP_TOP
+         90 LOAD_GLOBAL              2 (2)
+         92 LOAD_CONST               7 (7)
+         94 LOAD_FAST                8 (8)
+         96 FORMAT_VALUE             0
+         98 BUILD_STRING             2
+        100 CALL_FUNCTION            1
+        102 RAISE_VARARGS            1
+        104 POP_BLOCK
+        106 POP_EXCEPT
+        108 LOAD_CONST               8 (8)
+        110 STORE_FAST               8 (8)
+        112 DELETE_FAST              8 (8)
+        114 JUMP_FORWARD            10 (to 126)
+    >>  116 LOAD_CONST               8 (8)
+        118 STORE_FAST               8 (8)
+        120 DELETE_FAST              8 (8)
+        122 RERAISE
+    >>  124 RERAISE
+    >>  126 LOAD_GLOBAL              5 (5)
+        128 LOAD_METHOD              6 (6)
+        130 LOAD_CONST               5 (5)
+        132 LOAD_CONST               6 (6)
+        134 LOAD_CONST               6 (6)
+        136 LOAD_FAST                5 (5)
+        138 UNARY_NEGATIVE
+        140 BUILD_LIST               4
+        142 LOAD_CONST               6 (6)
+        144 LOAD_CONST               5 (5)
+        146 LOAD_CONST               6 (6)
+        148 LOAD_FAST                6 (6)
+        150 UNARY_NEGATIVE
+        152 BUILD_LIST               4
+        154 LOAD_CONST               6 (6)
+        156 LOAD_CONST               6 (6)
+        158 LOAD_CONST               5 (5)
+        160 LOAD_FAST                7 (7)
+        162 UNARY_NEGATIVE
+        164 BUILD_LIST               4
+        166 BUILD_LIST               0
+        168 LOAD_CONST               9 (9)
+        170 LIST_EXTEND              1
+        172 BUILD_LIST               4
+        174 CALL_METHOD              1
+        176 STORE_FAST               9 (9)
+        178 LOAD_GLOBAL              5 (5)
+        180 LOAD_METHOD              6 (6)
+        182 LOAD_GLOBAL              7 (7)
+        184 LOAD_ATTR                8 (8)
+        186 LOAD_GLOBAL              0 (0)
+        188 LOAD_METHOD              9 (9)
+        190 LOAD_CONST              10 (10)
+        192 LOAD_FAST                2 (2)
+        194 BINARY_MULTIPLY
+        196 CALL_METHOD              1
+        198 BINARY_TRUE_DIVIDE
+        200 LOAD_CONST               6 (6)
+        202 LOAD_CONST               6 (6)
+        204 LOAD_CONST               6 (6)
+        206 BUILD_LIST               4
+        208 LOAD_CONST               6 (6)
+        210 LOAD_CONST               5 (5)
+        212 LOAD_GLOBAL              0 (0)
+        214 LOAD_METHOD              9 (9)
+        216 LOAD_CONST              10 (10)
+        218 LOAD_FAST                2 (2)
+        220 BINARY_MULTIPLY
+        222 CALL_METHOD              1
+        224 BINARY_TRUE_DIVIDE
+        226 LOAD_CONST               6 (6)
+        228 LOAD_CONST               6 (6)
+        230 BUILD_LIST               4
+        232 LOAD_CONST               6 (6)
+        234 LOAD_CONST               6 (6)
+        236 LOAD_GLOBAL              7 (7)
+        238 LOAD_ATTR               10 (10)
+        240 LOAD_GLOBAL              7 (7)
+        242 LOAD_ATTR               11 (11)
+        244 BINARY_ADD
+        246 UNARY_NEGATIVE
+        248 LOAD_GLOBAL              7 (7)
+        250 LOAD_ATTR               10 (10)
+        252 LOAD_GLOBAL              7 (7)
+        254 LOAD_ATTR               11 (11)
+        256 BINARY_SUBTRACT
+        258 BINARY_TRUE_DIVIDE
+        260 LOAD_GLOBAL              7 (7)
+        262 LOAD_ATTR               10 (10)
+        264 LOAD_GLOBAL              7 (7)
+        266 LOAD_ATTR               11 (11)
+        268 BINARY_MULTIPLY
+        270 LOAD_CONST              11 (11)
+        272 BINARY_MULTIPLY
+        274 UNARY_NEGATIVE
+        276 LOAD_GLOBAL              7 (7)
+        278 LOAD_ATTR               10 (10)
+        280 LOAD_GLOBAL              7 (7)
+        282 LOAD_ATTR               11 (11)
+        284 BINARY_SUBTRACT
+        286 BINARY_TRUE_DIVIDE
+        288 BUILD_LIST               4
+        290 BUILD_LIST               0
+        292 LOAD_CONST              12 (12)
+        294 LIST_EXTEND              1
+        296 BUILD_LIST               4
+        298 CALL_METHOD              1
+        300 STORE_FAST              10 (10)
+        302 LOAD_GLOBAL              5 (5)
+        304 LOAD_METHOD              6 (6)
+        306 BUILD_LIST               0
+        308 LOAD_CONST              13 (13)
+        310 LIST_EXTEND              1
+        312 LOAD_CONST               6 (6)
+        314 LOAD_GLOBAL              0 (0)
+        316 LOAD_METHOD             12 (12)
+        318 LOAD_CONST              14 (14)
+        320 LOAD_FAST                2 (2)
+        322 BINARY_MULTIPLY
+        324 CALL_METHOD              1
+        326 LOAD_GLOBAL              0 (0)
+        328 LOAD_METHOD             13 (13)
+        330 LOAD_CONST              14 (14)
+        332 LOAD_FAST                2 (2)
+        334 BINARY_MULTIPLY
+        336 CALL_METHOD              1
+        338 UNARY_NEGATIVE
+        340 LOAD_CONST               6 (6)
+        342 BUILD_LIST               4
+        344 LOAD_CONST               6 (6)
+        346 LOAD_GLOBAL              0 (0)
+        348 LOAD_METHOD             13 (13)
+        350 LOAD_CONST              14 (14)
+        352 LOAD_FAST                2 (2)
+        354 BINARY_MULTIPLY
+        356 CALL_METHOD              1
+        358 UNARY_NEGATIVE
+        360 LOAD_GLOBAL              0 (0)
+        362 LOAD_METHOD             12 (12)
+        364 LOAD_CONST              14 (14)
+        366 LOAD_FAST                2 (2)
+        368 BINARY_MULTIPLY
+        370 CALL_METHOD              1
+        372 UNARY_NEGATIVE
+        374 LOAD_CONST               6 (6)
+        376 BUILD_LIST               4
+        378 BUILD_LIST               0
+        380 LOAD_CONST               9 (9)
+        382 LIST_EXTEND              1
+        384 BUILD_LIST               4
+        386 CALL_METHOD              1
+        388 STORE_FAST              11 (11)
+        390 LOAD_GLOBAL              5 (5)
+        392 LOAD_METHOD              6 (6)
+        394 LOAD_GLOBAL              0 (0)
+        396 LOAD_METHOD             12 (12)
+        398 LOAD_CONST              15 (15)
+        400 LOAD_FAST                2 (2)
+        402 BINARY_MULTIPLY
+        404 CALL_METHOD              1
+        406 LOAD_CONST               6 (6)
+        408 LOAD_GLOBAL              0 (0)
+        410 LOAD_METHOD             13 (13)
+        412 LOAD_CONST              15 (15)
+        414 LOAD_FAST                2 (2)
+        416 BINARY_MULTIPLY
+        418 CALL_METHOD              1
+        420 LOAD_CONST               6 (6)
+        422 BUILD_LIST               4
+        424 BUILD_LIST               0
+        426 LOAD_CONST              16 (16)
+        428 LIST_EXTEND              1
+        430 LOAD_GLOBAL              0 (0)
+        432 LOAD_METHOD             13 (13)
+        434 LOAD_CONST              15 (15)
+        436 LOAD_FAST                2 (2)
+        438 BINARY_MULTIPLY
+        440 CALL_METHOD              1
+        442 UNARY_NEGATIVE
+        444 LOAD_CONST               6 (6)
+        446 LOAD_GLOBAL              0 (0)
+        448 LOAD_METHOD             12 (12)
+        450 LOAD_CONST              15 (15)
+        452 LOAD_FAST                2 (2)
+        454 BINARY_MULTIPLY
+        456 CALL_METHOD              1
+        458 LOAD_CONST               6 (6)
+        460 BUILD_LIST               4
+        462 BUILD_LIST               0
+        464 LOAD_CONST               9 (9)
+        466 LIST_EXTEND              1
+        468 BUILD_LIST               4
+        470 CALL_METHOD              1
+        472 STORE_FAST              12 (12)
+        474 LOAD_FAST                1 (1)
+        476 EXTENDED_ARG             1
+        478 POP_JUMP_IF_FALSE      502
+        480 LOAD_FAST               10 (10)
+        482 LOAD_FAST               11 (11)
+        484 BINARY_MATRIX_MULTIPLY
+        486 LOAD_FAST               12 (12)
+        488 BINARY_MATRIX_MULTIPLY
+        490 LOAD_FAST                9 (9)
+        492 LOAD_METHOD             14 (14)
+        494 CALL_METHOD              0
+        496 BINARY_MATRIX_MULTIPLY
+        498 STORE_FAST              13 (13)
+        500 JUMP_FORWARD            16 (to 518)
+    >>  502 LOAD_FAST               10 (10)
+        504 LOAD_FAST               11 (11)
+        506 BINARY_MATRIX_MULTIPLY
+        508 LOAD_FAST                9 (9)
+        510 LOAD_METHOD             14 (14)
+        512 CALL_METHOD              0
+        514 BINARY_MATRIX_MULTIPLY
+        516 STORE_FAST              13 (13)
+    >>  518 BUILD_LIST               0
+        520 STORE_FAST              14 (14)
+        522 LOAD_GLOBAL             15 (15)
+        524 LOAD_FAST                3 (3)
+        526 CALL_FUNCTION            1
+        528 GET_ITER
+    >>  530 FOR_ITER               160 (to 692)
+        532 STORE_FAST              15 (15)
+        534 BUILD_LIST               0
+        536 STORE_FAST              16 (16)
+        538 LOAD_GLOBAL             15 (15)
+        540 LOAD_FAST                4 (4)
+        542 CALL_FUNCTION            1
+        544 GET_ITER
+    >>  546 FOR_ITER               130 (to 678)
+        548 STORE_FAST              17 (17)
+        550 LOAD_FAST                0 (0)
+        552 LOAD_CONST              17 (17)
+        554 BINARY_SUBSCR
+        556 LOAD_FAST               15 (15)
+        558 BINARY_SUBSCR
+        560 LOAD_FAST               17 (17)
+        562 BINARY_SUBSCR
+        564 STORE_FAST              18 (18)
+        566 LOAD_GLOBAL              5 (5)
+        568 LOAD_METHOD              6 (6)
+        570 LOAD_FAST               17 (17)
+        572 LOAD_FAST                4 (4)
+        574 LOAD_CONST               5 (5)
+        576 BINARY_SUBTRACT
+        578 LOAD_CONST              18 (18)
+        580 BINARY_TRUE_DIVIDE
+        582 BINARY_SUBTRACT
+        584 LOAD_FAST                3 (3)
+        586 LOAD_CONST               5 (5)
+        588 BINARY_SUBTRACT
+        590 LOAD_CONST              18 (18)
+        592 BINARY_TRUE_DIVIDE
+        594 LOAD_FAST               15 (15)
+        596 BINARY_SUBTRACT
+        598 LOAD_FAST               18 (18)
+        600 LOAD_CONST              19 (19)
+        602 BINARY_SUBSCR
+        604 LOAD_CONST              20 (20)
+        606 BINARY_MULTIPLY
+        608 LOAD_CONST               5 (5)
+        610 BUILD_LIST               4
+        612 CALL_METHOD              1
+        614 STORE_FAST              19 (19)
+        616 LOAD_FAST               13 (13)
+        618 LOAD_FAST               19 (19)
+        620 BINARY_MATRIX_MULTIPLY
+        622 STORE_FAST              20 (20)
+        624 LOAD_FAST               20 (20)
+        626 LOAD_FAST               20 (20)
+        628 LOAD_CONST              21 (21)
+        630 BINARY_SUBSCR
+        632 BINARY_TRUE_DIVIDE
+        634 STORE_FAST              20 (20)
+        636 LOAD_FAST               20 (20)
+        638 LOAD_CONST               5 (5)
+        640 BINARY_ADD
+        642 LOAD_CONST              11 (11)
+        644 BINARY_TRUE_DIVIDE
+        646 STORE_FAST              20 (20)
+        648 LOAD_FAST               16 (16)
+        650 LOAD_METHOD             16 (16)
+        652 LOAD_FAST               20 (20)
+        654 LOAD_CONST               6 (6)
+        656 BINARY_SUBSCR
+        658 LOAD_CONST               5 (5)
+        660 LOAD_FAST               20 (20)
+        662 LOAD_CONST               5 (5)
+        664 BINARY_SUBSCR
+        666 BINARY_SUBTRACT
+        668 BUILD_TUPLE              2
+        670 CALL_METHOD              1
+        672 POP_TOP
+        674 EXTENDED_ARG             2
+        676 JUMP_ABSOLUTE          546
+    >>  678 LOAD_FAST               14 (14)
+        680 LOAD_METHOD             16 (16)
+        682 LOAD_FAST               16 (16)
+        684 CALL_METHOD              1
+        686 POP_TOP
+        688 EXTENDED_ARG             2
+        690 JUMP_ABSOLUTE          530
+    >>  692 LOAD_GLOBAL              3 (3)
+        694 LOAD_METHOD             17 (17)
+        696 LOAD_CONST              22 (22)
+        698 LOAD_FAST                3 (3)
+        700 FORMAT_VALUE             0
+        702 LOAD_CONST              23 (23)
+        704 LOAD_FAST                4 (4)
+        706 FORMAT_VALUE             0
+        708 BUILD_STRING             4
+        710 CALL_METHOD              1
+        712 POP_TOP
+        714 LOAD_FAST               14 (14)
+        716 RETURN_VALUE

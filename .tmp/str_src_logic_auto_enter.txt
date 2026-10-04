@@ -1,0 +1,60 @@
+Callable
+logger
+GameRatioConfig
+ImageProcessingConfig
+PerformActionConfig
+GameTime
+get_game_time
+reset_time_counter
+mouseclick
+capture_game_window
+returnc
+    Wait for the game to start by monitoring the brightness of the bottom-right pixel in the cost area.
+    First wait for the screen to become dark (loading), then wait for it to become bright (game started).
+    
+ratio
+Initial pixel brightness: 
+Brightness changed: 
+ -> 
+Screen darkened, brightness: 
+Game started, brightness: N
+ratioconfig
+COST_AREA_RATIO
+shape
+intr
+info
+imgconfig
+DARK_THRESHOLD
+time
+sleep
+BRIGHT_THRESHOLD
+cost_area_img
+height
+widthZ
+pixel_brightnessZ
+last_brightness
+logic\auto_enter.py
+wait_for_game_start
+Auto enter started
+Sent pause signalr
+need_cost
+Successfully paused at time 
+Switched game speed to 2x
+START_BUTTON_RATIOr,
+actionconfig
+GENERAL_WAITTIMEr5
+PAUSE_BUTTON_RATIOr
+SPEED_BUTTON_RATIO
+game_timer3
+auto_enter/
+__main__
+typingr
+numpy
+src.loggerr
+src.configr
+src.logic.game_timer
+src.logic.analyze_timer
+src.mumu.mumu_controllerr
+src.mumu.mumu_visionr
+__name__r3
+<module>

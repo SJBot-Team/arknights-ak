@@ -1,0 +1,108 @@
+# 1-1 共用轴表（模拟器 / 打图端 / 校验器 **共用同一份**）
+#
+# 设计目标（用户需求）：
+#   「与模拟 **共用** 易读易改的**轴表**」—— 同一份文件既驱动**模拟器复刻**，
+#   也驱动**打图端逐步操作**，还被**校验器**用来与实机事件对轴。
+#
+# 编辑约定：
+#   * `frame` 一律为**游戏帧**（进入游戏第一帧 = 0；1 秒 = 30 帧）。
+#   * `at:` 支持 `frame: 10` 或 `sec: 0.33`（二者取其一；`frame` 优先）。
+#   * 事件按 frame 升序书写（校验器不要求，但便于人读）。
+#   * `expect:` 段是**校验器**用的期望事件（可留空）；`deploy:` 段是**执行器**用的操作。
+#
+# 来源：
+#   * 标定表 `C:\Users\23922\Desktop\1-1标定.xlsx`（用户提供，仅前 18 秒）
+#   * 视频轴 `ak/.tmp/axis_full.jsonl`（图像识别得到：视频帧 ↔ 游戏帧）
+
+stage: "1-1"
+stage_code: "obt/main/level_main_01-01"     # 由 Scenario 动态解析，此处仅作记录
+note: "1-1 标定对局；用户只标定了前 ~15.5 秒（帧 0~464）"
+
+# ---------------------------------------------------------------- 关卡与编队
+level:
+  initial_cost: 10
+  cost_interval: 1.0          # 秒
+  move_multiplier: 0.5
+  max_life: 10
+  char_limit: 8
+  random_seed: 978975386      # 关卡自带（1-1 出怪无随机分量）
+
+squad:
+  # ★练度上限是"游戏数据基础"常识（用户 2026-09-15 指出）：
+  #   ★1/★2 = 仅精英0（上限 30）；**★3 = 精英0(40) → 精英1(55)**；★4/★5 才有精英2；★6 精英2 上限 90。
+  #   芬 / 月见夜 均为 **★3**（`character_table.json` rarity=TIER_3★，phases maxLevel = 40/55）
+  #   ⇒ **最高练度就是 精英1 / LV55**，不存在"精英2/LV90"（本项目早期轴表误写，已更正）。
+  #   ⇒ 实机账号（尾号 ****）的芬/月见夜 即为此上限 ⇒ **满练**。
+  - id: char_123_fang         # 芬（★3）
+    name: "芬"
+    elite: 1
+    level: 55
+    potential: 6
+    trust: 200
+    skill_index: 0
+    skill_level: 7
+    cost_override: 8          # ★天赋「轻量化」−1 + 潜能 −2 ⇒ 实机 8 费（视频侧独立证实）
+  - id: char_283_midn         # 月见夜（★3）
+    name: "月见夜"
+    elite: 1
+    level: 55
+    potential: 6
+    trust: 200
+    skill_index: 0
+    skill_level: 7
+    cost_override: null       # 用数据值 14
+
+# ---------------------------------------------------------------- 操作（执行器用）
+# `cell` 用标定表记法：字母=row+1、数字=col+1（D6 ⇒ row 3, col 5）
+# ★两组费用语义（勿混）：
+#   `cost`        = **该干员的部署费用**（模拟器扣费、费用记账用；芬 8 = 天赋−1 + 潜能−2）
+#   `cost_anchor` = **该时刻 HUD 显示的费用**（打图端"费用锚点"用，取自实机/录像）
+deploys:
+  - at: {frame: 10}           # 0.33s
+    op: "芬"
+    cell: "D6"
+    dir: "左"
+    cost: 8
+    cost_anchor: 10           # 标定表「0s 该秒初始费用 10」，帧 10 尚未回费
+  - at: {frame: 411}          # 13.70s
+    op: "月见夜"
+    cell: "D4"
+    dir: "上"
+    cost: 14
+    cost_anchor: 15           # 标定表「13s 该秒初始费用 15」
+
+# ---------------------------------------------------------------- 期望事件（校验器用）
+# kind ∈ {spawn, dmg, kill, block}
+# 定位键 = (kind, victim, src)，`n` = 该键下第 n 次（0 起）
+expect:
+  - {frame: 94,  kind: spawn, victim: "猎狗pro", src: null,  note: "出现影子"}
+  - {frame: 207, kind: dmg,   victim: "芬",      src: "猎狗pro", note: "芬 进入攻击前摇"}
+  - {frame: 221, kind: dmg,   victim: "猎狗pro", src: "芬",      note: "芬 命中"}
+  - {frame: 236, kind: block, victim: "猎狗pro", src: "芬",      note: "芬 阻挡"}
+  - {frame: 253, kind: dmg,   victim: "猎狗pro", src: "芬",      note: "芬命中"}
+  - {frame: 255, kind: dmg,   victim: "芬",      src: "猎狗pro", note: "猎狗pro 命中"}
+  - {frame: 285, kind: dmg,   victim: "猎狗pro", src: "芬"}
+  - {frame: 298, kind: dmg,   victim: "芬",      src: "猎狗pro"}
+  - {frame: 317, kind: dmg,   victim: "猎狗pro", src: "芬"}
+  - {frame: 340, kind: dmg,   victim: "芬",      src: "猎狗pro"}
+  - {frame: 349, kind: dmg,   victim: "猎狗pro", src: "芬"}
+  - {frame: 367, kind: spawn, victim: "猎狗",    src: null, note: "出现影子"}
+  - {frame: 381, kind: kill,  victim: "猎狗pro", src: null}
+  - {frame: 432, kind: dmg,   victim: "猎狗",    src: "芬"}
+  - {frame: 438, kind: dmg,   victim: "猎狗",    src: "月见夜"}
+  - {frame: 443, kind: block, victim: "猎狗",    src: "芬"}
+  - {frame: 461, kind: dmg,   victim: "芬",      src: "猎狗",   n: 1,
+     note: "猎狗 命中；★显式 n=1：该组第 0 次在帧 418（标定未标注）"}
+  - {frame: 464, kind: kill,  victim: "猎狗",    src: null}
+
+# ---------------------------------------------------------------- 视频轴锚点（打图/核验用）
+# 由 `code/vision/apps/video_axis.py` 产出；此处只存**硬锚点**，
+# 用于把"视频帧"换算成"游戏帧"（段内 1:1，暂停段 game 不变）。
+video_axis:
+  source: "E:\\MUMU共享文件夹\\VideoRecords\\1-1标定.mp4"
+  full_dump: "ak/.tmp/axis_full.jsonl"      # 逐帧表（10579 行）
+  anchors:                                   # (视频帧, 游戏帧) 硬锚点
+    - {video: 621,  game: 10,   basis: "部署芬（费用 10→2）"}
+    - {video: 4618, game: 411,  basis: "部署月见夜（费用 15→1）"}
+    - {video: 5961, game: 581,  basis: "技能回费 +6（费用 7→13）"}
+    - {video: 8878, game: 1333, basis: "技能回费 +6（费用 38→44）"}

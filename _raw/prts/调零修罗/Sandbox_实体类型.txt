@@ -1,0 +1,60 @@
+{{编辑中}}
+'''类(class)'''指的是编程语言C#中用于定义数据类型的“蓝图”。类能决定一个对象的很多东西，但主要决定了一个对象使用的方法、承载哪些数据、以及如何控制这个对象。<br>
+在明日方舟中，大部分战斗中玩家可以接触到的实体都依赖于三个类实现：'''单位类'''、'''地块类'''、'''弹道类'''。<br>
+本页面用于记录不同类之间的继承关系与一部分特性，部分机制也会以单位的类为判断标准处理。
+
+==单位类(Unit)==
+单位类拥有[[数值范围|属性]]、生命值、[[仇恨]]、阵营、[[元素]]等若干游戏底层机制，作为一个单位类的实例，其通常持有一个用于处理Buff的Buff容器(Buff Cotainer)，通常拥有若干模式(Mode)。单位类可以挂载各类选择器(Selector)、能力{Ability)、技能(Skill)，是整个游戏最基础也最重要的类。
+
+===角色类(Character)===
+角色类是我方干员、召唤物、装置最常用的类，其相较于别的单位类，最显著的特性是“不会移动”、“可以部署”与“可被点选”。
+* 角色类通常不具有物理能力，因此当角色类单位被施加物理力时往往会报错，导致游戏卡死在处理物理上（现象：[[歌蕾蒂亚#技能|钩锁师]]钩中角色类的装置后，卡死在原地，只能等待弹道自然消失才能恢复正常）
+* 部分角色类单位“无法被点选”，但实际上是“被点选时取消点选状态”。
+
+====召唤物类(Token)====
+=====装置类(Trap)=====
+* BossHudTrap
+* MapDependentTrap
+* RallyPoint
+* SandboxResTrap
+
+=====酒神牢笼类(PropLikeStaticBlockToken)=====
+
+===敌人类(Enemy)===
+敌人类是侵入战场的敌方单位最常用的类，其相较于别的单位类，最显著的特性是“可以移动”。<br>
+注意，敌人类与其阵营是否为敌方没有直接联系。
+====RacingEnemy====
+====BObjectFollowerEnemy====
+====BounceEnemy====
+====EnemyGiantBoss====
+====EnemyLikeNeutral====
+====EnemyRistar====
+====FollowerEnemy====
+====FootballPlayerEnemy====
+====ControllableEnemy====
+====GameCityRouteEnemy====
+====TeamSideEnemy====
+====TraceTargetEnemy====
+
+====次数怪类(PropLikeEnemy)====
+
+==弹道类(Projectile)==
+※基类，无法直接调用。
+===简易弹道类(SimpleProjectile)===
+====引星棘刺多边形弹道类(Thorn2PolygonProjectile)====
+
+===弹射弹道类(BounceProjectile)===
+
+===链接弹道类(LinkProjectile)===
+※基类，无法直接调用。
+====链接弹道类(HarpoonProjectile)====
+====射线弹道类(LaserProjectile)====
+====LassoProjectile====
+====捕网弹道类(NetCatcherProjectile)====
+
+==地块类(Tile)==
+===地穴类(HoleTile)===
+===BuffTile===
+===CastTile===
+===DirectionTile===
+===GravityButtonTile===

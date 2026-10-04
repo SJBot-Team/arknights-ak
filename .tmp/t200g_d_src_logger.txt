@@ -1,0 +1,37 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logger.pyc len=1278 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=186
+  names=['logging', 'enum', 'Enum', 'LogLevelColor', 'Formatter', 'ColoredFormatter', 'getLogger', 'logger', 'setLevel', 'DEBUG', 'StreamHandler', 'ch', 'formatter', 'setFormatter', 'addHandler', '__name__', 'debug', 'info', 'warning', 'error', 'critical']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = None
+  consts[2] = ('Enum',)
+  CODE <module>.LogLevelColor argcount=0 nlocals=0 flags=0x40 co_code=36
+    names=['__name__', '__module__', '__qualname__', 'DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL', 'RESET']
+    varnames=[]
+    consts[0] = 'LogLevelColor'
+    consts[1] = '\x1b[94m'
+    consts[2] = '\x1b[0m'
+    consts[3] = '\x1b[93m'
+    consts[4] = '\x1b[91m'
+    consts[5] = '\x1b[95m'
+    consts[6] = None
+  consts[4] = 'LogLevelColor'
+  CODE <module>.ColoredFormatter argcount=0 nlocals=0 flags=0x40 co_code=20
+    names=['__name__', '__module__', '__qualname__', 'format']
+    varnames=[]
+    consts[0] = 'ColoredFormatter'
+    CODE <module>.ColoredFormatter.format argcount=2 nlocals=5 flags=0x43 co_code=68
+      names=['levelname', 'logging', 'Formatter', 'format', 'LogLevelColor', '__members__', 'value', 'RESET']
+      varnames=['self', 'record', 'levelname', 'message', 'color']
+      consts[0] = None
+    consts[2] = 'ColoredFormatter.format'
+    consts[3] = None
+  consts[6] = 'ColoredFormatter'
+  consts[7] = 'DebugLogger'
+  consts[8] = '%(asctime)s - %(levelname)-7s - %(message)s'
+  consts[9] = '__main__'
+  consts[10] = 'Debug message'
+  consts[11] = 'Info message'
+  consts[12] = 'Warning message'
+  consts[13] = 'Error message'
+  consts[14] = 'Critical message'

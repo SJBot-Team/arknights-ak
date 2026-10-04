@@ -1,0 +1,521 @@
+﻿== Assembly-CSharp.dll ==  md=v4.0.30319 TypeDef=1623 MethodDef=6684 Field=6047 TypeRef=269 MemberRef=1470 US=957
+
+===== Battle::e3o : void (this )  [MD80] =====
+  IL_0000: ldarg.0        
+  IL_0001: call           Battle::rrr
+  IL_0006: ldarg.0        
+  IL_0007: ldfld          Battle::Finish
+  IL_000C: brfalse.s      15
+  IL_000E: ret            
+  IL_000F: ldarg.0        
+  IL_0010: ldarg.0        
+  IL_0011: ldfld          Battle::Tick
+  IL_0016: ldc.i4.1       
+  IL_0017: add            
+  IL_0018: stfld          Battle::Tick
+  IL_001D: ldarg.0        
+  IL_001E: call           Battle::e33
+  IL_0023: ldarg.0        
+  IL_0024: call           Battle::rre
+  IL_0029: ldarg.0        
+  IL_002A: ldarg.0        
+  IL_002B: ldfld          Battle::damageShowTrigger
+  IL_0030: call           SystemConfig::get_DeltaTime
+  IL_0035: sub            
+  IL_0036: stfld          Battle::damageShowTrigger
+  IL_003B: ldarg.0        
+  IL_003C: ldc.r4         0.0
+  IL_0041: stfld          Battle::ExtraMaxCost
+  IL_0046: ldarg.0        
+  IL_0047: ldc.r4         1.0
+  IL_004C: stfld          Battle::CostCountSpeed
+  IL_0051: ldarg.0        
+  IL_0052: ldc.r4         0.0
+  IL_0057: stfld          Battle::CostCountSpeedReduce
+  IL_005C: ldarg.0        
+  IL_005D: ldc.r4         0.0
+  IL_0062: stfld          Battle::CostCountSpeedAdd
+  IL_0067: ldarg.0        
+  IL_0068: ldc.r4         1.0
+  IL_006D: stfld          Battle::CostCountSpeedRate
+  IL_0072: ldarg.0        
+  IL_0073: ldc.i4.0       
+  IL_0074: stfld          Battle::MerchantExtraCostLevel
+  IL_0079: br.s           155
+  IL_007B: ldarg.0        
+  IL_007C: ldfld          Battle::Waves
+  IL_0081: ldc.i4.0       
+  IL_0082: callvirt       sbyte::get_Item
+  IL_0087: stloc.0        
+  IL_0088: ldarg.0        
+  IL_0089: ldfld          Battle::Waves
+  IL_008E: ldc.i4.0       
+  IL_008F: callvirt       sbyte::RemoveAt
+  IL_0094: ldarg.0        
+  IL_0095: ldloc.0        
+  IL_0096: call           Battle::rtt
+  IL_009B: ldarg.0        
+  IL_009C: ldfld          Battle::Waves
+  IL_00A1: callvirt       sbyte::get_Count
+  IL_00A6: ldc.i4.0       
+  IL_00A7: ble.s          201
+  IL_00A9: ldarg.0        
+  IL_00AA: ldfld          Battle::Tick
+  IL_00AF: conv.r4        
+  IL_00B0: call           SystemConfig::get_DeltaTime
+  IL_00B5: mul            
+  IL_00B6: ldarg.0        
+  IL_00B7: ldfld          Battle::Waves
+  IL_00BC: ldc.i4.0       
+  IL_00BD: callvirt       sbyte::get_Item
+  IL_00C2: ldfld          OneWave::Time
+  IL_00C7: bgt.s          123
+  IL_00C9: ldarg.0        
+  IL_00CA: ldfld          Battle::CheckPointWaves
+  IL_00CF: callvirt       sbyte::get_Count
+  IL_00D4: ldc.i4.1       
+  IL_00D5: sub            
+  IL_00D6: stloc.1        
+  IL_00D7: br.s           323
+  IL_00D9: ldarg.0        
+  IL_00DA: ldfld          Battle::CheckPointWaves
+  IL_00DF: ldloc.1        
+  IL_00E0: callvirt       sbyte::get_Item
+  IL_00E5: stloc.2        
+  IL_00E6: ldarg.0        
+  IL_00E7: ldfld          Battle::CheckPoints
+  IL_00EC: callvirt       <et0x0>::get_Count
+  IL_00F1: ldloc.2        
+  IL_00F2: ldfld          OneWave::WaveData
+  IL_00F7: ldfld          WaveInfo::CheckPoint
+  IL_00FC: blt.s          319
+  IL_00FE: ldarg.0        
+  IL_00FF: ldfld          Battle::Tick
+  IL_0104: ldarg.0        
+  IL_0105: ldfld          Battle::CheckPoints
+  IL_010A: ldloc.2        
+  IL_010B: ldfld          OneWave::WaveData
+  IL_0110: ldfld          WaveInfo::CheckPoint
+  IL_0115: ldc.i4.1       
+  IL_0116: sub            
+  IL_0117: callvirt       <et0x0>::get_Item
+  IL_011C: sub            
+  IL_011D: conv.r4        
+  IL_011E: call           SystemConfig::get_DeltaTime
+  IL_0123: mul            
+  IL_0124: ldloc.2        
+  IL_0125: ldfld          OneWave::Time
+  IL_012A: ble.un.s       319
+  IL_012C: ldarg.0        
+  IL_012D: ldfld          Battle::CheckPointWaves
+  IL_0132: ldloc.1        
+  IL_0133: callvirt       sbyte::RemoveAt
+  IL_0138: ldarg.0        
+  IL_0139: ldloc.2        
+  IL_013A: call           Battle::rtt
+  IL_013F: ldloc.1        
+  IL_0140: ldc.i4.1       
+  IL_0141: sub            
+  IL_0142: stloc.1        
+  IL_0143: ldloc.1        
+  IL_0144: ldc.i4.0       
+  IL_0145: bge.s          217
+  IL_0147: ldarg.0        
+  IL_0148: ldfld          Battle::CheckPointSceneUnits
+  IL_014D: callvirt       ?<>::get_Count
+  IL_0152: ldc.i4.1       
+  IL_0153: sub            
+  IL_0154: stloc.3        
+  IL_0155: br             481
+  IL_015A: ldarg.0        
+  IL_015B: ldfld          Battle::CheckPointSceneUnits
+  IL_0160: ldloc.3        
+  IL_0161: callvirt       ?<>::get_Item
+  IL_0166: stloc.s        516
+  IL_0169: ldfld          Battle::CheckPoints
+  IL_016E: callvirt       <et0x0>::get_Count
+  IL_0173: ldloc.s        31492
+  IL_0176: conv.ovf.i2    
+  IL_0177: ldarg.0        
+  IL_0178: nop            
+  IL_0179: ldarg.2        
+  IL_017A: blt.s          477
+  IL_017C: ldarg.0        
+  IL_017D: ldfld          Battle::Tick
+  IL_0182: ldarg.0        
+  IL_0183: ldfld          Battle::CheckPoints
+  IL_0188: ldloc.s        31492
+  IL_018B: conv.ovf.i2    
+  IL_018C: ldarg.0        
+  IL_018D: nop            
+  IL_018E: ldarg.2        
+  IL_018F: ldc.i4.1       
+  IL_0190: sub            
+  IL_0191: callvirt       <et0x0>::get_Item
+  IL_0196: sub            
+  IL_0197: conv.r4        
+  IL_0198: call           SystemConfig::get_DeltaTime
+  IL_019D: mul            
+  IL_019E: ldloc.s        31492
+  IL_01A1: <ae>           
+  IL_01A2: ldarg.0        
+  IL_01A3: nop            
+  IL_01A4: ldarg.2        
+  IL_01A5: ble.un.s       477
+  IL_01A7: ldarg.0        
+  IL_01A8: ldfld          Battle::CheckPointSceneUnits
+  IL_01AD: ldloc.3        
+  IL_01AE: callvirt       ?<>::RemoveAt
+  IL_01B3: ldarg.0        
+  IL_01B4: ldloc.s        31492
+  IL_01B7: <b1>           
+  IL_01B8: ldarg.0        
+  IL_01B9: nop            
+  IL_01BA: ldarg.2        
+  IL_01BB: ldloc.s        31492
+  IL_01BE: <b2>           
+  IL_01BF: ldarg.0        
+  IL_01C0: nop            
+  IL_01C1: ldarg.2        
+  IL_01C2: ldloc.s        31492
+  IL_01C5: conv.ovf.i1    
+  IL_01C6: ldarg.0        
+  IL_01C7: nop            
+  IL_01C8: ldarg.2        
+  IL_01C9: ldloc.s        31492
+  IL_01CC: conv.ovf.u1    
+  IL_01CD: ldarg.0        
+  IL_01CE: nop            
+  IL_01CF: ldarg.2        
+  IL_01D0: ldloc.s        31492
+  IL_01D3: <b0>           
+  IL_01D4: ldarg.0        
+  IL_01D5: nop            
+  IL_01D6: ldarg.2        
+  IL_01D7: call           Battle::rts
+  IL_01DC: pop            
+  IL_01DD: ldloc.3        
+  IL_01DE: ldc.i4.1       
+  IL_01DF: sub            
+  IL_01E0: stloc.3        
+  IL_01E1: ldloc.3        
+  IL_01E2: ldc.i4.0       
+  IL_01E3: bge            346
+  IL_01E8: ldarg.0        
+  IL_01E9: ldfld          Battle::Map
+  IL_01EE: ldfld          Map::Tiles
+  IL_01F3: stloc.s        4357
+  IL_01F6: ldarg.3        
+  IL_01F7: ldc.i4.0       
+  IL_01F8: callvirt       System.Array::GetUpperBound
+  IL_01FD: stloc.s        4358
+  IL_0200: ldarg.3        
+  IL_0201: ldc.i4.1       
+  IL_0202: callvirt       System.Array::GetUpperBound
+  IL_0207: stloc.s        4359
+  IL_020A: ldarg.3        
+  IL_020B: ldc.i4.0       
+  IL_020C: callvirt       System.Array::GetLowerBound
+  IL_0211: stloc.s        11016
+  IL_0214: bge.un.s       551
+  IL_0216: ldarg.3        
+  IL_0217: ldc.i4.1       
+  IL_0218: callvirt       System.Array::GetLowerBound
+  IL_021D: stloc.s        11017
+  IL_0220: ldc.i4.6       
+  IL_0221: ldloc.s        4357
+  IL_0224: ldloc.2        
+  IL_0225: ldloc.s        10249
+  IL_0228: bge            621412909
+  IL_022D: brtrue.s       562
+  IL_022F: pop            
+  IL_0230: br.s           567
+  IL_0232: callvirt       Tile::rwo
+  IL_0237: ldloc.s        5897
+  IL_023A: add            
+  IL_023B: stloc.s        4361
+  IL_023E: ldloc.3        
+  IL_023F: ldloc.s        12551
+  IL_0242: leave.s        597
+  IL_0244: ldloc.2        
+  IL_0245: ldc.i4.1       
+  IL_0246: add            
+  IL_0247: stloc.s        4360
+  IL_024A: ldloc.2        
+  IL_024B: ldloc.s        12550
+  IL_024E: mkrefany       <TypeRef10910466>
+  IL_0253: nop            
+  IL_0254: ldarg.2        
+  IL_0255: call           System.Runtime.CompilerServices.IAsyncStateMachine::MoveNext<float,char,short,UnityEngine.AudioSource,?,?,?,?,?,?,?,?,?,?,?,?,?,?>
+  IL_025A: stloc.s        5642
+  IL_025D: stloc.s        11015
+  IL_0260: ldc.i4.0       
+  IL_0261: ldloc.s        4362
+  IL_0264: ldloc.1        
+  IL_0265: ldelem.ref     
+  IL_0266: dup            
+  IL_0267: callvirt       Bullet::rhs
+  IL_026C: callvirt       Bullet::rhh
+  IL_0271: ldloc.s        5895
+  IL_0274: add            
+  IL_0275: stloc.s        4359
+  IL_0278: ldloc.1        
+  IL_0279: ldloc.s        36362
+  IL_027C: conv.i4        
+  IL_027D: blt.s          609
+  IL_027F: ldarg.0        
+  IL_0280: ldfld          Battle::AllUnits
+  IL_0285: callvirt       <et0x0>::ToArray
+  IL_028A: stloc.s        5643
+  IL_028D: stloc.s        11015
+  IL_0290: starg.s        2833
+  IL_0293: ldloc.s        39431
+  IL_0296: callvirt       Unit::st2
+  IL_029B: ldloc.s        5895
+  IL_029E: add            
+  IL_029F: stloc.s        4359
+  IL_02A2: ldloc.1        
+  IL_02A3: ldloc.s        36363
+  IL_02A6: conv.i4        
+  IL_02A7: blt.s          657
+  IL_02A9: ldarg.0        
+  IL_02AA: ldfld          Battle::AllUnits
+  IL_02AF: callvirt       <et0x0>::ToArray
+  IL_02B4: stloc.s        5643
+  IL_02B7: stloc.s        11015
+  IL_02BA: starg.s        2833
+  IL_02BD: ldloc.s        39431
+  IL_02C0: callvirt       Unit::a3s
+  IL_02C5: ldloc.s        5895
+  IL_02C8: add            
+  IL_02C9: stloc.s        4359
+  IL_02CC: ldloc.1        
+  IL_02CD: ldloc.s        36363
+  IL_02D0: conv.i4        
+  IL_02D1: blt.s          699
+  IL_02D3: ldarg.0        
+  IL_02D4: ldfld          Battle::AllUnits
+  IL_02D9: callvirt       <et0x0>::ToArray
+  IL_02DE: stloc.s        5643
+  IL_02E1: stloc.s        11015
+  IL_02E4: starg.s        2833
+  IL_02E7: ldloc.s        39431
+  IL_02EA: callvirt       Unit::a3h
+  IL_02EF: ldloc.s        5895
+  IL_02F2: add            
+  IL_02F3: stloc.s        4359
+  IL_02F6: ldloc.1        
+  IL_02F7: ldloc.s        36363
+  IL_02FA: conv.i4        
+  IL_02FB: blt.s          741
+  IL_02FD: ldarg.0        
+  IL_02FE: ldfld          Battle::Enemys
+  IL_0303: callvirt       <et0x0>::GetEnumerator
+  IL_0308: stloc.s        11020
+  IL_030B: ldc.i4.3       
+  IL_030C: ldloca.s       10252
+  IL_030F: neg            
+  IL_0310: nop            
+  IL_0311: nop            
+  IL_0312: stloc.0        
+  IL_0313: stloc.s        4365
+  IL_0316: stloc.3        
+  IL_0317: isinst         Units.敌人
+  IL_031C: brfalse.s      805
+  IL_031E: ldloc.s        28429
+  IL_0321: stelem.i1      
+  IL_0322: break          
+  IL_0323: nop            
+  IL_0324: ldloc.0        
+  IL_0325: ldloca.s       10252
+  IL_0328: not            
+  IL_0329: nop            
+  IL_032A: nop            
+  IL_032B: stloc.0        
+  IL_032C: brtrue.s       780
+  IL_032E: leave.s        830
+  IL_0330: ldloca.s       65036
+  IL_0333: ldc.i4.0       
+  IL_0334: ldc.i4.6       
+  IL_0335: nop            
+  IL_0336: nop            
+  IL_0337: ldc.i4.5       
+  IL_0338: callvirt       System.IDisposable::Dispose
+  IL_033D: endfinally     
+  IL_033E: ldarg.0        
+  IL_033F: ldfld          Battle::Enemys
+  IL_0344: callvirt       <et0x0>::ToArray
+  IL_0349: stloc.s        5643
+  IL_034C: stloc.s        11015
+  IL_034F: ldind.u2       
+  IL_0350: ldloc.s        4363
+  IL_0353: ldloc.1        
+  IL_0354: ldelem.ref     
+  IL_0355: stloc.s        4366
+  IL_0358: ldarg.s        10107
+  IL_035B: ldarg.1        
+  IL_035C: nop            
+  IL_035D: ldarg.2        
+  IL_035E: ldc.i4.1       
+  IL_035F: bne.un.s       915
+  IL_0361: ldloc.s        31502
+  IL_0364: ldc.i4.0       
+  IL_0365: ldarg.2        
+  IL_0366: nop            
+  IL_0367: ldarg.2        
+  IL_0368: callvirt       CountDown::rii
+  IL_036D: brfalse.s      915
+  IL_036F: ldarg.0        
+  IL_0370: ldfld          Battle::Enemys
+  IL_0375: ldloc.s        28430
+  IL_0378: conv.i1        
+  IL_0379: nop            
+  IL_037A: nop            
+  IL_037B: stloc.0        
+  IL_037C: pop            
+  IL_037D: ldarg.0        
+  IL_037E: ldfld          Battle::AllUnits
+  IL_0383: ldloc.s        28430
+  IL_0386: conv.i1        
+  IL_0387: nop            
+  IL_0388: nop            
+  IL_0389: stloc.0        
+  IL_038A: pop            
+  IL_038B: ldloc.s        5902
+  IL_038E: callvirt       Unit::a3o
+  IL_0393: ldloc.s        5895
+  IL_0396: add            
+  IL_0397: stloc.s        4359
+  IL_039A: ldloc.1        
+  IL_039B: ldloc.s        36363
+  IL_039E: conv.i4        
+  IL_039F: blt.s          848
+  IL_03A1: ldarg.0        
+  IL_03A2: ldarg.0        
+  IL_03A3: ldfld          Battle::InitMaxCost
+  IL_03A8: ldarg.0        
+  IL_03A9: ldfld          Battle::ExtraMaxCost
+  IL_03AE: add            
+  IL_03AF: stfld          Battle::MaxCost
+  IL_03B4: ldarg.0        
+  IL_03B5: ldfld          Battle::MaxCost
+  IL_03BA: ldc.r4         0.0
+  IL_03BF: bge.un.s       972
+  IL_03C1: ldarg.0        
+  IL_03C2: ldc.r4         0.0
+  IL_03C7: stfld          Battle::MaxCost
+  IL_03CC: ldarg.0        
+  IL_03CD: ldarg.0        
+  IL_03CE: ldfld          Battle::CostCountSpeed
+  IL_03D3: ldarg.0        
+  IL_03D4: ldfld          Battle::CostCountSpeedReduce
+  IL_03D9: add            
+  IL_03DA: ldarg.0        
+  IL_03DB: ldfld          Battle::CostCountSpeedAdd
+  IL_03E0: add            
+  IL_03E1: ldarg.0        
+  IL_03E2: ldfld          Battle::CostCountSpeedRate
+  IL_03E7: mul            
+  IL_03E8: stfld          Battle::TotalCostCountSpeed
+  IL_03ED: ldarg.0        
+  IL_03EE: ldfld          Battle::TotalCostCountSpeed
+  IL_03F3: ldc.r4         0.0
+  IL_03F8: blt.s          1026
+  IL_03FA: ldarg.0        
+  IL_03FB: ldfld          Battle::CostRecoverResist
+  IL_0400: brfalse.s      1037
+  IL_0402: ldarg.0        
+  IL_0403: ldc.r4         0.0
+  IL_0408: stfld          Battle::TotalCostCountSpeed
+  IL_040D: ldarg.0        
+  IL_040E: ldfld          Battle::MerchantExtraCostLevel
+  IL_0413: ldc.i4.0       
+  IL_0414: ble.s          1156
+  IL_0416: ldarg.0        
+  IL_0417: ldfld          Battle::MerchantExtraCostLevel
+  IL_041C: ldc.i4.2       
+  IL_041D: bgt.s          1112
+  IL_041F: ldarg.0        
+  IL_0420: ldarg.0        
+  IL_0421: ldfld          Battle::TotalCostCountSpeed
+  IL_0426: ldarg.0        
+  IL_0427: ldfld          Battle::MerchantExtraCostLevel
+  IL_042C: conv.r4        
+  IL_042D: ldc.r4         0.3499999940395355
+  IL_0432: mul            
+  IL_0433: ldarg.0        
+  IL_0434: ldfld          Battle::MerchantExtraCostLevel
+  IL_0439: ldc.i4.1       
+  IL_043A: sub            
+  IL_043B: ldarg.0        
+  IL_043C: ldfld          Battle::MerchantExtraCostLevel
+  IL_0441: mul            
+  IL_0442: conv.r4        
+  IL_0443: ldc.r4         -0.10000000149011612
+  IL_0448: mul            
+  IL_0449: ldc.r4         2.0
+  IL_044E: div            
+  IL_044F: add            
+  IL_0450: add            
+  IL_0451: stfld          Battle::TotalCostCountSpeed
+  IL_0456: br.s           1156
+  IL_0458: ldarg.0        
+  IL_0459: ldarg.0        
+  IL_045A: ldfld          Battle::TotalCostCountSpeed
+  IL_045F: ldc.r4         0.6000000238418579
+  IL_0464: ldarg.0        
+  IL_0465: ldfld          Battle::MerchantExtraCostLevel
+  IL_046A: ldc.i4.2       
+  IL_046B: sub            
+  IL_046C: conv.r4        
+  IL_046D: ldc.r4         0.10000000149011612
+  IL_0472: mul            
+  IL_0473: add            
+  IL_0474: ldc.r4         0.800000011920929
+  IL_0479: call           System.Math::Min
+  IL_047E: add            
+  IL_047F: stfld          Battle::TotalCostCountSpeed
+  IL_0484: ldarg.0        
+  IL_0485: ldfld          Battle::Cost
+  IL_048A: ldarg.0        
+  IL_048B: ldfld          Battle::MaxCost
+  IL_0490: bge.un.s       1229
+  IL_0492: ldarg.0        
+  IL_0493: ldfld          Battle::CostCounting
+  IL_0498: call           SystemConfig::get_DeltaTime
+  IL_049D: ldarg.0        
+  IL_049E: ldfld          Battle::TotalCostCountSpeed
+  IL_04A3: mul            
+  IL_04A4: callvirt       CountDown::rir
+  IL_04A9: brfalse.s      1229
+  IL_04AB: ldarg.0        
+  IL_04AC: ldarg.0        
+  IL_04AD: ldfld          Battle::Cost
+  IL_04B2: ldc.r4         1.0
+  IL_04B7: add            
+  IL_04B8: stfld          Battle::Cost
+  IL_04BD: ldarg.0        
+  IL_04BE: ldfld          Battle::CostCounting
+  IL_04C3: ldc.r4         1.0
+  IL_04C8: callvirt       CountDown::ris
+  IL_04CD: ldarg.0        
+  IL_04CE: ldfld          Battle::Cost
+  IL_04D3: ldarg.0        
+  IL_04D4: ldfld          Battle::MaxCost
+  IL_04D9: ble.un.s       1271
+  IL_04DB: ldarg.0        
+  IL_04DC: ldarg.0        
+  IL_04DD: ldfld          Battle::MaxCost
+  IL_04E2: stfld          Battle::Cost
+  IL_04E7: ldarg.0        
+  IL_04E8: ldfld          Battle::CostCounting
+  IL_04ED: ldc.r4         1.0
+  IL_04F2: callvirt       CountDown::ris
+  IL_04F7: ldarg.0        
+  IL_04F8: ldfld          Battle::Cost
+  IL_04FD: ldc.r4         0.0
+  IL_0502: bge.un.s       1295
+  IL_0504: ldarg.0        
+  IL_0505: ldc.r4         0.0
+  IL_050A: stfld          Battle::Cost
+  IL_050F: ret            

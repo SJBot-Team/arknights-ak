@@ -1,0 +1,7 @@
+dll loaded
+calling AsstCreateEx...
+inst = None
+calling AsstLoadResource...
+load = False
+events so far: 0
+done

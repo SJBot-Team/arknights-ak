@@ -1,0 +1,21 @@
+{
+  "nav_flow": {
+    "templates": "C:/Users/23922/Documents/ds_harness/ak/code/vision/templates/nav",
+    "thresh": 0.85,
+    "dry_run": true,
+    "max_seconds": 300,
+    "_compliance": "本任务禁止出现登录与动用资产界面的步骤：步骤名/模板名命中「登录/仓库/基建/抽卡/商店/邮件/养成/精英化/模组/购买/领取」会在加载期被直接拒绝（见 plugins/task/nav_flow.py 的 FORBIDDEN）。登录须由用户逐次同意后单独处理。",
+    "_todo": "templates/nav/ 下按下面 find/expect 的名字放 PNG 截图；先 dry_run=true 跑一遍确认每步的匹配位置与顺序",
+    "steps": [
+      {"name": "主界面→终端", "find": "btn_terminal", "expect": "scr_terminal", "timeout": 15, "retries": 2},
+      {"name": "终端→作战", "find": "tab_battle", "expect": "scr_chapter", "timeout": 15, "retries": 2},
+      {"name": "选择章节", "find": "chapter_card", "expect": "scr_level_list", "timeout": 15, "retries": 2},
+      {"name": "选择关卡 H12-4", "find": "level_card", "expect": "scr_level_detail", "timeout": 15, "retries": 2},
+      {"name": "开始行动", "find": "btn_start_action", "expect": "scr_squad", "timeout": 20, "retries": 2},
+      {"name": "编队确认出战", "find": "btn_start_battle", "expect": "scr_battle", "timeout": 20, "retries": 2}
+    ]
+  },
+  "axis_runner": {
+    "_note": "出战后接轴执行：见 configs/axis_h12-4.json"
+  }
+}

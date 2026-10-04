@@ -1,0 +1,72 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_mumu_mumu_controller.pyc len=3094 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=270
+  names=['__doc__', 'win32api', 'win32con', 'win32gui', 'functools', 'typing', 'Tuple', 'src.config', 'MuMuEmulatorConfig', 'config', 'src.mumu.mumu_connection', 'HANDLE', '__all__', 'handle_coordinates', 'pause', 'esc', 'float', 'mouseclick', 'mousedown', 'mouseup', 'mousemove', '__name__', 'GameRatioConfig', 'LAST_OPER_RATIO']
+  varnames=[]
+  consts[0] = '\nmumu_controller.py\nThis module provides functions simulate mouse events directly to the game window (mumu emulator).\n'
+  consts[1] = 0
+  consts[2] = None
+  consts[3] = ('Tuple',)
+  consts[4] = ('MuMuEmulatorConfig',)
+  consts[5] = ('HANDLE',)
+  consts[6] = ('pause', 'esc', 'mouseclick', 'mousedown', 'mouseup', 'mousemove')
+  CODE <module>.handle_coordinates argcount=1 nlocals=2 flags=0x3 co_code=42
+    names=['functools', 'wraps', 'Tuple', 'float']
+    varnames=['func', 'wrapper']
+    consts[0] = '\n    A decorator that converts ratio coordinates to pixel coordinates and checks their validity.\n    '
+    consts[1] = None
+    consts[2] = ('pos', 'return')
+    CODE <module>.handle_coordinates.wrapper argcount=1 nlocals=6 flags=0x13 co_code=134
+      names=['ValueError', 'win32gui', 'GetWindowRect', 'HANDLE', 'int']
+      varnames=['pos', 'x', 'y', 'window_rect', 'w', 'h']
+      consts[0] = None
+      consts[1] = 0
+      consts[2] = 1
+      consts[3] = 'Mouse coordinates ratios ('
+      consts[4] = ', '
+      consts[5] = ') are out of bounds.'
+      consts[6] = 2
+      consts[7] = 3
+    consts[4] = 'handle_coordinates.<locals>.wrapper'
+  consts[8] = 'handle_coordinates'
+  consts[9] = ('return',)
+  CODE <module>.pause argcount=0 nlocals=0 flags=0x43 co_code=48
+    names=['win32api', 'SendMessage', 'HANDLE', 'config', 'WM_XBUTTONDOWN', 'XBUTTON2', 'DEFAULT_COORDINATES', 'WM_XBUTTONUP']
+    varnames=[]
+    consts[0] = '\n    Pause the game by sending a specific message to the game window.\n    '
+    consts[1] = None
+  consts[11] = 'pause'
+  CODE <module>.esc argcount=0 nlocals=0 flags=0x43 co_code=48
+    names=['win32api', 'SendMessage', 'HANDLE', 'config', 'WM_XBUTTONDOWN', 'XBUTTON1', 'DEFAULT_COORDINATES', 'WM_XBUTTONUP']
+    varnames=[]
+    consts[0] = '\n    Send the ESC key to the game by sending a specific message to the game window.\n    '
+    consts[1] = None
+  consts[13] = 'esc'
+  consts[14] = ('pos', 'return')
+  CODE <module>.mouseclick argcount=1 nlocals=1 flags=0x43 co_code=52
+    names=['win32api', 'SendMessage', 'HANDLE', 'win32con', 'WM_LBUTTONDOWN', 'MAKELONG', 'WM_LBUTTONUP']
+    varnames=['pos']
+    consts[0] = '\n    Simulate a mouse click at the given coordinates or ratio of window size.\n    '
+    consts[1] = 0
+    consts[2] = None
+  consts[16] = 'mouseclick'
+  CODE <module>.mousedown argcount=1 nlocals=1 flags=0x43 co_code=28
+    names=['win32api', 'SendMessage', 'HANDLE', 'win32con', 'WM_LBUTTONDOWN', 'MAKELONG']
+    varnames=['pos']
+    consts[0] = '\n    Simulate a mouse down event at the given coordinates or ratio of window size.\n    '
+    consts[1] = 0
+    consts[2] = None
+  consts[18] = 'mousedown'
+  CODE <module>.mouseup argcount=1 nlocals=1 flags=0x43 co_code=30
+    names=['win32api', 'SendMessage', 'HANDLE', 'win32con', 'WM_LBUTTONUP', 'MK_LBUTTON', 'MAKELONG']
+    varnames=['pos']
+    consts[0] = '\n    Simulate a mouse up event at the given coordinates or ratio of window size.\n    '
+    consts[1] = None
+  consts[20] = 'mouseup'
+  CODE <module>.mousemove argcount=1 nlocals=1 flags=0x43 co_code=30
+    names=['win32api', 'SendMessage', 'HANDLE', 'win32con', 'WM_MOUSEMOVE', 'MK_LBUTTON', 'MAKELONG']
+    varnames=['pos']
+    consts[0] = '\n    Simulate a mouse move event to the given coordinates or ratio of window size.\n    '
+    consts[1] = None
+  consts[22] = 'mousemove'
+  consts[23] = '__main__'
+  consts[24] = ('GameRatioConfig',)

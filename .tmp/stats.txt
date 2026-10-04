@@ -1,0 +1,12 @@
+﻿== Assembly-CSharp.dll ==  md=v4.0.30319 TypeDef=1623 MethodDef=6684 Field=6047 TypeRef=269 MemberRef=1470 US=957
+rowcounts: {'0x0': 1, '0x1': 269, '0x2': 1623, '0x4': 6047, '0x6': 6684, '0x8': 2485, '0x9': 457, '0xa': 1470, '0xb': 401, '0xc': 974, '0xf': 1, '0x11': 775, '0x15': 231, '0x17': 287, '0x18': 306, '0x19': 147, '0x1b': 288, '0x1d': 2, '0x20': 1, '0x23': 22, '0x29': 381, '0x2a': 30, '0x2b': 379, '0x2c': 20}
+  Buffs: 614
+  (global): 526
+  Skills: 267
+  Modifys: 76
+  Bullets: 38
+  MainUI: 30
+  BattleUI: 25
+  DungeonUI: 18
+  MapBuilderUI: 15
+  Units: 14

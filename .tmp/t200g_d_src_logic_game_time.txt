@@ -1,0 +1,121 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_game_time.pyc len=4758 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=534
+  names=['dataclasses', 'dataclass', 'typing', 'ClassVar', 'Optional', 'src.config', 'GameTimeConfig', 'config', 'GameTime', '__name__', 'set_tick_max', 'time1', 'time2', 'print', 'abs_time1', 'abs_time2', 'mixed_time1', 'mixed_time2']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = ('dataclass',)
+  consts[2] = ('ClassVar', 'Optional')
+  consts[3] = ('GameTimeConfig',)
+  consts[4] = True
+  consts[5] = ('frozen',)
+  CODE <module>.GameTime argcount=0 nlocals=0 flags=0x40 co_code=236
+    names=['__name__', '__module__', '__qualname__', '__doc__', 'cost', 'Optional', 'int', '__annotations__', 'tick', 'time', 'config', 'TICK_MAX_DEFAULT', 'TICK_MAX', 'ClassVar', '__post_init__', 'classmethod', 'set_tick_max', 'get_tick_max', '__add__', '__sub__', 'bool', '__lt__', '__gt__', '__le__', '__ge__', '__eq__']
+    varnames=[]
+    consts[0] = 'GameTime'
+    consts[1] = '\n    Represents game time in Arknights.\n\n    Attributes:\n        cost (Optional[int]): The in-game cost (relative time).\n        time (Optional[int]): The absolute time since game start \n        (how many times the cost bar has been fully filled).\n        tick (int): The current tick count.\n        At least one of cost or time must be provided.\n\n    Class Attributes:\n        TICK_MAX (int): The maximum value of ticks. Can be set globally.\n    '
+    consts[2] = None
+    consts[3] = 'cost'
+    consts[4] = 0
+    consts[5] = 'tick'
+    consts[6] = 'time'
+    consts[7] = 'TICK_MAX'
+    CODE <module>.GameTime.__post_init__ argcount=1 nlocals=1 flags=0x43 co_code=142
+      names=['cost', 'time', 'ValueError', 'tick', 'TICK_MAX', 'object', '__setattr__']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'At least one of cost or time must be provided'
+      consts[2] = 'cost'
+      consts[3] = 'time'
+      consts[4] = 'tick'
+    consts[9] = 'GameTime.__post_init__'
+    consts[10] = ('max_value',)
+    CODE <module>.GameTime.set_tick_max argcount=2 nlocals=2 flags=0x43 co_code=26
+      names=['ValueError', 'TICK_MAX']
+      varnames=['cls', 'max_value']
+      consts[0] = 'Set the global maximum tick value.'
+      consts[1] = 0
+      consts[2] = 'TICK_MAX must be a positive integer.'
+      consts[3] = None
+    consts[12] = 'GameTime.set_tick_max'
+    consts[13] = ('return',)
+    CODE <module>.GameTime.get_tick_max argcount=1 nlocals=1 flags=0x43 co_code=6
+      names=['TICK_MAX']
+      varnames=['cls']
+      consts[0] = 'Get the global maximum tick value.'
+    consts[15] = 'GameTime.get_tick_max'
+    consts[16] = ('other', 'return')
+    CODE <module>.GameTime.__add__ argcount=2 nlocals=6 flags=0x43 co_code=130
+      names=['tick', 'TICK_MAX', 'time', 'cost', 'GameTime']
+      varnames=['self', 'other', 'carry', 'total_tick', 'total_time', 'total_cost']
+      consts[0] = None
+      consts[1] = ('cost', 'tick', 'time')
+    consts[18] = 'GameTime.__add__'
+    CODE <module>.GameTime.__sub__ argcount=2 nlocals=6 flags=0x43 co_code=130
+      names=['tick', 'TICK_MAX', 'time', 'cost', 'GameTime']
+      varnames=['self', 'other', 'borrow', 'total_tick', 'total_time', 'total_cost']
+      consts[0] = None
+      consts[1] = ('cost', 'tick', 'time')
+    consts[20] = 'GameTime.__sub__'
+    CODE <module>.GameTime.__lt__ argcount=2 nlocals=2 flags=0x43 co_code=124
+      names=['time', 'tick', 'cost', 'ValueError']
+      varnames=['self', 'other']
+      consts[0] = None
+      consts[1] = 'Cannot compare time with cost'
+    consts[22] = 'GameTime.__lt__'
+    CODE <module>.GameTime.__gt__ argcount=2 nlocals=2 flags=0x43 co_code=8
+      names=[]
+      varnames=['self', 'other']
+      consts[0] = None
+    consts[24] = 'GameTime.__gt__'
+    CODE <module>.GameTime.__le__ argcount=2 nlocals=2 flags=0x43 co_code=16
+      names=[]
+      varnames=['self', 'other']
+      consts[0] = None
+    consts[26] = 'GameTime.__le__'
+    CODE <module>.GameTime.__ge__ argcount=2 nlocals=2 flags=0x43 co_code=16
+      names=[]
+      varnames=['self', 'other']
+      consts[0] = None
+    consts[28] = 'GameTime.__ge__'
+    CODE <module>.GameTime.__eq__ argcount=2 nlocals=2 flags=0x43 co_code=92
+      names=['time', 'tick', 'cost']
+      varnames=['self', 'other']
+      consts[0] = None
+      consts[1] = False
+    consts[30] = 'GameTime.__eq__'
+  consts[7] = 'GameTime'
+  consts[8] = '__main__'
+  consts[9] = 30
+  consts[10] = 50
+  consts[11] = 10
+  consts[12] = ('cost', 'tick')
+  consts[13] = 20
+  consts[14] = 25
+  consts[15] = 'Testing relative time operations:'
+  consts[16] = 'time1: '
+  consts[17] = 'time2: '
+  consts[18] = 'time1 + time2 = '
+  consts[19] = 'time1 - time2 = '
+  consts[20] = 'time1 < time2 = '
+  consts[21] = 'time1 == time2 = '
+  consts[22] = 'time1 > time2 = '
+  consts[23] = '\nTesting absolute time operations:'
+  consts[24] = ('time', 'tick')
+  consts[25] = 'abs_time1: '
+  consts[26] = 'abs_time2: '
+  consts[27] = 'abs_time1 + abs_time2 = '
+  consts[28] = 'abs_time1 - abs_time2 = '
+  consts[29] = 'abs_time1 < abs_time2 = '
+  consts[30] = 'abs_time1 == abs_time2 = '
+  consts[31] = 'abs_time1 > abs_time2 = '
+  consts[32] = ('time', 'cost', 'tick')
+  consts[33] = 49
+  consts[34] = 12
+  consts[35] = 'mixed_time1: '
+  consts[36] = 'mixed_time2: '
+  consts[37] = 'mixed_time1 + mixed_time2 = '
+  consts[38] = 'mixed_time1 - mixed_time2 = '
+  consts[39] = 'mixed_time1 < mixed_time2 = '
+  consts[40] = 'mixed_time1 == mixed_time2 = '
+  consts[41] = 'mixed_time1 > mixed_time2 = '
+  consts[42] = None

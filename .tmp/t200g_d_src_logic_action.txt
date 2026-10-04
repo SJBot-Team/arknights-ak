@@ -1,0 +1,68 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_action.pyc len=2204 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=134
+  names=['dataclasses', 'enum', 'Enum', 'typing', 'Tuple', 'Optional', 'src.utils.typecheck', 'is_valid_type', 'src.logic.game_time', 'GameTime', 'src.logger', 'logger', 'ActionType', 'DirectionType', 'dataclass', 'Action']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = None
+  consts[2] = ('Enum',)
+  consts[3] = ('Tuple', 'Optional')
+  consts[4] = ('is_valid_type',)
+  consts[5] = ('GameTime',)
+  consts[6] = ('logger',)
+  CODE <module>.ActionType argcount=0 nlocals=0 flags=0x40 co_code=24
+    names=['__name__', '__module__', '__qualname__', 'DEPLOY', 'SKILL', 'RETREAT']
+    varnames=[]
+    consts[0] = 'ActionType'
+    consts[1] = '部署'
+    consts[2] = '技能'
+    consts[3] = '撤退'
+    consts[4] = None
+  consts[8] = 'ActionType'
+  CODE <module>.DirectionType argcount=0 nlocals=0 flags=0x40 co_code=32
+    names=['__name__', '__module__', '__qualname__', 'UP', 'DOWN', 'LEFT', 'RIGHT', 'NONE']
+    varnames=[]
+    consts[0] = 'DirectionType'
+    consts[1] = '上'
+    consts[2] = '下'
+    consts[3] = '左'
+    consts[4] = '右'
+    consts[5] = '无'
+    consts[6] = None
+  consts[10] = 'DirectionType'
+  consts[11] = True
+  consts[12] = ('order',)
+  CODE <module>.Action argcount=0 nlocals=0 flags=0x40 co_code=260
+    names=['__name__', '__module__', '__qualname__', 'cost', 'Optional', 'int', '__annotations__', 'tick', 'time', 'action_type', 'ActionType', 'oper', 'str', 'pos', 'direction', 'DirectionType', 'alias', 'tile_pos', 'Tuple', 'avatar_pos', 'float', 'view_pos_front', 'view_pos_side', 'get_game_time', 'bool', 'is_valid']
+    varnames=[]
+    consts[0] = 'Action'
+    consts[1] = None
+    consts[2] = 'cost'
+    consts[3] = 'tick'
+    consts[4] = 'time'
+    consts[5] = 'action_type'
+    consts[6] = 'oper'
+    consts[7] = 'pos'
+    consts[8] = 'direction'
+    consts[9] = 'alias'
+    consts[10] = 'tile_pos'
+    consts[11] = 'avatar_pos'
+    consts[12] = 'view_pos_front'
+    consts[13] = 'view_pos_side'
+    CODE <module>.Action.get_game_time argcount=1 nlocals=1 flags=0x43 co_code=20
+      names=['GameTime', 'cost', 'tick', 'time']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = ('cost', 'tick', 'time')
+    consts[15] = 'Action.get_game_time'
+    consts[16] = ('return',)
+    CODE <module>.Action.is_valid argcount=1 nlocals=3 flags=0x43 co_code=248
+      names=['dataclasses', 'fields', 'getattr', 'name', 'is_valid_type', 'type', 'logger', 'warning', 'cost', 'time', 'tick', 'action_type', 'oper', 'pos', 'ActionType', 'DEPLOY', 'direction']
+      varnames=['self', 'field', 'value']
+      consts[0] = None
+      consts[1] = 'Invalid field: '
+      consts[2] = '='
+      consts[3] = False
+      consts[4] = 0
+      consts[5] = True
+    consts[18] = 'Action.is_valid'
+  consts[14] = 'Action'

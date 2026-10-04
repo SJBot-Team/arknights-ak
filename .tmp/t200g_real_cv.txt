@@ -1,0 +1,6 @@
+
+===== <module> argcount=0 nlocals=0 co_code=206B
+  !! TypeError: code() argument 16 must be bytes, not tuple
+
+===== transform_map_to_view argcount=2 nlocals=21 co_code=718B
+  !! TypeError: code() argument 16 must be bytes, not tuple

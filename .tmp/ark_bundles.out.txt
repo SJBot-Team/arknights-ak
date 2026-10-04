@@ -1,0 +1,231 @@
+﻿
+========================= 0. bundle dir census (E: copy) =========================
+  DLG\bundles\effect                         791 bundles      82.2 MB
+  DLG\bundles\data                            19 bundles       1.4 MB
+  DLG\bundles\data\maps                       10 bundles       0.0 MB
+  DLG\bundles\dungeontile                      7 bundles       0.2 MB
+  .                                            3 bundles       0.3 MB
+  DLG\bundles\audio                            2 bundles       4.8 MB
+  DLG\bundles\bullet                           1 bundles       0.0 MB
+
+========================= 1. object-type census across ALL bundles (E: copy) - sample 120 =========================
+sampled 120 parse errors 0
+   GameObject             1065
+   Transform              1065
+   ParticleSystem         730
+   ParticleSystemRenderer 730
+   Material               557
+   Texture2D              511
+   Mesh                   155
+   MonoBehaviour          137
+   MonoScript             135
+   AssetBundle            120
+   MeshRenderer           48
+   MeshFilter             48
+   TrailRenderer          30
+   Shader                 16
+   Sprite                 5
+   SpriteRenderer         5
+   Animator               4
+   BoxCollider            2
+   AnimationClip          2
+   AnimatorController     2
+   Animation              1
+   MeshCollider           1
+   SkinnedMeshRenderer    1
+
+========================= 2. specific bundles: char_ / enemy_ / effect / spine =========================
+
+-- defaultlocalgroup_assets_assets\bundles\effect\char_bobb_skill_range_01_f00102ce32e694196d97a330c2e2e520.bundle (203.5KB)  -> {'Material': 5, 'GameObject': 21, 'ParticleSystem': 13, 'ParticleSystemRenderer': 13, 'Transform': 21, 'MeshRenderer': 3, 'MeshFilter': 3, 'Texture2D': 5, 'AssetBundle': 1, 'Mesh': 2, 'MonoBehaviour': 1, 'MonoScript': 1}
+   names: ['Boss_Rathalos_01_dikuai (Instance)', 'xingdian', 'star_56_add (Instance)', 'huoyan', 'huoyan', 'static_offset', 'xingdian', 'huoxing', 'andi', 'fire_29', 'huoyan', 'andi', 'enemy_mandra_15', 'fire_29_add_ZT (Instance)', 'fixed', 'huo', 'e179668c76b9fcabfdcc9c809c35b027.bundle', 'andi']
+   MonoBehaviour '' script=PPtr(m_FileID=0, m_PathID=9214921395177469034, assetsfile=<SerializedFile>)
+
+-- defaultlocalgroup_assets_assets\bundles\effect\common_enemy_die_01_f42cf7619151f6cd349088407f30e4db.bundle (34.8KB)  -> {'ParticleSystem': 2, 'GameObject': 4, 'Transform': 4, 'Mesh': 1, 'Texture2D': 1, 'ParticleSystemRenderer': 2, 'AssetBundle': 1, 'MonoBehaviour': 1, 'Material': 1, 'MonoScript': 1}
+   names: ['static_offset', 'Plane003', 'star_35', '1fad6bcc861e17c0b9a393e25bb10685.bundle', 'common_enemy_die_01', 'fixed', 'lizi_01', 'common_enemy_die_01 (Instance)', 'Effect']
+   MonoBehaviour '' script=PPtr(m_FileID=0, m_PathID=9214921395177469034, assetsfile=<SerializedFile>)
+
+-- defaultlocalgroup_assets_assets\bundles\effect\amiya_attack_01_hit_308a8584e4532dec8f197435abbc8031.bundle (53.7KB)  -> {'GameObject': 8, 'Material': 5, 'ParticleSystemRenderer': 6, 'Transform': 8, 'Mesh': 2, 'ParticleSystem': 6, 'Texture2D': 4, 'AssetBundle': 1, 'MonoBehaviour': 1, 'MonoScript': 1}
+   names: ['baoci', 'star_02_add (Instance)', 'Plane003', 'Plane002', 'star_10_ab (Instance)', 'trail_14_ab (Instance)', 'baoshan', 'star_02', 'trail_14', 'andi', 'amiya_attack_01_hit', 'baodian', '194a89e28a82e6bce61d6998eaf64a2f.bundle', 'fixed', 'xingdian', 'star_02_ab (Instance)', 'star_14', 'star_14_ab (Instance)']
+   MonoBehaviour '' script=PPtr(m_FileID=0, m_PathID=9214921395177469034, assetsfile=<SerializedFile>)
+
+========================= 3. user-string mining: URLs / file patterns / API =========================
+
+### Assembly-CSharp.dll: 957 user strings
+    /data.sav
+    ui://k4mja8t1it6gr51
+    Assets/Scenes/MapBuilder.unity
+    ui://vp312gabf1460
+    /Map/
+    /Data/
+    .txt
+    Assets/2/
+    /2/
+    *.xlsx
+    Assets/Bundles/Data/
+    Assets/Bundles/UI/
+    Assets/Bundles/Image/
+    Assets/Bundles/Other/
+    Assets/Bundles/Units/
+    Assets/Bundles/Bullet/
+    Assets/Bundles/Effect/
+    Assets/Bundles/Audio/
+    Assets/Bundles/DungeonTile/
+    Assets/Bundles/Data/Maps/
+    /data
+    ui://k4mja8t1kbte0
+    Assets/Bundles/Other/Tiles/high
+    Assets/Bundles/Other/Tiles/ground
+    Assets/Bundles/Other/Tiles/unmoveHigh
+    Assets/Bundles/Other/Tiles/unmove
+    Assets/Bundles/Other/Line
+    Assets/Bundles/Other/Sphere
+    /outLog.txt
+    /Android/
+    torappu.ab
+    E:/111/1/
+    .png
+    .skel
+    .atlas
+    http://static.prts.wiki/spine38/enemy/
+    thumb/
+    http://static.prts.wiki/spine38/char/
+    http://prts.wiki/w/
+    http://prts.wiki/images
+    _1.png
+    ui://Res/
+    ui://SkillIcon/
+    ui://wof4wytzdy0mh
+    ui://wof4wytzdy0mi
+    ui://wof4wytzdy0mj
+    ui://wof4wytzei150
+    ui://wof4wytzei151
+    ui://wof4wytzei153
+    ui://wof4wytzei155
+    ui://wof4wytzei157
+    ui://wof4wytzei158
+    ui://wof4wytzjh399
+    ui://wof4wytzq2unb
+    ui://wof4wytzq2unc
+    ui://wof4wytzq2une
+    ui://wof4wytzq2ung
+    PathInfo
+    PathPage
+    PathPoint
+    ui://k4mja8t1k6t713
+    ui://k4mja8t1k6t714
+    ui://k4mja8t1kbte1
+    ui://k4mja8t1kbte10
+    ui://k4mja8t1kbte12
+    ui://k4mja8t1kbteb
+    ui://k4mja8t1kbtei
+    ui://k4mja8t1kbtew
+    ui://k4mja8t1kbtey
+    ui://k4mja8t1mh6lr65
+    ui://k4mja8t1n3vyr66
+    ui://k4mja8t1r8hrm
+    ui://k4mja8t1r8hrn
+    ui://k4mja8t1r8hro
+    ui://k4mja8t1usve4s
+    ui://k4mja8t1usve4u
+    ui://k4mja8t1usve4w
+    ui://k4mja8t1voep24
+    ui://k4mja8t1voep2y
+    ui://k4mja8t1voep3b
+    ui://k4mja8t1voep3f
+    ui://k4mja8t1voep3q
+    ui://k4mja8t1voep49
+    ui://k4mja8t1voep4p
+    ui://k4mja8t1voep4q
+    ui://k4mja8t1voep4r
+    ui://k4mja8t1w5yzr6b
+    ui://hgasjns6t5h90
+    ui://hgasjns6gbwm11
+    ui://hgasjns6gbwm13
+    ui://hgasjns6gbwm14
+    ui://hgasjns6gbwm15
+    ui://hgasjns6gbwm16
+    ui://hgasjns6gbwmv
+    ui://hgasjns6gbwmx
+    ui://hgasjns6gbwmy
+    ui://hgasjns6t5h92
+    ui://hgasjns6t5h93
+    ui://hgasjns6t5h94
+    ui://hgasjns6t5h97
+    ui://hgasjns6t5h98
+    ui://hgasjns6t5h9b
+    ui://hgasjns6t5h9q
+    ui://hgasjns6t5h9s
+    ui://vp312gabbz1b5g
+    ui://vp312gabf1463l
+    ui://vp312gabfwak5j
+    ui://vp312gabh4sa41
+    ui://vp312gabh4sa43
+    ui://vp312gabiexc56
+    ui://vp312gabjcl25r
+    ui://vp312gabkbte3o
+    ui://vp312gabkbte3s
+    ui://vp312gabkbte3y
+    ui://vp312gabkbte40
+    ui://vp312gabkbte47
+    ui://vp312gabkbte48
+    ui://vp312gabkbte4b
+    ui://vp312gabkbte4d
+    ui://vp312gabmm9x5s
+    ui://vp312gabn3en4g
+    ui://vp312gabpktk5h
+    ui://vp312gabqb9m5t
+    ui://vp312gabrkte51
+    ui://vp312gabrkte52
+    ui://vp312gabt5h94o
+    ui://vp312gabz2xt5i
+    Assets/Bundles/Other/UIPanel
+    ui://Res/trap_001_crate
+    {0}/{1}
+    Direction
+    ChangeDirection
+
+### Assembly-CSharp-firstpass.dll: 1074 user strings
+    file
+    pathConstraintName
+    pathConstraintName cannot be null.
+    path
+    Path bone not found: 
+    Path target slot not found: 
+    Skin path constraint not found: 
+    Path constraint not found: 
+    Spine/Special/HiddenPass
+    Skeleton JSON file not set for SkeletonData asset: 
+    .skel
+    Error reading skeleton JSON file for SkeletonData asset: 
+    .png
+    Spine/Skeleton
+    Atlas file not set for atlas asset: 
+    Error reading atlas file for atlas asset: 
+    SpriteAtlas file not set for SpineSpriteAtlasAsset: 
+    Path '{0}'
+    Path '{0}'.
+    FairyGUI/Image
+    FairyGUI/Text
+    FairyGUI/BMFont
+    FairyGUI/TMP
+    UI/Default
+    ui://
+    Fonts/
+    Text is too large. Outline/shadow effect cannot be completed.
+    FairyGUI/BlurFilter
+    Invaild url: 
+    Assets/
+    .bytes
+    //
+    url
+    </a>
+    "/>
+    </
+    </font>
+    </p>
+    />
+
+========================= 4. method names (business code) - Assembly-CSharp =========================
+total methods 6684
+unique method names 2002
+['Start', 'Update', '.ctor', 'Awake', 'eo2', 'eo3', 'e2t', 'e2e', 'e2r', 'e2a', 'get_UnitData', 'get_Id', 'get_UnitId', 'set_UnitId', 'get_Upgrade', 'set_Upgrade', 'get_Level', 'set_Level', 'get_Instance', 'e2o', 'e2s', 'e2h', 'e2i', 'e2w', 'set_Id', 'e22', 'e23', 'e3i', 'e3w', 'e3o', 'e32', 'e33', 'rtt', 'rte', 'rtr', 'rta', 'rts', 'rth', 'rti', 'rtw', 'rto', 'rt2', 'rt3', 'ret', 'ree', 'rer', 'rea', 'res', 'reh', 'rei', 'rew', 'reo', 're2', 're3', 'rrt', 'rre', 'rrr', 'rra', 'rrs', 'rrh', 'rri', 'rrw', '.cctor', 'e3t', 'e3e', 'e3r', 'e3a', 'e3s', 'e3h', 'get_BuffData', 'get_Battle', 'rro', 'rr2', 'rr3', 'rat', 'rae', 'rar', 'raa', 'ras', 'rah', 'rai', 'raw', 'rao', 'ra2', 'ra3', 'rst', 'rse', 'rsr', 'rsa', 'rss', 'rsh', 'get_ElementAbsorbOrderCount', 'rsi', 'get_HealOrderCount', 'rsw', 'get_OrderCount', 'rso', 'rs2', 'rs3', 'rht', 'get_ShieldCount', 'rhe', 'get_BulletData', 'rhr', 'rha', 'rhs', 'rhh', 'rhi', 'rhw', 'rho', 'rh2', 'rh3', 'rit', 'rie', 'get_UnitConfig', 'rir', 'ria', 'ris', 'rih', 'rii', 'riw', 'rio', 'get_EffectData', 'ri2', 'ri3', 'rwt', 'rwe', 'rwr', 'rwa', 'rws', 'rwh', 'rwi', 'rww', 'rwo', 'rw2', 'rw3', 'rot', 'get_ModifyData', 'get_Unit', 'roe', 'ror', 'roa', 'ros', 'roh', 'roi', 'roo', 'ro2', 'ro3', 'get_SkillData', 'get_MaxPower', 'ae2', 'ae3', 'art', 'are', 'arr', 'ara', 'ars', 'arh', 'ari', 'arw', 'aro', 'ar2', 'ar3', 'aat', 'aae', 'aar', 'aaa', 'aas', 'aah', 'aai', 'aaw', 'aao', 'aa2', 'aa3', 'ast', 'ase', 'asr', 'asa', 'ass', 'ash', 'asi', 'asw', 'aso', 'as2', 'as3', 'aht', 'ahe', 'ahr', 'aha', 'ahs', 'ahh', 'ahi', 'ahw', 'aho', 'ah2', 'ah3', 'ait', 'aie', 'air', 'aia', 'ais', 'aih', 'aii', 'aiw', 'aio', 'ai2', 'ai3', 'awt', 'awe', 'awr', 'awa', 'aws', 'awh', 'awi', 'aww', 'awo', 'aw2', 'aw3', 'aot', 'aoe', 'aor', 'aoa', 'aos', 'r2t', 'r2e', 'r2r', 'r2a', 'r2s', 'r2h', 'r2i', 'r2w', 'r2o', 'r22', 'r23', 'r3t', 'r3e', 'r3r', 'r3a', 'r3s', 'r3h', 'r3i', 'r3w', 'r3o', 'r32', 'r33', 'att', 'ate', 'atr', 'ata', 'ats', 'ath', 'ati', 'atw', 'ato', 'at2', 'at3', 'aet', 'aee', 'aer', 'aea', 'aes', 'aeh', '<ahs>b__45_0', 'aew', 'aeo', 'OnMouseDrag', 'OnMouseDown', 'get_DeltaTime', 'aoh', 'get_Position2', 'get_GridPos', 'get_NowGrid', 'a3e', 'a3r', 'a3a', 'a3s', 'a3h', 'a3i', 'a3w', 'a3o', 'a32', 'a33', 'stt', 'ste', 'str', 'sta', 'sts', 'sth', 'sti', 'stw', 'sto', 'get_Unbalance', 'st2', 'st3', 'see', 'ser', 'sea', 'ses', 'seh', 'sei', 'sew', 'seo', 'se2', 'se3', 'srt', 'sre', 'srr', 'sra', 'srs', 'srh', 'sri', 'srw', 'sro', 'sr2', 'sr3', 'sat', 'sae', 'sar', 'saa', 'sas', 'sah', 'sai', 'saw', 'sao', 'sa2', 'sa3', 'sst', 'sse', 'ssr', 'ssa', 'sss', 'ssh', 'ssi', 'ssw', 'aoi', 'aow', 'aoo', 'ao2', 'ao3', 'a2t', 'a2e', 'a2r', 'a2a', 'a2s', 'a2h', 'a2i', 'a2w', 'a2o', 'a22', 'a23', 'a3t', 'get_Blur', 'set_Blur', 'get_FocusUnit', 'set_FocusUnit', 'get_Rotate', 'set_Rotate', 'sso', 'ss2', 'ss3', 'sht', 'she', 'shr', 'sha', 'shs', 'shh', 'shi', 'MoveNext', 'SetStateMachine', 'shw', 'sho', 'sit', 'LateUpdate', 'sie', 'sir', 'sia', 'sh2', 'sh3', 'sih', 'sii', 'siw', 'sio', 'si2', 'sis', 'si3', 'swt', 'swr', 'swa', 'sws', 'swh', 'swe', 'swi', 'sww', 'swo', 'sw2', 'sw3', 'sot', 'soe', 'sor', 'soa', 'sos', 'soh', 'soo', 'so2', 'so3', 's2t', 's2e', 's2r', 's2a', 's2s', 's2h', 's2i', 's2w', 's2o', 's22', '<Get>b__0', '<GetAll>b__10_0', '<GetIndex>b__0', 'soi', 'sow', 'get_DungeonLevelData', 's3s', 's3h', 's3i', 's3w', 's3o', 's32', 's23', 's3t', 's3e', 's3r', 's3a', 'get_CardData', 's33', 'htt', 'get_RelicData', 'htr', 'hte', 'hta', 'hts', 'hth', 'hti', 'htw', 'hto', 'ht2', 'ht3', 'het', 'hee', 'her', 'hea', 'hes', 'heh', 'hei', 'hew', 'heo', 'he2', 'he3', 'hrt', 'hre', 'hrr', 'hra', 'hrs', 'hrh', 'hri', 'hrw', 'hro', 'hr2', 'hr3', 'hat', 'hae', 'har', 'haa', 'has', 'hah', 'get_AppHotfixResPath', 'get_AppResPath', 'get_AppResPath4Web', 'hai', 'haw', 'hao', 'ha2', 'ha3', 'hst', 'hse', 'hsr', 'hsa', 'hss', 'hsh', 'hsi', 'hsw', 'hso', 'hs2', 'hs3', 'hht', 'hhe', 'hhr', 'hha', 'hhs', 'hho', 'hh2', 'hh3', 'get_IsCompleted', 'OnCompleted', 'GetResult', '<OnCompleted>b__0', 'hhh', 'hhi', 'hhw', 'hie', 'hir', 'hia', 'his', 'hih', 'hii', 'hiw', 'hit', 'hio', 'hi2', 'hi3', 'hwt', 'OnPointerClick', 'hwe', 'hwh', 'hwi', 'hww', 'hwo', 'hw2', 'hw3', 'hot', 'hwr', 'hwa', 'hws', 'hoe', 'OnDrawGizmosSelected', 'Spawn', 'Despawn', 'DespawnAll', 'hor', 'hoa', 'OnEnable', 'OnDisable', 'hos', 'OnGUI', 'Create', 'OnApplicationQuit', 'OnDestroy', 'hoi', 'how', 'hoo', 'ho2', 'ho3', 'h2t', 'h2e', 'hoh', 'h23', 'h3t', 'h3e', 'h2r', 'h2a', 'System.Collections.Generic.IEnumerator<System.Object>.get_Current', 'h2s', 'System.Collections.IEnumerator.get_Current', 'h2h', 'h2i', 'h2w', 'h2o', 'h22', 'h3w', 'h3o', 'h32', 'h3r', 'h3a', 'h3s', 'h3h', 'h3i', 'itw', 'ito', 'it2', 'h33', 'itt', 'ite', 'itr', 'ita', 'its', 'ith', 'iti', 'ies', 'ieh', 'iei', 'it3', 'iet', 'iee', 'ier', 'iea', 'iew', 'ieo', 'ie2', 'ie3', 'irt', 'ire', 'irr', 'ira', 'irs', 'irh', 'iri', 'irw', 'iro', 'ir2', 'iae', 'iar', 'get_material', 'OnRenderImage', 'ir3', 'iat', 'iaa', 'ias', 'iah', 'iai', 'iaw', 'iao', 'iss', 'ish', 'isi', 'isw', 'iso', 'is2', 'is3', 'iht', 'ihe', 'ihr', 'iha', 'ihs', 'ihh', 'ia2', 'ia3', 'ist', 'ise', 'isr', 'isa', 'ih3', 'iit', 'iie', 'iir', 'iia', 'iis', 'iih', 'iii', 'iiw', 'iio', 'ii2', 'ii3', 'iwt', 'iwe', 'iwr', 'iwa', 'iws', 'iwh', 'iwi', 'iww', 'iwo', 'iw2', 'iw3', 'iot', 'ioe', 'ior', 'ioa', 'ios', 'ioh', 'ioi', 'ihi', 'ihw', 'iho', 'ih2', 'iow', 'ioo', 'get_MapInfo', 'io2', 'io3', 'i2t', 'i2e', 'i2r', 'i2a', 'i2s', 'i2h', 'i2i', 'i2w', 'i2o', 'i22', 'i23', 'i3t', 'i3e', 'i3r', 'i3a', 'i3s', 'i3h', 'i3i', 'i3w', 'i3o', 'i33', 'wtt', 'wte', 'wtr', 'wta', 'wts', 'wth', 'wti', 'wtw', 'wto', 'wt2', 'wt3', 'wet', 'wee', 'i32', 'wer', 'wea', 'wes', 'weh', 'wei', 'wew', 'weo', 'we2', 'we3', 'wrt', 'wre', 'wrr', 'wra', 'wrs', 'wrh', 'wri', 'wrw', 'wro', 'wr2', 'wr3', 'wat', 'waa', 'was', 'wah', 'wai', 'waw', 'wao', 'wa2', 'wa3', 'wae', 'war', 'wst', 'wse', 'wsr', 'wsa', 'wss', 'wsh', 'wsi', 'wsw', 'wso', 'ws2', 'ws3', 'wht', 'whe', 'whr', 'wha', 'whi', 'whw', 'who', 'wh2', 'wh3', 'wit', 'wie', 'wir', 'wia', 'wis', 'wih', 'wii', 'wiw', 'wio', 'wi2', 'wi3', 'wwt', 'wwe', 'wwr', 'wwa', 'wws', 'wwh', 'wwi', 'whs', 'whh', 'www', 'wwo', 'ww2', 'woe', 'wor', 'woa', 'wos', 'woh', 'woi', 'wow', 'woo', 'wo2', 'wo3', 'w2t', 'ww3', 'wot', 'w2e', 'w2w', 'w2o', 'w22', 'w23', 'w3t', 'w3e', 'w3r', 'w3a', 'w2r', 'w2a', 'w2s', 'w2h', 'w2i', 'w3s', 'w3h', 'w3i', 'w3w', 'w3o', 'otr', 'ota', 'ots', 'oth', 'oti', 'otw', 'oto', 'w32', 'w33', 'ott', 'ote', 'ot2', 'ot3', 'oet', 'oew', 'oeo', 'get_gameData', 'oe2', 'oe3', 'ort', 'ore', 'orr', 'ora', 'ors', 'orh', 'ori', 'orw', 'oro', 'or2', 'oee', 'oer', 'oea', 'oes', 'oeh', 'oei', 'oos', 'ooh', 'ooi', 'oow', 'ooo', 'oo2', 'oo3', 'o2t', 'o2e', 'o2r', 'o2a', 'o2s', 'o2h', 'o2i', 'o2w', 'o2o', 'o22', 'o23', 'o3t', 'o3e', 'or3', 'oat', 'oae', 'oar', 'oaa', 'oas', 'oah', 'oai', 'oaw', 'oao', 'oa2', 'oa3', 'ost', 'ose', 'osr', 'osa', 'oss', 'osh', 'osi', 'osw', 'oso', 'os2', 'os3', 'oht', 'ohe', 'ohr']

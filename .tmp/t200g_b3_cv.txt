@@ -1,0 +1,468 @@
+
+===== <module>  argcount=0 nlocals=0 co_code=206B
+  consts=[0, None, ('List', 'Tuple', 'Dict', 'Any'), ('logger',), ('ViewCalculationConfig',), ('level', 'side', 'return'), '<code transform_map_to_view>', 'transform_map_to_view', '__main__', ('get_map_by_code',), '1-7', True, 'Left most deployable position with side view: ', 3, 1, False, 'Left most deployable position with front view: ']
+  names=['numpy', 'np', 'math', 'typing', 'List', 'Tuple', 'Dict', 'Any', 'src.logger', 'logger', 'src.config', 'ViewCalculationConfig', 'viewconfig', 'str', 'bool', 'float', 'transform_map_to_view', '__name__', 'src.cache', 'get_map_by_code', 'map', 'res', 'info']
+  varnames=[]
+      0 LOAD_CONST                   25600   !!越界[25600]
+      2 LOAD_CONST                   27649   !!越界[27649]
+      4 IMPORT_NAME                  23040   !!越界[23040]
+      6 STORE_NAME                   25601   !!越界[25601]
+      8 LOAD_CONST                   25600   !!越界[25600]
+     10 LOAD_CONST                   27649   !!越界[27649]
+     12 IMPORT_NAME                  23042   !!越界[23042]
+     14 STORE_NAME                   25602   !!越界[25602]
+     16 LOAD_CONST                   25600   !!越界[25600]
+     18 LOAD_CONST                   27650   !!越界[27650]
+     20 IMPORT_NAME                  27907   !!越界[27907]
+     22 IMPORT_FROM                  23044   !!越界[23044]
+     24 STORE_NAME                   27908   !!越界[27908]
+     26 IMPORT_FROM                  23045   !!越界[23045]
+     28 STORE_NAME                   27909   !!越界[27909]
+     30 IMPORT_FROM                  23046   !!越界[23046]
+     32 STORE_NAME                   27910   !!越界[27910]
+     34 IMPORT_FROM                  23047   !!越界[23047]
+     36 STORE_NAME                     263   !!越界[263]
+     38 POP_TOP                           
+     40 LOAD_CONST                   25600   !!越界[25600]
+     42 LOAD_CONST                   27651   !!越界[27651]
+     44 IMPORT_NAME                  27912   !!越界[27912]
+     46 IMPORT_FROM                  23049   !!越界[23049]
+     48 STORE_NAME                     265   !!越界[265]
+     50 POP_TOP                           
+     52 LOAD_CONST                   25600   !!越界[25600]
+     54 LOAD_CONST                   27652   !!越界[27652]
+     56 IMPORT_NAME                  27914   !!越界[27914]
+     58 IMPORT_FROM                  23051   !!越界[23051]
+     60 STORE_NAME                     268   !!越界[268]
+     62 POP_TOP                           
+     64 LOAD_NAME                    25862   !!越界[25862]
+     66 LOAD_NAME                    25869   !!越界[25869]
+     68 LOAD_NAME                    26119   !!越界[26119]
+     70 BUILD_TUPLE                   6402
+     72 BINARY_SUBSCR                     
+     82 LOAD_NAME                    25871   !!越界[25871]
+     84 LOAD_NAME                    26127   !!越界[26127]
+     86 BUILD_TUPLE                   6402
+     88 BINARY_SUBSCR                     
+     98 LOAD_CONST                   25606   !!越界[25606]
+    100 LOAD_CONST                   33799   !!越界[33799]
+    102 MAKE_FUNCTION                23044
+    104 STORE_NAME                   25872   !!越界[25872]
+    106 LOAD_NAME                    25617   !!越界[25617]
+    108 LOAD_CONST                   27400   !!越界[27400]
+    110 COMPARE_OP                   29186   cmp=29186
+    116 LOAD_CONST                   27657   !!越界[27657]
+    118 IMPORT_NAME                  27922   !!越界[27922]
+    120 IMPORT_FROM                  23059   !!越界[23059]
+    122 STORE_NAME                     275   !!越界[275]
+    124 POP_TOP                           
+    126 LOAD_NAME                    25619   !!越界[25619]
+    128 LOAD_CONST                   33546   !!越界[33546]
+    130 GET_AWAITABLE                     
+    132 STORE_NAME                   25876   !!越界[25876]
+    134 LOAD_NAME                    25872   !!越界[25872]
+    136 LOAD_NAME                    25620   !!越界[25620]
+    138 LOAD_CONST                   33547   !!越界[33547]
+    140 GET_AWAITABLE                     
+    142 STORE_NAME                   25877   !!越界[25877]
+    144 LOAD_NAME                    40969   !!越界[40969]
+    146 LOAD_METHOD                  25622   !!越界[25622]
+    168 LOAD_NAME                    25872   !!越界[25872]
+    170 LOAD_NAME                    25620   !!越界[25620]
+    172 LOAD_CONST                   33551   !!越界[33551]
+    174 GET_AWAITABLE                     
+    176 STORE_NAME                   25877   !!越界[25877]
+    178 LOAD_NAME                    40969   !!越界[40969]
+    180 LOAD_METHOD                  25622   !!越界[25622]
+    202 LOAD_CONST                   21249   !!越界[21249]
+    204 RETURN_VALUE                      
+
+===== transform_map_to_view  argcount=2 nlocals=21 co_code=718B
+  consts=['\n    Transforms a map to a view based on the given parameters.\n\n    Parameters:\n    level (dict): The map data.\n\n    Returns:\n    list: A 2D list of tuples representing the transformed map points in ratio form.\n    ', 180, 'height', 'width', 'view', 1, 0, 'Error loading map data: ', None, (0, 0, 0, 1), 20, 2, (0, 0, -1, 0), (1, 0, 0, 0), 30, 10, (0, 1, 0, 0), 'tiles', 2.0, 'heightType', -0.4, 3, 'Transformed map to view, size: ', 'x']
+  names=['math', 'pi', 'KeyError', 'logger', 'error', 'np', 'array', 'viewconfig', 'FROM_RATIO', 'tan', 'FAR', 'NEAR', 'cos', 'sin', 'copy', 'range', 'append', 'info']
+  varnames=['level', 'side', 'DEGREE', 'height', 'width', 'x', 'y', 'z', 'e', 'transform_matrix', 'perspective_matrix', 'rotate_x_matrix', 'rotate_y_matrix', 'final_matrix', 'out_pos', 'i', 'tmp_pos', 'j', 'tile', 'map_point', 'view_point']
+      0 LOAD_GLOBAL                  27136   !!越界[27136]
+     12 LOAD_FAST                    25600   !!越界[25600]
+     14 LOAD_CONST                    6402   !!越界[6402]
+     16 BINARY_SUBSCR                     
+     26 STORE_FAST                   32003   !!越界[32003]
+     28 STORE_FAST                   31748   !!越界[31748]
+     30 LOAD_FAST                    25600   !!越界[25600]
+     32 LOAD_CONST                    6404   !!越界[6404]
+     34 BINARY_SUBSCR                     
+     44 LOAD_CONST                    6406   !!越界[6406]
+     46 BINARY_SUBSCR                     
+     56 ASYNC_GEN_WRAP               28160
+     58 JUMP_FORWARD                  1090
+     60 <4>                          29696
+     62 LOAD_GLOBAL                  30978   !!越界[30978]
+     74 LOAD_GLOBAL                  40963   !!越界[40963]
+     86 <161>                          257
+     88 POP_TOP                           
+     90 LOAD_GLOBAL                  25602   !!越界[25602]
+    102 RAISE_VARARGS                22273
+    104 ASYNC_GEN_WRAP               22784
+    106 POP_EXCEPT                        
+    108 LOAD_CONST                   32008   !!越界[32008]
+    110 STORE_FAST                   32264   !!越界[32264]
+    112 DELETE_FAST                  28168   !!越界[28168]
+    114 JUMP_FORWARD                 25610
+    116 LOAD_CONST                   32008   !!越界[32008]
+    118 STORE_FAST                   32264   !!越界[32264]
+    120 DELETE_FAST                  12296   !!越界[12296]
+    122 <48>                         12288
+    124 <48>                         29696
+    126 LOAD_GLOBAL                  40965   !!越界[40965]
+    138 UNARY_NEGATIVE                    
+    140 BUILD_LIST                   25604
+    142 LOAD_CONST                   25606   !!越界[25606]
+    144 LOAD_CONST                   25605   !!越界[25605]
+    146 LOAD_CONST                   31750   !!越界[31750]
+    148 LOAD_FAST                     2822   !!越界[2822]
+    150 UNARY_NEGATIVE                    
+    152 BUILD_LIST                   25604
+    154 LOAD_CONST                   25606   !!越界[25606]
+    156 LOAD_CONST                   25606   !!越界[25606]
+    158 LOAD_CONST                   31749   !!越界[31749]
+    160 LOAD_FAST                     2823   !!越界[2823]
+    162 UNARY_NEGATIVE                    
+    164 BUILD_LIST                   26372
+    166 BUILD_LIST                   25600
+    168 LOAD_CONST                   41481   !!越界[41481]
+    170 LIST_EXTEND                  26369
+    172 BUILD_LIST                   41220
+    174 <161>                        32001
+    176 STORE_FAST                   29705   !!越界[29705]
+    178 LOAD_GLOBAL                  40965   !!越界[40965]
+    190 LOAD_CONST                   31754   !!越界[31754]
+    192 LOAD_FAST                     5122   !!越界[5122]
+    194 <20>                         41216
+    196 <161>                         6913
+    198 <27>                         25600
+    200 LOAD_CONST                   25606   !!越界[25606]
+    202 LOAD_CONST                   25606   !!越界[25606]
+    204 LOAD_CONST                   26374   !!越界[26374]
+    206 BUILD_LIST                   25604
+    208 LOAD_CONST                   25606   !!越界[25606]
+    210 LOAD_CONST                   29701   !!越界[29701]
+    212 LOAD_GLOBAL                  40960   !!越界[40960]
+    224 <27>                         25600
+    226 LOAD_CONST                   25606   !!越界[25606]
+    228 LOAD_CONST                   26374   !!越界[26374]
+    230 BUILD_LIST                   25604
+    232 LOAD_CONST                   25606   !!越界[25606]
+    234 LOAD_CONST                   29702   !!越界[29702]
+    236 LOAD_GLOBAL                  27143   !!越界[27143]
+    248 LOAD_GLOBAL                  27143   !!越界[27143]
+    260 LOAD_GLOBAL                  27143   !!越界[27143]
+    272 <20>                          2816
+    274 UNARY_NEGATIVE                    
+    276 LOAD_GLOBAL                  27143   !!越界[27143]
+    288 BUILD_LIST                   26372
+    290 BUILD_LIST                   25600
+    292 LOAD_CONST                   41484   !!越界[41484]
+    294 LIST_EXTEND                  26369
+    296 BUILD_LIST                   41220
+    298 <161>                        32001
+    300 STORE_FAST                   29706   !!越界[29706]
+    302 LOAD_GLOBAL                  40965   !!越界[40965]
+    314 LOAD_GLOBAL                  40960   !!越界[40960]
+    326 LOAD_GLOBAL                  40960   !!越界[40960]
+    338 UNARY_NEGATIVE                    
+    340 LOAD_CONST                   26374   !!越界[26374]
+    342 BUILD_LIST                   25604
+    344 LOAD_CONST                   29702   !!越界[29702]
+    346 LOAD_GLOBAL                  40960   !!越界[40960]
+    358 UNARY_NEGATIVE                    
+    360 LOAD_GLOBAL                  40960   !!越界[40960]
+    372 UNARY_NEGATIVE                    
+    374 LOAD_CONST                   26374   !!越界[26374]
+    376 BUILD_LIST                   26372
+    378 BUILD_LIST                   25600
+    380 LOAD_CONST                   41481   !!越界[41481]
+    382 LIST_EXTEND                  26369
+    384 BUILD_LIST                   41220
+    386 <161>                        32001
+    388 STORE_FAST                   29707   !!越界[29707]
+    390 LOAD_GLOBAL                  40965   !!越界[40965]
+    402 <20>                         41216
+    404 <161>                        25601
+    406 LOAD_CONST                   29702   !!越界[29702]
+    408 LOAD_GLOBAL                  40960   !!越界[40960]
+    420 LOAD_CONST                   26374   !!越界[26374]
+    422 BUILD_LIST                   26372
+    424 BUILD_LIST                   25600
+    426 LOAD_CONST                   41488   !!越界[41488]
+    428 LIST_EXTEND                  29697
+    430 LOAD_GLOBAL                  40960   !!越界[40960]
+    442 UNARY_NEGATIVE                    
+    444 LOAD_CONST                   29702   !!越界[29702]
+    446 LOAD_GLOBAL                  40960   !!越界[40960]
+    458 LOAD_CONST                   26374   !!越界[26374]
+    460 BUILD_LIST                   26372
+    462 BUILD_LIST                   25600
+    464 LOAD_CONST                   41481   !!越界[41481]
+    466 LIST_EXTEND                  26369
+    468 BUILD_LIST                   41220
+    470 <161>                        32001
+    472 STORE_FAST                   31756   !!越界[31756]
+    474 LOAD_FAST                    36865   !!越界[36865]
+    476 EXTENDED_ARG                 29185
+    478 POP_JUMP_FORWARD_IF_FALSE    31990
+    480 LOAD_FAST                    31754   !!越界[31754]
+    482 LOAD_FAST                     4107   !!越界[4107]
+    484 <16>                         31744
+    486 LOAD_FAST                     4108   !!越界[4108]
+    488 <16>                         31744
+    490 LOAD_FAST                    40969   !!越界[40969]
+    492 LOAD_METHOD                  41230   !!越界[41230]
+    514 <16>                         32000
+    516 STORE_FAST                   26381   !!越界[26381]
+    518 BUILD_LIST                   32000
+    520 STORE_FAST                   29710   !!越界[29710]
+    522 LOAD_GLOBAL                  31759   !!越界[31759]
+    534 BUILD_LIST                   32000
+    536 STORE_FAST                   29712   !!越界[29712]
+    538 LOAD_GLOBAL                  31759   !!越界[31759]
+    550 LOAD_FAST                    25600   !!越界[25600]
+    552 LOAD_CONST                    6417   !!越界[6417]
+    554 BINARY_SUBSCR                     
+    564 STORE_FAST                   29714   !!越界[29714]
+    566 LOAD_GLOBAL                  40965   !!越界[40965]
+    578 LOAD_CONST                    6930   !!越界[6930]
+    580 <27>                          6144
+    582 <24>                         31744
+    584 LOAD_FAST                    25603   !!越界[25603]
+    586 LOAD_CONST                    6149   !!越界[6149]
+    588 <24>                         25600
+    590 LOAD_CONST                    6930   !!越界[6930]
+    592 <27>                         31744
+    594 LOAD_FAST                     6159   !!越界[6159]
+    596 <24>                         31744
+    598 LOAD_FAST                    25618   !!越界[25618]
+    600 LOAD_CONST                    6419   !!越界[6419]
+    602 BINARY_SUBSCR                     
+    612 <161>                        32001
+    614 STORE_FAST                   31763   !!越界[31763]
+    616 LOAD_FAST                    31757   !!越界[31757]
+    618 LOAD_FAST                     4115   !!越界[4115]
+    620 <16>                         32000
+    622 STORE_FAST                   31764   !!越界[31764]
+    624 LOAD_FAST                    31764   !!越界[31764]
+    626 LOAD_FAST                    25620   !!越界[25620]
+    628 LOAD_CONST                    6421   !!越界[6421]
+    630 BINARY_SUBSCR                     
+    640 <23>                         25600
+    642 LOAD_CONST                    6923   !!越界[6923]
+    644 <27>                         32000
+    646 STORE_FAST                   31764   !!越界[31764]
+    648 LOAD_FAST                    40976   !!越界[40976]
+    650 LOAD_METHOD                  31760   !!越界[31760]
+    672 POP_TOP                           
+    674 EXTENDED_ARG                 28930
+    676 <113>                        31778
+    678 LOAD_FAST                    40974   !!越界[40974]
+    680 LOAD_METHOD                  31760   !!越界[31760]
+    702 LOAD_CONST                   31767   !!越界[31767]
+    704 LOAD_FAST                    39684   !!越界[39684]
+    706 FORMAT_VALUE                 40192
+    708 BUILD_STRING                 41220
+    710 <161>                          257
+    712 POP_TOP                           
+    714 LOAD_FAST                    21262   !!越界[21262]
+    716 RETURN_VALUE                      
+
+===== transform_map_to_view  argcount=2 nlocals=21 co_code=718B
+  consts=['\n    Transforms a map to a view based on the given parameters.\n\n    Parameters:\n    level (dict): The map data.\n\n    Returns:\n    list: A 2D list of tuples representing the transformed map points in ratio form.\n    ', 180, 'height', 'width', 'view', 1, 0, 'Error loading map data: ', None, (0, 0, 0, 1), 20, 2, (0, 0, -1, 0), (1, 0, 0, 0), 30, 10, (0, 1, 0, 0), 'tiles', 2.0, 'heightType', -0.4, 3, 'Transformed map to view, size: ', 'x']
+  names=['math', 'pi', 'KeyError', 'logger', 'error', 'np', 'array', 'viewconfig', 'FROM_RATIO', 'tan', 'FAR', 'NEAR', 'cos', 'sin', 'copy', 'range', 'append', 'info']
+  varnames=['level', 'side', 'DEGREE', 'height', 'width', 'x', 'y', 'z', 'e', 'transform_matrix', 'perspective_matrix', 'rotate_x_matrix', 'rotate_y_matrix', 'final_matrix', 'out_pos', 'i', 'tmp_pos', 'j', 'tile', 'map_point', 'view_point']
+      0 LOAD_GLOBAL                  27136   !!越界[27136]
+     12 LOAD_FAST                    25600   !!越界[25600]
+     14 LOAD_CONST                    6402   !!越界[6402]
+     16 BINARY_SUBSCR                     
+     26 STORE_FAST                   32003   !!越界[32003]
+     28 STORE_FAST                   31748   !!越界[31748]
+     30 LOAD_FAST                    25600   !!越界[25600]
+     32 LOAD_CONST                    6404   !!越界[6404]
+     34 BINARY_SUBSCR                     
+     44 LOAD_CONST                    6406   !!越界[6406]
+     46 BINARY_SUBSCR                     
+     56 ASYNC_GEN_WRAP               28160
+     58 JUMP_FORWARD                  1090
+     60 <4>                          29696
+     62 LOAD_GLOBAL                  30978   !!越界[30978]
+     74 LOAD_GLOBAL                  40963   !!越界[40963]
+     86 <161>                          257
+     88 POP_TOP                           
+     90 LOAD_GLOBAL                  25602   !!越界[25602]
+    102 RAISE_VARARGS                22273
+    104 ASYNC_GEN_WRAP               22784
+    106 POP_EXCEPT                        
+    108 LOAD_CONST                   32008   !!越界[32008]
+    110 STORE_FAST                   32264   !!越界[32264]
+    112 DELETE_FAST                  28168   !!越界[28168]
+    114 JUMP_FORWARD                 25610
+    116 LOAD_CONST                   32008   !!越界[32008]
+    118 STORE_FAST                   32264   !!越界[32264]
+    120 DELETE_FAST                  12296   !!越界[12296]
+    122 <48>                         12288
+    124 <48>                         29696
+    126 LOAD_GLOBAL                  40965   !!越界[40965]
+    138 UNARY_NEGATIVE                    
+    140 BUILD_LIST                   25604
+    142 LOAD_CONST                   25606   !!越界[25606]
+    144 LOAD_CONST                   25605   !!越界[25605]
+    146 LOAD_CONST                   31750   !!越界[31750]
+    148 LOAD_FAST                     2822   !!越界[2822]
+    150 UNARY_NEGATIVE                    
+    152 BUILD_LIST                   25604
+    154 LOAD_CONST                   25606   !!越界[25606]
+    156 LOAD_CONST                   25606   !!越界[25606]
+    158 LOAD_CONST                   31749   !!越界[31749]
+    160 LOAD_FAST                     2823   !!越界[2823]
+    162 UNARY_NEGATIVE                    
+    164 BUILD_LIST                   26372
+    166 BUILD_LIST                   25600
+    168 LOAD_CONST                   41481   !!越界[41481]
+    170 LIST_EXTEND                  26369
+    172 BUILD_LIST                   41220
+    174 <161>                        32001
+    176 STORE_FAST                   29705   !!越界[29705]
+    178 LOAD_GLOBAL                  40965   !!越界[40965]
+    190 LOAD_CONST                   31754   !!越界[31754]
+    192 LOAD_FAST                     5122   !!越界[5122]
+    194 <20>                         41216
+    196 <161>                         6913
+    198 <27>                         25600
+    200 LOAD_CONST                   25606   !!越界[25606]
+    202 LOAD_CONST                   25606   !!越界[25606]
+    204 LOAD_CONST                   26374   !!越界[26374]
+    206 BUILD_LIST                   25604
+    208 LOAD_CONST                   25606   !!越界[25606]
+    210 LOAD_CONST                   29701   !!越界[29701]
+    212 LOAD_GLOBAL                  40960   !!越界[40960]
+    224 <27>                         25600
+    226 LOAD_CONST                   25606   !!越界[25606]
+    228 LOAD_CONST                   26374   !!越界[26374]
+    230 BUILD_LIST                   25604
+    232 LOAD_CONST                   25606   !!越界[25606]
+    234 LOAD_CONST                   29702   !!越界[29702]
+    236 LOAD_GLOBAL                  27143   !!越界[27143]
+    248 LOAD_GLOBAL                  27143   !!越界[27143]
+    260 LOAD_GLOBAL                  27143   !!越界[27143]
+    272 <20>                          2816
+    274 UNARY_NEGATIVE                    
+    276 LOAD_GLOBAL                  27143   !!越界[27143]
+    288 BUILD_LIST                   26372
+    290 BUILD_LIST                   25600
+    292 LOAD_CONST                   41484   !!越界[41484]
+    294 LIST_EXTEND                  26369
+    296 BUILD_LIST                   41220
+    298 <161>                        32001
+    300 STORE_FAST                   29706   !!越界[29706]
+    302 LOAD_GLOBAL                  40965   !!越界[40965]
+    314 LOAD_GLOBAL                  40960   !!越界[40960]
+    326 LOAD_GLOBAL                  40960   !!越界[40960]
+    338 UNARY_NEGATIVE                    
+    340 LOAD_CONST                   26374   !!越界[26374]
+    342 BUILD_LIST                   25604
+    344 LOAD_CONST                   29702   !!越界[29702]
+    346 LOAD_GLOBAL                  40960   !!越界[40960]
+    358 UNARY_NEGATIVE                    
+    360 LOAD_GLOBAL                  40960   !!越界[40960]
+    372 UNARY_NEGATIVE                    
+    374 LOAD_CONST                   26374   !!越界[26374]
+    376 BUILD_LIST                   26372
+    378 BUILD_LIST                   25600
+    380 LOAD_CONST                   41481   !!越界[41481]
+    382 LIST_EXTEND                  26369
+    384 BUILD_LIST                   41220
+    386 <161>                        32001
+    388 STORE_FAST                   29707   !!越界[29707]
+    390 LOAD_GLOBAL                  40965   !!越界[40965]
+    402 <20>                         41216
+    404 <161>                        25601
+    406 LOAD_CONST                   29702   !!越界[29702]
+    408 LOAD_GLOBAL                  40960   !!越界[40960]
+    420 LOAD_CONST                   26374   !!越界[26374]
+    422 BUILD_LIST                   26372
+    424 BUILD_LIST                   25600
+    426 LOAD_CONST                   41488   !!越界[41488]
+    428 LIST_EXTEND                  29697
+    430 LOAD_GLOBAL                  40960   !!越界[40960]
+    442 UNARY_NEGATIVE                    
+    444 LOAD_CONST                   29702   !!越界[29702]
+    446 LOAD_GLOBAL                  40960   !!越界[40960]
+    458 LOAD_CONST                   26374   !!越界[26374]
+    460 BUILD_LIST                   26372
+    462 BUILD_LIST                   25600
+    464 LOAD_CONST                   41481   !!越界[41481]
+    466 LIST_EXTEND                  26369
+    468 BUILD_LIST                   41220
+    470 <161>                        32001
+    472 STORE_FAST                   31756   !!越界[31756]
+    474 LOAD_FAST                    36865   !!越界[36865]
+    476 EXTENDED_ARG                 29185
+    478 POP_JUMP_FORWARD_IF_FALSE    31990
+    480 LOAD_FAST                    31754   !!越界[31754]
+    482 LOAD_FAST                     4107   !!越界[4107]
+    484 <16>                         31744
+    486 LOAD_FAST                     4108   !!越界[4108]
+    488 <16>                         31744
+    490 LOAD_FAST                    40969   !!越界[40969]
+    492 LOAD_METHOD                  41230   !!越界[41230]
+    514 <16>                         32000
+    516 STORE_FAST                   26381   !!越界[26381]
+    518 BUILD_LIST                   32000
+    520 STORE_FAST                   29710   !!越界[29710]
+    522 LOAD_GLOBAL                  31759   !!越界[31759]
+    534 BUILD_LIST                   32000
+    536 STORE_FAST                   29712   !!越界[29712]
+    538 LOAD_GLOBAL                  31759   !!越界[31759]
+    550 LOAD_FAST                    25600   !!越界[25600]
+    552 LOAD_CONST                    6417   !!越界[6417]
+    554 BINARY_SUBSCR                     
+    564 STORE_FAST                   29714   !!越界[29714]
+    566 LOAD_GLOBAL                  40965   !!越界[40965]
+    578 LOAD_CONST                    6930   !!越界[6930]
+    580 <27>                          6144
+    582 <24>                         31744
+    584 LOAD_FAST                    25603   !!越界[25603]
+    586 LOAD_CONST                    6149   !!越界[6149]
+    588 <24>                         25600
+    590 LOAD_CONST                    6930   !!越界[6930]
+    592 <27>                         31744
+    594 LOAD_FAST                     6159   !!越界[6159]
+    596 <24>                         31744
+    598 LOAD_FAST                    25618   !!越界[25618]
+    600 LOAD_CONST                    6419   !!越界[6419]
+    602 BINARY_SUBSCR                     
+    612 <161>                        32001
+    614 STORE_FAST                   31763   !!越界[31763]
+    616 LOAD_FAST                    31757   !!越界[31757]
+    618 LOAD_FAST                     4115   !!越界[4115]
+    620 <16>                         32000
+    622 STORE_FAST                   31764   !!越界[31764]
+    624 LOAD_FAST                    31764   !!越界[31764]
+    626 LOAD_FAST                    25620   !!越界[25620]
+    628 LOAD_CONST                    6421   !!越界[6421]
+    630 BINARY_SUBSCR                     
+    640 <23>                         25600
+    642 LOAD_CONST                    6923   !!越界[6923]
+    644 <27>                         32000
+    646 STORE_FAST                   31764   !!越界[31764]
+    648 LOAD_FAST                    40976   !!越界[40976]
+    650 LOAD_METHOD                  31760   !!越界[31760]
+    672 POP_TOP                           
+    674 EXTENDED_ARG                 28930
+    676 <113>                        31778
+    678 LOAD_FAST                    40974   !!越界[40974]
+    680 LOAD_METHOD                  31760   !!越界[31760]
+    702 LOAD_CONST                   31767   !!越界[31767]
+    704 LOAD_FAST                    39684   !!越界[39684]
+    706 FORMAT_VALUE                 40192
+    708 BUILD_STRING                 41220
+    710 <161>                          257
+    712 POP_TOP                           
+    714 LOAD_FAST                    21262   !!越界[21262]
+    716 RETURN_VALUE                      

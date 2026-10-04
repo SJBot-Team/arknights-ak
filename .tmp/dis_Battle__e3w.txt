@@ -1,0 +1,50 @@
+﻿== Assembly-CSharp.dll ==  md=v4.0.30319 TypeDef=1623 MethodDef=6684 Field=6047 TypeRef=269 MemberRef=1470 US=957
+
+===== Battle::e3w : void (this )  [MD79] =====
+  IL_0000: ldarg.0        
+  IL_0001: call           Battle::rrr
+  IL_0006: ldarg.0        
+  IL_0007: ldfld          Battle::Finish
+  IL_000C: brfalse.s      15
+  IL_000E: ret            
+  IL_000F: ldarg.0        
+  IL_0010: ldfld          Battle::Cost
+  IL_0015: ldarg.0        
+  IL_0016: ldfld          Battle::MaxCost
+  IL_001B: ble.un.s       57
+  IL_001D: ldarg.0        
+  IL_001E: ldarg.0        
+  IL_001F: ldfld          Battle::MaxCost
+  IL_0024: stfld          Battle::Cost
+  IL_0029: ldarg.0        
+  IL_002A: ldfld          Battle::CostCounting
+  IL_002F: ldc.r4         1.0
+  IL_0034: callvirt       CountDown::ris
+  IL_0039: ldarg.0        
+  IL_003A: ldfld          Battle::Cost
+  IL_003F: ldc.r4         0.0
+  IL_0044: bge.un.s       81
+  IL_0046: ldarg.0        
+  IL_0047: ldc.r4         0.0
+  IL_004C: stfld          Battle::Cost
+  IL_0051: ldarg.0        
+  IL_0052: ldfld          Battle::PlayerUnits
+  IL_0057: callvirt       <et0x0>::ToArray
+  IL_005C: stloc.0        
+  IL_005D: ldc.i4.0       
+  IL_005E: stloc.1        
+  IL_005F: br.s           109
+  IL_0061: ldloc.0        
+  IL_0062: ldloc.1        
+  IL_0063: ldelem.ref     
+  IL_0064: callvirt       Units.干员::ets3
+  IL_0069: ldloc.1        
+  IL_006A: ldc.i4.1       
+  IL_006B: add            
+  IL_006C: stloc.1        
+  IL_006D: ldloc.1        
+  IL_006E: ldloc.0        
+  IL_006F: ldlen          
+  IL_0070: conv.i4        
+  IL_0071: blt.s          97
+  IL_0073: ret            

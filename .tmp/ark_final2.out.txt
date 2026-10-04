@@ -1,0 +1,81 @@
+﻿
+======================== 2. BuffData JSONL sample lines ========================
+bundle: E:\__file\ak\ArknightR\ArknightR_Data\StreamingAssets\aa\StandaloneWindows64\defaultlocalgroup_assets_assets\bundles\data\buffdata_b280d244257e7c147301361fd609c0df.bundle
+JSONL 行数: 4365
+    {"Id":"测试Buff","Type":"测试Buff"}
+    {"Id":"攻速提升","Type":"数值变化","Data":{"t":["AgiAdd"]}}
+    {"Id":"减速","Type":"数值变化","Data":{"t":["SpeedRate"]}}
+    {"Id":"攻击提升","Type":"数值变化","Data":{"t":["AttackRate"]}}
+    {"Id":"生命提升","Type":"数值变化","Data":{"t":["HpRate"]}}
+    {"Id":"生命提升叠加","Type":"数值变化叠加","Data":{"t":["HpRate"],"MaxLevel":99}}
+    {"Id":"防御提升加","Type":"数值变化","Data":{"t":["DefenceAdd"]}}
+    {"Id":"防御提升","Type":"数值变化","Data":{"t":["DefenceRate"]}}
+    {"Id":"部署费用提升","Type":"数值变化","Data":{"t":["CostAdd"]}}
+    {"Id":"再部署时间降低","Type":"数值变化","Data":{"t":["ResetTimeRate"]}}
+    {"Id":"全部格挡","Type":"数值变化","Data":{"t":["AllBlock"]}}
+    {"Id":"物理格挡","Type":"数值变化","Data":{"t":["NormalBlock"]}}
+   ... 末行: {"Id":"克劳斯孽茨雷标记","Type":"普通Buff"}
+   字段出现次数 top 30: [('Id', 4365), ('Type', 4365), ('UnSourceCheck', 3388), ('Data', 3311), ('LastingEffect', 1334), ('DeadRemain', 618), ('LastTime', 318), ('OrderCount', 143), ('DeadRemove', 87), ('BuffDataEx', 82), ('SkillEndRemove', 81), ('AttackPoints', 53), ('BuffCauseEffect', 41), ('StopNeed', 32), ('RelyBuff', 26), ('Resist', 24), ('StopLess', 5), ('HealOrderCount', 4), ('HpMore', 3), ('RoundNeed', 3), ('HpLess', 3), ('RotateSpeed', 3), ('IfSwitch', 3), ('ExHealPoints', 2), ('Upgrade', 1), ('EnemyWithoutHide', 1), ('StopBuffNeed', 1)]
+   一行最多字段数: 8
+
+======================== 3. E: vs D: distribution ========================
+
+E: files=969 total=180.3MB
+    ArknightR_Data\Managed                                             103     24.5MB
+    ArknightR_Data                                                      23     24.4MB
+    .                                                                    3     29.2MB
+    ArknightR_Data\StreamingAssets\aa\StandaloneWindows64                3      0.3MB
+    ArknightR_Data\Resources                                             2      5.0MB
+    ArknightR_Data\StreamingAssets                                       2      2.8MB
+    ArknightR_Data\StreamingAssets\aa                                    2      5.6MB
+    ArknightR_Data\StreamingAssets\aa\AddressablesLink                   1      0.0MB
+    MonoBleedingEdge: False | StreamingAssets/aa: True
+    productName='ArknightR' bundleVersion='0.1032'
+
+D: files=3543 total=735.5MB
+    ArknightR_Data\Managed                                             103     24.5MB
+    ArknightR_Data\StreamingAssets\map                                  42      0.9MB
+    ArknightR_Data                                                      23     24.4MB
+    ArknightR_Data\StreamingAssets\data                                  9      5.5MB
+    MonoBleedingEdge\etc\mono\2.0                                        4      0.1MB
+    MonoBleedingEdge\etc\mono\4.0                                        4      0.1MB
+    MonoBleedingEdge\etc\mono\4.5                                        4      0.1MB
+    .                                                                    3     29.2MB
+    ArknightR_Data\StreamingAssets\aa\StandaloneWindows64                3      0.3MB
+    ArknightR_Data\Resources                                             2      5.0MB
+    ArknightR_Data\StreamingAssets                                       2      2.8MB
+    ArknightR_Data\StreamingAssets\aa                                    2      5.6MB
+    MonoBleedingEdge\EmbedRuntime                                        2      7.9MB
+    MonoBleedingEdge\etc\mono                                            2      0.3MB
+    ArknightR_Data\StreamingAssets\aa\AddressablesLink                   1      0.0MB
+    MonoBleedingEdge\etc\mono\mconfig                                    1      0.0MB
+    MonoBleedingEdge: True | StreamingAssets/aa: True
+    productName='ArknightR' bundleVersion='0.1032'
+
+======================== 4. D: bundle dir census ========================
+    DLG\bundles\units                                 1918 bundles    407.7 MB
+    DLG\bundles\effect                                1297 bundles    134.2 MB
+    DLG\bundles\ui                                      53 bundles     75.3 MB
+    DLG\bundles\data                                    19 bundles      1.4 MB
+    DLG\bundles\data\maps                               10 bundles      0.0 MB
+    DLG\bundles\other                                    9 bundles      0.1 MB
+    DLG\bundles\other\tiles                              9 bundles      2.0 MB
+    DLG\bundles\dungeontile                              7 bundles      0.2 MB
+    DLG\bundles\units\materials                          4 bundles      0.1 MB
+    .                                                    3 bundles      0.3 MB
+    DLG\bundles\image\background                         3 bundles      0.5 MB
+    DLG\bundles\audio                                    2 bundles      4.8 MB
+    DLG\bundles\bullet                                   1 bundles      0.0 MB
+    defaultlocalgroup_assets_res\scene\h6-4              1 bundles      2.7 MB
+
+======================== 5. E: copy - any char/enemy/unit/spine bundles? ========================
+  char_    startswith -> 3    sample=['char_bobb_skill_range_01_f00102ce32e694196d97a330c2e2e520.bundle', 'char_bobb_skill_range_02_58c1eef09fd1c741ecc6d6490280ea79.bundle', 'char_bobb_skill_range_03_1c80267bd54e1d4f3f4f95c5a4452d2f.bundle']
+  enemy_   startswith -> 334  sample=['enemy_1287_ducrb_attack_01_33993eeaf9b830d8d11afc4f2d1313cb.bundle', 'enemy_1287_ducrb_buff_01_1c1e36faa43d0c46734c8c5f3de7cd45.bundle', 'enemy_1287_ducrb_hit_01_7df54951027b3d974119a71738d91100.bundle', 'enemy_1290_duflm_attack_01_954f26badbdf036b3307bea98beecad3.bundle']
+  spine    startswith -> 0    sample=[]
+  unit     startswith -> 2    sample=['unitdata_6753a54a33666e72444adef6fd9d55b1.bundle', 'unitdata_769bc5d5aac9e83544883e20a9ea8a11.bundle']
+  token    startswith -> 0    sample=[]
+  trap     startswith -> 0    sample=[]
+  common   startswith -> 59   sample=['common_assets_all_8e94e7adf238b066981aa12c64026f99.bundle', 'common_scenes_all_aa377d6dd2d1fd412d566eac39675bab.bundle', 'common_buff_defense_01_944ce24191ded72651d366cdba33a690.bundle', 'common_buff_defense_01_fd203766d90bd136089f5800fdf1fe99.bundle']
+  skill    startswith -> 2    sample=['skilldata_5dc9abb460f27b7be27f5e7e4185d061.bundle', 'skilldata_eb8b96456f5205cf12429c344c532d89.bundle']
+  buff     startswith -> 42   sample=['buffdata_b280d244257e7c147301361fd609c0df.bundle', 'buffdata_b426dacf91edbf0fba99c13e0080ce16.bundle', 'buff_atkupaura_0a7a2951ab3319d20c31fcf70d22fb76.bundle', 'buff_atkup_dedb8459462c1c765ec4fa27d26f2615.bundle']
+  total 833

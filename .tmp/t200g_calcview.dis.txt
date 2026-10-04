@@ -1,0 +1,338 @@
+=== <module>  argcount=2 nlocals=21 co_code=718B
+  consts=['\n    Transforms a map to a view based on the given parameters.\n\n    Parameters:\n    level (dict): The map data.\n\n    Returns:\n    list: A 2D list of tuples representing the transformed map points in ratio form.\n    ', 180, 'height', 'width', 'view', 1, 0, 'Error loading map data: ', None, (0, 0, 0, 1), 20, 2, (0, 0, -1, 0), (1, 0, 0, 0), 30, 10, (0, 1, 0, 0), 'tiles', 2.0, 'heightType', -0.4, 3, 'Transformed map to view, size: ', 'x']
+  names=['math', 'pi', 'KeyError', 'logger', 'error', 'np', 'array', 'viewconfig', 'FROM_RATIO', 'tan', 'FAR', 'NEAR', 'cos', 'sin', 'copy', 'range', 'append', 'info']
+  varnames=['level', 'side', 'DEGREE', 'height', 'width', 'x', 'y', 'z', 'e', 'transform_matrix', 'perspective_matrix', 'rotate_x_matrix', 'rotate_y_matrix', 'final_matrix', 'out_pos', 'i', 'tmp_pos', 'j', 'tile', 'map_point', 'view_point']
+    0 <0>
+    2 BUILD_SLICE                25601
+    4 WITH_EXCEPT_START
+    6 BINARY_FLOOR_DIVIDE
+    8 <9>
+   10 <6>
+   12 <8>
+   14 WITH_EXCEPT_START
+   16 BINARY_POWER
+   18 <8>
+   20 WITH_EXCEPT_START
+   22 BINARY_POWER
+   24 PUSH_NULL
+   26 <9>
+   28 <9>
+   30 <8>
+   32 WITH_EXCEPT_START
+   34 BINARY_POWER
+   36 <8>
+   38 CACHE3
+   40 WITH_EXCEPT_START
+   42 LOAD_ATTR_SUPER
+   44 WITH_EXCEPT_START
+   46 BINARY_POWER
+   48 RETURN_CONST               32003
+   50 <9>
+   52 <9>
+   54 <9>
+   56 LOAD_DEREF
+   58 LOAD_ATTR_SUPER
+   60 UNARY_POSITIVE
+   62 <0>
+   64 <5>
+   66 POP_TOP
+   68 <9>
+   70 POP_TOP
+   72 <6>
+   74 <0>
+   76 <44>
+   78 WITH_EXCEPT_START
+   80 <8>
+   82 <39>
+   84 <41>
+   86 <45>
+   88 POP_TOP
+   90 <0>
+   92 WITH_EXCEPT_START
+   94 <8>
+   96 <39>
+   98 <41>
+  100 <15>
+  102 <14>
+  104 LOAD_DEREF
+  106 DELETE_DEREF
+  108 WITH_EXCEPT_START
+  110 <9>
+  112 <10>
+  114 LOAD_ATTR_SUPER
+  116 WITH_EXCEPT_START
+  118 <9>
+  120 <10>
+  122 DELETE_NAME                12288   !!name[12288]
+  124 DELETE_NAME                29696   !!name[29696]
+  126 <0>
+  128 <44>
+  130 WITH_EXCEPT_START
+  132 WITH_EXCEPT_START
+  134 WITH_EXCEPT_START
+  136 <8>
+  138 BINARY_LSHIFT
+  140 RAISE_VARARGS              25604
+  142 WITH_EXCEPT_START
+  144 WITH_EXCEPT_START
+  146 WITH_EXCEPT_START
+  148 <8>
+  150 BINARY_LSHIFT
+  152 RAISE_VARARGS              25604
+  154 WITH_EXCEPT_START
+  156 WITH_EXCEPT_START
+  158 WITH_EXCEPT_START
+  160 <8>
+  162 BINARY_LSHIFT
+  164 RAISE_VARARGS              26372
+  166 RAISE_VARARGS              25600
+  168 WITH_EXCEPT_START
+  170 <46>
+  172 RAISE_VARARGS              41220
+  174 <45>
+  176 <9>
+  178 <0>
+  180 <44>
+  182 <0>
+  184 BUILD_SLICE                29704
+  186 <0>
+  188 <44>
+  190 WITH_EXCEPT_START
+  192 <8>
+  194 STORE_SUBSCR               41216
+  198 BINARY_FLOOR_DIVIDE
+  200 WITH_EXCEPT_START
+  202 WITH_EXCEPT_START
+  204 WITH_EXCEPT_START
+  206 RAISE_VARARGS              25604
+  208 WITH_EXCEPT_START
+  210 WITH_EXCEPT_START
+  212 <0>
+  214 <44>
+  216 WITH_EXCEPT_START
+  218 <8>
+  220 STORE_SUBSCR               41216
+  224 BINARY_FLOOR_DIVIDE
+  226 WITH_EXCEPT_START
+  228 WITH_EXCEPT_START
+  230 RAISE_VARARGS              25604
+  232 WITH_EXCEPT_START
+  234 WITH_EXCEPT_START
+  236 <0>
+  238 BUILD_SLICE                29706
+  240 <0>
+  242 BUILD_SLICE                 5899
+  244 BINARY_MULTIPLY
+  246 BINARY_LSHIFT
+  248 <0>
+  250 BUILD_SLICE                29706
+  252 <0>
+  254 BUILD_SLICE                 6155
+  256 BINARY_MODULO
+  258 BINARY_FLOOR_DIVIDE
+  260 <0>
+  262 BUILD_SLICE                29706
+  264 <0>
+  266 BUILD_SLICE                 5131
+  268 STORE_SUBSCR               25600
+  272 STORE_SUBSCR                2816
+  276 <0>
+  278 BUILD_SLICE                29706
+  280 <0>
+  282 BUILD_SLICE                 6155
+  284 BINARY_MODULO
+  286 BINARY_FLOOR_DIVIDE
+  288 RAISE_VARARGS              26372
+  290 RAISE_VARARGS              25600
+  292 WITH_EXCEPT_START
+  294 <46>
+  296 RAISE_VARARGS              41220
+  298 <45>
+  300 <9>
+  302 <0>
+  304 <44>
+  306 RAISE_VARARGS              25600
+  308 WITH_EXCEPT_START
+  310 <46>
+  312 WITH_EXCEPT_START
+  314 <0>
+  316 <44>
+  318 WITH_EXCEPT_START
+  320 <8>
+  322 STORE_SUBSCR               41216
+  326 <0>
+  328 <44>
+  330 WITH_EXCEPT_START
+  332 <8>
+  334 STORE_SUBSCR               41216
+  338 BINARY_LSHIFT
+  340 WITH_EXCEPT_START
+  342 RAISE_VARARGS              25604
+  344 WITH_EXCEPT_START
+  346 <0>
+  348 <44>
+  350 WITH_EXCEPT_START
+  352 <8>
+  354 STORE_SUBSCR               41216
+  358 BINARY_LSHIFT
+  360 <0>
+  362 <44>
+  364 WITH_EXCEPT_START
+  366 <8>
+  368 STORE_SUBSCR               41216
+  372 BINARY_LSHIFT
+  374 WITH_EXCEPT_START
+  376 RAISE_VARARGS              26372
+  378 RAISE_VARARGS              25600
+  380 WITH_EXCEPT_START
+  382 <46>
+  384 RAISE_VARARGS              41220
+  386 <45>
+  388 <9>
+  390 <0>
+  392 <44>
+  394 <0>
+  396 <44>
+  398 WITH_EXCEPT_START
+  400 <8>
+  402 STORE_SUBSCR               41216
+  406 WITH_EXCEPT_START
+  408 <0>
+  410 <44>
+  412 WITH_EXCEPT_START
+  414 <8>
+  416 STORE_SUBSCR               41216
+  420 WITH_EXCEPT_START
+  422 RAISE_VARARGS              26372
+  424 RAISE_VARARGS              25600
+  426 WITH_EXCEPT_START
+  428 <46>
+  430 <0>
+  432 <44>
+  434 WITH_EXCEPT_START
+  436 <8>
+  438 STORE_SUBSCR               41216
+  442 BINARY_LSHIFT
+  444 WITH_EXCEPT_START
+  446 <0>
+  448 <44>
+  450 WITH_EXCEPT_START
+  452 <8>
+  454 STORE_SUBSCR               41216
+  458 WITH_EXCEPT_START
+  460 RAISE_VARARGS              26372
+  462 RAISE_VARARGS              25600
+  464 WITH_EXCEPT_START
+  466 <46>
+  468 RAISE_VARARGS              41220
+  470 <45>
+  472 <9>
+  474 <8>
+  476 EXTENDED_ARG 29185
+  478 CACHE3
+  480 <8>
+  482 <8>
+  484 INPLACE_ADD
+  486 <8>
+  488 INPLACE_ADD
+  490 <8>
+  492 <44>
+  494 <45>
+  496 INPLACE_ADD
+  498 <9>
+  500 LOAD_ATTR_SUPER
+  502 <8>
+  504 <8>
+  506 INPLACE_ADD
+  508 <8>
+  510 <44>
+  512 <45>
+  514 INPLACE_ADD
+  516 <9>
+  518 RAISE_VARARGS              32000
+  520 <9>
+  522 <0>
+  524 <8>
+  526 <15>
+  528 POP_JUMP_BACKWARD_IF_FALSE 23808
+  532 <9>
+  534 RAISE_VARARGS              32000
+  536 <9>
+  538 <0>
+  540 <8>
+  542 <15>
+  544 POP_JUMP_BACKWARD_IF_FALSE 23808
+  548 <9>
+  550 <8>
+  552 WITH_EXCEPT_START
+  554 BINARY_POWER
+  556 <8>
+  558 BINARY_POWER
+  560 <8>
+  562 BINARY_POWER
+  564 <9>
+  566 <0>
+  568 <44>
+  570 <8>
+  572 <8>
+  574 WITH_EXCEPT_START
+  576 BINARY_MODULO
+  578 WITH_EXCEPT_START
+  580 BINARY_FLOOR_DIVIDE
+  582 BINARY_MODULO
+  584 <8>
+  586 WITH_EXCEPT_START
+  588 BINARY_MODULO
+  590 WITH_EXCEPT_START
+  592 BINARY_FLOOR_DIVIDE
+  594 <8>
+  596 BINARY_MODULO
+  598 <8>
+  600 WITH_EXCEPT_START
+  602 BINARY_POWER
+  604 WITH_EXCEPT_START
+  606 STORE_SUBSCR               25600
+  610 RAISE_VARARGS              41220
+  612 <45>
+  614 <9>
+  616 <8>
+  618 <8>
+  620 INPLACE_ADD
+  622 <9>
+  624 <8>
+  626 <8>
+  628 WITH_EXCEPT_START
+  630 BINARY_POWER
+  632 BINARY_FLOOR_DIVIDE
+  634 <9>
+  636 <8>
+  638 WITH_EXCEPT_START
+  640 BINARY_MULTIPLY
+  642 WITH_EXCEPT_START
+  644 BINARY_FLOOR_DIVIDE
+  646 <9>
+  648 <8>
+  650 <44>
+  652 <8>
+  654 WITH_EXCEPT_START
+  656 BINARY_POWER
+  658 WITH_EXCEPT_START
+  660 <8>
+  662 WITH_EXCEPT_START
+  664 BINARY_POWER
+  666 BINARY_MODULO
+  668 CALL_METHOD                41218   !!name[41218]
+  690 CACHE2
+  692 <0>
+  694 <44>
+  696 WITH_EXCEPT_START
+  698 <8>
+  700 <39>
+  702 WITH_EXCEPT_START
+  704 <8>
+  706 <39>
+  708 <41>
+  710 <45>
+  712 POP_TOP
+  714 <8>
+  716 STORE_FAST                     0   var='level'

@@ -1,0 +1,618 @@
+[
+ {
+  "frame": 30,
+  "t": 1.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 60,
+  "t": 2.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 90,
+  "t": 3.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 90,
+  "t": 3.0,
+  "type": "spawn",
+  "key": "enemy_1000_gopro_2",
+  "note": ""
+ },
+ {
+  "frame": 120,
+  "t": 4.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 150,
+  "t": 5.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 180,
+  "t": 6.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 210,
+  "t": 7.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 240,
+  "t": 8.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 270,
+  "t": 9.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 300,
+  "t": 10.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 327,
+  "t": 10.9,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 327,
+  "t": 10.9,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 330,
+  "t": 11.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 360,
+  "t": 12.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 360,
+  "t": 12.0,
+  "type": "spawn",
+  "key": "enemy_1000_gopro",
+  "note": ""
+ },
+ {
+  "frame": 390,
+  "t": 13.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 420,
+  "t": 14.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 450,
+  "t": 15.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 480,
+  "t": 16.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 510,
+  "t": 17.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 540,
+  "t": 18.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 543,
+  "t": 18.1,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 543,
+  "t": 18.1,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 570,
+  "t": 19.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 600,
+  "t": 20.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 630,
+  "t": 21.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 660,
+  "t": 22.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 660,
+  "t": 22.0,
+  "type": "spawn",
+  "key": "enemy_1000_gopro_2",
+  "note": ""
+ },
+ {
+  "frame": 690,
+  "t": 23.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 720,
+  "t": 24.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 750,
+  "t": 25.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 780,
+  "t": 26.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 810,
+  "t": 27.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 810,
+  "t": 27.0,
+  "type": "spawn",
+  "key": "enemy_1000_gopro",
+  "note": ""
+ },
+ {
+  "frame": 840,
+  "t": 28.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 870,
+  "t": 29.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 897,
+  "t": 29.9,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 897,
+  "t": 29.9,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 900,
+  "t": 30.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 930,
+  "t": 31.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 960,
+  "t": 32.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 990,
+  "t": 33.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 993,
+  "t": 33.1,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 993,
+  "t": 33.1,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1020,
+  "t": 34.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1050,
+  "t": 35.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1080,
+  "t": 36.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1110,
+  "t": 37.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1140,
+  "t": 38.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1170,
+  "t": 39.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1170,
+  "t": 39.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1200,
+  "t": 40.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1200,
+  "t": 40.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1230,
+  "t": 41.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1230,
+  "t": 41.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1260,
+  "t": 42.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1290,
+  "t": 43.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1320,
+  "t": 44.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1350,
+  "t": 45.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1380,
+  "t": 46.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1380,
+  "t": 46.0,
+  "type": "spawn",
+  "key": "enemy_1027_mob",
+  "note": ""
+ },
+ {
+  "frame": 1410,
+  "t": 47.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1440,
+  "t": 48.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1440,
+  "t": 48.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1470,
+  "t": 49.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1470,
+  "t": 49.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1500,
+  "t": 50.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1530,
+  "t": 51.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1545,
+  "t": 51.5,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1545,
+  "t": 51.5,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1560,
+  "t": 52.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1560,
+  "t": 52.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1590,
+  "t": 53.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1619,
+  "t": 53.967,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1619,
+  "t": 53.967,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1620,
+  "t": 54.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1650,
+  "t": 55.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1679,
+  "t": 55.967,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1679,
+  "t": 55.967,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1680,
+  "t": 56.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1710,
+  "t": 57.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1710,
+  "t": 57.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1740,
+  "t": 58.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1740,
+  "t": 58.0,
+  "type": "spawn",
+  "key": "enemy_1007_slime_2",
+  "note": ""
+ },
+ {
+  "frame": 1770,
+  "t": 59.0,
+  "type": "cost_up",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1788,
+  "t": 59.6,
+  "type": "despawn",
+  "key": "",
+  "note": ""
+ },
+ {
+  "frame": 1788,
+  "t": 59.6,
+  "type": "escape",
+  "key": "",
+  "note": ""
+ }
+]

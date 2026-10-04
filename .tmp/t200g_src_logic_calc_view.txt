@@ -1,0 +1,47 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_calc_view.pyc len=2373
+CODE <module> argcount=0 flags=0x40 nlocals=0
+  names=['numpy', 'np', 'math', 'typing', 'List', 'Tuple', 'Dict', 'Any', 'src.logger', 'logger', 'src.config', 'ViewCalculationConfig', 'viewconfig', 'str', 'bool', 'float', 'transform_map_to_view', '__name__', 'src.cache', ('get_map_by_code',), 'map', 'res', 'info']
+  varnames=[]
+  const 0
+  const None
+  const ('List', 'Tuple', 'Dict', 'Any')
+  const ('logger',)
+  const ('ViewCalculationConfig',)
+  const ('level', 'side', 'return')
+  CODE <module>.transform_map_to_view argcount=2 flags=0x43 nlocals=21
+    names=['math', 'pi', 'KeyError', 'logger', 'error', 'np', 'array', 'viewconfig', 'FROM_RATIO', 'tan', 'FAR', 'NEAR', 'cos', 'sin', 'copy', 'range', 'append', 'info']
+    varnames=['level', 'side', 'DEGREE', 'height', 'width', 'x', 'y', 'z', 'e', 'transform_matrix', 'perspective_matrix', 'rotate_x_matrix', 'rotate_y_matrix', 'final_matrix', 'out_pos', 'i', 'tmp_pos', 'j', 'tile', 'map_point', 'view_point']
+    const '\n    Transforms a map to a view based on the given parameters.\n\n    Parameters:\n    level (dict): The map data.\n\n    Returns:\n    list: A 2D list of tuples representing the transformed map points in ratio form.\n    '
+    const 180
+    const 'height'
+    const 'width'
+    const 'view'
+    const 1
+    const 0
+    const 'Error loading map data: '
+    const None
+    const (0, 0, 0, 1)
+    const 20
+    const 2
+    const (0, 0, -1, 0)
+    const (1, 0, 0, 0)
+    const 30
+    const 10
+    const (0, 1, 0, 0)
+    const 'tiles'
+    const 2.0
+    const 'heightType'
+    const -0.4
+    const 3
+    const 'Transformed map to view, size: '
+    const 'x'
+  const 'transform_map_to_view'
+  const '__main__'
+  const ('get_map_by_code',)
+  const '1-7'
+  const True
+  const 'Left most deployable position with side view: '
+  const 3
+  const 1
+  const False
+  const 'Left most deployable position with front view: '

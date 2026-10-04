@@ -1,0 +1,18 @@
+cur = # 00 鐩綍 / 瀵艰埅锛堟暟鎹搴
+
+gbk        FAIL 'gbk' codec can't decode byte 0xae in position 7: illegal multibyte sequence
+cp936      FAIL 'gbk' codec can't decode byte 0xae in position 7: illegal multibyte sequence
+gb18030    FAIL 'gb18030' codec can't decode byte 0x89 in position 46: incomplete multibyte sequence
+big5       FAIL 'big5' codec can't decode byte 0xe7 in position 5: illegal multibyte sequence
+cp950      FAIL 'cp950' codec can't decode byte 0xe7 in position 5: illegal multibyte sequence
+shift_jis  FAIL 'shift_jis' codec can't decode byte 0x95 in position 10: illegal multibyte sequence
+cp932      FAIL 'cp932' codec can't decode byte 0x95 in position 10: illegal multibyte sequence
+euc_jp     FAIL 'euc_jp' codec can't decode byte 0xe7 in position 5: illegal multibyte sequence
+euc_kr     FAIL 'euc_kr' codec can't decode byte 0xe7 in position 5: illegal multibyte sequence
+cp949      FAIL 'cp949' codec can't decode byte 0xe7 in position 5: illegal multibyte sequence
+cp1251     match=5/21  first=# 00 з›®еЅ• 
+cp1252     FAIL 'charmap' codec can't decode byte 0x8d in position 27: character maps to <undefined>
+koi8_r     match=5/21  first=# 00 Г⌡╝Е╫∙ 
+latin1     match=5/21  first=# 00 ç®å½ 
+mac_roman  match=5/21  first=# 00 ÁõÆÂΩï 
+cp874      FAIL 'charmap' codec can't decode byte 0x9b in position 6: character maps to <undefined>

@@ -1,0 +1,2923 @@
+[
+ {
+  "frame": 0,
+  "kind": "device_spawn",
+  "detail": {
+   "key": "trap_111_wdfarm",
+   "name": "街头应急储备",
+   "row": 5,
+   "col": 6,
+   "hp": 8000
+  }
+ },
+ {
+  "frame": 0,
+  "kind": "device_spawn",
+  "detail": {
+   "key": "trap_111_wdfarm",
+   "name": "街头应急储备",
+   "row": 5,
+   "col": 7,
+   "hp": 8000
+  }
+ },
+ {
+  "frame": 0,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 13,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 0,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 14,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 0,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 15,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 0,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 16,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 45,
+  "kind": "deploy",
+  "detail": {
+   "char": "char_2023_ling",
+   "name": "令",
+   "row": 2,
+   "col": 11,
+   "dir": "上",
+   "cost": 10,
+   "cost_after": 1.0
+  }
+ },
+ {
+  "frame": 150,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 0,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 210,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 1,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 225,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 0,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 240,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "叛乱鼓动者",
+   "key": "enemy_1319_wdfmpm_2",
+   "route": 28,
+   "hp": 14400
+  }
+ },
+ {
+  "frame": 300,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 21,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 300,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 25,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 300,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "enemy_1542_wdslm",
+   "key": "enemy_1542_wdslm",
+   "route": 27,
+   "hp": 180000
+  }
+ },
+ {
+  "frame": 300,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "叛乱鼓动者",
+   "key": "enemy_1319_wdfmpm_2",
+   "route": 52,
+   "hp": 14400
+  }
+ },
+ {
+  "frame": 360,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 20,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 360,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 22,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 360,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 26,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 450,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 2,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 510,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "寻路密探长",
+   "key": "enemy_1314_wdnjd_2",
+   "route": 3,
+   "hp": 9600
+  }
+ },
+ {
+  "frame": 510,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 48,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 510,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 50,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 525,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 2,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 570,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 49,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 570,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "key": "enemy_1315_wdyjd_2",
+   "route": 51,
+   "hp": 7800
+  }
+ },
+ {
+  "frame": 600,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "腐败萃聚使徒",
+   "key": "enemy_1321_wdarft_2",
+   "route": 23,
+   "hp": 42000
+  }
+ },
+ {
+  "frame": 600,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "腐败萃聚使徒",
+   "key": "enemy_1321_wdarft_2",
+   "route": 24,
+   "hp": 42000
+  }
+ },
+ {
+  "frame": 601,
+  "kind": "deploy",
+  "detail": {
+   "char": "char_4193_lemuen",
+   "name": "蕾缪安",
+   "row": 6,
+   "col": 8,
+   "dir": "下",
+   "cost": 20,
+   "cost_after": 0.0
+  }
+ },
+ {
+  "frame": 601,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "街头应急储备",
+   "dmg": 1367.0,
+   "hp_after": 6633
+  }
+ },
+ {
+  "frame": 605,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 1.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 610,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 1.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 633,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "令",
+   "reason": "sp",
+   "have": 34.6,
+   "need": 40.0
+  }
+ },
+ {
+  "frame": 633,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "reason": "cost",
+   "need": 18,
+   "have": 1.0
+  }
+ },
+ {
+  "frame": 638,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "reason": "cost",
+   "need": 18,
+   "have": 1.0
+  }
+ },
+ {
+  "frame": 643,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 1.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 643,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 1.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 643,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "reason": "cost",
+   "need": 18,
+   "have": 1.0
+  }
+ },
+ {
+  "frame": 656,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 1.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 683,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "令",
+   "reason": "sp",
+   "have": 36.27,
+   "need": 40.0
+  }
+ },
+ {
+  "frame": 683,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "街头应急储备",
+   "dmg": 1367.0,
+   "hp_after": 5266
+  }
+ },
+ {
+  "frame": 691,
+  "kind": "retreat",
+  "detail": {
+   "unit": "蕾缪安",
+   "cost_after": 13.0
+  }
+ },
+ {
+  "frame": 706,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "row": 5,
+   "col": 7,
+   "reason": "occupied",
+   "by": "街头应急储备"
+  }
+ },
+ {
+  "frame": 706,
+  "kind": "deploy",
+  "detail": {
+   "char": "char_1029_yato2",
+   "name": "麒麟R夜刀",
+   "row": 6,
+   "col": 11,
+   "dir": "上",
+   "cost": 8,
+   "cost_after": 5.0
+  }
+ },
+ {
+  "frame": 711,
+  "kind": "retreat",
+  "detail": {
+   "unit": "麒麟R夜刀",
+   "cost_after": 9.0
+  }
+ },
+ {
+  "frame": 750,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 4,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 750,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 44,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 750,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 45,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 750,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 46,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 750,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "寻路密探长",
+   "key": "enemy_1314_wdnjd_2",
+   "route": 47,
+   "hp": 9600
+  }
+ },
+ {
+  "frame": 810,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 5,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 825,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 4,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 1009,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8838
+  }
+ },
+ {
+  "frame": 1050,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 6,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 1058,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8676
+  }
+ },
+ {
+  "frame": 1107,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8514
+  }
+ },
+ {
+  "frame": 1110,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 7,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 1125,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 6,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 1140,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 17,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 1156,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8352
+  }
+ },
+ {
+  "frame": 1205,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8190
+  }
+ },
+ {
+  "frame": 1254,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8028
+  }
+ },
+ {
+  "frame": 1259,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 2
+  }
+ },
+ {
+  "frame": 1303,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 7866
+  }
+ },
+ {
+  "frame": 1334,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 1
+  }
+ },
+ {
+  "frame": 1352,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 7704
+  }
+ },
+ {
+  "frame": 1401,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 13998
+  }
+ },
+ {
+  "frame": 1450,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 13596
+  }
+ },
+ {
+  "frame": 1469,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 22.0,
+   "bonus": 2.0
+  }
+ },
+ {
+  "frame": 1469,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 22.0
+  }
+ },
+ {
+  "frame": 1499,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 13194
+  }
+ },
+ {
+  "frame": 1544,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1548,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 12792
+  }
+ },
+ {
+  "frame": 1559,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1591,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 24.0,
+   "bonus": 4.0
+  }
+ },
+ {
+  "frame": 1591,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 24.0
+  }
+ },
+ {
+  "frame": 1597,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 12390
+  }
+ },
+ {
+  "frame": 1609,
+  "kind": "escape",
+  "detail": {
+   "enemy": "寻路密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1634,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1646,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 11988
+  }
+ },
+ {
+  "frame": 1680,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 26.0,
+   "bonus": 6.0
+  }
+ },
+ {
+  "frame": 1680,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 26.0
+  }
+ },
+ {
+  "frame": 1695,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 11586
+  }
+ },
+ {
+  "frame": 1744,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 11184
+  }
+ },
+ {
+  "frame": 1783,
+  "kind": "enemy_disappear",
+  "detail": {
+   "enemy": "寻路密探长"
+  }
+ },
+ {
+  "frame": 1793,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 13998
+  }
+ },
+ {
+  "frame": 1800,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "叛乱鼓动者",
+   "key": "enemy_1319_wdfmpm_2",
+   "route": 36,
+   "hp": 14400
+  }
+ },
+ {
+  "frame": 1842,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "叛乱鼓动者",
+   "dmg": 402.0,
+   "hp_after": 13596
+  }
+ },
+ {
+  "frame": 1859,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1873,
+  "kind": "enemy_appear",
+  "detail": {
+   "enemy": "寻路密探长",
+   "row": 5,
+   "col": 4
+  }
+ },
+ {
+  "frame": 1890,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 55,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 1890,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 56,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 1890,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 58,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 1891,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "诺伯特平民",
+   "dmg": 532.0,
+   "hp_after": 4468
+  }
+ },
+ {
+  "frame": 1934,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1940,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "诺伯特平民",
+   "dmg": 532.0,
+   "hp_after": 3936
+  }
+ },
+ {
+  "frame": 1950,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 8,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 1950,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 54,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 1950,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“灰礼帽”",
+   "key": "enemy_1322_wdgyht",
+   "route": 57,
+   "hp": 43200
+  }
+ },
+ {
+  "frame": 1950,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 59,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 1980,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 29,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 1980,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 31,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 1980,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 33,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 1985,
+  "kind": "escape",
+  "detail": {
+   "enemy": "叛乱鼓动者",
+   "life": 0
+  }
+ },
+ {
+  "frame": 1989,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "诺伯特平民",
+   "dmg": 532.0,
+   "hp_after": 4468
+  }
+ },
+ {
+  "frame": 2010,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 9,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2010,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 60,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 2025,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 8,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2038,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "诺伯特平民",
+   "dmg": 532.0,
+   "hp_after": 3936
+  }
+ },
+ {
+  "frame": 2040,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 30,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 2040,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 32,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 2040,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "key": "enemy_1313_wdfmr",
+   "route": 34,
+   "hp": 5000
+  }
+ },
+ {
+  "frame": 2045,
+  "kind": "escape",
+  "detail": {
+   "enemy": "叛乱鼓动者",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2079,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 28.0,
+   "bonus": 8.0
+  }
+ },
+ {
+  "frame": 2079,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 28.0
+  }
+ },
+ {
+  "frame": 2087,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "诺伯特平民",
+   "dmg": 532.0,
+   "hp_after": 4468
+  }
+ },
+ {
+  "frame": 2100,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "寻路密探长",
+   "key": "enemy_1314_wdnjd_2",
+   "route": 35,
+   "hp": 9600
+  }
+ },
+ {
+  "frame": 2136,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "诺伯特平民",
+   "dmg": 532.0,
+   "hp_after": 3936
+  }
+ },
+ {
+  "frame": 2144,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 30.0,
+   "bonus": 10.0
+  }
+ },
+ {
+  "frame": 2144,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 30.0
+  }
+ },
+ {
+  "frame": 2144,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2159,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2160,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 32.0,
+   "bonus": 12.0
+  }
+ },
+ {
+  "frame": 2160,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 32.0
+  }
+ },
+ {
+  "frame": 2180,
+  "kind": "deploy",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "name": "“弦惊”",
+   "row": 7,
+   "col": 3,
+   "dir": "右",
+   "cost": 18,
+   "cost_after": 11.0
+  }
+ },
+ {
+  "frame": 2180,
+  "kind": "hit",
+  "detail": {
+   "src": "“见习灰礼帽”",
+   "tgt": "“弦惊”",
+   "dmg": 1737.0,
+   "hp_after": 2120
+  }
+ },
+ {
+  "frame": 2185,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8838
+  }
+ },
+ {
+  "frame": 2210,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 2108
+  }
+ },
+ {
+  "frame": 2234,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2234,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8676
+  }
+ },
+ {
+  "frame": 2242,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 34.0,
+   "bonus": 14.0
+  }
+ },
+ {
+  "frame": 2242,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 34.0
+  }
+ },
+ {
+  "frame": 2270,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 2096
+  }
+ },
+ {
+  "frame": 2283,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 162.0,
+   "hp_after": 8514
+  }
+ },
+ {
+  "frame": 2285,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 2084
+  }
+ },
+ {
+  "frame": 2289,
+  "kind": "block",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "by": "“弦惊”"
+  }
+ },
+ {
+  "frame": 2310,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 19,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2310,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2332,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 36.0,
+   "bonus": 16.0
+  }
+ },
+ {
+  "frame": 2332,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 36.0
+  }
+ },
+ {
+  "frame": 2332,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "岗哨密探长",
+   "dmg": 342.0,
+   "hp_after": 7458
+  }
+ },
+ {
+  "frame": 2345,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 2072
+  }
+ },
+ {
+  "frame": 2349,
+  "kind": "block",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "by": "“弦惊”"
+  }
+ },
+ {
+  "frame": 2360,
+  "kind": "hit",
+  "detail": {
+   "src": "“见习灰礼帽”",
+   "tgt": "“弦惊”",
+   "dmg": 1737.0,
+   "hp_after": 335
+  }
+ },
+ {
+  "frame": 2360,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 323
+  }
+ },
+ {
+  "frame": 2363,
+  "kind": "escape",
+  "detail": {
+   "enemy": "寻路密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2381,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "岗哨密探长",
+   "dmg": 342.0,
+   "hp_after": 7116
+  }
+ },
+ {
+  "frame": 2385,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 19,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2400,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 10,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2420,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 311
+  }
+ },
+ {
+  "frame": 2430,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "岗哨密探长",
+   "dmg": 342.0,
+   "hp_after": 6774
+  }
+ },
+ {
+  "frame": 2435,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 299
+  }
+ },
+ {
+  "frame": 2444,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2460,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 11,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2475,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 10,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2479,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "岗哨密探长",
+   "dmg": 342.0,
+   "hp_after": 6432
+  }
+ },
+ {
+  "frame": 2487,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 2
+  }
+ },
+ {
+  "frame": 2495,
+  "kind": "hit",
+  "detail": {
+   "src": "诺伯特平民",
+   "tgt": "“弦惊”",
+   "dmg": 12.5,
+   "hp_after": 0
+  }
+ },
+ {
+  "frame": 2495,
+  "kind": "kill",
+  "detail": {
+   "tgt": "“弦惊”",
+   "by": "诺伯特平民"
+  }
+ },
+ {
+  "frame": 2495,
+  "kind": "talent_token_lost",
+  "detail": {
+   "owner": "令",
+   "token": "“弦惊”",
+   "sp_gain": 4.0,
+   "atk_stacks": 1
+  }
+ },
+ {
+  "frame": 2500,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "令",
+   "dmg": 462.0,
+   "hp_after": 1117
+  }
+ },
+ {
+  "frame": 2528,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "岗哨密探长",
+   "dmg": 359.0,
+   "hp_after": 6073
+  }
+ },
+ {
+  "frame": 2550,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "寻路密探长",
+   "key": "enemy_1314_wdnjd_2",
+   "route": 12,
+   "hp": 9600
+  }
+ },
+ {
+  "frame": 2550,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 18,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 2559,
+  "kind": "block",
+  "detail": {
+   "enemy": "腐败萃聚使徒",
+   "by": "令"
+  }
+ },
+ {
+  "frame": 2577,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 239.0,
+   "hp_after": 41761
+  }
+ },
+ {
+  "frame": 2601,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2626,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 239.0,
+   "hp_after": 41522
+  }
+ },
+ {
+  "frame": 2650,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "令",
+   "dmg": 462.0,
+   "hp_after": 655
+  }
+ },
+ {
+  "frame": 2655,
+  "kind": "skill",
+  "detail": {
+   "unit": "令",
+   "skill": "宁作吾",
+   "until": 3555,
+   "ammo": null
+  }
+ },
+ {
+  "frame": 2675,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 59.05,
+   "hp_after": 41463
+  }
+ },
+ {
+  "frame": 2701,
+  "kind": "deploy",
+  "detail": {
+   "char": "char_4091_ulika",
+   "name": "U-Official",
+   "row": 1,
+   "col": 7,
+   "dir": "左",
+   "cost": 3,
+   "cost_after": 26.0
+  }
+ },
+ {
+  "frame": 2701,
+  "kind": "hit",
+  "detail": {
+   "src": "U-Official",
+   "tgt": "叛乱鼓动者",
+   "dmg": 6.1,
+   "hp_after": 14394
+  }
+ },
+ {
+  "frame": 2723,
+  "kind": "retreat",
+  "detail": {
+   "unit": "U-Official",
+   "cost_after": 27.5
+  }
+ },
+ {
+  "frame": 2723,
+  "kind": "deploy",
+  "detail": {
+   "char": "char_4193_lemuen",
+   "name": "蕾缪安",
+   "row": 4,
+   "col": 4,
+   "dir": "左",
+   "cost": 20,
+   "cost_after": 7.5
+  }
+ },
+ {
+  "frame": 2723,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 1017.0,
+   "hp_after": 16983
+  }
+ },
+ {
+  "frame": 2724,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 59.05,
+   "hp_after": 41404
+  }
+ },
+ {
+  "frame": 2773,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 59.05,
+   "hp_after": 41345
+  }
+ },
+ {
+  "frame": 2800,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "令",
+   "dmg": 462.0,
+   "hp_after": 193
+  }
+ },
+ {
+  "frame": 2805,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 1047.0,
+   "hp_after": 7953
+  }
+ },
+ {
+  "frame": 2822,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 59.05,
+   "hp_after": 41286
+  }
+ },
+ {
+  "frame": 2871,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 59.05,
+   "hp_after": 41227
+  }
+ },
+ {
+  "frame": 2884,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2887,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 1047.0,
+   "hp_after": 6906
+  }
+ },
+ {
+  "frame": 2920,
+  "kind": "hit",
+  "detail": {
+   "src": "令",
+   "tgt": "腐败萃聚使徒",
+   "dmg": 59.05,
+   "hp_after": 41168
+  }
+ },
+ {
+  "frame": 2950,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "令",
+   "dmg": 462.0,
+   "hp_after": 0
+  }
+ },
+ {
+  "frame": 2950,
+  "kind": "kill",
+  "detail": {
+   "tgt": "令",
+   "by": "腐败萃聚使徒"
+  }
+ },
+ {
+  "frame": 2959,
+  "kind": "escape",
+  "detail": {
+   "enemy": "寻路密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 2969,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 1017.0,
+   "hp_after": 16983
+  }
+ },
+ {
+  "frame": 2997,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3018,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3031,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "reason": "cost",
+   "need": 23,
+   "have": 18.5
+  }
+ },
+ {
+  "frame": 3031,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "蕾缪安",
+   "dmg": 425.0,
+   "hp_after": 1143
+  }
+ },
+ {
+  "frame": 3043,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 4.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 3051,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 1017.0,
+   "hp_after": 15966
+  }
+ },
+ {
+  "frame": 3057,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 5.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 3059,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3078,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "reason": "cost",
+   "need": 23,
+   "have": 19.5
+  }
+ },
+ {
+  "frame": 3090,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 38,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 3090,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 40,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 3093,
+  "kind": "block",
+  "detail": {
+   "enemy": "腐败萃聚使徒",
+   "by": "蕾缪安"
+  }
+ },
+ {
+  "frame": 3093,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3100,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 5.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 3104,
+  "kind": "escape",
+  "detail": {
+   "enemy": "enemy_1542_wdslm",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3114,
+  "kind": "skill_reject",
+  "detail": {
+   "unit": "蕾缪安",
+   "reason": "sp",
+   "have": 5.0,
+   "need": 8.0
+  }
+ },
+ {
+  "frame": 3117,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 38.0,
+   "bonus": 18.0
+  }
+ },
+ {
+  "frame": 3117,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 38.0
+  }
+ },
+ {
+  "frame": 3117,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 40.0,
+   "bonus": 20.0
+  }
+ },
+ {
+  "frame": 3117,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 40.0
+  }
+ },
+ {
+  "frame": 3122,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "char_250_phatom",
+   "row": 6,
+   "col": 11,
+   "reason": "occupied",
+   "by": "岗哨密探长"
+  }
+ },
+ {
+  "frame": 3133,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 1017.0,
+   "hp_after": 14949
+  }
+ },
+ {
+  "frame": 3134,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3147,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3150,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 42,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 3181,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "蕾缪安",
+   "dmg": 425.0,
+   "hp_after": 718
+  }
+ },
+ {
+  "frame": 3215,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 1017.0,
+   "hp_after": 13932
+  }
+ },
+ {
+  "frame": 3238,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3240,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 43,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 3274,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3297,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 1017.0,
+   "hp_after": 12915
+  }
+ },
+ {
+  "frame": 3331,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "蕾缪安",
+   "dmg": 425.0,
+   "hp_after": 293
+  }
+ },
+ {
+  "frame": 3344,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3361,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "row": 3,
+   "col": 4,
+   "reason": "occupied",
+   "by": "“见习灰礼帽”"
+  }
+ },
+ {
+  "frame": 3361,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "char_4123_ela",
+   "row": 6,
+   "col": 11,
+   "reason": "tile"
+  }
+ },
+ {
+  "frame": 3361,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10033_ela_grzmot",
+   "row": 5,
+   "col": 9,
+   "reason": "occupied",
+   "by": "萨卡兹大剑手"
+  }
+ },
+ {
+  "frame": 3361,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10033_ela_grzmot",
+   "row": 5,
+   "col": 10,
+   "reason": "occupied",
+   "by": "萨卡兹大剑手"
+  }
+ },
+ {
+  "frame": 3361,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10033_ela_grzmot",
+   "row": 5,
+   "col": 11,
+   "reason": "occupied",
+   "by": "诺伯特平民"
+  }
+ },
+ {
+  "frame": 3376,
+  "kind": "skill",
+  "detail": {
+   "unit": "蕾缪安",
+   "skill": "重逢问候",
+   "until": null,
+   "ammo": 6
+  }
+ },
+ {
+  "frame": 3379,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "萨卡兹大剑手",
+   "dmg": 2804.7,
+   "hp_after": 6196
+  }
+ },
+ {
+  "frame": 3379,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 2630.7,
+   "hp_after": 15370
+  }
+ },
+ {
+  "frame": 3418,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3443,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 42.0,
+   "bonus": 22.0
+  }
+ },
+ {
+  "frame": 3443,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 42.0
+  }
+ },
+ {
+  "frame": 3461,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "萨卡兹悖谬谍报长",
+   "dmg": 2660.7,
+   "hp_after": 6340
+  }
+ },
+ {
+  "frame": 3461,
+  "kind": "hit",
+  "detail": {
+   "src": "蕾缪安",
+   "tgt": "“见习灰礼帽”",
+   "dmg": 2630.7,
+   "hp_after": 10285
+  }
+ },
+ {
+  "frame": 3468,
+  "kind": "deploy",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "name": "“弦惊”",
+   "row": 3,
+   "col": 3,
+   "dir": "左",
+   "cost": 23,
+   "cost_after": 9.5
+  }
+ },
+ {
+  "frame": 3468,
+  "kind": "block",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "by": "“弦惊”"
+  }
+ },
+ {
+  "frame": 3468,
+  "kind": "hit",
+  "detail": {
+   "src": "“见习灰礼帽”",
+   "tgt": "“弦惊”",
+   "dmg": 1737.0,
+   "hp_after": 1870
+  }
+ },
+ {
+  "frame": 3468,
+  "kind": "block",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "by": "“弦惊”"
+  }
+ },
+ {
+  "frame": 3468,
+  "kind": "hit",
+  "detail": {
+   "src": "“见习灰礼帽”",
+   "tgt": "“弦惊”",
+   "dmg": 1737.0,
+   "hp_after": 133
+  }
+ },
+ {
+  "frame": 3481,
+  "kind": "hit",
+  "detail": {
+   "src": "腐败萃聚使徒",
+   "tgt": "蕾缪安",
+   "dmg": 425.0,
+   "hp_after": 0
+  }
+ },
+ {
+  "frame": 3481,
+  "kind": "kill",
+  "detail": {
+   "tgt": "蕾缪安",
+   "by": "腐败萃聚使徒"
+  }
+ },
+ {
+  "frame": 3494,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "row": 2,
+   "col": 3,
+   "reason": "occupied",
+   "by": "“见习灰礼帽”"
+  }
+ },
+ {
+  "frame": 3503,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 44.0,
+   "bonus": 24.0
+  }
+ },
+ {
+  "frame": 3503,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 44.0
+  }
+ },
+ {
+  "frame": 3509,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3514,
+  "kind": "retreat",
+  "detail": {
+   "unit": "“弦惊”",
+   "cost_after": 23.0
+  }
+ },
+ {
+  "frame": 3539,
+  "kind": "deploy",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "name": "“弦惊”",
+   "row": 7,
+   "col": 4,
+   "dir": "右",
+   "cost": 23,
+   "cost_after": 0.0
+  }
+ },
+ {
+  "frame": 3539,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 3310
+  }
+ },
+ {
+  "frame": 3539,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹悖谬谍报长",
+   "tgt": "“弦惊”",
+   "dmg": 357.0,
+   "hp_after": 2953
+  }
+ },
+ {
+  "frame": 3540,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 39,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 3540,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 41,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 3540,
+  "kind": "block",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "by": "“弦惊”"
+  }
+ },
+ {
+  "frame": 3545,
+  "kind": "escape",
+  "detail": {
+   "enemy": "叛乱鼓动者",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3549,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3583,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 46.0,
+   "bonus": 26.0
+  }
+ },
+ {
+  "frame": 3583,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 46.0
+  }
+ },
+ {
+  "frame": 3584,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3595,
+  "kind": "deploy_failed",
+  "detail": {
+   "char": "token_10020_ling_soul3",
+   "reason": "cost",
+   "need": 23,
+   "have": 2.0
+  }
+ },
+ {
+  "frame": 3599,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 2656
+  }
+ },
+ {
+  "frame": 3643,
+  "kind": "cost_cap_up",
+  "detail": {
+   "cost_max": 48.0,
+   "bonus": 28.0
+  }
+ },
+ {
+  "frame": 3643,
+  "kind": "civilian_arrived",
+  "detail": {
+   "enemy": "诺伯特平民",
+   "max_cost_gain": 2.0,
+   "cost_max": 48.0
+  }
+ },
+ {
+  "frame": 3644,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹悖谬谍报长",
+   "tgt": "“弦惊”",
+   "dmg": 357.0,
+   "hp_after": 2299
+  }
+ },
+ {
+  "frame": 3659,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 2002
+  }
+ },
+ {
+  "frame": 3690,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 42,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 3719,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 1705
+  }
+ },
+ {
+  "frame": 3742,
+  "kind": "enemy_disappear",
+  "detail": {
+   "enemy": "寻路密探长"
+  }
+ },
+ {
+  "frame": 3742,
+  "kind": "enemy_appear",
+  "detail": {
+   "enemy": "寻路密探长",
+   "row": 5,
+   "col": 4
+  }
+ },
+ {
+  "frame": 3779,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 1408
+  }
+ },
+ {
+  "frame": 3794,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3839,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 1111
+  }
+ },
+ {
+  "frame": 3899,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 814
+  }
+ },
+ {
+  "frame": 3928,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 3959,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 517
+  }
+ },
+ {
+  "frame": 4011,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 220
+  }
+ },
+ {
+  "frame": 4019,
+  "kind": "hit",
+  "detail": {
+   "src": "萨卡兹大剑手",
+   "tgt": "“弦惊”",
+   "dmg": 297.0,
+   "hp_after": 0
+  }
+ },
+ {
+  "frame": 4019,
+  "kind": "kill",
+  "detail": {
+   "tgt": "“弦惊”",
+   "by": "萨卡兹大剑手"
+  }
+ },
+ {
+  "frame": 4126,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4140,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 38,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 4140,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 40,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 4196,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4200,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 43,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 4230,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "key": "enemy_1010_demon",
+   "route": 42,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 4232,
+  "kind": "escape",
+  "detail": {
+   "enemy": "寻路密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4276,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4295,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4338,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4398,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4443,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4477,
+  "kind": "escape",
+  "detail": {
+   "enemy": "岗哨密探长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4590,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 39,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 4590,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "key": "enemy_1317_wdexg_2",
+   "route": 41,
+   "hp": 9000
+  }
+ },
+ {
+  "frame": 4668,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4677,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4763,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4874,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4888,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 4938,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹大剑手",
+   "life": 0
+  }
+ },
+ {
+  "frame": 5058,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 5190,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 38,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 5190,
+  "kind": "spawn",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "key": "enemy_1322_wdgyht_2",
+   "route": 40,
+   "hp": 18000
+  }
+ },
+ {
+  "frame": 5446,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 5666,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 5671,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 5727,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 5924,
+  "kind": "escape",
+  "detail": {
+   "enemy": "萨卡兹悖谬谍报长",
+   "life": 0
+  }
+ },
+ {
+  "frame": 6496,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 6721,
+  "kind": "escape",
+  "detail": {
+   "enemy": "“见习灰礼帽”",
+   "life": 0
+  }
+ },
+ {
+  "frame": 7184,
+  "kind": "escape",
+  "detail": {
+   "enemy": "腐败萃聚使徒",
+   "life": 0
+  }
+ },
+ {
+  "frame": 8241,
+  "kind": "escape",
+  "detail": {
+   "enemy": "腐败萃聚使徒",
+   "life": 0
+  }
+ }
+]

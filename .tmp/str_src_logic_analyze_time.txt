@@ -1,0 +1,147 @@
+l Z d
+Z"e 
+e#e!
+Z"e 
+$d#e"
+e#e!
+Z"e 
+$d$e"
+e#e!
+Image
+lru_cache
+GameRatioConfig
+ImageProcessingConfig
+GameTime
+capture_game_window
+ErrorToLog
+logger
+current_tick
+returnc
+    Update the global time counter based on the current tick.
+    If the current tick is less than the last tick, it means the cost bar has been filled once.
+    
+    Args:
+        current_tick (int): The current tick value.
+    
+_last_tick
+_time_counter
+logic\analyze_time.py
+_update_time_counter
+initial_timer
+    Reset the global time counter with an initial time value.
+    
+    Args:
+        initial_time (int): The initial time value to start from.
+    
+ Setting initial time counter to 
+ratio
+Setting initial tick to 
+infor
+ratioconfig
+COST_AREA_RATIO
+threshold
+imgconfig
+WHITE_THRESHOLD
+THRESH_BINARY
+get_tick
+tobytesr
+cost_area_img
+cost_bar_arear
+reset_time_counter
+maxsize
+cost_bar_area_bytesr
+    Calculate the current game tick based on the ratio of white pixels in the cost bar image.
+    
+    This function assumes that the game represents time progression by filling a bar with white color in the cost area.
+    The 'tick' is then the proportion of the bar that is filled.
+    
+    Args:
+        cost_bar_area_bytes (bytes): A byte string representing a black and white image of the cost bar.
+    
+    Returns:
+        int: The current game tick, scaled to be between 0 and GameTime.TICK_MAX - 1.
+    
+dtyper(
+frombuffer
+uint8
+mean
+roundr
+TICK_MAX
+white_ratior
+cost_number_area_bytes
+width
+heightr
+    Extract the current cost from the game window using OCR.
+    
+    This function assumes that the cost is displayed as a number in a specific area of the game window.
+    It uses Tesseract to perform OCR and extract the cost number.
+    
+    Args:
+        cost_number_area_bytes (bytes): A byte string representing a black and white image of the cost number area.
+        width (int): The width of the cost number area.
+        height (int): The height of the cost number area.
+    
+    Returns:
+        int: The current cost. Returns -1 if the OCR operation fails.
+    
+arknights_digit
+langZ
+frombytes
+tesserocrZ
+PyTessBaseAPIZ
+PSMZ
+SINGLE_WORDZ
+SetImageZ
+GetUTF8TextZ
+MeanTextConfr1
+OCR_CONFIDENCE_THRESHOLDr
+join
+filter
+isdigit
+ValueError
+cost_number_area
+costZ
+confidencer
+get_costI
+need_costr
+    Get the current game time from the game window.
+    
+    Args:
+        need_cost (bool): Whether to calculate the cost using OCR. 
+            Set to False if you only need time and tick.
+    
+    Returns:
+        GameTime: The current game time, with tick and time fields.
+        The cost field is only set if need_cost is True.
+    r&
+tick
+time
+shape
+COST_NUMBER_AREA_RATIOrh
+left
+upper
+right
+lowerre
+get_game_timeo
+__main__T
+Game time with cost: 
+ (time elapsed: 
+ seconds)F
+Game time without cost: 
+Game time with cost (cached): 
+PILr
+numpyrF
+functoolsr
+src.configr
+src.logic.game_timer
+src.mumu.mumu_visionr
+src.utils.error_to_logr
+src.loggerr
+bytesr4
+boolr{
+__name__rr
+start_time
+game_time
+end_timer,
+<module>
+无法识别当前费用

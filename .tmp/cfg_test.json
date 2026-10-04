@@ -1,0 +1,150 @@
+{
+  "compliance": {
+    "_doc": "ak/meta/合规声明_自动打图与账号.md（用户 2026-09-14）——与客户端合规声明同等重要",
+    "allowed_accounts": [
+      "****"
+    ],
+    "login_quota": {
+      "mumu12": 1,
+      "pc": 1
+    },
+    "login_quota_used": {
+      "mumu12": 0,
+      "pc": 0
+    },
+    "require_user_consent_per_login": true,
+    "login_actions_enabled": false,
+    "consume_only": [
+      "理智"
+    ],
+    "forbidden_ui": [
+      "仓库",
+      "基建",
+      "抽卡",
+      "商店",
+      "邮件",
+      "养成",
+      "模组"
+    ],
+    "forbidden_actions": [
+      "升级",
+      "精英化",
+      "技能升级",
+      "开模组",
+      "使用道具",
+      "购买"
+    ],
+    "live_run_consent": false,
+    "_note": "live_run_consent 必须由用户当场同意后改为 true（或命令行 --i-have-consent）方可实注入；登录动作默认禁用"
+  },
+  "axis_runner": {
+    "axis": "C:/Users/23922/Documents/ds_harness/ak/data/derived/axis_h12-4_cyberplastic.json",
+    "dry_run": true,
+    "timebase": "abs-seconds",
+    "_timebase_note": "离线证据（作者 Sheet1 时间点 + 总时长 366s、模拟执行吻合度 43/50、两端 ±1 帧 19/19）判定：表内「绝对时间」列优于相对帧链，详见 knowledge/04/41 §7.12",
+    "clock": {
+      "source": "auto",
+      "host": "127.0.0.1",
+      "port": 2606,
+      "transport": "ws",
+      "poll_hz": 120,
+      "stale_s": 2.0
+    },
+    "cost_bar": {
+      "roi": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "calibration": "D:/__soft/ak/ArknightsCostBarRuler-v2.3.2/ArknightsCostBarRuler/profile_30fps.json",
+      "_todo": "实机校准时把 roi 填成费用条相对窗口的像素区域 [l,t,r,b]"
+    },
+    "initial_cost": 10,
+    "frames_per_cost": 30,
+    "unit_costs": {
+      "令": 10,
+      "蕾缪安": 20,
+      "弦惊": 23,
+      "麒麟R夜刀": 8,
+      "傀影": 8,
+      "U-Official": 3,
+      "艾拉": 12,
+      "雷鸣地雷": 5
+    },
+    "grid": {
+      "rows": 9,
+      "cols": 13,
+      "row_from": "bottom",
+      "col_from": "left"
+    },
+    "battle_area": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "_todo": "实机标定战场四角像素"
+    },
+    "coord_transform": "rc_rowflip",
+    "unit_slots": {
+      "_todo": "干员名 → 待部署区卡槽 [x,y]（相对窗口像素）"
+    },
+    "unit_points": {
+      "_todo": "干员名 → 场上位置 [x,y]（技能/撤退用，也可由 last_point 记忆）"
+    },
+    "ui": {
+      "skill_button": [
+        8,
+        518,
+        98,
+        602
+      ],
+      "retreat_button": [
+        1520,
+        830,
+        1590,
+        890
+      ],
+      "skill_sp_roi": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "_todo": "实机标定技能/撤退按钮；skill_sp_roi = 技能 SP 条/按钮区域"
+    },
+    "cost_gate": true,
+    "sp_gate": true,
+    "sp_gate_mode": "analytic",
+    "_sp_gate_note": "analytic=按表值推算 SP（默认，与模拟器同判据）；image=点选干员后读技能按钮（需 skill_sp_roi，见 knowledge/04/41 §7.15）",
+    "unit_skills": {
+      "令": 2,
+      "蕾缪安": 0
+    },
+    "token_owners": {
+      "弦惊": "令",
+      "“弦惊”": "令"
+    },
+    "summon_lost_sp": 4.0,
+    "skill_sp": {
+      "mode": "ready",
+      "ready_ratio": 0.2,
+      "ready_sat": 0.35,
+      "ready_hue": 45,
+      "ready_hue_tol": 50
+    },
+    "wait1": 0.02,
+    "wait2": 0.1,
+    "wait3": 0.3,
+    "loop_hz": 240,
+    "max_seconds": 420,
+    "log": "C:/Users/23922/Documents/ds_harness/ak/data/derived/logs_h12-4_axisrun.json",
+    "input": {
+      "backend": "input:adb",
+      "adb": "D:/__soft/MuMu Player 12/shell/adb.exe",
+      "serial": "127.0.0.1:16384",
+      "display_w": 1920,
+      "display_h": 1080
+    }
+  }
+}

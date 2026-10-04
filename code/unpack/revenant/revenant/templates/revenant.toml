@@ -1,0 +1,82 @@
+# Revenant RE project config -- also the project-root marker the toolkit walks
+# up to find (so `revenant ...` and the MCP server work from any subdirectory).
+#
+# Identity (package / version / architecture) is AUTO-DETECTED from the package
+# you drop in this directory -- .apk, .xapk or .ipa. Nothing below is required
+# for the IL2CPP/C# side.
+
+# Pin the platform when this project holds packages for BOTH platforms; leave it
+# unset when there is only one and the answer is not ambiguous. Also settable
+# per-command with `--platform ios`.
+#
+# Artifacts are keyed by (version, platform): _refs/<version>/ for Android and
+# _refs/<version>-ios/ for iOS. Preparing both into one directory would have the
+# second run silently overwrite the first, and iOS/Android metadata are not
+# byte-identical -- RVAs and indices do not survive being mixed.
+# platform = "ios"
+
+[lua]
+# xLua titles only. The gameplay ships as encrypted, packed Lua. Reverse the
+# game's Lua loader with the re tools first (find the Crypt/loader class: the
+# XOR key is usually a const string; the container is its pack/unpack pair),
+# then fill these in and run `revenant lua-extract`.
+#   xor_key   : repeating-XOR key over each TextAsset blob
+#   container : "luafilepack" (int32 count; per entry int16 nameLen, name,
+#               int32 dataLen, chunk) or "raw" (one Lua chunk per TextAsset)
+#   size_t    : 8 for stock Lua 5.3; some xLua builds use 4 (long-string lengths)
+xor_key   = ""
+container = "luafilepack"
+size_t    = 8
+
+# [tables]
+# Config tables are found by shape, not by name: `revenant table list` sweeps
+# res/ and decompiled/ (three levels deep, under caps it reports) and calls a
+# directory a corpus when it holds files that read as tables. Directory and
+# file-naming conventions are facts about one title, so revenant knows none of
+# them -- which is why this key exists for the projects the sweep does not
+# reach. Setting it REPLACES the sweep.
+# dirs = ["res/conf-json", "res/remote/config"]
+#
+# Luban titles: the binary table FORMAT is universal and built in, but the
+# schema (which beans, which fields) and the container (header + key) are facts
+# about this title, so both live here. `revenant luban-read` with no --schema
+# prints the JSON shape; write it from the game's own `XxxTable(ByteBuf _buf)`
+# constructor. The container is a Python file exposing `decode(data) -> bytes`,
+# the same convention as [metadata] decryptor below.
+# luban_schema    = "tools/luban-schema.json"
+# luban_container = "tools/luban_container.py"
+#
+# FlatBuffers titles: same split. `revenant fb-schema` recovers the schema from
+# the generated classes; which root class a given .bin holds, and the generic
+# wrapper names that CMS uses, are facts about this title and live here.
+# Write `Root#Field` when a root holds more than one vector and only one of them
+# is the rows.
+# The schema file also carries `guid_types` and `union_members` -- the concrete
+# class names behind a GUID and behind each union tag, both facts about this
+# title that are not in the buffer.
+# fb_schema     = "tools/cms-schema.json"
+# fb_containers = ["CmsTable"]
+# [tables.fb_roots]
+# currencies = "Game.CMS.CurrencyDb"
+# recipes    = "Game.CMS.Db#Recipes"
+
+# [csharp]
+# The C# source roots `cs-list` / `cs-get` / `cs-grep` / `cs-refs` read.
+# Default: src/<version>/ (the scaffold `seed-src` lays down) and
+# src-hotupdate/<version>/ (source recovered from the hot-update assemblies).
+# revenant writes the first, so it may name it; where THIS project lands its
+# recovered source is a fact about this project, which is why the key exists.
+# Setting it REPLACES the pair, the same as [tables] dirs replaces discovery.
+# roots = ["src", "src-recovered"]
+
+# [metadata]
+# Hardened titles ship global-metadata.dat as ciphertext. Revenant ships NO
+# built-in decryptors -- schemes vary by vendor and by game, so a bundled
+# library would be pretending we can enumerate vendors. Instead: reverse the
+# loader's decryption, write it as a Python file in this project, and point at
+# it here. The module must expose `decrypt(data: bytes) -> bytes`.
+#
+# Anything found at a metadata path but failing the sanity check is handed to
+# your decrypt() before being quarantined, so a working decryptor makes
+# `revenant prepare` succeed with no further steps.
+# decryptor = "tools/metadata_decrypt.py"

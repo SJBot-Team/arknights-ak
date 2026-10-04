@@ -1,0 +1,1 @@
+Moved Permanently. Redirecting to https://raw.githubusercontent.com/ZeroAd-06/ArknightsCostBarRuler/main/API.md

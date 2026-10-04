@@ -1,0 +1,67 @@
+﻿python.exe : <string>:18: SyntaxWarning: invalid escape sequence '\S'
+At line:2 char:1
++ & $py -X utf8 -c @"
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (<string>:18: Sy...e sequence '\S':String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+=== AFA.exe Chinese strings (UI/menu) ===
+0
+
+=== D: StreamingAssets tree ===
+     2916205  battle.xlsx
+       26741  data.sav
+     5865983  aa\catalog.json
+         862  aa\settings.json
+        6390  aa\AddressablesLink\link.xml
+      542043  data\BuffData.txt
+       38979  data\BulletData.txt
+       10899  data\CardData.txt
+       34718  data\ContractData.txt
+      121502  data\EffectData.txt
+       20877  data\ModifyData.txt
+        5160  data\RelicData.txt
+     3077917  data\SkillData.txt
+     1890398  data\UnitData.txt
+       22196  map\CL-1.map
+        8302  map\DE-1.map
+       18576  map\demo.map
+       11591  map\DM-1.map
+       19280  map\H13-4.map
+       12578  map\HO-1.map
+       19542  map\HX-1.map
+       12313  map\ISW-NO “好”事成“三”.map
+       29953  map\JY-1.map
+       22482  map\KH-1.map
+       17891  map\KW-1.map
+       11155  map\LD-1.map
+       20448  map\LU-1.map
+       14649  map\ML-1.map
+       21471  map\QJ-1.map
+       13638  map\RM-1.map
+       20079  map\SG-1.map
+       33980  map\SH-1.map
+       21314  map\TB-1.map
+       26984  map\TN-1 冰与火.map
+       24121  map\TN-1 雪山危机.map
+       37229  map\TN-2 自负的小丑与赴死的战士.map
+       40768  map\TN-2 荒野之声.map
+       45347  map\TN-3 寒灾的扩散.map
+       51531  map\TN-3 思乡的战士.map
+       67719  map\TN-4 物是人非.map
+       81372  map\TN-4 王庭聚首.map
+        6528  map\TS-1.map
+       12365  map\TS-4.map
+        8614  map\TT-1.map
+       23404  map\W-S-S-1.map
+       41000  map\W-S-S-2.map
+       26583  map\亡火逐影.map
+       26499  map\众魂的意志.map
+       13781  map\冰淇淋城清乱.map
+       18094  map\圣光启迪.map
+         665  map\文件名.map
+       23961  map\源石战区.map
+       29267  map\诺伯特区疏散.map
+       11872  map\阵型测试1.map
+       10312  map\阵型测试2.map
+        7170  map\阿能.map

@@ -1,0 +1,221 @@
+{
+ "frame_time_fp": 143165440,
+ "results": [
+  {
+   "unit": "芬",
+   "key": "char_123_fang",
+   "observed": [
+    32,
+    32,
+    32,
+    32
+   ],
+   "observed_stable": [
+    32,
+    32,
+    32
+   ],
+   "candidates": [
+    {
+     "mode": "fp_accumulate",
+     "carry": false,
+     "pred": [
+      32,
+      32,
+      32,
+      32
+     ],
+     "exact": true,
+     "exact_stable": true
+    },
+    {
+     "mode": "fp_accumulate",
+     "carry": true,
+     "pred": [
+      31,
+      32,
+      31,
+      32
+     ],
+     "exact": false,
+     "exact_stable": false
+    },
+    {
+     "mode": "frame_ceil",
+     "carry": false,
+     "pred": [
+      32,
+      32,
+      32,
+      32
+     ],
+     "exact": true,
+     "exact_stable": true
+    },
+    {
+     "mode": "frame_ceil",
+     "carry": true,
+     "pred": [
+      32,
+      32,
+      32,
+      32
+     ],
+     "exact": true,
+     "exact_stable": true
+    },
+    {
+     "mode": "floor",
+     "carry": false,
+     "pred": [
+      31,
+      31,
+      31,
+      31
+     ],
+     "exact": false,
+     "exact_stable": false
+    },
+    {
+     "mode": "floor",
+     "carry": true,
+     "pred": [
+      31,
+      31,
+      31,
+      31
+     ],
+     "exact": false,
+     "exact_stable": false
+    },
+    {
+     "mode": "round",
+     "carry": false,
+     "pred": [
+      31,
+      31,
+      31,
+      31
+     ],
+     "exact": false,
+     "exact_stable": false
+    },
+    {
+     "mode": "round",
+     "carry": true,
+     "pred": [
+      31,
+      31,
+      31,
+      31
+     ],
+     "exact": false,
+     "exact_stable": false
+    }
+   ]
+  },
+  {
+   "unit": "猎狗pro",
+   "key": "enemy_1000_gopro_2",
+   "observed": [
+    43,
+    42
+   ],
+   "observed_stable": [
+    42
+   ],
+   "candidates": [
+    {
+     "mode": "fp_accumulate",
+     "carry": false,
+     "pred": [
+      43,
+      43
+     ],
+     "exact": false,
+     "exact_stable": false
+    },
+    {
+     "mode": "fp_accumulate",
+     "carry": true,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    },
+    {
+     "mode": "frame_ceil",
+     "carry": false,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    },
+    {
+     "mode": "frame_ceil",
+     "carry": true,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    },
+    {
+     "mode": "floor",
+     "carry": false,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    },
+    {
+     "mode": "floor",
+     "carry": true,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    },
+    {
+     "mode": "round",
+     "carry": false,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    },
+    {
+     "mode": "round",
+     "carry": true,
+     "pred": [
+      42,
+      42
+     ],
+     "exact": false,
+     "exact_stable": true
+    }
+   ]
+  }
+ ],
+ "score": {
+  "fp_accumulate|carry=False": 1,
+  "fp_accumulate|carry=True": 1,
+  "frame_ceil|carry=False": 2,
+  "frame_ceil|carry=True": 2,
+  "floor|carry=False": 1,
+  "floor|carry=True": 1,
+  "round|carry=False": 1,
+  "round|carry=True": 1
+ }
+}

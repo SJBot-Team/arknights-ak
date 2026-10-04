@@ -1,0 +1,15 @@
+{
+  "enableAllProjectMcpServers": true,
+  "permissions": {
+    "allow": [
+      "mcp__re",
+      "Bash(revenant:*)",
+      "Write(src/**)",
+      "Edit(src/**)",
+      "Write(decompiled/**)",
+      "Edit(decompiled/**)",
+      "Write(notes/**)",
+      "Edit(notes/**)"
+    ]
+  }
+}

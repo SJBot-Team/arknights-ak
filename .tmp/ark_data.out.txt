@@ -1,0 +1,151 @@
+﻿
+======================== 1. data/*.bundle -> TextAsset payloads ========================
+
+-- buffdata_b280d244257e7c147301361fd609c0df.bundle TextAsset=BuffData         505002 bytes
+   head: b'{"Id":"\xe6\xb5\x8b\xe8\xaf\x95Buff","Type":"\xe6\xb5\x8b\xe8\xaf\x95Buff"}\n{"Id":"\xe6\x94\xbb\xe9\x80\x9f\xe6\x8f\x90\xe5\x8d\x87","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":["AgiAdd"]}}\n{"Id":"\xe5\x87\x8f\xe9\x80\x9f","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":["SpeedRate"]}}\n{"Id":"\xe6\x94\xbb\xe5\x87\xbb\xe6\x8f\x90\xe5\x8d\x87","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":["AttackRate"]}}\n{"Id":"\xe7\x94\x9f\xe5\x91\xbd\xe6\x8f\x90\xe5\x8d\x87","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 32)
+
+-- buffdata_b426dacf91edbf0fba99c13e0080ce16.bundle TextAsset=BuffData         505713 bytes
+   head: b'{"Id":"\xe6\xb5\x8b\xe8\xaf\x95Buff","Type":"\xe6\xb5\x8b\xe8\xaf\x95Buff"}\n{"Id":"\xe6\x94\xbb\xe9\x80\x9f\xe6\x8f\x90\xe5\x8d\x87","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":["AgiAdd"]}}\n{"Id":"\xe5\x87\x8f\xe9\x80\x9f","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":["SpeedRate"]}}\n{"Id":"\xe6\x94\xbb\xe5\x87\xbb\xe6\x8f\x90\xe5\x8d\x87","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":["AttackRate"]}}\n{"Id":"\xe7\x94\x9f\xe5\x91\xbd\xe6\x8f\x90\xe5\x8d\x87","Type":"\xe6\x95\xb0\xe5\x80\xbc\xe5\x8f\x98\xe5\x8c\x96","Data":{"t":'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 32)
+
+-- bulletdata_e202f658d829f9d7a5762d0c8e4cbe1f.bundle TextAsset=BulletData       34034 bytes
+   head: b'{"Id":"\xe9\x98\xbf\xe7\xb1\xb3\xe5\xa8\x85\xe5\xad\x90\xe5\xbc\xb9","Type":"\xe5\xad\x90\xe5\xbc\xb9","Model":"\xe8\x93\x9d\xe8\x89\xb2\xe5\xad\x90\xe5\xbc\xb9","Speed":10,"FaceCamera":2}\n{"Id":"\xe6\x8a\x9b\xe7\x89\xa9\xe7\xba\xbf\xe5\xad\x90\xe5\xbc\xb9","Type":"\xe5\xad\x90\xe5\xbc\xb9","Model":"testBullet","Speed":3,"Data":{"MoveHeight":2}}\n{"Id":"\xe9\x98\xbf\xe7\xb1\xb3\xe5\xa8\x85\xe5\xbc\xba\xe5\x8a\x9b\xe5\x87\xbb\xe5\xad\x90\xe5\xbc\xb9","Type":"\xe5\xad\x90\xe5\xbc\xb9","Model":"testBullet","Speed":10}\n{"Id":"\xe5\xbc\xa9\xe7\xae\xad","Type":"\xe5\x86\xb2\xe5\x87\xbb\xe6\xb3\xa2'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 68)
+
+-- carddata_7c45f8d84eff86ae1fcd266fbe0a8e9c.bundle TextAsset=CardData         10899 bytes
+   head: b'{"Id":"\xe6\x98\x9f\xe7\x86\x8a","units":[323]}\n{"Id":"Lancet-2","units":[35]}\n{"Id":"Castle-3","units":[36]}\n{"Id":"\xe5\xa4\x9c\xe5\x88\x80","units":[39]}\n{"Id":"\xe9\xbb\x91\xe8\xa7\x92","units":[40]}\n{"Id":"\xe5\xb7\xa1\xe6\x9e\x97\xe8\x80\x85","units":[41]}\n{"Id":"\xe6\x9d\x9c\xe6\x9e\x97","units":[42]}\n{"Id":"\xe6\x96\x91\xe7\x82\xb9","units":[43]}\n{"Id":"\xe6\xb3\xa1\xe6\x99\xae\xe5\x8d\xa1","units":[44]}\n{"Id":"\xe6\x9c\x88\xe8\xa7\x81\xe5\xa4\x9c","units":[4'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 26)
+
+-- contractdata_0628a00a713c2ce1610795dd06cca5db.bundle TextAsset=ContractData     34718 bytes
+   head: b'{"Id":"\xe5\x90\x88\xe7\xba\xa61","Icon":"\xe5\x8f\x8d\xe6\x9c\xba\xe5\x8a\xa8","Name":"\xe5\x8f\x8d\xe6\x9c\xba\xe5\x8a\xa8"}\n{"Id":"\xe5\x90\x88\xe7\xba\xa62","Icon":"\xe5\x8f\x8d\xe7\x8b\x99\xe5\x87\xbbI","Name":"\xe5\x8f\x8d\xe7\x8b\x99\xe5\x87\xbbI","Skills":[8458]}\n{"Id":"\xe5\x90\x88\xe7\xba\xa64","Icon":"\xe7\x9b\xae\xe6\xa0\x87\xef\xbc\x9a\xe6\x8a\xb9\xe6\xb6\x88\xe6\x9c\xba\xe5\x9e\x8bI","Name":"\xe7\x9b\xae\xe6\xa0\x87\xef\xbc\x9a\xe6\x8a\xb9\xe6\xb6\x88\xe6\x9c\xba\xe5\x9e\x8bI"}\n{"Id":"\xe5\x8d\x8f\xe5\x90\x8c\xe6\x88\x98\xe6\x9c\xaf\xef\xbc\x9a\xe5\x86\x9b\xe6\xa2\xb0","Icon":"\xe5\x8d\x8f\xe5\x90\x8c\xe6\x88\x98\xe6\x9c\xaf\xef\xbc\x9a\xe5\x86\x9b\xe6\xa2\xb0","Name":"\xe5\x8d\x8f\xe5\x90\x8c\xe6\x88\x98\xe6\x9c\xaf\xef\xbc\x9a\xe5\x86\x9b\xe6\xa2\xb0"'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 39)
+
+-- dungeonleveldata_b659c98b9c2fffdac9918b8d3f7723f3.bundle TextAsset=DungeonLevelData 239 bytes
+   head: b'{"TeamCount":0,"BuildCount":0,"Exp":0}\n{"TeamCount":3,"BuildCount":3,"Exp":1}\n{"TeamCount":5,"BuildCount":4,"Exp":3}\n{"TeamCount":6,"BuildCount":5,"Exp":5}\n{"TeamCount":7,"BuildCount":6,"Exp":7}\n{"TeamCount":8,"BuildCount":7,"Exp":9999999}'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 39)
+
+-- effectdata_faf170f25f5f37e86b70b80e32bdc30f.bundle TextAsset=EffectData       114718 bytes
+   head: b'{"Id":"\xe8\x93\x84\xe5\x8a\x9b","Prefab":"\xe8\x93\x84\xe5\x8a\x9b","LifeTime":5}\n{"Id":"\xe5\x87\xbb\xe4\xb8\xad1","Prefab":"\xe5\x87\xbb\xe4\xb8\xad1","LifeTime":5}\n{"Id":"\xe5\x87\xbb\xe4\xb8\xad2","Prefab":"\xe5\x87\xbb\xe4\xb8\xad2","LifeTime":5}\n{"Id":"\xe9\x9a\x90\xe8\xba\xab","Prefab":"common_invisible","ParentFollow":3,"FaceCamera":60}\n{"Id":"\xe9\x9a\x90\xe8\xba\xab2","Prefab":"common_invisible_02","Offset":{"x":0,"y":-0.7,"z":0}'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 39)
+
+-- eventdata_7a49f6aae2c4857fbd73c38536a5d892.bundle TextAsset=EventData        496 bytes
+   head: b'{"Group":"\xe5\x88\x9d\xe5\xa7\x8b\xe4\xba\x8b\xe4\xbb\xb6","EventId":"\xe5\x85\xa5\xe5\x8f\xa3","Description":"\xe5\x89\x8d\xe6\x96\xb9\xe4\xbc\x9a\xe6\x9c\x89\xe4\xbb\x80\xe4\xb9\x88\xe7\xad\x89\xe5\xbe\x85\xe7\x9d\x80\xe4\xbd\xa0\xe5\x91\xa2\xe3\x80\x82","Background":"Background/rl_camp","Tile":"\xe5\x90\xaf\xe7\xa8\x8b"}\n{"Group":"\xe5\x88\x9d\xe5\xa7\x8b\xe4\xba\x8b\xe4\xbb\xb6A","Description":"\xe4\xbd\xa0\xe6\x84\x9f\xe5\x88\xb0\xe5\x85\x85\xe6\xbb\xa1\xe2\x80\xa6\xe2\x80\xa6","Choices":["+2\xe9\x87\x91\xe9\x92\xb1","+2\xe5\xb8\x8c\xe6\x9c\x9b"],"ChoicesTitle":["\xe5\x86\xb3\xe5\xbf\x83","\xe4\xbf\xa1\xe5\xbf\x83"],"Next":["1","1"],"Rew'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 107)
+
+-- mapdata_d558fbe49512e7276aab68f17ad42c11.bundle TextAsset=MapData          1551 bytes
+   head: b'{"Id":"1-1","MapName":"\xe5\x9c\xba\xe6\x99\xaf\xe5\x90\x8d\xe5\xad\x971","Description":"\xe7\x9c\x9f\xe7\x9a\x84\xe6\x98\xaf\xe6\xb5\x8b\xe8\xaf\x95\xe7\x94\xa8\xe7\x9a\x84","Scene":"TestMap","InitHp":100,"InitCost":100,"MaxBuildCount":8,"MaxCost":999,"MapModel":"enemy_1000_gopro"}\n{"Id":"1-2","MapName":"\xe5\x9c\xba\xe6\x99\xaf\xe5\x90\x8d\xe5\xad\x972","Description":"\xe6\x9c\x89\xe7\x82\xb9\xe6\x80\xaa\xe7\x9a\x84H6-4","Scene":"H6-4","InitHp":3,"InitCost":20,"Max'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 163)
+
+-- modifydata_484feafbd318e67fb657ac2064fb4037.bundle TextAsset=ModifyData       20877 bytes
+   head: b'{"Id":"\xe6\x9a\xb4\xe5\x87\xbb1","Type":"\xe6\x9a\xb4\xe5\x87\xbb","Data":{"Chance":0.1,"Rate":1.6}}\n{"Id":"\xe6\x9a\xb4\xe5\x87\xbb2","Type":"\xe6\x9a\xb4\xe5\x87\xbb","Data":{"Chance":0.1,"Rate":2.1,"Chance1":0.3}}\n{"Id":"\xe5\xa4\x9a\xe9\x87\x8d\xe6\x94\xbb\xe5\x87\xbb1","Type":"\xe9\xa2\x9d\xe5\xa4\x96\xe7\x9b\xae\xe6\xa0\x87","Data":{"Chance":0.1,"Count":1}}\n{"Id":"\xe5\xa4\x9a\xe9\x87\x8d\xe6\x94\xbb\xe5\x87\xbb2","Type":"\xe9\xa2\x9d\xe5\xa4\x96\xe7\x9b\xae\xe6\xa0\x87","Data":{"Count":1}}\n{"Id":"\xe5\xa4\x9a\xe9\x87\x8d'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 58)
+
+-- relicdata_0442a1d77da6ce89f8bcd872f5a2e42a.bundle TextAsset=RelicData        5160 bytes
+   head: b'{"Id":"\xe9\x81\x97\xe7\x89\xa91","ShowId":"\xe9\x81\x97\xe7\x89\xa91"}\n{"Id":"\xe5\x85\x88\xe9\x94\x8b\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","ShowId":"\xe5\x85\x88\xe9\x94\x8b\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe5\x85\x88\xe9\x94\x8b\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Profession":[1]}\n{"Id":"\xe7\x8b\x99\xe5\x87\xbb\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","ShowId":"\xe7\x8b\x99\xe5\x87\xbb\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe7\x8b\x99\xe5\x87\xbb\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Profession":[3]}\n{"Id":"\xe6\x9c\xaf\xe5\xa3\xab\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","ShowId":"\xe6\x9c\xaf\xe5\xa3\xab\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe6\x9c\xaf\xe5\xa3\xab\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8",'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 28)
+
+-- rewarddata_ca77b5fe01ecb35b9dfbfd0fd8a2d46a.bundle TextAsset=RewardData       230 bytes
+   head: b'{"Id":"\xe9\x9a\x8f\xe6\x9c\xba\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","RewardItem":[1,2,3,4,5,6,7,8],"Weights":[10,10,10,10,10,0,10,10]}\n{"Id":"\xe5\xb0\x91\xe9\x87\x8f\xe7\x82\xb9\xe6\x95\xb0","RewardPoint":4}\n{"Id":"\xe5\xb0\x91\xe9\x87\x8f\xe9\x87\x91\xe9\x92\xb1","RewardGold":4}\n{"Id":"2\xe7\x82\xb9\xe6\x95\xb0","RewardPoint":2}\n{"Id":"2\xe9\x87\x91\xe9\x92\xb1","RewardGold":2}'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 81)
+
+-- sheet1_b0789c5d9f108f40b3c4ce6279b095e5.bundle TextAsset=Sheet1           6545 bytes
+   head: b'{"Id":"\xe9\x81\x97\xe7\x89\xa91"}\n{"Id":"\xe5\x85\x88\xe9\x94\x8b\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe5\x85\x88\xe9\x94\x8b\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Profession":[1]}\n{"Id":"\xe7\x8b\x99\xe5\x87\xbb\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe7\x8b\x99\xe5\x87\xbb\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Profession":[3]}\n{"Id":"\xe6\x9c\xaf\xe5\xa3\xab\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe6\x9c\xaf\xe5\xa3\xab\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Profession":[5]}\n{"Id":"\xe5\x8c\xbb\xe7\x96\x97\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Name":"\xe5\x8c\xbb\xe7\x96\x97\xe6\x8b\x9b\xe5\x8b\x9f\xe5\x88\xb8","Profession":[7]}\n{"Id":"\xe9\x87\x8d\xe8\xa3\x85\xe6\x8b'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 13)
+
+-- skilldata_5dc9abb460f27b7be27f5e7e4185d061.bundle TextAsset=SkillData        2860372 bytes
+   head: b'{"Id":"\xe7\xa5\x9e\xe7\xbb\x8f\xe6\x8d\x9f\xe4\xbc\xa4","Type":"\xe6\x99\xae\xe9\x80\x9a\xe6\x8a\x80\xe8\x83\xbd","UseType":2,"TargetTeam":1,"UseEventTarget":1,"DamageType":2,"DamageRate":1000,"DamageBase":2,"DamageCount":1,"Buffs":[90],"BuffLastTime":10}\n{"Id":"\xe9\x80\x9a\xe7\x94\xa8\xe6\x97\xa0\xe6\x95\x8c","Type":"\xe6\x99\xae\xe9\x80\x9a\xe6\x8a\x80\xe8\x83\xbd","IgnoreStun":1,"UseType":2,"Trigger":2,"MaxUseCount":1,"TargetTeam":7,"U'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 169)
+
+-- skilldata_eb8b96456f5205cf12429c344c532d89.bundle TextAsset=SkillData        2861404 bytes
+   head: b'{"Id":"\xe7\xa5\x9e\xe7\xbb\x8f\xe6\x8d\x9f\xe4\xbc\xa4","Type":"\xe6\x99\xae\xe9\x80\x9a\xe6\x8a\x80\xe8\x83\xbd","UseType":2,"TargetTeam":1,"UseEventTarget":1,"DamageType":2,"DamageRate":1000,"DamageBase":2,"DamageCount":1,"Buffs":[90],"BuffLastTime":10}\n{"Id":"\xe9\x80\x9a\xe7\x94\xa8\xe6\x97\xa0\xe6\x95\x8c","Type":"\xe6\x99\xae\xe9\x80\x9a\xe6\x8a\x80\xe8\x83\xbd","IgnoreStun":1,"UseType":2,"Trigger":2,"MaxUseCount":1,"TargetTeam":7,"U'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 169)
+
+-- systemdata_5e80769ed84f364f6336516e6e8eaecf.bundle TextAsset=SystemData       35 bytes
+   head: b'{"StartUnits":[309,313,305,304,91]}'
+   JSON dict keys: ['StartUnits']
+   first value: [309, 313, 305, 304, 91]
+
+-- unitdata_6753a54a33666e72444adef6fd9d55b1.bundle TextAsset=UnitData         1814831 bytes
+   head: b'{"Id":"0","Hp":1}\n{"Id":"\xe6\xba\x90\xe7\x9f\xb3\xe8\x99\xab","Type":"\xe6\x95\x8c\xe4\xba\xba","RebirthUnit":1,"Model":"enemy_1007_slime_2","ModelScale":1,"Hp":1550,"Attack":240,"Defence":0,"MagicDefence":0,"MinDamageRate":0.05,"AttackGap":1,"Speed":1,"Team":1,"Name":"\xe6\xba\x90\xe7\x9f\xb3\xe8\x99\xab\xe6\xb5\x8b\xe8\xaf\x95","HitPointName":"Hip","Skills":[27,28],"HpBarType":1,"Dama'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 18)
+
+-- unitdata_769bc5d5aac9e83544883e20a9ea8a11.bundle TextAsset=UnitData         1814294 bytes
+   head: b'{"Id":"0","Hp":1}\n{"Id":"\xe6\xba\x90\xe7\x9f\xb3\xe8\x99\xab","Type":"\xe6\x95\x8c\xe4\xba\xba","RebirthUnit":1,"Model":"enemy_1007_slime_2","ModelScale":1,"Hp":1550,"Attack":240,"Defence":0,"MagicDefence":0,"MinDamageRate":0.05,"AttackGap":1,"Speed":1,"Team":1,"Name":"\xe6\xba\x90\xe7\x9f\xb3\xe8\x99\xab\xe6\xb5\x8b\xe8\xaf\x95","HitPointName":"Hip","Skills":[27,28],"HpBarType":1,"Dama'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 18)
+
+-- wavedata_85772373507dda2d0a83246d915fd029.bundle TextAsset=WaveData         6799 bytes
+   head: b'{"Map":"1-1","UnitId":3,"Delay":0,"GapTime":2,"Count":1,"Path":"P0"}\n{"Map":"1-1","UnitId":10,"Delay":0,"GapTime":10,"Count":1,"Path":"P0","OffetsetY":-0.2}\n{"Map":"1-1","UnitId":2,"Delay":100,"Count":1,"Path":"P0","OffetsetY":0.12}\n{"Map":"1-2","Delay":1,"Path":"P0"}\n{"Map":"1-2","Delay":1,"Path":"'
+   not JSON: JSONDecodeError Extra data: line 2 column 1 (char 69)
+
+======================== 2. maps bundle (1-11) full content ========================
+-- 1-11_0d989f9ad027ae521ce0c59678c3dbed.bundle -> 1-11
+{"MapName":"地图名","CameraPos":{"x":5.5,"y":8.4,"z":-2.16666675},"Description":"挑战xxxx","InitHp":3,"InitCost":10,"MaxBuildCount":9,"MaxCost":99,"Contracts":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"GridInfos":{"$type":"GridInfo[,], Assembly-CSharp","$values":[[{"CanBuildUnit":true,"CanMove":true},{"Y":1,"CanBuildUnit":true,"CanMove":true},{"Y":2,"CanBuildUnit":true,"CanMove":true},{"Y":3,"CanBuildUnit":true,"CanMove":true},{"Y":4,"CanBuildUnit":true,"CanMove":true},{"Y":5,"CanBuildUnit":true,"CanMove":true},{"Y":6,"CanBuildUnit":true,"CanMove":true},{"Y":7,"CanBuildUnit":true,"CanMove":true}],[{"X":1,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":1,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":2,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":3,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":4,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":5,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":6,"CanBuildUnit":true,"CanMove":true},{"X":1,"Y":7,"CanBuildUnit":true,"CanMove":true}],[{"X":2,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":1,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":2,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":3,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":4,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":5,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":6,"CanBuildUnit":true,"CanMove":true},{"X":2,"Y":7,"CanBuildUnit":true,"CanMove":true}],[{"X":3,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":1,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":2,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":3,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":4,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":5,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":6,"CanBuildUnit":true,"CanMove":true},{"X":3,"Y":7,"CanBuildUnit":true,
+
+======================== 3. compare C# Buffs/Skills class names with battle.xlsx Id column ========================
+{'Units': 14, 'Skills': 267, 'Modifys': 76, 'Bullets': 38, 'Buffs': 614}
+
+Buffs sample: ['m3融毁加攻', 'V2治疗减益', 'W渴血的子裔天赋', 'W领袖敌方光环', '乌尔比安3位移', '乌尔比安3返回', '乌尔比安X模组受伤回血', '乌尔比安受伤回血', '乌尔比安深海光环', '乌尔比安船锚无敌', '乌有击中追加Buff', '云梯不可部署', '云梯标记', '亚叶天赋加成', '亚叶技能治疗', '令3最终增伤', '伊内丝3不可部署', '伊内丝天赋减攻', '佩佩夏活精英猫天赋', '佩佩夏活领袖猫护盾', '佩佩天赋技力回复', '使徒Buff', '修补工头护盾', '倚音增伤', '傀儡师复活计时', '冬灵猎犬头领光环', '冲锋官辐能源石虫中毒', '凋亡减攻中毒', '凋亡凝滞', '刻俄柏天赋增伤', '剑豪Y模组技力回复', '剑豪伤害最终提升', '加减层数数值变化', '匪帮劫掠者天赋', '匪帮斧手护盾', '匪帮防御者护盾', '医生溢出护盾', '医生溢出治疗天赋', '华法琳天赋', '卡涅利安数值变化']
+
+Modifys sample: ['伤害最终提升', '佩佩夏活领袖猫二阶段增伤', '倚音增伤', '召唤物阻挡伤害', '命中回血', '唤醒伤害平摊', '固定伤害追加', '对buff伤害', '对Buff回血', '对buff最终伤害', '对Buff穿甲', '对Buff赋予Buff', '对Buff追加类型伤害', '对Buff高于生命增伤', '对tag伤害', '对个数伤害', '对个数附加Buff', '对位置伤害', '对低于重量伤害', '对低血伤害', '对低血伤害2', '对低血加算加攻', '对低血附加Buff', '对射程增伤', '对干员治疗', '对控制伤害', '对空追加Buff', '对距离增伤', '对距离最终增伤', '对远程伤害', '对重量伤害', '对重量无视防御', '对阻挡穿甲', '对飞行伤害', '对飞行额外伤害', '对高于生命伤害', '对高血附加Buff', '射程内倍率最终提升', '射程内倍率额外提升', '射程内存在阶级增伤']
+
+Bullets sample: ['伊内丝3影哨弹道', '冲击波', '可空炸冲击波', '回环射手子弹', '垂直子弹', '夜刀3弹道', '大飞镖', '娜仁图亚3子弹', '子弹', '安多恩冲击波', '对单龙卷风弹道', '巫王乐团弹道', '干员捆绑弹道', '干员捆绑弹道2', '延迟打击', '延迟打击子弹', '引星棘刺1弹道', '引星棘刺2弹道', '引星棘刺2弹道2', '引星棘刺捆绑弹道', '弹射子弹', '弹射治疗子弹', '彩六医生冲击波', '截云2飞镖', '持续施法子弹', '持续追踪子弹', '敌方激光弹道', '旋转子弹', '无效果捆绑弹道', '水晶箭冲击波', '测试锁链弹道', '秘术师子弹', '羊之主弹道', '荒芜拉普兰德弹道', '远牙穿透弹道', '逻各斯1子弹', '钩子', '银心湖捆绑弹道']
+
+Units sample: ['中立单位', '乌尔比安船锚', '华法琳血浆', '干员', '战术点', '敌人', '普通单位', '沙漠晶块', '涤火杰西卡盾牌', '特殊战术点', '箱子类敌人', '箱子类花匠', '纯净晶块干员', '陷阱']
+
+[BuffData] xlsx Id 非空数=58 ; C# 类型数=614 ; 完全同名交集=0
+   xlsx Id 样例: ['测试Buff', '攻速提升', '减速', '攻击提升', '生命提升', '生命提升叠加', '防御提升加', '防御提升', '部署费用提升', '再部署时间降低', '全部格挡', '物理格挡', '魔法格挡', '真实格挡', '移速变化', '阻挡变化', '技力消耗变化', '技力回复变化']
+   交集样例: []
+   xlsx 有而 C# 无 (前20): ['测试Buff', '攻速提升', '减速', '攻击提升', '生命提升', '生命提升叠加', '防御提升加', '防御提升', '部署费用提升', '再部署时间降低', '全部格挡', '物理格挡', '魔法格挡', '真实格挡', '移速变化', '阻挡变化', '技力消耗变化', '技力回复变化', '技力光环', '抵抗变化']
+   C# 有而 xlsx 无 (前20): ['免疫低于伤害', '满技力改变技力', '未阻挡时最终增伤', '提丰类技能增伤', '远山天赋', '爆裂', '合约V2裂礁者', '冻结', '范围毒伤', '技能期间数值变化叠加', '非控制型眩晕', '绝食', '周期扣费', '技能倍率型数值变化附加', '免疫Buff', '全减伤', '伤害反弹', '分摊型护盾', '对距离增伤', '设置属性']
+
+[SkillData] xlsx Id 非空数=45 ; C# 类型数=267 ; 完全同名交集=0
+   xlsx Id 样例: ['神经损伤', '通用无敌', '通用绝食', '通用绝食2', '通用孤立', '通用免疫失衡', '测试用死亡召唤', '通用不可阻挡', '通用入场免疫失衡', '通用控制效果反制', '敌人停止移动', '复活召唤', '通用全体混乱', '通用全体测试Buff', '干员召唤物无敌', '通用杀回', '通用杀回2', '敌方仇恨升高一']
+   交集样例: []
+   xlsx 有而 C# 无 (前20): ['神经损伤', '通用无敌', '通用绝食', '通用绝食2', '通用孤立', '通用免疫失衡', '测试用死亡召唤', '通用不可阻挡', '通用入场免疫失衡', '通用控制效果反制', '敌人停止移动', '复活召唤', '通用全体混乱', '通用全体测试Buff', '干员召唤物无敌', '通用杀回', '通用杀回2', '敌方仇恨升高一', '敌方仇恨降低一', '冲锋手天赋']
+   C# 有而 xlsx 无 (前20): ['召唤绑定', '防护背心切换', '歌蕾蒂娅类召唤', '琉璃壁类索敌', '撤退全场干员', '锁血治疗打断', '战争幽灵溅射分摊', '锁血治疗', '拉', '召唤影哨', '活性源石风暴天赋', '调谐节点开启', '伊内丝3摧毁影哨', '缩短主技能持续近战', '禁用对地索敌', '掉落', '持续施法', '关卡伤害', '自身Buff转移', '失衡位移改向索敌']
+
+[BulletData] xlsx Id 非空数=279 ; C# 类型数=38 ; 完全同名交集=11
+   xlsx Id 样例: ['阿米娅子弹', '抛物线子弹', '阿米娅强力击子弹', '弩箭', '延迟打击', '大飞镖', '音符', '普通弓箭', '普通法球', '普通法球红色', '普通法球m', '斑点弹道', '月见夜弹道', '月见夜技能弹道', '空爆弹道', '空爆弹道2', '梓兰弹道', '史都华德弹道']
+   交集样例: ['延迟打击', '大飞镖', '弹射子弹', '夜刀3弹道', '羊之主弹道', '远牙穿透弹道', '银心湖捆绑弹道', '荒芜拉普兰德弹道', '引星棘刺2弹道', '引星棘刺2弹道2', '引星棘刺1弹道']
+   xlsx 有而 C# 无 (前20): ['阿米娅子弹', '抛物线子弹', '阿米娅强力击子弹', '弩箭', '音符', '普通弓箭', '普通法球', '普通法球红色', '普通法球m', '斑点弹道', '月见夜弹道', '月见夜技能弹道', '空爆弹道', '空爆弹道2', '梓兰弹道', '史都华德弹道', '安塞尔弹道', '银灰弹道', '凯尔希弹道', '棘刺普通弹道']
+   C# 有而 xlsx 无 (前20): ['持续追踪子弹', '冲击波', '娜仁图亚3子弹', '干员捆绑弹道', '持续施法子弹', '逻各斯1子弹', '回环射手子弹', '伊内丝3影哨弹道', '干员捆绑弹道2', '测试锁链弹道', '水晶箭冲击波', '垂直子弹', '延迟打击子弹', '子弹', '安多恩冲击波', '敌方激光弹道', '巫王乐团弹道', '秘术师子弹', '钩子', '对单龙卷风弹道']
+
+[UnitData] xlsx Id 非空数=45 ; C# 类型数=14 ; 完全同名交集=0
+   xlsx Id 样例: ['0', '#敌人', '源石虫', '狗', '超级狗', '盾', '隐藏狗', '轻甲卫兵组长', '霜星', '雪怪小队', '冰狗', '冰爆虫', '冰术士', '冰狙击手', '冰刀', '炮击组长', '小飞机', '小飞机2']
+   交集样例: []
+   xlsx 有而 C# 无 (前20): ['0', '#敌人', '源石虫', '狗', '超级狗', '盾', '隐藏狗', '轻甲卫兵组长', '霜星', '雪怪小队', '冰狗', '冰爆虫', '冰术士', '冰狙击手', '冰刀', '炮击组长', '小飞机', '小飞机2', '弑君者', '轻甲卫兵']
+   C# 有而 xlsx 无 (前20): ['箱子类花匠', '敌人', '特殊战术点', '普通单位', '干员', '华法琳血浆', '中立单位', '战术点', '箱子类敌人', '陷阱', '纯净晶块干员', '沙漠晶块', '涤火杰西卡盾牌', '乌尔比安船锚']
+
+======================== 4. raw strings around prts / torappu / arknights keywords in Assembly-CSharp.dll ========================
+Excel      @0xec1c8 b'EnemySpineDownloadTool\x00SpineBoneFindTool\x00MapInfoExChangeTool\x00EnemyInfoExcelTool\x00ABExportTool\x00ResourcesExportTool\x00_pool\x00m_typeControl\x00m_useControl\x00m_readyControl'
+
+======================== 5. all ASCII strings containing prts/torappu/ab/导表 in Assembly-CSharp ========================
+    SkeletonAnimation2
+    SkeletonData
+    LeaveRefreshSpine
+    SpineModel
+    SpineDownLoadTool
+    EnemySpineDownloadTool
+    SpineBoneFindTool
+    SkeletonAnimation
+    get_Skeleton
+    skeleton
+    PrtsInfo
+    set_SkeletonRenderer
+    SkeletonExtensions
+    get_SkeletonDataAsset
+    Spine.Unity
+    EnemySpineDownloadTool+s2
+    EnemySpineDownloadTool+s3
+    EnemySpineDownloadTool+ht
+    SpineDownLoadTool+hs
+    SpineDownLoadTool+hh
+    SpineDownLoadTool+hi
+    torappu.ab
+    .skel
+    .atlas
+    http://static.prts.wiki/spine38/enemy/
+    http://static.prts.wiki/spine38/char/
+    http://prts.wiki/w/
+    http://prts.wiki/images

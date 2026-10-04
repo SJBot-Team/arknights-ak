@@ -1,0 +1,11 @@
+buff_template 中 [deck] 变体: 5 个
+  样例: chiave_t_1[deck], trap_pyctrn_s[deck], svash2_s_1[deck], ines_s_3[deck], ray_s_2[deck]
+
+含 svash2_s_1 的模板:
+  svash2_s_1
+  svash2_s_1[deck]
+
+buff_table.json 含 supmech: False, 含 chiave: False
+buff_table 键样例: ['sluggish[inf]', 'sluggish', 'stun', 'silence', 'palsy[stack]', 'palsying', 'palsy_trigger', 'weak[inf]', 'weak[limit]', 'weak[magic][inf]']
+
+变格系列干员: ['trap_300_izdmge', 'trap_301_izbslm', 'trap_302_iznhkd', 'trap_303_izbear', 'trap_304_izdoc', 'trap_305_izwsdl', 'trap_306_izklst', 'trap_307_izsvas', 'trap_308_izcamp', 'trap_309_muctba']

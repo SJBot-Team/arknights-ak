@@ -1,0 +1,20 @@
+﻿== Assembly-CSharp.dll ==  md=v4.0.30319 TypeDef=1623 MethodDef=6684 Field=6047 TypeRef=269 MemberRef=1470 US=957
+
+===== Battle::e3i : void (this BattleInput)  [MD78] =====
+python : Traceback (most recent call last):
+所在位置 行:5 字符: 3
++   python mono_il.py $dll --dis $m 2>&1 | Out-File -Encoding UTF8 "dis ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\23922\Documents\ds_harness\ak\.tmp\mono_il.py", line 774, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\23922\Documents\ds_harness\ak\.tmp\mono_il.py", line 737, in main
+    ins = A.disasm(m['rid'])
+  File "C:\Users\23922\Documents\ds_harness\ak\.tmp\mono_il.py", line 616, in disasm
+    val = [i + 4*n + struct.unpack_from('<i', code, i+4*k)[0] for k in range(n)]
+                     ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+struct.error: unpack_from requires a buffer of at least 1842 bytes for unpacking 4 bytes at offset 1838 (actual buffer 
+size is 1839)

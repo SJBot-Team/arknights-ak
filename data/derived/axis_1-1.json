@@ -1,0 +1,55 @@
+{
+ "level": "1-1",
+ "timebase": "frame",
+ "seed": 978975386,
+ "meta": {
+  "source": "ak/axis/1-1.yaml（共用轴表）",
+  "note": "由 axis_io.axis_to_derived 生成；帧号=游戏帧（进入游戏第一帧为 0）",
+  "video_axis_anchors": [
+   {
+    "video": 621,
+    "game": 10,
+    "basis": "部署芬（费用 10→2）"
+   },
+   {
+    "video": 4618,
+    "game": 411,
+    "basis": "部署月见夜（费用 15→1）"
+   },
+   {
+    "video": 5961,
+    "game": 581,
+    "basis": "技能回费 +6（费用 7→13）"
+   },
+   {
+    "video": 8878,
+    "game": 1333,
+    "basis": "技能回费 +6（费用 38→44）"
+   }
+  ]
+ },
+ "ops": [
+  {
+   "op": "deploy",
+   "unit": "芬",
+   "coord": "D6",
+   "dir": "左",
+   "cost": 10,
+   "foff": 10,
+   "unit_cost": 8,
+   "frame": 10,
+   "abs_seconds": 0.3333333333333333
+  },
+  {
+   "op": "deploy",
+   "unit": "月见夜",
+   "coord": "D4",
+   "dir": "上",
+   "cost": 15,
+   "foff": 21,
+   "unit_cost": 14,
+   "frame": 411,
+   "abs_seconds": 13.7
+  }
+ ]
+}

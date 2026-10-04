@@ -1,0 +1,8 @@
+{{Ads|normal}}{{Ads/mobile}}
+{{#widget:EnemiesListV2}}
+{{#seo:
+|title=敌人一览 - PRTS - 玩家共同构筑的明日方舟中文Wiki
+|titlemode=append
+|keywords=PRTS,明日方舟,明日方舟Arknights,Arknights,明日方舟wiki,明日方舟百科,明日方舟攻略,明日方舟图鉴,明日方舟,明日方舟资料站
+|description=PRTS是一个非营利性质的明日方舟资料Wiki网站
+}}

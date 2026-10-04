@@ -1,0 +1,5 @@
+目录 [e79bae] -> gbk=FAIL('gbk' codec can't decode byte ) | gb18030=FAIL('gb18030' codec can't decode b) | cp936=FAIL('gbk' codec can't decode byte )
+导航 [e5afbce888aa] -> gbk=瀵艰埅 | gb18030=瀵艰埅 | cp936=瀵艰埅
+数据 [e695b0e68dae] -> gbk=鏁版嵁 | gb18030=鏁版嵁 | cp936=鏁版嵁
+核验 [e6a0b8e9aa8c] -> gbk=鏍搁獙 | gb18030=鏍搁獙 | cp936=鏍搁獙
+全角（ [efbc88] -> gbk=FAIL('gbk' codec can't decode byte ) | gb18030=FAIL('gb18030' codec can't decode b) | cp936=FAIL('gbk' codec can't decode byte )

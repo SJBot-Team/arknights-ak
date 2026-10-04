@@ -1,0 +1,27 @@
+loadres: 1
+handle: 0x1de1eb820a0
+AsstGetNullSize(): 18446744073709551615
+AsstGetImage(h, None, 0) 请求尺寸 -> 18446744073709551615
+AsstGetTasksList(h, None, 0) 请求尺寸 -> 18446744073709551615
+append StartUp -> task_id 1
+AsstGetTasksList(h,None,0) after append -> 18446744073709551615
+AsstStart -> 1
+[CB 10001] {"taskchain":"StartUp","taskid":1,"uuid":""}
+[CB 2] {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+[CB 20001] {"class":"asst::ProcessTask","details":{"action":"DoNothing","algorithm":"JustReturn","exec_times":1,"max_times":2147483647,"result":{},"task":"StartUpBegin"},"first":["StartAtHome","StartWithSanity","SwitchTheme@ToggleSettingsMenu","StartUpBegin"],"pre_task":"","subtask":"ProcessTask","taskchain":"StartUp","taskid":0,"uuid":""}
+[CB 20002] {"class":"asst::ProcessTask","details":{"action":"DoNothing","algorithm":"JustReturn","exec_times":1,"max_times":2147483647,"result":{},"task":"StartUpBegin"},"first":["StartAtHome","StartWithSanity","SwitchTheme@ToggleSettingsMenu","StartUpBegin"],"pre_task":"","subtask":"ProcessTask","taskchain":"StartUp","taskid":0,"uuid":""}
+[CB 2] {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+[CB 2] {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+[CB 2] {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+[CB 2] {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+events: 8
+  msg 10001 {"taskchain":"StartUp","taskid":1,"uuid":""}
+  msg 2 {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+  msg 20001 {"class":"asst::ProcessTask","details":{"action":"DoNothing","algorithm":"JustReturn","exec_times":1,"max_times":2147483647,"result":{},"task":"StartUpBegin"},"first":["StartAtHome","StartWithSanity","SwitchTheme@ToggleSettingsMenu","StartUpBegin"],"pre_task":"","subtask":"ProcessTask","taskchain":"StartUp","taskid":0,"uuid":""}
+  msg 20002 {"class":"asst::ProcessTask","details":{"action":"DoNothing","algorithm":"JustReturn","exec_times":1,"max_times":2147483647,"result":{},"task":"StartUpBegin"},"first":["StartAtHome","StartWithSanity","SwitchTheme@ToggleSettingsMenu","StartUpBegin"],"pre_task":"","subtask":"ProcessTask","taskchain":"StartUp","taskid":0,"uuid":""}
+  msg 2 {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+  msg 2 {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+  msg 2 {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+  msg 2 {"details":{},"uuid":"","what":"ScreencapFailed","why":"ScreencapFailed"}
+[CB 5] {}
+OK

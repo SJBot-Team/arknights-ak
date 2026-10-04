@@ -1,0 +1,74 @@
+﻿
+======================== Assembly-CSharp: Assembly name + version ========================
+assembly version (32772, 0, 0, 0)
+assembly name Assembly-CSharp
+
+======================== TypeRef namespaces (external dependencies) ========================
+[('UnityEngine', 65), ('FairyGUI', 37), ('System', 34), ('System.Runtime.CompilerServices', 14), ('Spine', 13), ('System.IO', 13), ('', 11), ('System.Collections.Generic', 9), ('Pathfinding', 8), ('System.Data', 7), ('System.Threading.Tasks', 6), ('DG.Tweening', 6), ('Spine.Unity', 5), ('ExcelDataReader', 5), ('Newtonsoft.Json', 4), ('UnityEngine.SceneManagement', 4), ('UnityEngine.EventSystems', 3), ('UnityEngine.Networking', 3), ('System.Linq', 3), ('System.Reflection', 3), ('UnityEngine.ResourceManagement.AsyncOperations', 2), ('System.Text', 2), ('System.Threading', 2), ('System.Diagnostics', 2), ('Newtonsoft.Json.Linq', 2), ('UnityEngine.ResourceManagement.ResourceProviders', 1), ('UnityEngine.AddressableAssets.ResourceLocators', 1), ('System.Collections', 1), ('FairyGUI.Utils', 1), ('UnityEngine.AddressableAssets', 1), ('NPinyin', 1)]
+
+======================== MemberRef names (external API calls) - grouped ========================
+total MemberRefs 1470 unique 486
+   GetEnumerator                                 47
+   LoadSceneAsync                                3
+   Invoke                                        3
+   GetFiles                                      3
+   Parse                                         3
+   DeserializeObject                             3
+   Instantiate                                   3
+   DontDestroyOnLoad                             2
+   UnloadSceneAsync                              2
+   WriteLine                                     2
+   Write                                         2
+   GetType                                       2
+   SerializeObject                               2
+   path                                          2
+   GetTypeFromHandle                             1
+   CreateInstance                                1
+   StartPath                                     1
+   vectorPath                                    1
+   GetPropertyBlock                              1
+   SetPropertyBlock                              1
+   LoadAssetAsync                                1
+   GetFileNameWithoutExtension                   1
+   ReadPixels                                    1
+   CreateReader                                  1
+   CreateDirectory                               1
+   set_TypeNameHandling                          1
+   get_persistentDataPath                        1
+   get_streamingAssetsPath                       1
+   InstantiateAsync                              1
+   GetDirectoryName                              1
+   Read                                          1
+   GetString                                     1
+   FindAstarPath                                 1
+   FindObjectOfType                              1
+   LoadFromFile                                  1
+   LoadAsset                                     1
+   LoadAllAssets                                 1
+   Unload                                        1
+   SendWebRequest                                1
+   get_downloadHandler                           1
+   GetField                                      1
+--- reflection-specific ---
+   GetTypeFromHandle                             1
+   get_Assembly                                  1
+   CreateInstance                                1
+   GetPropertyBlock                              1
+   Invoke                                        3
+   GetType                                       2
+   GetField                                      1
+
+======================== AFA.exe: RCDATA /10/1 header + AHK script storage ========================
+offset 0x1a6738 head64 3b203c434f4d50494c45523a2076312e312e33372e30323e0a235265717569726573204175746f486f746b65792076322e300a2353696e676c65496e7374616e
+head repr b'; <COMPILER: v1.1.37.02>\n#Requires AutoHotkey v2.0\n#SingleInstance Ignore\n#Warn All, Off\nListLines False\nKeyHistory 0\nPr'
+b'configDir := A_AppData'    -> 0x1a8ebe
+b'class FileExtractor'       -> 0x1aae6b
+b'AutoHotkey'                -> 0xffad0
+b'LZNT'                      -> none
+b'\x1f\xb8'                  -> 0x27fd1
+FileExtractor offset 0x1aae6b ; rel to /10/1 start = 18227
+context: b'\ncallback(data)\n}\n}\nstatic Unsubscribe(eventName, callback) {\nif (!this.Listeners.Has(eventName)) {\nreturn\n}\nnewListeners := []\nfor cb in this.Listeners[eventName] {\nif (cb != callback) {\nnewListeners.Push(cb)\n}\n}\nthis.Listeners[eventName] := newListeners\n}\n}\nclass FileExtractor {\nstatic BaseDir := A_AppData "\\ArknightsFrameAssistant\\PC"\nstatic LogoPath      := FileExtractor.Ba'
+--- RT_VERSION raw ---
+400134000000560053005f00560045005200530049004f004e005f0049004e0046004f0000007200bd04effe000001000000020000001a000000020000001a0017000000000000000400000001000000000000000000000000000000a0000000010053007400720069006e006700460069006c00650049006e0066006f0000007c0000000100300034003000390030003400620030000000300007000100460069006c006500560065007200730069006f006e000000000032002e0030002e003200360000000000340007000100500072006f006400750063007400560065007200730069006f006e00000032002e0030002e003200360000000000440000000100560061007200460069006c00650049006e0066006f00000000002400040000005400720061006e0073006c006100740069006f006e00000000000904b004
+b'@\x014\x00\x00\x00V\x00S\x00_\x00V\x00E\x00R\x00S\x00I\x00O\x00N\x00_\x00I\x00N\x00F\x00O\x00\x00\x00r\x00\xbd\x04\xef\xfe\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x1a\x00\x00\x00\x02\x00\x00\x00\x1a\x00\x17\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xa0\x00\x00\x00\x01\x00S\x00t\x00r\x00i\x00n\x00g\x00F\x00i\x00l\x00e\x00I\x00n\x00f\x00o\x00\x00\x00|\x00\x00\x00\x01\x000\x004\x000\x009\x000\x004\x00b\x000\x00\x00\x000\x00\x07\x00\x01\x00F\x00i\x00l\x00e\x00V\x00e\x00r\x00s\x00i\x00o\x00n\x00\x00\x00\x00\x002\x00.\x000\x00.\x002\x006\x00\x00\x00\x00\x004\x00\x07\x00\x01\x00P\x00r\x00o\x00d\x00u\x00c\x00t\x00V\x00e\x00r\x00s\x00i\x00o\x00n\x00\x00\x002\x00.\x000\x00.\x002\x006\x00\x00\x00\x00\x00D\x00\x00\x00\x01\x00V\x00a\x00r\x00F\x00i\x00l\x00e\x00I\x00n\x00f\x00o\x00\x00\x00\x00\x00$\x00\x04\x00\x00\x00T\x00r\x00a\x00n\x00s\x00l\x00a\x00t\x00i\x00o\x00n\x00\x00\x00\x00\x00\t\x04\xb0\x04'
+PNG magic at ['0x12ef30', '0x14c564', '0x14c7d0', '0x14c96c', '0x14cb44', '0x14cd70', '0x14cfc4', '0x14d134', '0x14d2e4', '0x14d4d4']

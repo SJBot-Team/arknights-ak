@@ -1,0 +1,114 @@
+{
+ "=== 例A: chiave_t_1（纯属性型）===": {
+  "templateKey": "chiave_t_1",
+  "effectKey": "",
+  "onEventPriority": "DEFAULT",
+  "eventToActions": {
+   "ON_BUFF_START": [
+    {
+     "$type": "Torappu.Battle.Action.Nodes+CheckContainsDeckBuff, Assembly-CSharp",
+     "_target": "BUFF_OWNER",
+     "_key": "supmech_t[flag]",
+     "_useSpecifiedCardUid": false,
+     "_cardUidBBKey": null
+    },
+    {
+     "$type": "Torappu.Battle.Action.Nodes+CreateBuff, Assembly-CSharp",
+     "_buff": {
+      "attributes": {
+       "abnormalFlags": [],
+       "abnormalImmunes": [],
+       "abnormalAntis": null,
+       "abnormalCombos": [],
+       "abnormalComboImmunes": [],
+       "attributeModifiers": [
+        {
+         "attributeType": "ATK",
+         "formulaItem": "MULTIPLIER",
+         "value": 0.0,
+         "loadFromBlackboard": true,
+         "fetchBaseValueFromSourceEntity": false
+        },
+        {
+         "attributeType": "DEF",
+         "formulaItem": "MULTIPLIER",
+         "value": 0.0,
+         "loadFromBlackboard": true,
+         "fetchBaseValueFromSourceEntity": false
+        }
+       ]
+      },
+      "buffKey": "chiave_t_1[stack]",
+      "loadFromDB": false,
+      "isDurableBuff": false,
+      "isDamageMissable": false,
+      "isSilenceable": false,
+      "isStunnable": false,
+      "isFreezable": false,
+      "isLevitatable": false,
+      "isGroundBoundable": false,
+      "statusResistable": "AUTOMATIC",
+      "templateKey": "empty",
+      "disableOverride": true,
+      "overrideKey": null,
+      "overrideType": "STACK",
+      "maxStackCnt": -1,
+      "refreshRemainingTimeWhenStackMax": false,
+      "clearAllStackCntWhenTimeUp": false,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": false,
+      "overrideEffectKey": null,
+      "overrideOnEventPriority": false,
+      "onEventPriority": "DEFAULT",
+      "audioSignal": null,
+      "lifeTimeType": "INFINITY",
+      "takeSnapshotWhenExtend": false,
+      "durationKey": null,
+      "lifeTime": 0.0,
+      "triggerLifeType": "IMMEDIATELY",
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": true,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": false,
+      "blackboard": [],
+      "enableInitDirectionFromSource": false
+     },
+     "_buffOwner": "BUFF_SOURCE",
+     "_useSpecialBuffSource": false,
+     "_specialBuffSource": "BUFF_SOURCE",
+     "_isDerivedBuff": true,
+     "_finishDerivedBuffIfParentFinish": false,
+     "_inherateSourceProjectileFromParentBuff": false,
+     "_hookEffectKeyFromSourceProjectile": false
+    }
+   ]
+  }
+ },
+ "=== 例B: damage_block[all]（单事件单动作）===": {
+  "templateKey": "damage_block[all]",
+  "effectKey": "",
+  "onEventPriority": "DEFAULT",
+  "eventToActions": {
+   "ON_TAKE_DAMAGE": [
+    {
+     "$type": "Torappu.Battle.Action.Nodes+BlockDamage, Assembly-CSharp",
+     "_filterDamageType": false,
+     "_damageMask": "NONE",
+     "_useDynamicVar": false,
+     "_allowNegativeDynamicVar": false,
+     "_useFixedValue": false,
+     "_showDamageNumber": false,
+     "_specifyBlockEffect": null,
+     "_useSource": false,
+     "_sourceType": "SOURCE",
+     "_filterApplyWay": false,
+     "_applyWayFilter": "NONE",
+     "_showShieldUI": false
+    }
+   ]
+  }
+ }
+}

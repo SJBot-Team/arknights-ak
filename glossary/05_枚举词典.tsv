@@ -1,0 +1,291 @@
+汉语拼音	官方汉语命名	代码层ID	一句话说明	知识库地址	玩家俗称	来源	枚举分类
+	孤立	ALLY_TARGET_FREE				量角器 translation/anne_dictionary.json	abnormal
+	状态免疫	ANTI_STATUS_RESISTABLE				量角器 translation/anne_dictionary.json	abnormal
+	诱导	ATTRACTED				量角器 translation/anne_dictionary.json	abnormal
+	不可阻挡	BLOCK_FREE	**不可阻挡**：不会被阻挡	04/37 §一	穿人	量角器 translation/anne_dictionary.json	abnormal
+	BUFF可抵抗	BUFF_ADD_CAN_BE_CANCELED_IF_DEFENSE				量角器 translation/anne_dictionary.json	abnormal
+	迷彩	CAMOUFLAGE	**迷彩**：不被普通索敌选中	02/02 §1.1	迷彩	量角器 translation/anne_dictionary.json	abnormal
+	寒冷	COLD				量角器 translation/anne_dictionary.json	abnormal
+	BUFF抵挡	DEFENSE_BUFF_ADD_IF_CANCELABLE_BUFF				量角器 translation/anne_dictionary.json	abnormal
+	禁用近战	DISABLE_COMBAT				量角器 translation/anne_dictionary.json	abnormal
+	缴械	DISARMED				量角器 translation/anne_dictionary.json	abnormal
+	战栗	DISARMED_COMBAT				量角器 translation/anne_dictionary.json	abnormal
+	封护	DOZE				量角器 translation/anne_dictionary.json	abnormal
+	禁锢	DURANCE				量角器 translation/anne_dictionary.json	abnormal
+	元素免疫	ELEMENT_FREE_ALL				量角器 translation/anne_dictionary.json	abnormal
+	恐惧	FEARED				量角器 translation/anne_dictionary.json	abnormal
+	自惧	FEARED_PRIVATE				量角器 translation/anne_dictionary.json	abnormal
+	强制缴械	FORCE_DISARMED				量角器 translation/anne_dictionary.json	abnormal
+	浮空强化	FORCE_LEVITATE				量角器 translation/anne_dictionary.json	abnormal
+	冻结	FROZEN				量角器 translation/anne_dictionary.json	abnormal
+	禁疗	HEAL_FREE				量角器 translation/anne_dictionary.json	abnormal
+	隐藏	HIDDEN	**隐藏**：完全隐藏（与隐匿是两个枚举）	02/02 §1.1		量角器 translation/anne_dictionary.json	abnormal
+	无敌	INVINCIBLE	**无敌**：免疫伤害；`UNDEADABLE = 不死` 是"不致死"的另一档	04/65 ②	无敌	量角器 translation/anne_dictionary.json	abnormal
+	隐匿	INVISIBLE	**隐匿**：不可被索敌选中	02/02 §1.1	隐身	量角器 translation/anne_dictionary.json	abnormal
+	浮空	LEVITATE				量角器 translation/anne_dictionary.json	abnormal
+	地面规避	MOTION_TARGET_FREE				量角器 translation/anne_dictionary.json	abnormal
+	无法撤退	NOT_WITHDRAWABLE				量角器 translation/anne_dictionary.json	abnormal
+	离场	OUT_OF_GROUND				量角器 translation/anne_dictionary.json	abnormal
+	麻痹	PALSY				量角器 translation/anne_dictionary.json	abnormal
+	麻痹震颤	PALSYING				量角器 translation/anne_dictionary.json	abnormal
+	闭锁	SHELTERING				量角器 translation/anne_dictionary.json	abnormal
+	沉默	SILENCED				量角器 translation/anne_dictionary.json	abnormal
+	技能强启	SKILL_ACTIVABLE_IN_ABNORMAL				量角器 translation/anne_dictionary.json	abnormal
+	静默	SKILL_NOT_ACTIVATABLE				量角器 translation/anne_dictionary.json	abnormal
+	沉睡	SLEEPING	**沉睡**：睡眠类控制	04/39	睡眠	量角器 translation/anne_dictionary.json	abnormal
+	技力封闭	SP_MODIFY_STOPPED				量角器 translation/anne_dictionary.json	abnormal
+	阻回	SP_RECOVER_STOPPED				量角器 translation/anne_dictionary.json	abnormal
+	晕眩	STUNNED	**晕眩**（官方写法）：无法行动的控制状态	04/39、26b (T2)	眩晕	量角器 translation/anne_dictionary.json	abnormal
+	无法行动	STUNNED_NO_AMPLIFY_DAMAGE				量角器 translation/anne_dictionary.json	abnormal
+	不可选中	TARGET_FREE	**不可选中**：索敌时被跳过；`ALLY_TARGET_FREE = 孤立` 只对友方	04/38	不可选中	量角器 translation/anne_dictionary.json	abnormal
+	塔不可选中	TOWER_TARGET_FREE				量角器 translation/anne_dictionary.json	abnormal
+	失衡免疫	UNBALANCE_IMMUNE				量角器 translation/anne_dictionary.json	abnormal
+	不死	UNDEADABLE				量角器 translation/anne_dictionary.json	abnormal
+	束缚	UNMOVABLE	**束缚**（定身）：不能移动；另有 `UNMOVABLE_PRIVATE = 自缚`	04/39	定身、捆	量角器 translation/anne_dictionary.json	abnormal
+	自缚	UNMOVABLE_PRIVATE				量角器 translation/anne_dictionary.json	abnormal
+	附加	ADDITION				量角器 translation/anne_dictionary.json	attack_type
+	持续	BUFF				量角器 translation/anne_dictionary.json	attack_type
+	无攻击类型	NONE				量角器 translation/anne_dictionary.json	attack_type
+	普通	NORMAL				量角器 translation/anne_dictionary.json	attack_type
+	溅射	SPLASH				量角器 translation/anne_dictionary.json	attack_type
+	攻击距离	ABILITY_RANGE_FORWARD_EXTEND				量角器 translation/anne_dictionary.json	attribute
+	攻击力	ATK				量角器 translation/anne_dictionary.json	attribute
+	攻击速度	ATTACK_SPEED				量角器 translation/anne_dictionary.json	attribute
+	攻击间隔	BASE_ATTACK_TIME				量角器 translation/anne_dictionary.json	attribute
+	基础力度等级	BASE_FORCE_LEVEL				量角器 translation/anne_dictionary.json	attribute
+	阻挡数	BLOCK_CNT	**阻挡数**：一个单位能同时挡住几个敌人（官方属性名）	04/37 §一	挡几	量角器 translation/anne_dictionary.json	attribute
+	部署费用	COST	**部署费用**：部署/放技能的消耗；撤退通常返还 50%	01b §12.10	DP、费	量角器 translation/anne_dictionary.json	attribute
+	法术命中率	DAMAGE_HITRATE_MAGICAL				量角器 translation/anne_dictionary.json	attribute
+	物理命中率	DAMAGE_HITRATE_PHYSICAL				量角器 translation/anne_dictionary.json	attribute
+	防御力	DEF				量角器 translation/anne_dictionary.json	attribute
+	物理穿透（百分比）	DEF_PENETRATE	**物理穿透（百分比）**；`DEF_PENETRATE_FIXED` 为固定值穿透	01a §3	穿防	量角器 translation/anne_dictionary.json	attribute
+	物理穿透	DEF_PENETRATE_FIXED				量角器 translation/anne_dictionary.json	attribute
+	损伤冷却恢复速度	EP_BREAK_RECOVER_SPEED				量角器 translation/anne_dictionary.json	attribute
+	元素抗性	EP_DAMAGE_RESISTANCE				量角器 translation/anne_dictionary.json	attribute
+	元素回复速度	EP_RECOVERY_PER_SEC				量角器 translation/anne_dictionary.json	attribute
+	损伤抗性	EP_RESISTANCE				量角器 translation/anne_dictionary.json	attribute
+	生命回复速度	HP_RECOVERY_PER_SEC				量角器 translation/anne_dictionary.json	attribute
+	生命回复速度（百分比）	HP_RECOVERY_PER_SEC_BY_MAX_HP_RATIO				量角器 translation/anne_dictionary.json	attribute
+	法术抗性	MAGIC_RESISTANCE				量角器 translation/anne_dictionary.json	attribute
+	法术穿透（百分比）	MAGIC_RESIST_PENETRATE	**法术穿透（百分比）**；`..._FIXED` 为固定值	01a §3	法穿	量角器 translation/anne_dictionary.json	attribute
+	法术穿透	MAGIC_RESIST_PENETRATE_FIXED				量角器 translation/anne_dictionary.json	attribute
+	重量	MASS_LEVEL	**重量**：推拉判定的对象（位移查"力度−重量"表）	01a §5	重量级	量角器 translation/anne_dictionary.json	attribute
+	最大叠加数量	MAX_DECK_STACK_CNT				量角器 translation/anne_dictionary.json	attribute
+	最大部署数	MAX_DEPLOY_COUNT				量角器 translation/anne_dictionary.json	attribute
+	最大元素值	MAX_EP				量角器 translation/anne_dictionary.json	attribute
+	最大生命值	MAX_HP				量角器 translation/anne_dictionary.json	attribute
+	移动速度	MOVE_SPEED				量角器 translation/anne_dictionary.json	attribute
+	可抵抗状态生效时间倍率	ONE_MINUS_STATUS_RESISTANCE				量角器 translation/anne_dictionary.json	attribute
+	再部署时间	RESPAWN_TIME	**再部署时间**：撤退后再部署的冷却	01b §12.10	再部署	量角器 translation/anne_dictionary.json	attribute
+	技力自然回复速度	SP_RECOVERY_PER_SEC				量角器 translation/anne_dictionary.json	attribute
+	技力自然回复倍率	SP_RECOVER_RATIO				量角器 translation/anne_dictionary.json	attribute
+	嘲讽等级	TAUNT_LEVEL	**嘲讽等级**：决定强制索敌优先级的强度	04/38	嘲讽值	量角器 translation/anne_dictionary.json	attribute
+	"地面敌人/飞行敌人"均可阻挡	ALL	阻挡模式「**地面/飞行敌人均可阻挡**」	04/37 §一		量角器 translation/anne_dictionary.json	block_mode
+	"阻挡飞行敌人"	FLY	阻挡模式「**阻挡飞行敌人**」	04/37 §一		量角器 translation/anne_dictionary.json	block_mode
+	"阻挡地面敌人"	WALK	阻挡模式「**阻挡地面敌人**」	04/37 §一		量角器 translation/anne_dictionary.json	block_mode
+	true	egirShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	kazimierzShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	kjeragShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	lateranoShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	sargonShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	siracusaShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	victoriaShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	true	yanShip				量角器 translation/anne_dictionary.json	bond_can_mani
+	【奥术】	arcaneShip				量角器 translation/anne_dictionary.json	bond_id
+	【助力】	deputShip				量角器 translation/anne_dictionary.json	bond_id
+	【阿戈尔】	egirShip				量角器 translation/anne_dictionary.json	bond_id
+	【协防干员】	emptyship				量角器 translation/anne_dictionary.json	bond_id
+	【不屈】	indomShip				量角器 translation/anne_dictionary.json	bond_id
+	【投资人】	investShip				量角器 translation/anne_dictionary.json	bond_id
+	【卡西米尔】	kazimierzShip				量角器 translation/anne_dictionary.json	bond_id
+	【谢拉格】	kjeragShip				量角器 translation/anne_dictionary.json	bond_id
+	【拉特兰】	lateranoShip				量角器 translation/anne_dictionary.json	bond_id
+	【调和】	maniShip				量角器 translation/anne_dictionary.json	bond_id
+	【奇迹】	miraShip				量角器 translation/anne_dictionary.json	bond_id
+	【突袭】	raidShip				量角器 translation/anne_dictionary.json	bond_id
+	【萨尔贡】	sargonShip				量角器 translation/anne_dictionary.json	bond_id
+	【叙拉古】	siracusaShip				量角器 translation/anne_dictionary.json	bond_id
+	【灵巧】	skillfulShip				量角器 translation/anne_dictionary.json	bond_id
+	【独行】	soloShip				量角器 translation/anne_dictionary.json	bond_id
+	【坚守】	steadShip				量角器 translation/anne_dictionary.json	bond_id
+	【绝技】	suntShip				量角器 translation/anne_dictionary.json	bond_id
+	【迅捷】	swiftShip				量角器 translation/anne_dictionary.json	bond_id
+	【维多利亚】	victoriaShip				量角器 translation/anne_dictionary.json	bond_id
+	【远见】	visiShip				量角器 translation/anne_dictionary.json	bond_id
+	【炎】	yanShip				量角器 translation/anne_dictionary.json	bond_id
+	全部位	ALL				量角器 translation/anne_dictionary.json	buildable_type
+	近战位	MELEE				量角器 translation/anne_dictionary.json	buildable_type
+	无	NONE				量角器 translation/anne_dictionary.json	buildable_type
+	远程位	RANGED				量角器 translation/anne_dictionary.json	buildable_type
+	被格挡	BLOCKED				量角器 translation/anne_dictionary.json	cancel_reason
+	被格挡(带数字)	BLOCKED_WITH_DAMAGE_NUMBER				量角器 translation/anne_dictionary.json	cancel_reason
+	命中率判定失败	HIT_FAILED				量角器 translation/anne_dictionary.json	cancel_reason
+	被打断	INTERRUPT				量角器 translation/anne_dictionary.json	cancel_reason
+	被闪避	MISS				量角器 translation/anne_dictionary.json	cancel_reason
+	无原因	NONE				量角器 translation/anne_dictionary.json	cancel_reason
+	无法受伤	UNHURTABLE				量角器 translation/anne_dictionary.json	cancel_reason
+	=	EQUALS				量角器 translation/anne_dictionary.json	compare
+	≥	GE				量角器 translation/anne_dictionary.json	compare
+	>	GT				量角器 translation/anne_dictionary.json	compare
+	≤	LE				量角器 translation/anne_dictionary.json	compare
+	<	LT				量角器 translation/anne_dictionary.json	compare
+	≠	EQUALS				量角器 translation/anne_dictionary.json	compare_not
+	<	GE				量角器 translation/anne_dictionary.json	compare_not
+	≤	GT				量角器 translation/anne_dictionary.json	compare_not
+	>	LE				量角器 translation/anne_dictionary.json	compare_not
+	≥	LT				量角器 translation/anne_dictionary.json	compare_not
+	全部	ALL				量角器 translation/anne_dictionary.json	damage_type
+	物理/法术/真实/元素	ANY_ATTACK				量角器 translation/anne_dictionary.json	damage_type
+	物理/法术/真实	ANY_ATTACK_EXCEPT_ELEMENT				量角器 translation/anne_dictionary.json	damage_type
+	治疗	ANY_HEAL				量角器 translation/anne_dictionary.json	damage_type
+	元素	ELEMENT	元素伤害：`max(0.05A, 0.01A·max(0,100−D))`，D 为元素抗性	01a §3	元素伤	量角器 translation/anne_dictionary.json	damage_type
+	治疗	HEAL				量角器 translation/anne_dictionary.json	damage_type
+	法术	MAGICAL	法术伤害：`max(0.05A, 0.01A·max(0,100−(1−Ip)·max(0,D−Iv)))`	01a §3	法伤	量角器 translation/anne_dictionary.json	damage_type
+	无伤害类型	NONE				量角器 translation/anne_dictionary.json	damage_type
+	物理	PHYSICAL	物理伤害：`max(0.05A, A − (1−Ip)·max(0, D−Iv))`，**5% 保底**	01a §3	物伤	量角器 translation/anne_dictionary.json	damage_type
+	物理/法术	PHYSICAL_AND_MAGICAL				量角器 translation/anne_dictionary.json	damage_type
+	真实	PURE	真实伤害：`DMG = A`，无视防御与法抗	01a §3	真伤	量角器 translation/anne_dictionary.json	damage_type
+	凋亡	DARK				量角器 translation/anne_dictionary.json	element
+	灼燃	FIRE				量角器 translation/anne_dictionary.json	element
+	无	NONE				量角器 translation/anne_dictionary.json	element
+	神经	SANITY				量角器 translation/anne_dictionary.json	element
+	侵蚀	WATER				量角器 translation/anne_dictionary.json	element
+	普通/精英/领袖	ALL				量角器 translation/anne_dictionary.json	enemy_level
+	领袖	BOSS	敌人等级「**领袖**」（258 只）	03_单位与角色 §四	boss	量角器 translation/anne_dictionary.json	enemy_level
+	精英	ELITE	敌人等级「**精英**」（720 只）	03_单位与角色 §四	精英怪	量角器 translation/anne_dictionary.json	enemy_level
+	精英/领袖	ELITE_AND_BOSS				量角器 translation/anne_dictionary.json	enemy_level
+	普通/精英	ELITE_AND_NORMAL				量角器 translation/anne_dictionary.json	enemy_level
+	无	NONE				量角器 translation/anne_dictionary.json	enemy_level
+	普通	NORMAL	敌人等级「**普通**」（1733 只中 755 只）	03_单位与角色 §四	小怪	量角器 translation/anne_dictionary.json	enemy_level
+	默认类	DEFAULT				量角器 translation/anne_dictionary.json	entity_category
+	无类型	NONE				量角器 translation/anne_dictionary.json	entity_category
+	障碍物类	OBSTACLE				量角器 translation/anne_dictionary.json	entity_category
+	装置类	TRAP_OR_ITEM				量角器 translation/anne_dictionary.json	entity_category
+	持有者异常系列数据变动时	ON_ABNORMAL_FLAG_DIRTY				量角器 translation/anne_dictionary.json	event
+	在持有者每次攻击之后	ON_AFTER_ATTACK				量角器 translation/anne_dictionary.json	event
+	持有者成功造成伤害后	ON_AFTER_OUTPUT_DAMAGE				量角器 translation/anne_dictionary.json	event
+	持有者施加调整值后	ON_APPLIED_MODIFIER				量角器 translation/anne_dictionary.json	event
+	当Buff结束时	ON_BUFF_FINISH				量角器 translation/anne_dictionary.json	event
+	当Buff开始时	ON_BUFF_START				量角器 translation/anne_dictionary.json	event
+	在Buff每次触发时	ON_BUFF_TRIGGER				量角器 translation/anne_dictionary.json	event
+	持有者计算伤害时	ON_CALCULATE_DAMAGE				量角器 translation/anne_dictionary.json	event
+	持有者输出伤害时	ON_OUTPUT_DAMAGE				量角器 translation/anne_dictionary.json	event
+	持有者输出调整值时	ON_OUTPUT_MODIFIER				量角器 translation/anne_dictionary.json	event
+	持有者阻挡的对象变动时	ON_OWNER_BLOCKEE_CHANGED				量角器 translation/anne_dictionary.json	event
+	持有者阻挡模式变化时	ON_OWNER_BLOCK_MODE_CHANGED				量角器 translation/anne_dictionary.json	event
+	持有者退场/死亡时	ON_OWNER_FINISH				量角器 translation/anne_dictionary.json	event
+	持有者抵达自身路径终点时	ON_OWNER_REACH_EXIT				量角器 translation/anne_dictionary.json	event
+	持有者技能释放成功时	ON_SKILL_CAST_SUCCEED				量角器 translation/anne_dictionary.json	event
+	持有者技能结束时	ON_SKILL_FINISH				量角器 translation/anne_dictionary.json	event
+	持有者技能开启时	ON_SKILL_START				量角器 translation/anne_dictionary.json	event
+	持有者受到伤害时	ON_TAKE_DAMAGE				量角器 translation/anne_dictionary.json	event
+	类死亡的强制撤退（余烬逻辑）	DEADLIKE_WITHDRAW				量角器 translation/anne_dictionary.json	finish_reason
+	坠入地穴/类似地形	FALLDOWN				量角器 translation/anne_dictionary.json	finish_reason
+	生命值归零	HP_ZERO				量角器 translation/anne_dictionary.json	finish_reason
+	无来源击杀（生命值归零）	HP_ZERO_WITH_NO_SOURCE				量角器 translation/anne_dictionary.json	finish_reason
+	术语移动的重新部署	MOVE_LIKE_RESPAWN_SELF				量角器 translation/anne_dictionary.json	finish_reason
+	其他	OTHER				量角器 translation/anne_dictionary.json	finish_reason
+	抵达路径终点	REACH_EXIT				量角器 translation/anne_dictionary.json	finish_reason
+	被替换/接力（保全派驻）	REPLACED				量角器 translation/anne_dictionary.json	finish_reason
+	重新部署	RESPAWN_SELF				量角器 translation/anne_dictionary.json	finish_reason
+	无音效提示的撤退	SILENT_WITHDRAW				量角器 translation/anne_dictionary.json	finish_reason
+	撤退	WITHDRAW				量角器 translation/anne_dictionary.json	finish_reason
+	直接加算	ADDITION				量角器 translation/anne_dictionary.json	formula
+	最终加算	FINAL_ADDITION				量角器 translation/anne_dictionary.json	formula
+	最终乘算	FINAL_SCALER				量角器 translation/anne_dictionary.json	formula
+	直接乘算	MULTIPLIER				量角器 translation/anne_dictionary.json	formula
+	"孤星小游戏关卡"	act25side_extra				量角器 translation/anne_dictionary.json	map_tag
+	"十二章"	main_12				量角器 translation/anne_dictionary.json	map_tag
+	"十三章"	main_13				量角器 translation/anne_dictionary.json	map_tag
+	"水地形"	water				量角器 translation/anne_dictionary.json	map_tag
+	部署数	CHARCTER_LIMIT				量角器 translation/anne_dictionary.json	modifier_target_type
+	部署费用	COST				量角器 translation/anne_dictionary.json	modifier_target_type
+	元素值	EP				量角器 translation/anne_dictionary.json	modifier_target_type
+	生命值	HP				量角器 translation/anne_dictionary.json	modifier_target_type
+	目标生命	LIFE_POINT				量角器 translation/anne_dictionary.json	modifier_target_type
+	部署费用上限	MAX_COST				量角器 translation/anne_dictionary.json	modifier_target_type
+	技力	SP				量角器 translation/anne_dictionary.json	modifier_target_type
+	TRY_SET_HP_ZERO	TRY_SET_HP_ZERO				量角器 translation/anne_dictionary.json	modifier_target_type
+		ALL				量角器 translation/anne_dictionary.json	motion
+	飞行	FLY	移动类型「**飞行**」；`FLY_ONLY` 同义	03_单位与角色 §四	飞	量角器 translation/anne_dictionary.json	motion
+	飞行	FLY_ONLY				量角器 translation/anne_dictionary.json	motion
+	地面	WALK	移动类型「**地面**」；`WALK_ONLY` 同义	03_单位与角色 §四	走地	量角器 translation/anne_dictionary.json	motion
+	地面	WALK_ONLY				量角器 translation/anne_dictionary.json	motion
+	术士	CASTER				量角器 translation/anne_dictionary.json	profession
+	医疗	MEDIC				量角器 translation/anne_dictionary.json	profession
+	先锋	PIONEER				量角器 translation/anne_dictionary.json	profession
+	狙击	SNIPER				量角器 translation/anne_dictionary.json	profession
+	特种	SPECIAL				量角器 translation/anne_dictionary.json	profession
+	辅助	SUPPORT				量角器 translation/anne_dictionary.json	profession
+	重装	TANK				量角器 translation/anne_dictionary.json	profession
+	召唤物	TOKEN				量角器 translation/anne_dictionary.json	profession
+	装置	TRAP				量角器 translation/anne_dictionary.json	profession
+	近卫	WARRIOR				量角器 translation/anne_dictionary.json	profession
+	伤害行为	DAMAGE				量角器 translation/anne_dictionary.json	purpose
+	损伤行为	EP_DAMAGE				量角器 translation/anne_dictionary.json	purpose
+	损伤恢复行为	EP_HEAL				量角器 translation/anne_dictionary.json	purpose
+	治疗行为	HEAL				量角器 translation/anne_dictionary.json	purpose
+	无类型行为	NONE				量角器 translation/anne_dictionary.json	purpose
+	溢出部分可转变为临时目标生命值	ALLOW_ADD_TEMP_LIFE_POINT_FLAG				量角器 translation/anne_dictionary.json	sharedflag
+	可影响沉睡单位	DAMAGE_CAN_HURT_SLEEPING_ENTITY				量角器 translation/anne_dictionary.json	sharedflag
+	非致命	DAMAGE_IS_UNDEADABLE_THIS_TIME				量角器 translation/anne_dictionary.json	sharedflag
+	不进行计算	DAMAGE_WITHOUT_MODIFY				量角器 translation/anne_dictionary.json	sharedflag
+	强制显示SP+X	FORCE_NOT_TO_DISPLAY_SP				量角器 translation/anne_dictionary.json	sharedflag
+	强制显示红字	FORCE_TO_DISPLAY_CRITICAL_NUMBER				量角器 translation/anne_dictionary.json	sharedflag
+	强制显示负数字	FORCE_TO_DISPLAY_NEGATIVE_NUMER				量角器 translation/anne_dictionary.json	sharedflag
+	强制显示数字	FORCE_TO_DISPLAY_NUMBER				量角器 translation/anne_dictionary.json	sharedflag
+	溢出部分可产生屏障的治疗	HEAL_CAN_GENERAL_SHIELD				量角器 translation/anne_dictionary.json	sharedflag
+	类斩杀伤害	INSTANT_KILL_LIKE_DAMAGE				量角器 translation/anne_dictionary.json	sharedflag
+	IS_CONTINUOUS	IS_CONTINUOUS				量角器 translation/anne_dictionary.json	sharedflag
+	环境伤害	IS_ENVIRONMENT_DAMAGE				量角器 translation/anne_dictionary.json	sharedflag
+	环境元素损伤	IS_ENVIRONMENT_ELEMENT_DAMAGE				量角器 translation/anne_dictionary.json	sharedflag
+	无法被其他方式增/减/免伤	IS_NOT_CHANGEABLE_VALUE_MODIFIER				量角器 translation/anne_dictionary.json	sharedflag
+	因到达路径终点而损失的目标生命值	LIFE_POINT_LOSS_BY_REACH_EXIT				量角器 translation/anne_dictionary.json	sharedflag
+	强制生命流失(无计算/事件，无法取消)	SKIP_MODIFIER_CONSIDER_UNHURTABLE				量角器 translation/anne_dictionary.json	sharedflag
+	生命流失(无计算/事件)	SKIP_MODIFIER_EVENT				量角器 translation/anne_dictionary.json	sharedflag
+	我方/中立/敌方	ALL				量角器 translation/anne_dictionary.json	side_type
+	我方	ALLY				量角器 translation/anne_dictionary.json	side_type
+	我方/敌方	BOTH_ALLY_AND_ENEMY				量角器 translation/anne_dictionary.json	side_type
+	敌方	ENEMY				量角器 translation/anne_dictionary.json	side_type
+	中立	NEUTRAL				量角器 translation/anne_dictionary.json	side_type
+	无阵营	NONE				量角器 translation/anne_dictionary.json	side_type
+	同阵营/中立阵营/敌对阵营	ALL				量角器 translation/anne_dictionary.json	side_type_relative
+	同阵营	ALLY				量角器 translation/anne_dictionary.json	side_type_relative
+	同阵营/敌对阵营	BOTH_ALLY_AND_ENEMY				量角器 translation/anne_dictionary.json	side_type_relative
+	敌对阵营	ENEMY				量角器 translation/anne_dictionary.json	side_type_relative
+	中立阵营	NEUTRAL				量角器 translation/anne_dictionary.json	side_type_relative
+	无阵营	NONE				量角器 translation/anne_dictionary.json	side_type_relative
+	全部	ALL				量角器 translation/anne_dictionary.json	sp_type
+	攻击/受击回复	ATTACK_OR_DAMAGE				量角器 translation/anne_dictionary.json	sp_type
+	攻击回复	INCREASE_WHEN_ATTACK				量角器 translation/anne_dictionary.json	sp_type
+	受击回复	INCREASE_WHEN_TAKEN_DAMAGE				量角器 translation/anne_dictionary.json	sp_type
+	自动回复	INCREASE_WITH_TIME				量角器 translation/anne_dictionary.json	sp_type
+	不回复	NONE				量角器 translation/anne_dictionary.json	sp_type
+						量角器 translation/anne_dictionary.json	sub_profession
+	能力持有者	ABILITY_OWNER				量角器 translation/anne_dictionary.json	target
+	持有者	BUFF_OWNER				量角器 translation/anne_dictionary.json	target
+	来源	BUFF_SOURCE				量角器 translation/anne_dictionary.json	target
+	父Buff来源	MAINBUFF_SOURCE				量角器 translation/anne_dictionary.json	target
+	单位的主目标	MAIN_TARGET				量角器 translation/anne_dictionary.json	target
+	调整值来源	MODIFIER_SOURCE				量角器 translation/anne_dictionary.json	target
+	调整值对象	MODIFIER_TARGET				量角器 translation/anne_dictionary.json	target
+	弹道来源	PROJECTILE_SOURCE				量角器 translation/anne_dictionary.json	target
+	弹道追踪目标	PROJECTILE_TRACETARGET				量角器 translation/anne_dictionary.json	target
+	来源	SOURCE				量角器 translation/anne_dictionary.json	target
+	目标	TARGET				量角器 translation/anne_dictionary.json	target
+	获得时	GAIN				量角器 translation/anne_dictionary.json	trig_type
+	失去时	PUT_BACK				量角器 translation/anne_dictionary.json	trig_type
+	获得时	TAKE_OUT				量角器 translation/anne_dictionary.json	trig_type
+	获得时	GAIN				量角器 translation/anne_dictionary.json	trig_type_copper
+	放回钱盒后	PUT_BACK				量角器 translation/anne_dictionary.json	trig_type_copper
+	投出时	TAKE_OUT				量角器 translation/anne_dictionary.json	trig_type_copper
+	角色类	CHARACTER				量角器 translation/anne_dictionary.json	unit_type
+	敌人类	ENEMY				量角器 translation/anne_dictionary.json	unit_type
+	弹道类	PROJECTILE				量角器 translation/anne_dictionary.json	unit_type
+	卫戍盟约	act1autochess				量角器 translation/bena_dictionary.json	buff_prefix
+	卫戍下半	act2autochess				量角器 translation/bena_dictionary.json	buff_prefix
+	医阿米娅	amiya3				量角器 translation/bena_dictionary.json	buff_prefix
+	牵绊	dmtpos				量角器 translation/bena_dictionary.json	buff_prefix
+	保全派驻	legion				量角器 translation/bena_dictionary.json	buff_prefix
+	{'wisdel': '魂灵之影', 'phatm2': {'mndclv': '迷狂牢笼', 'encdool': '本能的召唤'}}	token				量角器 translation/bena_dictionary.json	buff_prefix
+	提丰	tyohon				量角器 translation/bena_dictionary.json	buff_prefix

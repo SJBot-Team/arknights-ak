@@ -1,0 +1,103 @@
+          0 LOAD_CONST               0 (0)
+          2 LOAD_CONST               1 (1)
+          4 IMPORT_NAME              0 (0)
+          6 STORE_NAME               1 (1)
+          8 LOAD_CONST               0 (0)
+         10 LOAD_CONST               1 (1)
+         12 IMPORT_NAME              2 (2)
+         14 STORE_NAME               2 (2)
+         16 LOAD_CONST               0 (0)
+         18 LOAD_CONST               2 (2)
+         20 IMPORT_NAME              3 (3)
+         22 IMPORT_FROM              4 (4)
+         24 STORE_NAME               4 (4)
+         26 IMPORT_FROM              5 (5)
+         28 STORE_NAME               5 (5)
+         30 IMPORT_FROM              6 (6)
+         32 STORE_NAME               6 (6)
+         34 IMPORT_FROM              7 (7)
+         36 STORE_NAME               7 (7)
+         38 POP_TOP
+         40 LOAD_CONST               0 (0)
+         42 LOAD_CONST               3 (3)
+         44 IMPORT_NAME              8 (8)
+         46 IMPORT_FROM              9 (9)
+         48 STORE_NAME               9 (9)
+         50 POP_TOP
+         52 LOAD_CONST               0 (0)
+         54 LOAD_CONST               4 (4)
+         56 IMPORT_NAME             10 (10)
+         58 IMPORT_FROM             11 (11)
+         60 STORE_NAME              12 (12)
+         62 POP_TOP
+         64 LOAD_NAME                6 (6)
+         66 LOAD_NAME               13 (13)
+         68 LOAD_NAME                7 (7)
+         70 BUILD_TUPLE              2
+         72 BINARY_SUBSCR
+         74 LOAD_NAME               14 (14)
+         76 LOAD_NAME                4 (4)
+         78 LOAD_NAME                4 (4)
+         80 LOAD_NAME                5 (5)
+         82 LOAD_NAME               15 (15)
+         84 LOAD_NAME               15 (15)
+         86 BUILD_TUPLE              2
+         88 BINARY_SUBSCR
+         90 BINARY_SUBSCR
+         92 BINARY_SUBSCR
+         94 LOAD_CONST               5 (5)
+         96 BUILD_CONST_KEY_MAP      3
+         98 LOAD_CONST               6 (6)
+        100 LOAD_CONST               7 (7)
+        102 MAKE_FUNCTION            4 (annotations)
+        104 STORE_NAME              16 (16)
+        106 LOAD_NAME               17 (17)
+        108 LOAD_CONST               8 (8)
+        110 COMPARE_OP               2 (==)
+        112 POP_JUMP_IF_FALSE      202
+        114 LOAD_CONST               0 (0)
+        116 LOAD_CONST               9 (9)
+        118 IMPORT_NAME             18 (18)
+        120 IMPORT_FROM             19 (19)
+        122 STORE_NAME              19 (19)
+        124 POP_TOP
+        126 LOAD_NAME               19 (19)
+        128 LOAD_CONST              10 (10)
+        130 CALL_FUNCTION            1
+        132 STORE_NAME              20 (20)
+        134 LOAD_NAME               16 (16)
+        136 LOAD_NAME               20 (20)
+        138 LOAD_CONST              11 (11)
+        140 CALL_FUNCTION            2
+        142 STORE_NAME              21 (21)
+        144 LOAD_NAME                9 (9)
+        146 LOAD_METHOD             22 (22)
+        148 LOAD_CONST              12 (12)
+        150 LOAD_NAME               21 (21)
+        152 LOAD_CONST              13 (13)
+        154 BINARY_SUBSCR
+        156 LOAD_CONST              14 (14)
+        158 BINARY_SUBSCR
+        160 FORMAT_VALUE             0
+        162 BUILD_STRING             2
+        164 CALL_METHOD              1
+        166 POP_TOP
+        168 LOAD_NAME               16 (16)
+        170 LOAD_NAME               20 (20)
+        172 LOAD_CONST              15 (15)
+        174 CALL_FUNCTION            2
+        176 STORE_NAME              21 (21)
+        178 LOAD_NAME                9 (9)
+        180 LOAD_METHOD             22 (22)
+        182 LOAD_CONST              16 (16)
+        184 LOAD_NAME               21 (21)
+        186 LOAD_CONST              13 (13)
+        188 BINARY_SUBSCR
+        190 LOAD_CONST              14 (14)
+        192 BINARY_SUBSCR
+        194 FORMAT_VALUE             0
+        196 BUILD_STRING             2
+        198 CALL_METHOD              1
+        200 POP_TOP
+    >>  202 LOAD_CONST               1 (1)
+        204 RETURN_VALUE

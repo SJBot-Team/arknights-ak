@@ -1,0 +1,136 @@
+m Z 
+Z"e#d
+]RZ$e
+e"e$d
+Z'e 
+e"e$d
+e'e%
+)d!e&
+Tuple
+Optional
+time
+ImageProcessingConfig
+HANDLE
+capture_game_windowF
+window_dc
+mfc_dc
+save_dc
+initializedc
+Initialize DC objects for reuser
+_dc_cache
+win32guiZ
+GetWindowDCr
+win32uiZ
+CreateDCFromHandleZ
+CreateCompatibleDC
+mumu\mumu_vision.py
+_initialize_dc_cache
+#Cleanup DC objects and bitmap cacher
+_bitmap_cache
+valuesr
+DeleteObject
+GetHandle
+clearr
+DeleteDCZ
+ReleaseDCr
+bitmapr
+_cleanup_dc_cache#
+ratio_key
+capture_width
+capture_height
+returnc
+3Get or create a bitmap for the specified dimensions
+bmWidth
+bmHeightr
+GetInfor
+CreateBitmapZ
+CreateCompatibleBitmapr
+cache_keyr%
+infor
+_get_or_create_bitmap4
+ratior,
+    Take a screenshot of a specific window and a specific area.
+    
+    Args:
+        ratio (Tuple[float, float, float, float], optional): Relative coordinates (ratios) of the area to capture.
+                                                            [left_ratio, top_ratio, right_ratio, bottom_ratio]
+    Returns:
+        np.array: Captured image.
+    Raises:
+        ValueError: If the title is empty, rect dimensions are invalid, or both rect and ratio are provided.
+        WindowNotFoundException: If the window is not found.
+    N
+QRatio must be a tuple of 4 floats, given as (left, top, right, bottom). However, 
+ was given.c
+.0r0
+<genexpr>_
+&capture_game_window.<locals>.<genexpr>
+/Ratio values must be between 0 and 1. However, r
+PInvalid ratio values. Left and top must be less than right and bottom. However, 
+.3fr/
+uint8
+dtyper2
+ValueError
+allr
+GetWindowRectr
+intr
+SelectObjectZ
+BitBlt
+win32con
+SRCCOPYr4
+memoryviewZ
+GetBitmapBits
+frombuffer
+shape
+cv2Z
+cvtColorZ
+COLOR_BGRA2GRAY
+imgconfig
+SCREEN_STANDARD_SIZE
+resize
+Exceptionr&
+left
+right
+bottomZ
+window_widthZ
+window_heightZ
+rectZ
+capture_leftZ
+capture_topZ
+capture_rightZ
+capture_bottomr*
+bmpinfoZ
+signedIntsArray
+imgZ
+standardized_widthZ
+standardized_height
+4Cleanup function to be called when the program exitsN
+cleanup
+__main__
+GameRatioConfig
+logger
+Capture r@
+ with ratio 
+, Time taken: 
+ seconds
+Game Window
+numpyr\
+typingr
+src.configr
+src.mumu.mumu_connectionr
+__all__r
+strrX
+float
+arrayr
+__name__rs
+ratioconfig
+src.loggerru
+COST_AREA_RATIO
+ratios
+range
+start_timeri
+end_timer8
+imshow
+waitKey
+destroyAllWindowsr
+<module>

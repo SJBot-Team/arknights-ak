@@ -1,0 +1,7 @@
+== gbk : encode-fail: 'gbk' codec can't encode character '\ue1bc' in position 6: illegal multibyte sequence
+
+== cp936 : encode-fail: 'gbk' codec can't encode character '\ue1bc' in position 6: illegal multibyte sequence
+
+== latin1 : encode-fail: 'latin-1' codec can't encode characters in position 5-7: ordinal not in range(256)
+
+== cp1252 : encode-fail: 'charmap' codec can't encode characters in position 5-7: character maps to <undefined>

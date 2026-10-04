@@ -1,0 +1,60 @@
+List
+Tuple
+Dict
+logger
+ViewCalculationConfig
+level
+side
+returnc
+    Transforms a map to a view based on the given parameters.
+    Parameters:
+    level (dict): The map data.
+    Returns:
+    list: A 2D list of tuples representing the transformed map points in ratio form.
+    
+height
+width
+view
+Error loading map data: N
+tiles
+heightType
+Transformed map to view, size: 
+math
+KeyErrorr
+error
+array
+viewconfig
+FROM_RATIO
+NEAR
+copy
+range
+append
+info
+DEGREEr
+transform_matrixZ
+perspective_matrixZ
+rotate_x_matrixZ
+rotate_y_matrixZ
+final_matrixZ
+out_pos
+tmp_pos
+tileZ
+map_pointZ
+view_point
+logic\calc_view.py
+transform_map_to_view
+__main__
+get_map_by_code
+1-7T
+.Left most deployable position with side view: r%
+/Left most deployable position with front view: 
+numpyr-
+typingr
+src.loggerr
+src.configr
+bool
+floatrC
+__name__
+src.cacherG
+resr9
+<module>

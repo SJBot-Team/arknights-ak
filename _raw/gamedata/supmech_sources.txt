@@ -1,0 +1,15 @@
+=== 支援机械相关干员（battle_data subProfessionId/名字含 mech/support）===
+  char_4234_pedro: 佩德洛 | sub=supportiveranger | pos=RANGED | rarity=5
+  char_610_acfend: Mechanist | sub=protector | pos=MELEE | rarity=6
+  trap_162_lrctrl: 十四章机制控制器 | sub=notchar2 | pos=NONE | rarity=1
+  共 3 个
+
+=== character_table 中含 supmech 的干员 ===
+
+=== 含 deck/Card 的干员或技能（前 15）===
+  [char] trap_304_izdoc: 变格博士
+  [char] trap_305_izwsdl: 变格维什戴尔
+  [char] trap_306_izklst: 变格凯尔希
+  [char] trap_307_izsvas: 变格银灰
+  [skill] skchr_svash2_1
+  char hits: 4, skill hits: 1

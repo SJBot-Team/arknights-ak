@@ -1,0 +1,76 @@
+# -*- coding: utf-8 -*-
+"""t200g_op311.py — Python 3.11 opcode 表（按 CPython 3.11 Lib/opcode.py 顺序）。
+
+用于判断 prts+ PYZ 里的字节码是否为 3.11：3.11 的 `co_code` 含大量 `CACHE`(op=0)，
+且 `LOAD_ATTR`/`LOAD_METHOD`/`STORE_ATTR` 等自带 inline cache。
+"""
+OPNAME = [
+    'CACHE', 'POP_TOP', 'PUSH_NULL', 'NOP', 'UNARY_POSITIVE', 'UNARY_NEGATIVE',
+    'UNARY_NOT', 'UNARY_INVERT', 'BINARY_SUBSCR', 'BINARY_SLICE',
+    'STORE_SLICE', 'BINARY_LSHIFT', 'BINARY_RSHIFT', 'BINARY_AND', 'BINARY_XOR',
+    'BINARY_OR', 'INPLACE_ADD', 'INPLACE_SUBTRACT', 'INPLACE_MULTIPLY',
+    'INPLACE_MODULO', 'STORE_SUBSCR', 'BINARY_ADD', 'BINARY_SUBTRACT',
+    'BINARY_MULTIPLY', 'BINARY_MODULO', 'BINARY_POWER', 'BINARY_TRUE_DIVIDE',
+    'BINARY_FLOOR_DIVIDE', 'BINARY_OP',
+    'INPLACE_FLOOR_DIVIDE', 'INPLACE_TRUE_DIVIDE',
+    'PRECALL', 'CALL', 'KW_NAMES', 'DELETE_SUBSCR', 'GET_ITER', 'GET_YIELD_FROM_ITER',
+    'PRINT_EXPR', 'LOAD_BUILD_CLASS', 'GET_AWAITABLE', 'LOAD_ASSERTION_ERROR',
+    'RETURN_GENERATOR', 'GET_AITER', 'GET_ANEXT', 'BEFORE_ASYNC_WITH',
+    'BEFORE_WITH', 'END_ASYNC_FOR', 'STORE_NAME', 'DELETE_NAME', 'UNPACK_SEQUENCE',
+    'UNPACK_EX', 'STORE_ATTR', 'DELETE_ATTR', 'STORE_GLOBAL', 'DELETE_GLOBAL',
+    'LOAD_CONST', 'LOAD_NAME', 'BUILD_TUPLE', 'BUILD_LIST', 'BUILD_SET', 'BUILD_MAP',
+    'LOAD_ATTR', 'COMPARE_OP', 'IMPORT_NAME', 'IMPORT_FROM', 'JUMP_FORWARD',
+    'POP_JUMP_FORWARD_IF_FALSE', 'POP_JUMP_FORWARD_IF_TRUE',
+    'POP_JUMP_BACKWARD_IF_FALSE', 'POP_JUMP_BACKWARD_IF_TRUE',
+    'POP_JUMP_FORWARD_IF_NONE', 'POP_JUMP_BACKWARD_IF_NONE',
+    'POP_JUMP_FORWARD_IF_NOT_NONE', 'POP_JUMP_BACKWARD_IF_NOT_NONE',
+    'JUMP_BACKWARD', 'POP_JUMP_BACKWARD_IF_NOT_NONE', 'POP_JUMP_BACKWARD_IF_NONE',
+    'POP_JUMP_FORWARD_IF_NOT_NONE', 'POP_JUMP_FORWARD_IF_NONE',
+    'LIST_APPEND', 'SET_ADD', 'MAP_ADD', 'LOAD_FAST', 'STORE_FAST', 'DELETE_FAST',
+    'MAKE_CELL', 'LOAD_CLOSURE', 'LOAD_DEREF', 'STORE_DEREF', 'DELETE_DEREF',
+    'COPY_FREE_VARS', 'RETURN_VALUE', 'RETURN_CONST',
+    'SETUP_ANNOTATIONS', 'POP_BLOCK', 'POP_EXCEPT', 'RERAISE', 'PUSH_EXC_INFO',
+    'CHECK_EXC_MATCH', 'CHECK_EG_MATCH', 'WITH_EXCEPT_START',
+    'LOAD_METHOD', 'CALL_METHOD', 'RAISE_VARARGS', 'CALL_FUNCTION',
+    'MAKE_FUNCTION', 'BUILD_SLICE', 'BINARY_SUBSCR_GETITEM', 'CALL_FUNCTION_EX',
+    'LOAD_METHOD_SUPER', 'LOAD_ATTR_SUPER', 'PUSH_EXC_INFO', 'EXTENDED_ARG',
+    'CACHE2', 'CACHE3', 'CACHE4',
+] + [f'<{i}>' for i in range(0, 256)]
+OPNAME = OPNAME[:256]
+
+CACHE_ENTRIES = {
+    'BINARY_SUBSCR': 4, 'STORE_SUBSCR': 1, 'UNPACK_SEQUENCE': 1, 'FOR_ITER': 1,
+    'STORE_ATTR': 4, 'LOAD_ATTR': 4, 'COMPARE_OP': 2, 'LOAD_GLOBAL': 5,
+    'BINARY_OP': 1, 'LOAD_METHOD': 10, 'PRECALL': 1, 'CALL': 4, 'CALL_FUNCTION': 4,
+    'CALL_METHOD': 10, 'JUMP_BACKWARD': 1, 'POP_JUMP_BACKWARD_IF_FALSE': 1,
+    'POP_JUMP_BACKWARD_IF_TRUE': 1, 'POP_JUMP_BACKWARD_IF_NONE': 1,
+    'POP_JUMP_BACKWARD_IF_NOT_NONE': 1,
+}
+HASARG = set()
+for _i, _n in enumerate(OPNAME):
+    if _n.startswith('<') or _n in ('CACHE', 'CACHE2', 'CACHE3', 'CACHE4',
+                                    'POP_TOP', 'PUSH_NULL', 'NOP', 'UNARY_POSITIVE',
+                                    'UNARY_NEGATIVE', 'UNARY_NOT', 'UNARY_INVERT',
+                                    'BINARY_SUBSCR', 'BINARY_SLICE', 'STORE_SLICE',
+                                    'BINARY_LSHIFT', 'BINARY_RSHIFT', 'BINARY_AND',
+                                    'BINARY_XOR', 'BINARY_OR', 'INPLACE_ADD',
+                                    'INPLACE_SUBTRACT', 'INPLACE_MULTIPLY',
+                                    'INPLACE_MODULO', 'BINARY_ADD', 'BINARY_SUBTRACT',
+                                    'BINARY_MULTIPLY', 'BINARY_MODULO', 'BINARY_POWER',
+                                    'BINARY_TRUE_DIVIDE', 'BINARY_FLOOR_DIVIDE',
+                                    'INPLACE_FLOOR_DIVIDE', 'INPLACE_TRUE_DIVIDE',
+                                    'DELETE_SUBSCR', 'GET_ITER',
+                                    'GET_YIELD_FROM_ITER', 'PRINT_EXPR',
+                                    'LOAD_BUILD_CLASS', 'GET_AWAITABLE',
+                                    'LOAD_ASSERTION_ERROR', 'RETURN_GENERATOR',
+                                    'GET_AITER', 'GET_ANEXT', 'BEFORE_ASYNC_WITH',
+                                    'BEFORE_WITH', 'END_ASYNC_FOR', 'LIST_APPEND',
+                                    'SET_ADD', 'MAP_ADD', 'MAKE_CELL', 'LOAD_CLOSURE',
+                                    'LOAD_DEREF', 'STORE_DEREF', 'DELETE_DEREF',
+                                    'COPY_FREE_VARS', 'RETURN_VALUE', 'POP_BLOCK',
+                                    'POP_EXCEPT', 'RERAISE', 'PUSH_EXC_INFO',
+                                    'CHECK_EXC_MATCH', 'CHECK_EG_MATCH',
+                                    'WITH_EXCEPT_START', 'LOAD_METHOD_SUPER',
+                                    'LOAD_ATTR_SUPER'):
+        continue
+    HASARG.add(_i)

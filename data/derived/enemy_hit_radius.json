@@ -1,0 +1,16 @@
+{
+ "_doc": "逐敌『受击判定半径』表（单位=格）。★数据来源：**客户端 prefab 实测**（`E:\\__file\\ak_kb\\client_res\\enm_pfb\\enm_pfb_N.ab`，用 UnityPy + 本仓库 `scripts/ak_lz4ak.py` 注册的 LZ4AK 解压器读取 CircleCollider2D.m_Radius）。",
+ "source": {
+  "method": "UnityPy 1.25.3 + CompressionHelper.DECOMPRESSION_MAP[LZHAM]=ak_lz4ak.decompress_lz4ak",
+  "script": "ak/scripts/read_enemy_colliders.py",
+  "bundle": "enm_pfb_0.ab",
+  "bulk_export": "ak/data/derived/enemy_colliders.json（2123 个敌人的逐敌 Collider2D 实测；生成脚本 ak/scripts/export_all_enemy_radii.py）"
+ },
+ "radius": {
+  "enemy_1000_gopro": 0.1,
+  "enemy_1000_gopro_2": 0.1,
+  "enemy_1000_gopro_3": 0.1
+ },
+ "_retraction": "★曾把『猎狗』设为 0.8 —— 那是**从单条标定事件反推的拟合值**，与客户端实测（0.1）矛盾，且不符玩家常识（一只小猎狗不可能有 0.8 格半径）⇒ **已撤销**。该拟合之所以\"改善\"了校验，属于**用一个错误补偿另一个错误**（真正的缺口见 knowledge/04/60 的 L1-08）。",
+ "note": "逐敌半径以客户端实测为准；**全体分布为 0.1(2070)/0.09(1)/0.25(6)/0.3(18)/0.35(1)/0.4(2)/1.48(2)**，故\"默认 0.1\"在原作中近乎实情。1-1 的三种猎狗实测均为 0.1 ✅（与本表一致）。"
+}

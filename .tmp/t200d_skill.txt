@@ -1,0 +1,32 @@
+﻿============================================================
+skchr_orchd2_1 | levels: 10
+ name: 刚射
+ desc: 发射4支攻击力<@ba.vup>{atk_scale_1:0%}</>的箭矢，若还有充能则额外消耗1层施展<@ba.vup>刚连射</>：发射5支攻击力<@ba.vup>{atk_scale_2:0%}</>的箭矢，每支箭矢有<@ba.vup>{stun_prob:0%}</>概率使目标<$ba.stun>晕眩</><@ba.vup>{stun}</>秒\n<@ba.rem>可充能4次，充能至最大层数时自动释放一次</>
+ rangeId: None duration: -1.0 spData: {"spType": "INCREASE_WITH_TIME", "levelUpCost": null, "maxChargeTime": 4, "spCost": 4, "initSp": 14, "increment": 1.0}
+ blackboard: [{"key": "atk_scale_1", "value": 1.6, "valueStr": null}, {"key": "atk_scale_2", "value": 2.0, "valueStr": null}, {"key": "stun_prob", "value": 0.2, "valueStr": null}, {"key": "stun", "value": 2.0, "valueStr": null}]
+============================================================
+skchr_orchd2_2 | levels: 10
+ name: 飞翔瞪射
+ desc: 立刻<$ba.liftoff>起飞</>并对前方范围的所有目标射击3次，分别射出3、4、5支攻击力提升至<@ba.vup>{attack@atk_scale_loop:0%}</>的箭矢；之后降落并对前方小范围内的所有敌人造成攻击力<@ba.vup>{attack@atk_scale_end:0%}</>的物理伤害\n<@ba.rem>可充能3次，部署后立即释放一次</>
+ rangeId: 4-4 duration: 4.2 spData: {"spType": "INCREASE_WITH_TIME", "levelUpCost": null, "maxChargeTime": 3, "spCost": 20, "initSp": 17, "increment": 1.0}
+ blackboard: [{"key": "attack@atk_scale_loop", "value": 1.8, "valueStr": null}, {"key": "attack@atk_scale_end", "value": 3.0, "valueStr": null}, {"key": "attack@fly_height", "value": 0.4, "valueStr": null}, {"key": "attack@fly_duration", "value": 0.2, "valueStr": null}, {"key": "attack@fly_end_duration", "value": 0.2, "valueStr": null}]
+============================================================
+skchr_orchd2_3 | levels: 10
+ name: 龙之箭
+ desc: 蓄力<@ba.vup>3</>秒后射出直线飞行的贯穿箭矢，箭矢以<@ba.vup>较大力度</>推动每个经过的敌人，每飞行一段距离都会对周围所有敌人造成攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害和攻击力<@ba.vup>{atk_scale_magic:0%}</>的法术伤害，箭矢射程无限\n<@ba.rem>可充能2次</>
+ rangeId: None duration: -1.0 spData: {"spType": "INCREASE_WITH_TIME", "levelUpCost": null, "maxChargeTime": 2, "spCost": 25, "initSp": 30, "increment": 1.0}
+ blackboard: [{"key": "atk_scale", "value": 3.6, "valueStr": null}, {"key": "atk_scale_magic", "value": 0.6, "valueStr": null}, {"key": "wait_duration", "value": 1.5, "valueStr": null}, {"key": "dist_interval", "value": 0.25, "valueStr": null}, {"key": "max_dist", "value": 99.0, "valueStr": null}, {"key": "force", "value": 2.0, "valueStr": null}, {"key": "knockback_duration", "value": 1.0, "valueStr": null}]
+
+##### battle_equip_table orchd2 #####
+python.exe : Traceback (most recent call last):
+所在位置 行:1 字符: 129
++ ... ew($false); & "C:\Users\23922\Documents\ds_harness\设计\media_tools\.ve ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\23922\Documents\ds_harness\ak\.tmp\t200d_skill.py", line 17, in <module>
+    be = json.load(open(os.path.join(GD,'battle_equip_table.json'), encoding='utf-8'))
+                   ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\23922\\Documents\\ds_harness\\ak\\_raw\\gamedata\\b
+attle_equip_table.json'

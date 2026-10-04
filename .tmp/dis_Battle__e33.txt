@@ -1,0 +1,79 @@
+﻿== Assembly-CSharp.dll ==  md=v4.0.30319 TypeDef=1623 MethodDef=6684 Field=6047 TypeRef=269 MemberRef=1470 US=957
+
+===== Battle::e33 : void (this )  [MD82] =====
+  IL_0000: ldarg.0        
+  IL_0001: ldfld          Battle::SceneUnits
+  IL_0006: callvirt       ?<>::get_Count
+  IL_000B: ldc.i4.1       
+  IL_000C: sub            
+  IL_000D: stloc.0        
+  IL_000E: br             200
+  IL_0013: ldarg.0        
+  IL_0014: ldfld          Battle::SceneUnits
+  IL_0019: ldloc.0        
+  IL_001A: callvirt       ?<>::get_Item
+  IL_001F: stloc.1        
+  IL_0020: ldarg.0        
+  IL_0021: ldfld          Battle::SceneUnits
+  IL_0026: ldloc.0        
+  IL_0027: callvirt       ?<>::get_Item
+  IL_002C: ldfld          MapUnitInfo::Tag
+  IL_0031: call           System.String::IsNullOrEmpty
+  IL_0036: brtrue.s       75
+  IL_0038: ldarg.0        
+  IL_0039: ldfld          Battle::WaveTags
+  IL_003E: ldloc.1        
+  IL_003F: ldfld          MapUnitInfo::Tag
+  IL_0044: callvirt       System.Collections.Generic.Dictionary`2::ContainsKey
+  IL_0049: brfalse.s      196
+  IL_004B: ldc.r4         0.0
+  IL_0050: stloc.2        
+  IL_0051: ldarg.0        
+  IL_0052: ldfld          Battle::SceneUnits
+  IL_0057: ldloc.0        
+  IL_0058: callvirt       ?<>::get_Item
+  IL_005D: ldfld          MapUnitInfo::Tag
+  IL_0062: call           System.String::IsNullOrEmpty
+  IL_0067: brtrue.s       124
+  IL_0069: ldarg.0        
+  IL_006A: ldfld          Battle::WaveTags
+  IL_006F: ldloc.1        
+  IL_0070: ldfld          MapUnitInfo::Tag
+  IL_0075: callvirt       System.Collections.Generic.Dictionary`2::get_Item
+  IL_007A: conv.r4        
+  IL_007B: stloc.2        
+  IL_007C: ldloc.1        
+  IL_007D: ldfld          MapUnitInfo::Time
+  IL_0082: ldarg.0        
+  IL_0083: ldfld          Battle::Tick
+  IL_0088: conv.r4        
+  IL_0089: ldloc.2        
+  IL_008A: sub            
+  IL_008B: call           SystemConfig::get_DeltaTime
+  IL_0090: mul            
+  IL_0091: bgt.un.s       196
+  IL_0093: ldarg.0        
+  IL_0094: ldloc.1        
+  IL_0095: ldfld          MapUnitInfo::Id
+  IL_009A: ldloc.1        
+  IL_009B: ldfld          MapUnitInfo::Pos
+  IL_00A0: ldloc.1        
+  IL_00A1: ldfld          MapUnitInfo::Direction
+  IL_00A6: ldloc.1        
+  IL_00A7: ldfld          MapUnitInfo::LifeTime
+  IL_00AC: ldloc.1        
+  IL_00AD: ldfld          MapUnitInfo::Key
+  IL_00B2: call           Battle::rts
+  IL_00B7: pop            
+  IL_00B8: ldarg.0        
+  IL_00B9: ldfld          Battle::SceneUnits
+  IL_00BE: ldloc.0        
+  IL_00BF: callvirt       ?<>::RemoveAt
+  IL_00C4: ldloc.0        
+  IL_00C5: ldc.i4.1       
+  IL_00C6: sub            
+  IL_00C7: stloc.0        
+  IL_00C8: ldloc.0        
+  IL_00C9: ldc.i4.0       
+  IL_00CA: bge            19
+  IL_00CF: ret            

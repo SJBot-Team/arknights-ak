@@ -1,0 +1,397 @@
+XLSXERR 黑流树海地图构造.xlsx	69851211B	expected <class 'openpyxl.styles.fills.Fill'>
+XLSX  关卡\16-16.xlsx	26752B
+    sheet[Sheet3] rows~65 cols~15 dim=A1:O65
+      head1: 技能 | 令3本体 |  | 令3小大龙 |  | 令3小大龙普攻 |  | 2技能 |  |  | 三技能 | 
+      head2: 攻击力 | 582 |  | 883 |  | 883 |  | 595 |  |  | 874 | 
+      head3: 基础攻击间隔 | 1.6 | 0.5 | 1.5 | 2.3 | 1.5 | 2.3 | 1.6 |  |  | 2.1 | 
+    sheet[Sheet1] rows~187 cols~5 dim=A1:E187
+      head1: 秒 |  |  |  | 0
+      head2: 0 |  | 诱导 |  | 0
+      head3: 0.4 |  |  |  | 0
+    sheet[Sheet2] rows~64 cols~4 dim=A1:D64
+      head1:  |  | 0.25 | 0.05
+      head2:  |  |  | 
+      head3: 秒 |  | dx | 0
+XLSX  关卡\h16-4.xlsx	15627B
+    sheet[Sheet2] rows~41 cols~13 dim=A2:M41
+      head1:  |  |  |  |  |  |  |  |  |  |  | 
+      head2: 名称 | 数量 | 地位 | 级别 | 生命值 | 攻击力 | 防御力 | 法术抗性 | 重量等级 | 移动速度 | 攻击范围 | 攻击间隔
+      head3: 集团军幽灵兵 | 32 | 普通 | 0 | 9100 | 520 | 325 | 0 | 1 | 1 | 1 | 2
+    sheet[Sheet3] rows~24 cols~10 dim=A1:J24
+      head1: 技能 | 2技能 |  |  |  |  |  |  |  | 
+      head2: 攻击力 | 595 |  |  | 829 | 1989.6 |  |  |  | 
+      head3: 基础攻击间隔 | 1.6 |  |  |  | 107.4384 |  |  |  | 
+XLSXERR 关卡\~$16-16.xlsx	165B	File is not a zip file
+XLSX  关卡\净尘1000有模组.xlsm	138531B
+    sheet[作战记录] rows~76 cols~14 dim=A1:N76
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2:  |  | 3 | 0 | 部署 | 伊内丝 | D11 | 左 |  |  |  | 
+      head3:  |  | 3 | 0 | 部署 | 齐尔查克 | F6 | 左 |  |  |  | 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 停止中 |  |  | True
+      head2: 当前操作 | 2 |  |  | False
+      head3: 报错信息 |  |  |  | False
+XLSX  关卡\净罪作战880.xlsx	345467B
+    sheet[Sheet1] rows~178 cols~17 dim=A1:Q178
+      head1:  | 生命值 | 攻击力 | 攻击力（污染区内） | 防御力 | 防御力（污染区内） | 法术抗性 |  | 攻击间隔 | 重量 | 移速 | 攻击范围
+      head2: 萨卡兹枯朽前锋 | 11750 | 600 | 1500 | 400 | 800 | 40 |  | 90 | 1 | 0.8 | 0
+      head3: 萨卡兹枯朽宿卫 | 39000 | 2600 | 6500 | 12040 | 24080 | 90 |  | 150 | 5 | 0.6 | 0
+    sheet[Sheet2] rows~1 cols~1 dim=A1:A1
+      head1: 
+      head2: 
+      head3: 
+    sheet[Sheet3] rows~1 cols~1 dim=A1:A1
+      head1: 
+      head2: 
+      head3: 
+XLSX  关卡\大炎通宝.xlsx	9854B
+    sheet[Sheet1] rows~15 cols~4 dim=A1:D15
+      head1: 十钱 |  |  | 合
+      head2: 花 | 衡 | 厉 | 10
+      head3: 4 | 5 | 1 | 10
+XLSX  关卡\失控.xlsx	12337B
+    sheet[Sheet1] rows~255 cols~8 dim=A1:H255
+      head1:  |  | 洁 | 温 | 水泡 | 山 | 艾 | 雷
+      head2:  | 费用 | 14 | 19 | 5 | 9 | 10 | 5
+      head3:  | 初动 | 15 |  |  |  |  | 
+XLSX  关卡\失足落水.xlsx	271315B
+    sheet[Sheet2] rows~130 cols~129 dim=A1:DY130
+      head1:  |  |  |  |  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  |  |  |  |  | 
+    sheet[Sheet3] rows~127 cols~73 dim=A1:BU127
+      head1:  |  |  |  |  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  |  |  |  |  | 
+    sheet[Sheet4] rows~28 cols~56 dim=A1:BD28
+      head1: 名称 | 流鼻涕虫虫 |  | 狗Pro |  | 炮 |  | 普通的萨卡兹 |  | 红毛 |  | 大盾
+      head2: 数量 | 1~99 |  | 1~99 |  | 1~99 |  | 1~99 |  | 1~99 |  | 1~99
+      head3: 地位 | - |  | - |  | - |  | - |  | - |  | -
+XLSX  关卡\昔字如烟.xlsx	53340B
+    sheet[伤害表] rows~60 cols~27 dim=A1:AA60
+      head1: 技能 | 新能 |  | 锏 |  | 刀 |  | 安 |  | 小猫 |  | 傀影
+      head2: 攻击力 | 873 |  | 758 |  | 725 |  | 1467 |  | 583 |  | 741
+      head3: 基础攻击间隔 | 1.3 |  |  |  |  |  |  |  | 2.85 |  | 0.93
+    sheet[右伥] rows~144 cols~38 dim=A1:AL144
+      head1: 波次时间 | 事件 |  |  |  |  |  |  | 费用 |  | 绝对时间 | 
+      head2:  | “岁” | 飘香 | 铁矛头 | 新硎 | 恶语 | 靳天师 | 平剑客 | 当前 | 变化 |  | 
+      head3:  | 1892285 | 67582 | 47307 | 47307 | 16895 | 45054 | 39423 | 0 | 0 |  | 
+    sheet[左伥] rows~138 cols~38 dim=A1:AL138
+      head1: 波次时间 | 事件 |  |  |  |  |  |  | 费用 |  | 绝对时间 | 
+      head2:  | “岁” | 飘香 | 铁矛头 | 新硎 | 恶语 | 靳天师 | 平剑客 | 当前 | 变化 |  | 
+      head3:  | 1892285 | 67582 | 47307 | 47307 | 16895 | 45054 | 39423 | 0 | 0 |  | 
+XLSX  关卡\h12-4\h12-4 (version 1).xlsb.xlsx	9047310B
+    sheet[3] rows~27 cols~11 dim=A1:K27
+      head1: 免伤 | 0.4 |  |  |  |  |  |  |  | 转阶段时间 | 累计输出
+      head2: 物抗 | 1080 |  |  |  |  |  |  |  |  | 
+      head3: 法抗 | 0.5 |  |  |  |  |  |  |  |  | 
+    sheet[4] rows~27 cols~11 dim=A1:K27
+      head1: 免伤 | 0.6 |  |  |  |  |  |  |  | 转阶段时间 | 累计输出
+      head2: 物抗 | 1080 |  |  |  |  |  |  |  |  | 
+      head3: 法抗 | 0.5 |  |  |  |  |  |  |  |  | 
+    sheet[els] rows~27 cols~11 dim=A1:K27
+      head1: 免伤 | 0.6 |  |  |  |  |  |  |  | 转阶段时间 | 累计输出
+      head2: 物抗 | 1080 |  |  |  |  |  |  |  |  | 
+      head3: 法抗 | 0.5 |  |  |  |  |  |  |  |  | 
+    sheet[坐标] rows~63 cols~39 dim=A1:AM63
+      head1:  | 0.5 |  |  | 0.2 |  |  |  |  | 0.5 |  | 
+      head2: 帧 | 移速 | 距离 | 帧 | 移速 | 距离 |  |  | 帧 | 移速 | 距离 | 帧
+      head3: 0 | 0.5 | 0 | 0 | 0 | 0 |  |  | 0 | 0.5 | 0 | 0
+    sheet[伤害] rows~30 cols~23 dim=A1:W30
+      head1: 技能 | 安3 |  | 安普攻 |  | 令3本体 |  | 令3小大龙 |  | 令3小大龙 |  | 令3小大龙普攻
+      head2: 攻击力 | 1467 |  | 1467 |  | 582 |  | 883 |  | 883 |  | 883
+      head3: 基础攻击间隔 |  |  | 2.7 |  | 1.6 | 0.5 | 1.5 | 2.3 | 1.5 | 2.3 | 1.5
+    sheet[时间] rows~12 cols~11 dim=A1:K12
+      head1: 59.2 | 自然释放两次命脉，干员受击间隔 |  |  |  |  |  |  |  | 15.1s | 参考视频令开技能
+      head2: 8.1 | 移动状态停止，造成伤害 |  |  |  | 15f | 9f |  |  |  | 
+      head3: 1.1 | 干员受击到无敌 |  |  |  | 3s29f | 1s24f |  |  |  | 
+    sheet[时间验证] rows~70 cols~15 dim=A1:O70
+      head1: 两秒必加速至原速度 |  | 0.477083333525 | 每60f | 匀速 | 0.25 | 每30f |  |  | 6.837500000383334 |  | 
+      head2:  |  |  |  |  |  |  |  |  |  |  | 基础
+      head3: 第一次命脉后移动 |  |  |  |  |  |  | 0s0f | 时间间隔 | 格 |  | 削抗
+    sheet[概率统计] rows~9 cols~5 dim=A1:E9
+      head1:  | 失败样本量 | 相对总样本 | 统计 | 计算
+      head2: 总 | 219 |  | 0 | 0.000136785600000000
+      head3: 安1 | 129 | 219 | 0.410958904109589 | 0.28
+GGB   关卡\h12-4\h12-4.ggb	51698B	(GeoGebra 压缩包，另行处理)
+XLSXERR 关卡\h12-4\~$h12-4 (version 1).xlsb.xlsx	165B	File is not a zip file
+XLSX  关卡\h12-4\赛博塑料h12-4 - 快速.xlsm	49962B
+    sheet[作战记录] rows~51 cols~14 dim=A1:N51
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2: → | 11 | 15 | 1 | 部署 | 令 | C12 | 上 |  |  |  | 
+      head3:  | 20 | 0 | 20 | 部署 | 蕾缪安 | G9 | 下 |  |  |  | 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 停止中 |  |  | True
+      head2: 当前操作 | 2 |  |  | True
+      head3: 报错信息 | 脚本启动中。若长时间无反应，则请确认ex |  |  | True
+XLSX  关卡\h12-4\赛博塑料h12-4.xlsm	408288B
+    sheet[作战记录] rows~52 cols~14 dim=A1:N52
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2: → | 11 | 15 | 1 | 部署 | 令 | C12 | 上 |  |  |  | 
+      head3:  | 20 | 0 | 20 | 部署 | 蕾缪安 | G9 | 下 |  |  |  | 
+    sheet[Sheet1] rows~37 cols~8 dim=A19:H37
+      head1:  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  | 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 停止中 |  |  | True
+      head2: 当前操作 | 2 |  |  | False
+      head3: 报错信息 | 错误：无法识别当前费用。 |  |  | False
+XLSX  关卡\h15-4\赛博塑料h15-4.xlsm	445919B
+    sheet[作战记录] rows~83 cols~14 dim=A1:N83
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2:  |  | 0 | 0 | 部署 | 嵯峨 | G11 | 左 |  |  |  | 
+      head3:  |  | 5 | 6 | 技能 | 嵯峨 | G11 |  |  |  |  | 
+    sheet[Sheet1] rows~44 cols~4 dim=A22:D44
+      head1:  |  |  | 
+      head2:  |  |  | 
+      head3:  |  |  | 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 已停止 |  |  | True
+      head2: 当前操作 | 2 |  |  | True
+      head3: 报错信息 |  |  |  | False
+XLSX  关卡\小合约\718.xlsx	72695B
+    sheet[Sheet1] rows~17 cols~15 dim=A1:O17
+      head1:  |  | 数量 |  | 生命 | 攻击 | 防御 | 法抗 | 攻击间隔 | 重量 | 移速 | 范围
+      head2:  | 游击队猎犬 | 4 | 普通 | 5800 | 350 | 150 | 20 | 1.4 | 0 | 2.66 | 
+      head3:  | 游击队战士 | 16 | 普通 | 6600 | 300 | 300 | 20 | 2 | 1 | 1.54 | 
+    sheet[Sheet2] rows~1 cols~1 dim=A1:A1
+      head1: 
+      head2: 
+      head3: 
+    sheet[Sheet3] rows~1 cols~1 dim=A1:A1
+      head1: 
+      head2: 
+      head3: 
+XLSX  关卡\弧光\101.xlsx	210525B
+    sheet[Sheet2] rows~193 cols~20 dim=A10:T193
+      head1:  |  |  |  |  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  |  |  |  |  | 
+XLSX  关卡\弧光\7r.xlsx	20805B
+    sheet[数值&出怪] rows~61 cols~11 dim=A1:K61
+      head1: 基础数值 | 军用猎狗 | 特里蒙城防军 | 弧光锋卫 | 弧光镜卫 | “肇事者”量产型 | “十字路口”量产型 | “交通亭”量产型 | “交通警察” | 莱茵生命高级工程科成员 | 
+      head2: 生命值 | 3800 | 5800 | 10000 | 10000 | 12000 | 15000 | 20000 | 5500 | 8000 | 
+      head3: 攻击力 | 290 | 400 | 700 | 700 | 1000 | 190 | 1200 | 600 | 375 | 
+    sheet[干员] rows~24 cols~8 dim=A1:H24
+      head1: 技能 | 酒3 |  |  | 图3 |  |  | 
+      head2: 攻击力 | 595 |  |  | 588 |  |  | 
+      head3: 基础攻击间隔 | 1.6 |  |  | 1.6 |  |  | 
+    sheet[数据] rows~40 cols~9 dim=A1:I40
+      head1: 酒 | 过了完整间隔个帧 |  |  |  |  | 酒 | 银 | 
+      head2: t | f | 事件 |  |  | 减攻速后间隔 | 1208 | 410 | 551
+      head3: 0.7333333333333333 | 22 | 黍技能最后一秒吃黍加攻速最晚 |  |  | 正常普攻间隔 | 1057 | 302 | 453
+TEXT  关卡\弧光\jiushen3_simulation.m	4716B	chars=4330	-> 关卡__弧光__jiushen3_simulation.m
+XLSX  关卡\弧光\时间 (1).xlsx	4998198B
+    sheet[Sheet1] rows~134 cols~15 dim=A6:O134
+      head1:  |  |  |  |  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  |  |  |  |  | 
+XLSX  关卡\弧光\赛博塑料弧光7 - 酒2.xlsm	450846B
+    sheet[作战记录] rows~46 cols~14 dim=A1:N46
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2:  |  | 0 | 0 | 部署 | 嵯峨 | G11 | 左 |  |  |  | 
+      head3:  |  | 1 | 6 | 技能 | 嵯峨 | G11 |  |  |  |  | 
+    sheet[Sheet1] rows~37 cols~8 dim=A19:H37
+      head1:  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  | 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 已停止 |  |  | True
+      head2: 当前操作 | 2 |  |  | False
+      head3: 报错信息 |  |  |  | False
+XLSX  关卡\弧光\赛博塑料弧光7 - 酒2嵯峨.xlsm	443254B
+    sheet[作战记录] rows~61 cols~14 dim=A1:N61
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2:  |  | 0 | 0 | 部署 | 嵯峨 | G11 | 左 |  |  |  | 
+      head3:  |  | 1 | 6 | 技能 | 嵯峨 | G11 |  |  |  |  | 
+    sheet[Sheet1] rows~1 cols~1 dim=A1:A1
+      head1: 
+      head2: 
+      head3: 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 已停止 |  |  | True
+      head2: 当前操作 | 2 |  |  | False
+      head3: 报错信息 |  |  |  | False
+XLSX  关卡\弧光\赛博塑料弧光7.xlsm	407478B
+    sheet[作战记录] rows~25 cols~14 dim=A1:N25
+      head1: 当前执行 | 费用 | 帧数 | 绝对时间 | 操作 | 干员 | 坐标 | 朝向 | 简称 | 备注 | 运行结果 | 
+      head2:  |  | 6 | 0 | 部署 | 伊内丝 | G11 | 左 |  |  |  | 
+      head3:  |  | 36 | 2 | 技能 | 伊内丝 | G11 |  |  |  |  | 
+    sheet[Sheet1] rows~37 cols~8 dim=A19:H37
+      head1:  |  |  |  |  |  |  | 
+      head2:  |  |  |  |  |  |  | 
+      head3:  |  |  |  |  |  |  | 
+    sheet[使用须知] rows~49 cols~3 dim=A1:C49
+      head1: 使用须知 | v0.2.0 | 项目地址：https://github.
+      head2: 第零条 | 声明：开发者并不提倡以脚本完全代替手操。 | 
+      head3: 第一条 | 运行作战记录需要启用Excel宏，因为需 | 
+    sheet[中转站] rows~3 cols~5 dim=A1:E3
+      head1: 当前状态 | 已停止 |  |  | True
+      head2: 当前操作 | 2 |  |  | False
+      head3: 报错信息 | 用户停止。 |  |  | False
+XLSX  关卡\水月无藏\寒冷队.xlsx	8637B
+    sheet[Sheet1] rows~2 cols~3 dim=A1:C2
+      head1: 银灰 | 灵芝 | 初雪
+      head2: 3.9 | 7.8 | 
+      head3: 
+GGB   关卡\水月无藏\左上水母钩加推.ggb	58092B	(GeoGebra 压缩包，另行处理)
+TEXT  通用\PATH_FIND.m	8363B	chars=7101	-> 通用__PATH_FIND.m
+TEXT  通用\jiushen3_simulation2.m	7254B	chars=6444	-> 通用__jiushen3_simulation2.m
+PNG   通用\ruler.png	20165B
+XLSXERR 通用\uoep-data (3).xlsb	6545260B	openpyxl does not support binary format .xlsb, please convert this file to .xlsx format if you want to open it with openpyxl
+XLSXERR 通用\~$坐标及期望.xlsx	165B	File is not a zip file
+XLSXERR 通用\~$干员输出表.xlsx	165B	File is not a zip file
+XLSX  通用\坐标及期望.xlsx	1828573B
+    sheet[推拉] rows~78 cols~25 dim=A1:Y78
+      head1: 摩擦力 | 9.81 | 系数 | 0.5 | 加速度 | 4.905 |  | 帧差速度 | 0.1635 |  |  | 
+      head2:  |  |  |  |  |  |  |  |  |  |  | 
+      head3: 描述 | 微 | 小 | 中 | 较 | 大 | 超大 |  | 1.7612 |  |  | 
+    sheet[攻击范围] rows~11 cols~5 dim=A1:E11
+      head1: 横 | 1.6 |  | 横 | 1
+      head2: 纵 | 5 |  | 纵 | 1.49
+      head3: 攻击范围 | 5 |  | 攻击范围 | 1.7
+    sheet[加速度] rows~340 cols~16 dim=A1:P340
+      head1:  |  |  | 至完全恢复等效加2.75f |  |  |  |  |  |  |  | 
+      head2:  |  |  | 至加2f只需额外减速5f |  |  | 0.4065600000000001 |  |  |  |  | 
+      head3:  |  |  |  |  |  |  |  |  |  |  | 
+    sheet[大样本实验期望] rows~200 cols~3 dim=A1:C200
+      head1: 真概率 | 0.35 | 
+      head2: 样本数 | 50 | 
+      head3:  |  | 
+    sheet[减速追击问题] rows~159 cols~14 dim=A1:N159
+      head1: 移速 | 0.75 | 格/秒 | 0.375 |  |  |  |  |  |  |  | 
+      head2: 减速 | 0.2 |  |  |  |  |  |  |  |  |  | 
+      head3: 追击距离 | 1.875 | 减速时间 | 7.666666666666667 |  |  |  |  |  |  |  | 
+    sheet[承伤血线] rows~133 cols~18 dim=A1:R133
+      head1: 基础攻击 | 1600 | 基础攻击间隔 | 4 | 光环伤害 | 456 | 基础生命 | 3903 |  |  | 基础攻击 | 1600
+      head2: 局外乘算 | 0.25 | 攻击间隔缩短 | 0 | 触发间隔/帧 | 24 | 上限加 | 1.6 |  |  | 局外乘算 | 0.25
+      head3: 局内加算 | 0.2 | 攻速加 | 50 |  |  | 生命值 | 10148 |  |  | 局内加算 | 0.3
+    sheet[1] rows~1 cols~1 dim=A1:A1
+      head1: 
+      head2: 
+      head3: 
+XLSX  通用\干员输出表.xlsx	104906B
+    sheet[0] rows~19 cols~5 dim=A1:E19
+      head1: 技能 | 云迹2 |  | 夜烟2（-13） | 
+      head2: 攻击力 | 606 |  | 543 | 
+      head3: 基础攻击间隔 | 1.5 |  | 1.6 | 
+    sheet[1604] rows~49 cols~36 dim=A1:AJ49
+      head1: 物       理          端 | 技能 | 骋风2 |  | 云迹2 |  | 铅踝2 |  | 跃跃2 |  | 酸糖1 | 2
+      head2:  | 攻击力 | 301 |  | 606 |  | 845 |  | 580 |  | 675 | 
+      head3:  | 基础攻击间隔 | 1.2 |  | 1.5 |  | 2.4 |  | 1 |  | 1.6 | 
+    sheet[异银斩] rows~28 cols~9 dim=A1:I28
+      head1: 技能 | 异银2 |  | 蒂蒂2X |  | 傀损2集 |  | 饼干3X | 
+      head2: 攻击力 | 653 |  | 1233 |  | 741 |  | 1689 | 
+      head3: 基础攻击间隔 | 1.2 |  | 1.2 |  | 1.2 |  | 2.5 | 
+    sheet[弦&攻回] rows~19 cols~3 dim=A1:C19
+      head1: 技能 | 空弦 | 
+      head2: 攻击力 | 700 | 
+      head3: 基础攻击间隔 | 1 | 
+    sheet[地面强力击] rows~32 cols~9 dim=A1:I32
+      head1:  | 艾2 | 锏2 |  | 仇白2 |  | 乐乐3 |  | 
+      head2: 攻击力 | 789 | 758 |  | 849 |  | 936 |  | 
+      head3: 局外乘算倍率 | 1.2 | 1.2 |  | 1.2 |  | 1.2 |  | 
+    sheet[牢猫小猫] rows~608 cols~11 dim=A1:K608
+      head1: 技能 | 小猫3 |  | 牢猫3 |  |  | 帧 |  |  |  | 
+      head2: 攻击力 | 583 |  | 1402 |  |  | 0 | 开启 |  |  | 
+      head3: 基础攻击间隔 | 2.85 |  | 2 |  |  | 2 | 攻击力提升 |  |  | 
+    sheet[初雪] rows~19 cols~10 dim=A1:J19
+      head1: 技能/Y | 常态积雪 |  | 初雪1 |  | 初雪2 |  |  | 初雪3 | 
+      head2: 攻击力 | 1025 |  | 1025 |  | 1025 |  |  | 1025 | 
+      head3: 基础攻击间隔 | 2 |  | 2 |  | 2 |  |  | 2 | 
+    sheet[洁] rows~19 cols~3 dim=A1:C19
+      head1: 技能/α | 安洁3 | 
+      head2: 攻击力 | 707 | 
+      head3: 基础攻击间隔 | 1.9 | 
+    sheet[能艾] rows~77 cols~8 dim=A1:H77
+      head1: 技能 | 二技能 |  | 三技能 |  |  | 艾拉 | 
+      head2: 攻击力 | 873 |  | 873 |  |  | 755 | 
+      head3: 基础攻击间隔 | 1.3 |  | 1.3 |  |  | 0.85 | 
+    sheet[安] rows~27 cols~10 dim=A1:J27
+      head1: 技能 | 三技能 |  | 三技能 |  | 三技能 |  |  |  | 
+      head2: 攻击力 | 1467 |  | 1467 |  | 1467 |  |  | 安：部署：1-5-，2-6，5-8；开技 | 
+      head3: 基础攻击间隔 | 2.7 |  | 2.7 |  | 2.7 |  |  |  | 
+    sheet[莱伊] rows~21 cols~3 dim=A1:C21
+      head1: 技能 | 莱伊3 | 
+      head2: 攻击力 | 1299 | 
+      head3: 基础攻击间隔 | 1.6 | 
+    sheet[酒] rows~66 cols~15 dim=A1:O66
+      head1: 技能 | 2技能 |  |  |  | A段移速 | B段移速 | C段移速 | D段移速 | E段移速 |  | 
+      head2: 攻击力 | 595 |  |  | 基础 | 0.5 | 0.5 | 0.5 | 0.5 | 0.5 |  | 
+      head3: 基础攻击间隔 | 1.6 |  |  | 提升至 | 1 | 1 | 1 | 1 | 1 |  | 
+    sheet[真言] rows~19 cols~6 dim=A1:F19
+      head1: 技能/X | 常态被动 |  | 真言3 |  | 
+      head2: 攻击力 | 873 |  | 873 |  | 
+      head3: 基础攻击间隔 | 1.6 |  | 1.6 |  | 
+    sheet[ew] rows~34 cols~9 dim=A1:I34
+      head1: 技能 | 祖宗 | 二技能 |  | 三技能 |  |  |  | 
+      head2: 攻击力 | 777 | 874 |  | 874 |  |  |  | 
+      head3: 基础攻击间隔 |  | 2.1 |  | 2.1 |  |  |  | 
+    sheet[异惊] rows~30 cols~10 dim=A1:J30
+      head1:  | 一技能 |  | 浊蒂 |  |  |  |  |  | 
+      head2:  | 单判 | 三判 | 二技能 | 三技能 |  |  |  |  | 
+      head3: 攻击力 | 461 |  | 480 |  |  |  |  |  | 
+    sheet[熊2] rows~19 cols~6 dim=A1:F19
+      head1: 技能 | 3技能 |  | 技能 | 3技能（刀数） | 
+      head2: 攻击力 | 722 |  | 攻击力 | 722 | 
+      head3: 基础攻击间隔 | 1.6 |  | 基础攻击间隔 | 1.6 | 
+    sheet[mmk] rows~22 cols~3 dim=A1:C22
+      head1: 技能 | 2技能 | 
+      head2: 攻击力 | 560 | 
+      head3: 基础攻击间隔 | 1.6 | 
+    sheet[妮妮宝贝] rows~52 cols~16 dim=A1:P52
+      head1: 技能 | 2技能 |  |  | 总伤 | 28424.5 | 元素条 | 1049.488 | 元素 | 22995 |  | 
+      head2: 攻击力 | 852 | 733 |  | 层数 | 白值 | 法抗 | 法免 | 伤害倍率 | 损伤脆弱 | Q前A数 | Q前A数
+      head3: 基础攻击间隔 | 1.6 |  |  | 3 | 503 | 0.6 | 0.6 | 1 | 0 | 0 | 0
+    sheet[刀] rows~19 cols~5 dim=A1:E19
+      head1: 技能 | 二 |  | 三 | 
+      head2: 攻击力 | 725 |  | 725 | 
+      head3: 基础攻击间隔 |  |  |  | 
+    sheet[君君] rows~19 cols~3 dim=A1:C19
+      head1: 技能 | 二 | 
+      head2: 攻击力 | 725 | 
+      head3: 基础攻击间隔 |  | 
+    sheet[令] rows~21 cols~13 dim=A1:M21
+      head1: 技能 | 令3本体 |  | 令3小大龙 |  |  |  |  |  |  |  | 
+      head2: 攻击力 | 582 |  | 883 |  |  |  |  |  |  |  | 
+      head3: 基础攻击间隔 | 1.6 | 0.5 | 1.5 | 2.3 |  |  |  |  |  |  | 
+    sheet[余] rows~99 cols~8 dim=A1:H99
+      head1: 技能 | 2技能 |  |  |  |  |  | 
+      head2: 攻击力 | 715 |  |  |  |  |  | 
+      head3: 基础攻击间隔 | 1.6 |  |  |  |  |  | 
+TEXT  通用\控制数据.txt	1374B	chars=1260	-> 通用__控制数据.txt
+XLSX  通用\荒芜拉普兰德数据.xlsx	12152B
+    sheet[Sheet1] rows~20 cols~13 dim=A1:M20
+      head1:  | 荒芜拉普兰德——逐猎狂飙 |  |  | 荒芜拉普兰德——终幕·浩劫 |  |  |  | 焰影苇草-“生命火种” |  |  | 灵知-“失温症”
+      head2: 攻击力 | 460 |  | 攻击力 | 460 |  |  | 攻击力 | 676 |  | 攻击力 | 593
+      head3: 基础攻击间隔(帧) | 39 |  | 基础攻击间隔(帧) | 39 |  |  | 基础攻击间隔(帧) | 48 |  | 基础攻击间隔(帧) | 49
+XLSX  通用\账号统计.xlsx	14518B
+    sheet[Sheet1] rows~32 cols~18 dim=A1:R32
+      head1: 账号 | 尾号 | 备注 |  | 缺潜 | 合计 | 先 | 近 | 重 | 狙 | 术 | 医
+      head2:  |  |  |  |  |  |  |  |  |  |  | 
+      head3: 三达仔 | 2468 | 全满专满练，已开大量模组 |  |  | 5 |  |  |  |  | 2 | 1

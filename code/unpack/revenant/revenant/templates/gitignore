@@ -1,0 +1,42 @@
+# Source game package (large; keep out of git)
+*.xapk
+*.apk
+*.apks
+*.ipa
+
+# Extracted / generated binary data
+_apks/
+_binaries/
+_build/
+__pycache__/
+
+# Reference data (Cpp2IL output, indices)
+_refs/
+
+# Extracted AssetBundle / Addressables output. `res/*` rather than `res/`:
+# git does not descend into an excluded directory, so a negation inside one is
+# dead -- and res/_tools/ holds the per-game scripts the notes cite by path.
+res/*
+!res/_tools/
+
+# Decompiled Lua game logic (regenerable via `revenant lua-extract`)
+lua/
+
+# Reconstructed C# (CoW-seeded via `revenant seed-src`; regenerable)
+src/
+
+# Source recovered from the hot-update assemblies (HybridCLR / IFix). Read with
+# `revenant cs-list / cs-get / cs-grep / cs-refs`, same as the scaffold above.
+# Landing somewhere else? Say so with `[csharp] roots` in revenant.toml.
+src-hotupdate/
+
+# Env / secrets (never commit)
+.env
+.venv/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store

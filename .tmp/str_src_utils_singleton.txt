@@ -1,0 +1,15 @@
+Singletonc
+_instances
+superr
+__call__
+args
+kwargs
+__class__
+utils\singleton.pyr
+Singleton.__call__
+__name__
+__module__
+__qualname__r
+__classcell__r
+typer
+<module>

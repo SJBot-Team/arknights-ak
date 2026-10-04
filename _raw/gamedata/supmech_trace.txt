@@ -1,0 +1,12 @@
+=== 含 supmech 的模板 ===
+
+=== 引用 supmech_t[flag] 的模板（创建者）===
+  chiave_t_1
+     event=ON_BUFF_START $type=CheckContainsDeckBuff
+  chiave_t_1[deck]
+     event=ON_BUFF_START $type=CreateCardBuffFilterByDeckBuff
+
+=== 引用 chiave_t_1 的模板（创建者）===
+
+=== supmech_t[flag] 模板 ===
+null

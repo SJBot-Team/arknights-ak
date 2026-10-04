@@ -1,0 +1,15 @@
+# vision 内核依赖（Python 3.13）
+# 安装：.\.venv\Scripts\python.exe -m pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+numpy>=2.0
+opencv-python>=4.10,<5        # 注意：5.0 预发布版实测匹配慢 2 倍以上，锁 4.x
+bettercam>=1.0                # DXGI 高速抓屏（60~240FPS）
+dxcam>=0.3                    # bettercam 的备选
+mss>=9.0                      # 兼容性兜底抓屏
+pydirectinput>=1.0            # DirectInput 键鼠（游戏友好）
+pywin32>=306                  # 窗口定位 / SendInput
+pyyaml>=6.0
+comtypes>=1.2                 # bettercam 依赖
+
+# 可选插件依赖（缺失不影响内核，只影响对应识别器）
+# paddleocr + paddlepaddle    # OCR 识别器（plugins/recognize/ocr.py）

@@ -1,0 +1,65 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "revenant-re"
+version = "0.1.0"
+description = "A reverse-engineering harness that brings dead binaries back to source — Unity IL2CPP + xLua, driven by an MCP coding agent (Claude Code)."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+keywords = ["reverse-engineering", "il2cpp", "unity", "xlua", "lua", "decompiler", "claude-code", "mcp"]
+dependencies = [
+    "capstone>=5.0",
+    "pyelftools>=0.30",
+    # Domain packs are authored by hand: a manifest plus markdown with YAML
+    # front-matter, which is what pack authors expect to be writing.
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+# AssetBundle / Addressables + Lua TextAsset extraction (needed for the asset
+# and lua-* steps). Install with: revenant tool/pip install '.[assets]'
+assets = [
+    "UnityPy>=1.25.3",   # 1.25.0 cannot parse a real shipped bundle version string ("2022.3.56f1\n2")
+    "Pillow>=10.0",
+    "texture2ddecoder>=1.0.5",
+]
+# The MCP harness server (revenant-mcp).
+harness = [
+    # mcp 2.0 dropped `mcp.server.fastmcp`, which this server is written against;
+    # the lock already resolved 2.0 and only a stale venv hid it.
+    "mcp>=1.2,<2",
+]
+# Everything (recommended): uv tool install 'revenant-re[all]'
+all = [
+    "UnityPy>=1.25.3",
+    "Pillow>=10.0",
+    "texture2ddecoder>=1.0.5",
+    "mcp>=1.2,<2",
+]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+revenant = "revenant.cli:main"
+revenant-mcp = "revenant.mcp_server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["revenant"]
+# Ship the vendored decompiler, prep scripts, and project templates as data.
+artifacts = [
+    "revenant/vendor/*.jar",
+    "revenant/scripts/*.sh",
+    "revenant/templates/**/*",
+    "revenant/packs/**/*",
+]
+
+[tool.hatch.build.targets.sdist]
+include = ["revenant", "README.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

@@ -1,0 +1,40 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_locate_avatar.pyc len=1855
+CODE <module> argcount=0 flags=0x40 nlocals=0
+  names=['cv2', 'src.cache', 'get_avatars', 'replace_avatar', 'src.logic.action', 'Action', 'src.mumu.mumu_vision', 'capture_game_window', 'src.logger', 'logger', 'src.config', 'GameRatioConfig', 'ratioconfig', 'ImageProcessingConfig', 'imgconfig', 'src.utils.error_to_log', 'ErrorToLog', 'locate_avatar', '__name__', ('time',), 'start_time', 'action', 'end_time', 'info', 'avatar_pos']
+  varnames=[]
+  const 0
+  const None
+  const ('get_avatars', 'replace_avatar')
+  const ('Action',)
+  const ('capture_game_window',)
+  const ('logger',)
+  const ('GameRatioConfig',)
+  const ('ImageProcessingConfig',)
+  const ('ErrorToLog',)
+  const ('action', 'return')
+  CODE <module>.locate_avatar argcount=1 flags=0x43 nlocals=13
+    names=['get_avatars', 'oper', 'capture_game_window', 'ratioconfig', 'OPERATOR_AREA_RATIO', 'cv2', 'matchTemplate', 'TM_CCOEFF_NORMED', 'minMaxLoc', 'imgconfig', 'TEMPLATE_MATCH_THRESHOLD', 'logger', 'error', 'ErrorToLog', 'len', 'info', 'replace_avatar', 'shape', 'SCREEN_STANDARD_SIZE', 'avatar_pos']
+    varnames=['action', 'avatars', 'oper_area_img', 'max_val', 'max_pos', 'max_avatar', 'avatar', 'matched', '_', 'val', 'pos', 'avatar_ratio_x', 'avatar_ratio_y']
+    const '\n    Locate the exact location of the avatar on game screen. Modify the action object in place.\n    '
+    const (0, None, None)
+    const 'Could not find a good matching avatar for '
+    const ', with max_val: '
+    const '未在待部署区找到干员'
+    const '。'
+    const 1
+    const 'Found best matching avatar for '
+    const 0
+    const 2
+    const 'Avatar position of '
+    const ' found at: '
+    const ', max_val: '
+    const None
+  const 'locate_avatar'
+  const '__main__'
+  const ('time',)
+  const '令'
+  const ('oper',)
+  const 'Avatar position found at: '
+  const ', time taken: '
+  const '.4f'
+  const ' seconds'

@@ -1,0 +1,565 @@
+{
+ "rows": [
+  {
+   "f": 400,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 401,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 402,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 403,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 404,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 405,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 406,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 407,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 408,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 409,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 410,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 411,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 412,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 413,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 414,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 415,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 416,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 417,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 418,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 419,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 420,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 421,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 422,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 423,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 424,
+   "cost": 10,
+   "fill_px": 0,
+   "total_px": 167,
+   "ratio": 0.0,
+   "tick": 0.0
+  },
+  {
+   "f": 425,
+   "cost": 10,
+   "fill_px": 5,
+   "total_px": 167,
+   "ratio": 0.0299,
+   "tick": 0.9
+  },
+  {
+   "f": 426,
+   "cost": 10,
+   "fill_px": 12,
+   "total_px": 167,
+   "ratio": 0.0719,
+   "tick": 2.16
+  },
+  {
+   "f": 427,
+   "cost": 10,
+   "fill_px": 18,
+   "total_px": 167,
+   "ratio": 0.1078,
+   "tick": 3.23
+  },
+  {
+   "f": 428,
+   "cost": 10,
+   "fill_px": 18,
+   "total_px": 167,
+   "ratio": 0.1078,
+   "tick": 3.23
+  },
+  {
+   "f": 429,
+   "cost": 10,
+   "fill_px": 24,
+   "total_px": 167,
+   "ratio": 0.1437,
+   "tick": 4.31
+  },
+  {
+   "f": 430,
+   "cost": 10,
+   "fill_px": 37,
+   "total_px": 167,
+   "ratio": 0.2216,
+   "tick": 6.65
+  },
+  {
+   "f": 431,
+   "cost": 10,
+   "fill_px": 43,
+   "total_px": 167,
+   "ratio": 0.2575,
+   "tick": 7.72
+  },
+  {
+   "f": 432,
+   "cost": 10,
+   "fill_px": 49,
+   "total_px": 167,
+   "ratio": 0.2934,
+   "tick": 8.8
+  },
+  {
+   "f": 433,
+   "cost": 10,
+   "fill_px": 55,
+   "total_px": 167,
+   "ratio": 0.3293,
+   "tick": 9.88
+  },
+  {
+   "f": 434,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 435,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 436,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 437,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 438,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 439,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 440,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 441,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 442,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 443,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 444,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 445,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 446,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 447,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 448,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 449,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 450,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 451,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 452,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 453,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 454,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 455,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 456,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 457,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 458,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 459,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 460,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 461,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 462,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 463,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 464,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 465,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 466,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 467,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 468,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  },
+  {
+   "f": 469,
+   "cost": 10,
+   "fill_px": 62,
+   "total_px": 167,
+   "ratio": 0.3713,
+   "tick": 11.14
+  }
+ ],
+ "events": []
+}

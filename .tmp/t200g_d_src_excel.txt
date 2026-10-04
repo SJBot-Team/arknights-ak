@@ -1,0 +1,276 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_excel.pyc len=9466 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=284
+  names=['win32com', 'client', '__gen_path__', 'pywintypes', 'com_error', 'functools', 'os', 'dataclasses', 'src.logic.action', 'Action', 'ActionType', 'DirectionType', 'src.utils.singleton', 'Singleton', 'src.utils.error_to_log', 'ErrorToLog', 'src.logger', 'logger', 'src.utils.typecheck', 'get_optional_type', '__all__', 'ACTION_COLUMN_NAME_MAPPING', 'dataclass', 'StatusColor', 'Excel', '__name__', 'path', 'join', 'dirname', '__file__', 'file_path', 'info', 'excel', 'get_current_action', 'current_action']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = ('client', '__gen_path__')
+  consts[2] = ('com_error',)
+  consts[3] = None
+  consts[4] = ('Action', 'ActionType', 'DirectionType')
+  consts[5] = ('Singleton',)
+  consts[6] = ('ErrorToLog',)
+  consts[7] = ('logger',)
+  consts[8] = ('get_optional_type',)
+  consts[9] = 'Excel'
+  consts[10] = 'cost'
+  consts[11] = 'tick'
+  consts[12] = 'time'
+  consts[13] = 'action_type'
+  consts[14] = 'oper'
+  consts[15] = 'pos'
+  consts[16] = 'direction'
+  consts[17] = 'alias'
+  consts[18] = ('费用', '帧数', '绝对时间', '操作', '干员', '坐标', '朝向', '简称')
+  consts[19] = True
+  consts[20] = ('order',)
+  CODE <module>.StatusColor argcount=0 nlocals=0 flags=0x40 co_code=50
+    names=['__name__', '__module__', '__qualname__', 'SUCCESS', 'int', '__annotations__', 'WARNING', 'FAILURE']
+    varnames=[]
+    consts[0] = 'StatusColor'
+    consts[1] = 7864183
+    consts[2] = 'SUCCESS'
+    consts[3] = 7864319
+    consts[4] = 'WARNING'
+    consts[5] = 7829503
+    consts[6] = 'FAILURE'
+    consts[7] = None
+  consts[22] = 'StatusColor'
+  CODE <module>.Excel argcount=0 nlocals=0 flags=0x40 co_code=246
+    names=['__name__', '__module__', '__qualname__', '__init__', '_connect', 'connection_handler', '_locate_data', '_signal_start', '_reset_cells', '_close', '__del__', '__enter__', '__exit__', 'locate_column', 'locate_row', 'set_control_value', 'get_control_value', 'bool', 'is_paused', 'set_paused', 'show_error', 'get_current_action', 'load_cell_with_type', 'get_action', 'StatusColor', 'set_result', 'next_action', 'get_setting']
+    varnames=[]
+    consts[0] = 'Excel'
+    CODE <module>.Excel.__init__ argcount=2 nlocals=2 flags=0x43 co_code=96
+      names=['file_path', 'excel', 'workbook', 'record_sheet', 'data', '_own_excel', '_own_workbook', 'column_loc', 'data_loc', 'current_row', '_connect', '_locate_data', '_signal_start', '_reset_cells']
+      varnames=['self', 'file_path']
+      consts[0] = None
+      consts[1] = False
+      consts[2] = 1
+    consts[2] = 'Excel.__init__'
+    CODE <module>.Excel._connect argcount=1 nlocals=2 flags=0x43 co_code=412
+      names=['client', 'GetActiveObject', 'excel', 'com_error', 'logger', 'warning', 'Dispatch', '_own_excel', 'error', 'workbook', 'Workbooks', 'debug', 'os', 'path', 'normpath', 'abspath', 'FullName', 'file_path', 'Open', '_own_workbook', '_close', 'Sheets', 'record_sheet', 'control_sheet', 'info']
+      varnames=['self', 'wb']
+      consts[0] = None
+      consts[1] = 'Excel.Application'
+      consts[2] = 'Excel application not found, creating a new one'
+      consts[3] = True
+      consts[4] = 'Failed to create Excel application'
+      consts[5] = 'Checking workbook: '
+      consts[6] = 'Excel file not found, opening '
+      consts[7] = 'Failed to open '
+      consts[8] = '作战记录'
+      consts[9] = '中转站'
+      consts[10] = 'Failed to locate sheet'
+      consts[11] = 'Connected to Excel file: '
+      consts[12] = ', workbook owned: '
+      consts[13] = ', excel owned: '
+    consts[4] = 'Excel._connect'
+    CODE <module>.Excel.connection_handler argcount=1 nlocals=2 flags=0x3 co_code=26
+      names=['functools', 'wraps']
+      varnames=['func', 'wrapper']
+      consts[0] = None
+      CODE <module>.Excel.connection_handler.wrapper argcount=1 nlocals=4 flags=0x1f co_code=90
+        names=['com_error', 'logger', 'error', 'ErrorToLog']
+        varnames=['excel_instance', 'args', 'kwargs', 'e']
+        consts[0] = None
+        consts[1] = 'Excel connection lost.'
+        consts[2] = 'Excel连接出错。\n'
+      consts[2] = 'Excel.connection_handler.<locals>.wrapper'
+    consts[6] = 'Excel.connection_handler'
+    CODE <module>.Excel._locate_data argcount=1 nlocals=4 flags=0x43 co_code=454
+      names=['record_sheet', 'UsedRange', 'Value', 'data', 'ACTION_COLUMN_NAME_MAPPING', 'items', 'locate_column', 'column_loc', 'ErrorToLog', 'logger', 'error', 'debug', 'locate_row', 'data_loc']
+      varnames=['self', 'key', 'value', 'settings_col']
+      consts[0] = None
+      consts[1] = 'time'
+      consts[2] = 'Column '
+      consts[3] = ' not found in record sheet'
+      consts[4] = '列 '
+      consts[5] = ' 未找到。'
+      consts[6] = '当前执行'
+      consts[7] = 'cur_exec'
+      consts[8] = '运行结果'
+      consts[9] = 'result'
+      consts[10] = '设置'
+      consts[11] = 'settings'
+      consts[12] = 'Settings column: '
+      consts[13] = '关卡代号'
+      consts[14] = 1
+      consts[15] = 'map_code'
+      consts[16] = '关卡全名'
+      consts[17] = 'map_name'
+      consts[18] = '每费帧数'
+      consts[19] = 'max_tick'
+      consts[20] = '初始时间'
+      consts[21] = 'initial_time'
+      consts[22] = '等待时间1'
+      consts[23] = 'wait_time1'
+      consts[24] = '等待时间2'
+      consts[25] = 'wait_time2'
+      consts[26] = '等待时间3'
+      consts[27] = 'wait_time3'
+      consts[28] = '阈值-子弹时间'
+      consts[29] = 'bullet_threshold'
+      consts[30] = '阈值-逐帧定位'
+      consts[31] = 'frame_threshold'
+      consts[32] = (0, 1)
+      consts[33] = 'cur_status'
+      consts[34] = (1, 1)
+      consts[35] = 'cur_row'
+      consts[36] = (2, 1)
+      consts[37] = 'err_log'
+    consts[8] = 'Excel._locate_data'
+    CODE <module>.Excel._signal_start argcount=1 nlocals=1 flags=0x43 co_code=66
+      names=['is_paused', 'set_control_value', 'set_paused', 'int', 'get_control_value', 'current_row']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'cur_status'
+      consts[2] = '运行中'
+      consts[3] = 'err_log'
+      consts[4] = ''
+      consts[5] = 'cur_row'
+      consts[6] = 1
+    consts[10] = 'Excel._signal_start'
+    CODE <module>.Excel._reset_cells argcount=1 nlocals=2 flags=0x43 co_code=234
+      names=['len', 'data', 'logger', 'debug', 'current_row', 'column_loc', 'record_sheet', 'Range', 'Cells', 'Value', 'Interior', 'ColorIndex']
+      varnames=['self', 'last_row']
+      consts[0] = None
+      consts[1] = 'Clearing cells from '
+      consts[2] = 1
+      consts[3] = ' to '
+      consts[4] = " in column '当前执行'("
+      consts[5] = 'cur_exec'
+      consts[6] = ") and '运行结果'("
+      consts[7] = 'result'
+      consts[8] = ')'
+      consts[9] = -4142
+      consts[10] = '→'
+    consts[12] = 'Excel._reset_cells'
+    consts[13] = False
+    CODE <module>.Excel._close argcount=2 nlocals=2 flags=0x43 co_code=100
+      names=['workbook', '_own_workbook', 'Close', 'logger', 'info', 'file_path', 'excel', '_own_excel', 'Quit']
+      varnames=['self', 'save_changes']
+      consts[0] = None
+      consts[1] = ('SaveChanges',)
+      consts[2] = 'Closed Excel file: '
+      consts[3] = 'Closed Excel application'
+    consts[15] = 'Excel._close'
+    CODE <module>.Excel.__del__ argcount=1 nlocals=1 flags=0x43 co_code=12
+      names=['_close']
+      varnames=['self']
+      consts[0] = None
+    consts[17] = 'Excel.__del__'
+    CODE <module>.Excel.__enter__ argcount=1 nlocals=1 flags=0x43 co_code=4
+      names=[]
+      varnames=['self']
+      consts[0] = None
+    consts[19] = 'Excel.__enter__'
+    CODE <module>.Excel.__exit__ argcount=4 nlocals=4 flags=0x43 co_code=12
+      names=['_close']
+      varnames=['self', 'exc_type', 'exc_value', 'traceback']
+      consts[0] = None
+    consts[21] = 'Excel.__exit__'
+    CODE <module>.Excel.locate_column argcount=2 nlocals=2 flags=0x43 co_code=58
+      names=['data', 'index', 'ValueError', 'ErrorToLog']
+      varnames=['self', 'column_name']
+      consts[0] = None
+      consts[1] = 0
+      consts[2] = '列 '
+      consts[3] = ' 未找到。'
+    consts[23] = 'Excel.locate_column'
+    CODE <module>.Excel.locate_row argcount=3 nlocals=5 flags=0x43 co_code=60
+      names=['enumerate', 'data', 'ErrorToLog']
+      varnames=['self', 'col', 'row_value', 'index', 'row']
+      consts[0] = None
+      consts[1] = '行 '
+      consts[2] = ' 未找到。'
+    consts[25] = 'Excel.locate_row'
+    CODE <module>.Excel.set_control_value argcount=3 nlocals=3 flags=0x43 co_code=82
+      names=['logger', 'debug', 'data_loc', 'control_sheet', 'Cells', 'Value']
+      varnames=['self', 'control_name', 'value']
+      consts[0] = None
+      consts[1] = 'Setting control '
+      consts[2] = ' to '
+      consts[3] = ' at '
+      consts[4] = 0
+      consts[5] = 1
+    consts[27] = 'Excel.set_control_value'
+    CODE <module>.Excel.get_control_value argcount=2 nlocals=2 flags=0x43 co_code=44
+      names=['control_sheet', 'Cells', 'data_loc', 'Value']
+      varnames=['self', 'control_name']
+      consts[0] = None
+      consts[1] = 0
+      consts[2] = 1
+    consts[29] = 'Excel.get_control_value'
+    consts[30] = ('return',)
+    CODE <module>.Excel.is_paused argcount=1 nlocals=1 flags=0x43 co_code=14
+      names=['get_control_value']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'cur_status'
+      consts[2] = '停止中'
+    consts[32] = 'Excel.is_paused'
+    consts[33] = None
+    CODE <module>.Excel.set_paused argcount=1 nlocals=1 flags=0x43 co_code=16
+      names=['set_control_value']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'cur_status'
+      consts[2] = '已停止'
+    consts[35] = 'Excel.set_paused'
+    CODE <module>.Excel.show_error argcount=2 nlocals=2 flags=0x43 co_code=16
+      names=['set_control_value']
+      varnames=['self', 'message']
+      consts[0] = None
+      consts[1] = 'err_log'
+    consts[37] = 'Excel.show_error'
+    CODE <module>.Excel.get_current_action argcount=1 nlocals=1 flags=0x43 co_code=52
+      names=['logger', 'info', 'current_row', 'len', 'data', 'Action', 'get_action']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'Getting current action at row '
+    consts[39] = 'Excel.get_current_action'
+    CODE <module>.Excel.load_cell_with_type argcount=4 nlocals=7 flags=0x43 co_code=136
+      names=['data', 'get_optional_type', 'ValueError', 'TypeError', 'logger', 'warning']
+      varnames=['self', 'row', 'col', 'cell_type', 'cell_value', 'actual_type', 'err']
+      consts[0] = None
+      consts[1] = 'Failed to load cell ('
+      consts[2] = ', '
+      consts[3] = ') with type '
+      consts[4] = ' due to error '
+    consts[41] = 'Excel.load_cell_with_type'
+    CODE <module>.Excel.get_action argcount=2 nlocals=7 flags=0x43 co_code=102
+      names=['dataclasses', 'fields', 'Action', 'column_loc', 'get', 'name', 'load_cell_with_type', 'type', 'logger', 'info']
+      varnames=['self', 'row', 'action_data', 'field', 'col', 'cell_value', 'action']
+      consts[0] = None
+      consts[1] = 'Get action: '
+    consts[43] = 'Excel.get_action'
+    consts[44] = ('result',)
+    CODE <module>.Excel.set_result argcount=2 nlocals=2 flags=0x43 co_code=38
+      names=['record_sheet', 'Cells', 'current_row', 'column_loc', 'Interior', 'Color']
+      varnames=['self', 'result']
+      consts[0] = None
+      consts[1] = 1
+      consts[2] = 'result'
+    consts[46] = 'Excel.set_result'
+    CODE <module>.Excel.next_action argcount=1 nlocals=1 flags=0x43 co_code=136
+      names=['record_sheet', 'Cells', 'current_row', 'column_loc', 'Value', 'set_control_value']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 1
+      consts[2] = 'cur_exec'
+      consts[3] = '→'
+      consts[4] = ''
+      consts[5] = 'cur_row'
+    consts[48] = 'Excel.next_action'
+    CODE <module>.Excel.get_setting argcount=2 nlocals=2 flags=0x43 co_code=34
+      names=['data', 'data_loc']
+      varnames=['self', 'name']
+      consts[0] = None
+      consts[1] = 0
+      consts[2] = 1
+    consts[50] = 'Excel.get_setting'
+    consts[51] = (False,)
+  consts[24] = ('metaclass',)
+  consts[25] = '__main__'
+  consts[26] = 'template.xlsm'
+  consts[27] = 'Excel file path: '
+  consts[28] = 'Current action: '

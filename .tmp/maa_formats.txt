@@ -1,0 +1,431 @@
+=== 任务总数: 869
+
+=== 代表性任务的完整 JSON ===
+
+--- StartUp ---
+{
+  "Doc": "有时候明明已经在主界面了，停了一小会又弹个窗。多检测几次，一直在主界面才算完成",
+  "template": "SwitchTheme@ToggleSettingsMenu.png",
+  "action": "DoNothing",
+  "roi": [
+    227,
+    327,
+    159,
+    152
+  ],
+  "postDelay": 1000,
+  "maxTimes": 3,
+  "next": [
+    "StartUp",
+    "StartUp@LoadingText",
+    "StartUp@CloseAnnos#next"
+  ]
+}
+
+--- StartUpBegin ---
+{
+  "algorithm": "JustReturn",
+  "next": [
+    "StartUp@StartUpThemes#next",
+    "StartUpBegin@LoadingIcon",
+    "StartUp@ReturnButtons#next",
+    "StartUp@EndOfAction",
+    "StartUp@PRTS#next"
+  ]
+}
+
+--- Fight ---
+{
+  "action": "DoNothing",
+  "template": "SwitchTheme@ToggleSettingsMenu.png",
+  "roi": [
+    227,
+    327,
+    159,
+    152
+  ],
+  "sub": [
+    "Terminal-Entry"
+  ],
+  "next": [
+    "Fight@GoLastBattle",
+    "Fight@CloseAnnos#next",
+    "Fight@GoTerminalStopflag",
+    "Fight@ReturnButtons#next"
+  ]
+}
+
+--- Terminal-Entry --- (NOT FOUND)
+--- BattleHasStarted ---
+{
+  "Doc": "20260109 YJWL更新后暂停按钮向右移动约8像素, 且暂停后亮度上限245 (不知道以前是不是也有这个问题)",
+  "template": "empty.png",
+  "roi": [
+    1178,
+    33,
+    53,
+    39
+  ],
+  "specialParams_Doc": "亮度阈值；点的数量",
+  "specialParams": [
+    235,
+    200
+  ]
+}
+
+--- BattleDeployWhenPause ---
+{
+  "algorithm": "JustReturn",
+  "specialParams": [
+    1
+  ]
+}
+
+--- BattleOperAvailable ---
+{
+  "template": "empty.png",
+  "specialParams": [
+    100
+  ],
+  "specialParams_Doc": "用于做V通道平均值阈值",
+  "rectMove": [
+    0,
+    0,
+    10,
+    10
+  ]
+}
+
+--- BattleOperAvatar ---
+{
+  "template": "empty.png",
+  "rectMove": [
+    7,
+    32,
+    60,
+    60
+  ]
+}
+
+--- BattleDeployDirectionRectMove ---
+{
+  "template": "empty.png",
+  "rectMove": [
+    -48,
+    -48,
+    96,
+    96
+  ]
+}
+
+--- BattleStartPre ---
+{
+  "algorithm": "OcrDetect",
+  "text": [
+    "开始行动",
+    "开始作战",
+    "开始推演",
+    "开始突袭",
+    "开始试炼",
+    "开始测试"
+  ],
+  "roi": [
+    1000,
+    600,
+    280,
+    120
+  ],
+  "action": "ClickSelf",
+  "preDelay": 500,
+  "postDelay": 1000
+}
+
+--- Copilot --- (NOT FOUND)
+--- Copilot@ClickStart --- (NOT FOUND)
+--- Copilot@DeployOper --- (NOT FOUND)
+--- Copilot@UseSkill --- (NOT FOUND)
+--- ClickStageName ---
+{
+  "algorithm": "OcrDetect",
+  "action": "ClickSelf",
+  "roi": [
+    0,
+    0,
+    1280,
+    720
+  ],
+  "fullMatch": true,
+  "isAscii": true,
+  "text": [],
+  "next": [
+    "ClickedCorrectStageOrSwipe",
+    "#self"
+  ],
+  "ocrReplaceDoc": "和 ClickedCorrectStage 同步，但去除 OPERATION",
+  "ocrReplace": [
+    [
+      "-\\]",
+      "-1"
+    ],
+    [
+      " ",
+      ""
+    ],
+    [
+      "s",
+      "S"
+    ],
+    [
+      "c",
+      "C"
+    ],
+    [
+      "o",
+      "O"
+    ],
+    [
+      "g",
+      "8"
+    ],
+    [
+      "t",
+      "T"
+    ],
+    [
+      ":",
+      ""
+    ],
+    [
+      "'",
+      ""
+    ],
+    [
+      "(H\\d+)O(?=-)",
+      "${1}0"
+    ],
+    [
+      "(-\\d+)O",
+      "${1}0"
+    ],
+    [
+      "([A-Z])0(?=-)",
+      "${1}O"
+    ],
+    [
+      ".*?([A-Z]{2}-EX-\\d+)",
+      "$1"
+    ],
+    [
+      "-I$",
+      "-1"
+    ]
+  ],
+  "specialParams": [
+    0,
+    0,
+    160,
+    180,
+    30,
+    255
+  ]
+}
+
+--- ClickedCorrectStage ---
+{
+  "algorithm": "OcrDetect",
+  "fullMatch": true,
+  "isAscii": true,
+  "text": [],
+  "ocrReplaceDoc": "和 ClickStageName 同步",
+  "ocrReplace": [
+    [
+      "OPERATION",
+      ""
+    ],
+    [
+      "-\\]",
+      "-1"
+    ],
+    [
+      " ",
+      ""
+    ],
+    [
+      "s",
+      "S"
+    ],
+    [
+      "c",
+      "C"
+    ],
+    [
+      "o",
+      "O"
+    ],
+    [
+      "g",
+      "8"
+    ],
+    [
+      "t",
+      "T"
+    ],
+    [
+      ":",
+      ""
+    ],
+    [
+      "'",
+      ""
+    ],
+    [
+      "(H\\d+)O(?=-)",
+      "${1}0"
+    ],
+    [
+      "(-\\d+)O",
+      "${1}0"
+    ],
+    [
+      "([A-Z])0(?=-)",
+      "${1}O"
+    ],
+    [
+      ".*?([A-Z]{2}-EX-\\d+)",
+      "$1"
+    ]
+  ],
+  "roi": [
+    845,
+    72,
+    220,
+    50
+  ]
+}
+
+--- StageBegin ---
+{
+  "algorithm": "JustReturn",
+  "next": [
+    "(Fight@GoLastBattle)@QuickSwitch@ToTerminal#next",
+    "Fight@ReturnButtons#next",
+    "Fight",
+    "Fight@CloseAnnos#next"
+  ]
+}
+
+--- LoadingIcon ---
+{
+  "Doc": "开始唤醒最后阶段的黑色正三角加载画面",
+  "roi": [
+    480,
+    210,
+    320,
+    280
+  ],
+  "next": [
+    "LoadingIcon",
+    "#next",
+    "#back"
+  ]
+}
+
+
+=== 含 Copilot 的任务名 ===
+Copilot@BattleStartPreFlag, Copilot@BattleStartPreFlag-Return, Copilot@ChapterSwipeToTheRightAndPlot, Copilot@ClickCornerUntilStartButton, Copilot@EndOfAction, Copilot@EndOfAction-Bypass, Copilot@EndOfAction-Sandbox, Copilot@FightMissionFailed, Copilot@FightMissionFailed-Bypass, Copilot@FullStageNavigation, Copilot@SkipThePreBattlePlotConfirm, Copilot@StageDrops-Stars-3, Copilot@StageDrops-Stars-Adverse, Copilot@StageNavigationSlowlySwipeLeft, Copilot@WaitUntilEndOfAction, Copilot@WaitUntilEndOfAction-Bypass
+
+=== 含 Battle 的任务名 ===
+BattleAvatarCoolingData, BattleAvatarData, BattleAvatarDataForFormation, BattleAvatarDataForVideo, BattleAvatarDialog, BattleAvatarReMatch, BattleCancelSelection, BattleCostData, BattleCostFlag, BattleDeployDirectionRectMove, BattleDeployWhenPause, BattleDroneAvatarData, BattleFormationInvalid, BattleFormationOCRNameFlag, BattleFormationOperAvatarMove, BattleFormationOperListSlowlySwipeToTheRight, BattleFormationOperListSwipeToTheLeft, BattleFormationOperNames, BattleFormationOperNamesOldVersion, BattleHasStarted, BattleHpFlag, BattleHpFlag2, BattleKills, BattleKillsFlag, BattleOfficiallyBegin, BattleOperAvailable, BattleOperAvatar, BattleOperBoxRectMove, BattleOperClickRange, BattleOperCooling, BattleOperCost, BattleOperDetailPageFlag, BattleOperDetailPageOldFlag, BattleOperName, BattleOperRetreat, BattleOperRetreatJustClick, BattleOperRole, BattleOperRoleCaster, BattleOperRoleDrone, BattleOperRoleMedic, BattleOperRolePioneer, BattleOperRoleRange, BattleOperRoleSniper, BattleOperRoleSpecial, BattleOperRoleSupport, BattleOperRoleTank, BattleOperRoleWarrior, BattleOpersFlag, BattlePause, BattlePauseCancel, BattlePauseCancelCheck, BattleQuickFormation, BattleQuickFormation-Elite, BattleQuickFormation-Level, BattleQuickFormation-OperNameFlag0, BattleQuickFormation-OperNameFlag1, BattleQuickFormation-OperNameFlag2, BattleQuickFormation-OperNameFlag3, BattleQuickFormation-OperNameFlag4, BattleQuickFormation-OperNameFlag5, BattleQuickFormation-OperNameFlag6, BattleQuickFormation-OperNameFlag7, BattleQuickFormation-OperNameFlagBase, BattleQuickFormationCheck, BattleQuickFormationClear, BattleQuickFormationExpandRole, BattleQuickFormationFilter, BattleQuickFormationFilter-Click2, BattleQuickFormationFilter-Cost, BattleQuickFormationFilter-PinActivated, BattleQuickFormationFilter-PinUnactivated, BattleQuickFormationFilter-Trust, BattleQuickFormationFilterClose, BattleQuickFormationOCR, BattleQuickFormationRole, BattleQuickFormationRole-All, BattleQuickFormationRole-All-OCR, BattleQuickFormationRole-Caster, BattleQuickFormationRole-Medic, BattleQuickFormationRole-Pioneer, BattleQuickFormationRole-Sniper, BattleQuickFormationRole-Special, BattleQuickFormationRole-Support, BattleQuickFormationRole-Tank, BattleQuickFormationRole-Warrior, BattleQuickFormationTrustIcon, BattleSelectFormation1, BattleSelectFormation2, BattleSelectFormation3, BattleSelectFormation4, BattleSkillReady, BattleSkillReadyOnClick-TopView, BattleSpeedButton, BattleSpeedUp, BattleSpeedUpCheck, BattleStageName, BattleStart, BattleStartAdverse, BattleStartAll, BattleStartExercise, BattleStartNormal, BattleStartOCR, BattleStartPlot, BattleStartPre, BattleStartPre@BattleQuickFormation, BattleStartPre@UseMedicine, BattleStartPreFlag, BattleStartRaid, BattleStartSimulation, BattleStartSimulationForTwo, BattleStartTrials, BattleStartTrialsRaid, BattleSupportUnitFormation, BattleSupportUnitFormationSelect, BattleSwipeOper, BattleUseOper, BattleUseSkillJustClick
+
+=== copilot 作业样例: D:\__soft\MAA\resource\copilot\OF-1_credit_fight.json ===
+{
+    "minimum_required": "v4.0.0",
+    "actions": [
+        {
+            "type": "SpeedUp"
+        },
+        {
+            "type": "Deploy",
+            "name": "先锋",
+            "location": [5, 3],
+            "direction": "Right"
+        },
+        {
+            "type": "SkillDaemon"
+        }
+    ],
+    "doc": {
+        "title": "OF-1 Credit Fight",
+        "details": "OF-1 Credit Fight"
+    },
+    "groups": [
+        {
+            "name": "先锋",
+            "opers": [
+                {
+                    "name": "推进之王",
+                    "skill": 2
+                },
+                {
+                    "name": "风笛",
+                    "skill": 2
+                },
+                {
+                    "name": "凛御银灰",
+                    "skill": 3,
+                    "skill_usage": 1
+                },
+                {
+                    "name": "焰尾"
+                },
+                {
+                    "name": "德克萨斯",
+                    "skill": 2,
+                    "skill_usage": 1
+                },
+                {
+                    "name": "凛冬"
+                },
+                {
+                    "name": "贾维"
+                },
+                {
+                    "name": "清道夫"
+                },
+                {
+                    "name": "讯使"
+                },
+                {
+                    "name": "芬"
+                },
+                {
+                    "name": "香草"
+                }
+            ]
+        }
+    ],
+    "opers": [],
+    "stage_name": "OF-1"
+}
+
+
+=== copilot 作业文件数: 74 ===
+=== copilot 字段频次 ===
+  __TOP__minimum_required: 74
+  __TOP__doc: 74
+  __TOP__opers: 74
+  __TOP__stage_name: 74
+  __TOP__type: 73
+  __TOP__buff: 73
+  __TOP__equipment: 73
+  __TOP__strategy: 73
+  __TOP__tool_men: 73
+  __TOP__drops: 73
+  __TOP__blacklist: 73
+  __TOP__stages: 73
+  __TOP__actions: 29
+  __TOP__groups: 29
+  type: 3
+  name: 1
+  location: 1
+  direction: 1

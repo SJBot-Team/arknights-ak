@@ -1,0 +1,45 @@
+target=0x1A0 kind=all
+W 0x0050ADD6	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	MirrorReflection.public void OnWillRenderObject() { }	+0x106
+W 0x005AE96B	440f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm11	TrapCompositeManager.private void _FindCompositeTrap() { }	+0x38B
+W 0x0060A25A	4889ac24a0010000	mov qword ptr [rsp + 0x1a0], rbp	RacingEnemy.private void _DoCollisionInternal(Vector2 kbDir, float force, FP speedLoss, FP hpLoss) { }	+0x34A
+W 0x00627248	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	Scheduler.public void SpawnSummonedEnemyWithFixedDirection(string enemyKey, Enemy host, MotionMode motionMode, bool unharmful, bool alwaysCountAsKilled, float offset, float startAngle, float endAngle, int summonCnt) { }	+0x138
+W 0x006D8D29	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	RangeSelector.public override void Reset(Entity owner, Ability ability, Func<Entity, bool> validator) { }	+0x1A9
+W 0x00700A68	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	Character.private void _BuildAtInternal(Character.BuildParam characterBuildParam) { }	+0x18
+W 0x00887FF1	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	GameModeFactory.EnemyDuelGameMode.private void _DoClearOnWaveWillStart() { }	+0x101
+W 0x00888359	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	GameModeFactory.EnemyDuelGameMode.private void _DoClearOnWaveWillStart() { }	+0x469
+W 0x00933081	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	TrapEddSkillReadyEffect.public override void OnTick(FP deltaTime) { }	+0x1F1
+W 0x0096F3ED	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	EffectBehaviour.public override void OnHitTarget(Entity target) { }	+0xCD
+W 0x009E12B7	6689bc24a0010000	mov word ptr [rsp + 0x1a0], di	TorappuBattleModifierWrap.private static int _m_RemoveSharedFlag(IntPtr L) { }	+0xA7
+W 0x009E1907	6689bc24a0010000	mov word ptr [rsp + 0x1a0], di	TorappuBattleModifierWrap.private static int _m_SetSharedFlag(IntPtr L) { }	+0xA7
+W 0x009E1E0E	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	TorappuBattleModifierWrap.private static int _m_Split(IntPtr L) { }	+0x1CE
+W 0x009E27E9	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	TorappuBattleModifierWrap.private static int _s_set_extraData(IntPtr L) { }	+0x89
+W 0x009E30DF	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	TorappuBattleModifierWrap.private static int _s_set_originAtk(IntPtr L) { }	+0x8F
+W 0x009E3349	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	TorappuBattleModifierWrap.private static int _s_set_realDelta(IntPtr L) { }	+0x89
+W 0x009E37BF	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	TorappuBattleModifierWrap.private static int _s_set_value(IntPtr L) { }	+0x8F
+W 0x00A3643D	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	AroundTargetRangedAttack.private void _CalculateProjectilesStartPos(Vector3 target) { }	+0x1BD
+W 0x00A395E7	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	CrossRangedAttack.protected override bool DoCastOnTargets(IList<ActionNode> actions, IList<BuffData> buffs, IList<IAbilityAttachment> attachments) { }	+0x687
+W 0x00A486A1	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RangedAttackWithProjectilesRotatingAround.private void _CalculateProjectileGeneratePos(ILocatable target) { }	+0x71
+W 0x00A59968	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	PoachrRespawnPredefinedAbility.protected override void OnCastOnTile(Tile tile, IList<ActionNode> actions, IList<BuffData> buffs, IList<IAbilityAttachment> attachments) { }	+0xA8
+W 0x00A62878	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	Whitw2Skill3FunnelRangedAttack.private void _CalculateProjectilesStartPos(Entity target) { }	+0x188
+W 0x00A73727	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	GameCityMultiSummonEnemyToTileAbility.private void _DoSummonEnemies() { }	+0x107
+W 0x00AF876C	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	TorappuColorResWrap.public static void __Register(IntPtr L) { }	+0x29C
+W 0x00B232B3	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	RacingDamageWhenCollision.protected override void OnRacingEvent(object arg) { }	+0x133
+W 0x00B4D488	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Nodes.AutoChessDamageSplit.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x298
+W 0x00BB39B6	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	Nodes.AdvancedApplyDamage.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0xC6
+W 0x00BB6A66	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Nodes.BlockDamage.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x106
+W 0x00BBD660	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Nodes.DamageSplitToBuffKeySources.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x1A0
+W 0x00BBEA16	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Nodes.DamageViaAttr.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x66
+W 0x00BBEFEE	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Nodes.DamageViaCurHpRatio.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x7E
+W 0x00BC52FC	0f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm4	Nodes.NoSourceGlobalDamageScaleByBuffCnt.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x2FC
+W 0x00BC9142	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	Nodes.ApplyElementDamage.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x272
+W 0x00BCA568	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Nodes.BleedingDamagePerSec.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0xB8
+W 0x00BCF936	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	Nodes.EnemyDuelSummonEnemies.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x116
+W 0x00BDD797	440f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm12	Nodes.SplitDamageToNearbyOperators.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x467
+W 0x00BDFFAB	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	Nodes.AdvancedApplyHeal.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0xBB
+W 0x00BE64FF	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Nodes.FixedValueElementHeal.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x16F
+W 0x00BEAF98	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Nodes.HealToken.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x218
+W 0x00C77D97	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	Nodes.SummonEnemiesFollowMyRouteWithBuff.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x147
+W 0x00C7892C	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	Nodes.SummonEnemiesFollowMyRoute.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x1BC
+W 0x00CA19B3	f20f118c24a0010000	movsd qword ptr [rsp + 0x1a0], xmm1	LineEffectEmitterDynamic.private void _TryUpdateEffects() { }	+0x183
+W 0x00CC5CAB	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	AutoChessCharacterMenuPanel.private bool _RenderBattleField(Character character, Tile tile) { }	+0xCB
+W 0x00DA51D9	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	UICooperateFortressEdgePanel.private bool _EdgeMarkUpdate(UICooperateEdgePinMark mark, out Vector3 interactPos, out float angle) { }	+0xD9

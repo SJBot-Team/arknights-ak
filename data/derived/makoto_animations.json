@@ -1,0 +1,43 @@
+{
+ "source": "battle_skill_makoto.ab",
+ "clips": [
+  {
+   "name": "makoto_skill_02_start_01",
+   "duration_s": 0.0,
+   "sample_rate": 30.0,
+   "loop": true,
+   "events": 0
+  },
+  {
+   "name": "makoto_skill_02_start_01_end",
+   "duration_s": 4.0,
+   "sample_rate": 30.0,
+   "loop": true,
+   "events": 0
+  },
+  {
+   "name": "makoto_skill_02_start_01_end_p3r#1",
+   "duration_s": 4.0,
+   "sample_rate": 30.0,
+   "loop": true,
+   "events": 0
+  },
+  {
+   "name": "makoto_skill_02_start_01_p3r#1",
+   "duration_s": 0.0,
+   "sample_rate": 30.0,
+   "loop": true,
+   "events": 0
+  }
+ ],
+ "animators": [
+  {
+   "controller": "makoto_skill_02_start_01",
+   "size": 924
+  },
+  {
+   "controller": "makoto_skill_02_start_01_p3r#1",
+   "size": 932
+  }
+ ]
+}

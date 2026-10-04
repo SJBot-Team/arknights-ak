@@ -1,0 +1,30 @@
+=== 一星干员（可能含支援机械）===
+  char_285_medic2: Lancet-2 | tags=['支援机械', '治疗'] | trait=[]
+  char_286_cast3: Castle-3 | tags=['支援机械', '支援'] | trait=[]
+  char_376_therex: THRM-EX | tags=['支援机械', '爆发'] | trait=[]
+  char_4000_jnight: 正义骑士号 | tags=['支援机械', '支援'] | trait=[]
+  char_4077_palico: 泰拉大陆调查团 | tags=['控场'] | trait=[]
+  char_4091_ulika: U-Official | tags=['控场'] | trait=[]
+  char_4093_frston: Friston-3 | tags=['支援机械', '防护'] | trait=[]
+  char_4136_phonor: PhonoR-0 | tags=['支援机械', '元素'] | trait=[]
+  char_4188_confes: CONFESS-47 | tags=['支援机械', '控场'] | trait=[]
+  char_4227_gallus: GALLUS² | tags=['支援机械', '削弱'] | trait=[]
+  char_4215_buddy: 罗德岛隐秘队 | tags=['费用回复', '控场'] | trait=[]
+  token_10063_buddy_bddg: 牙猎犬 | tags=[] | trait=[]
+  trap_079_allydonq: 猎潮的骑士 | tags=[] | trait=[]
+
+=== 贾维 traits（天赋定义引用）===
+
+=== 干员顶层字段 ===
+['name', 'description', 'sortIndex', 'spTargetType', 'spTargetId', 'canUseGeneralPotentialItem', 'canUseActivityPotentialItem', 'potentialItemId', 'activityPotentialItemId', 'classicPotentialItemId', 'nationId', 'groupId', 'teamId', 'mainPower', 'subPower', 'displayNumber', 'appellation', 'position', 'tagList', 'itemUsage', 'itemDesc', 'itemObtainApproach', 'isNotObtainable', 'isSpChar', 'maxPotentialLevel', 'rarity', 'profession', 'subProfessionId', 'trait', 'phases', 'skills', 'displayTokenDict', 'talents', 'potentialRanks', 'favorKeyFrames', 'allSkillLvlup']
+
+=== 含'支援机械'的干员 ===
+  char_285_medic2: Lancet-2
+  char_286_cast3: Castle-3
+  char_376_therex: THRM-EX
+  char_4000_jnight: 正义骑士号
+  char_4093_frston: Friston-3
+  char_4136_phonor: PhonoR-0
+  char_4188_confes: CONFESS-47
+  char_4227_gallus: GALLUS²
+  char_349_chiave: 贾维

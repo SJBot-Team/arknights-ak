@@ -1,0 +1,70 @@
+{
+  "_doc": "1-1 共用轴表的打图端执行配置。轴表唯一事实来源 = ak/axis/1-1.yaml（由 ak/sim/draft/axis_to_runner.py 生成派生 JSON）。默认 dry-run：不注入任何输入。",
+  "compliance": {
+    "_doc": "ak/meta/合规声明_自动打图与账号.md（用户 2026-09-14）——与客户端合规声明同等重要",
+    "allowed_accounts": ["****", "****"],
+    "login_quota": {"mumu12": 1, "pc": 1},
+    "login_quota_used": {"mumu12": 0, "pc": 0},
+    "require_user_consent_per_login": true,
+    "login_actions_enabled": false,
+    "consume_only": ["理智"],
+    "forbidden_ui": ["仓库", "基建", "抽卡", "商店", "邮件", "养成", "模组"],
+    "forbidden_actions": ["升级", "精英化", "技能升级", "开模组", "使用道具", "购买"],
+    "live_run_consent": false,
+    "_note": "live_run_consent 必须由用户当场同意后改为 true（或命令行 --i-have-consent）方可实注入；登录动作默认禁用"
+  },
+  "axis_runner": {
+    "axis": "C:/Users/23922/Documents/ds_harness/ak/data/derived/axis_1-1.json",
+    "dry_run": true,
+    "timebase": "cost-relative",
+    "_timebase_note": "★用**费用锚点**时基（打图端原生口径）：帧 = (显示费用 − 初始费用 + 净消耗)×30 + foff。1-1 实测反推：芬 (10−10+0)×30+10 = **10**；月见夜 (15−10+8)×30+21 = **411** ⇒ 与轴表逐帧一致",
+    "clock": {
+      "source": "virtual",
+      "_note": "dry-run 用虚拟时钟；实机执行时改为 cost_number（费用数字 ROI 见打图线文档）或 ruler（费用尺）"
+    },
+    "initial_cost": 10,
+    "frames_per_cost": 30,
+    "unit_costs": {"芬": 8, "月见夜": 14},
+    "grid": {"rows": 7, "cols": 9, "row_from": "bottom", "col_from": "left",
+             "_note": "1-1 为 7×9；轴表 `cell` 用标定记法（字母=row+1、数字=col+1），与模拟器 rc_normal 一致"},
+    "battle_area": {"left": 0, "top": 120, "right": 1560, "bottom": 900,
+                    "_todo": "实机执行前需按 1-1 地形四角标定格点→像素映射"},
+    "coord_transform": "rc_normal",
+    "unit_slots": {"_todo": "实机执行前标定待部署区「芬」「月见夜」卡片中心（见 apps/card_probe.py）"},
+    "unit_points": {"_todo": "干员名 → 场上位置 [x,y]（技能/撤退用）"},
+    "ui": {"skill_button": [0, 0], "retreat_button": [0, 0], "skill_sp_roi": [0, 0, 0, 0],
+           "_todo": "实机标定技能/撤退按钮"},
+    "cost_gate": true,
+    "sp_gate": true,
+    "sp_gate_mode": "analytic",
+    "unit_skills": {"芬": 0, "月见夜": 0},
+    "token_owners": {},
+    "summon_lost_sp": 4.0,
+    "skill_sp": {"mode": "ready", "ready_ratio": 0.2, "ready_sat": 0.35,
+                 "ready_hue": 45, "ready_hue_tol": 50},
+    "wait1": 0.02,
+    "wait2": 0.1,
+    "wait3": 0.3,
+    "loop_hz": 240,
+    "same_frame_mode": "sequential",
+    "_same_frame_note": "★目标②的「同帧多操作」：改为 \"freeze\" 时，同一目标帧的多条操作会在**一次冻结**内连续下发（冻结→步进对齐→执行→恢复），记录 group_id/group_size/frozen*/frozen_frame 等字段。1-1 轴表本身无同帧组，故此处保持 sequential；回归见 code/vision/apps/test_same_frame.py",
+    "freeze": {
+      "mode": "sim",
+      "pause_key": "f",
+      "step_key": "t",
+      "step_max": 5,
+      "step_wait_s": 0.04,
+      "freeze_settle_s": 0.05,
+      "_note": "实机执行前必须把 mode 改 win（Windows 注入）/adb，并标定 pause_key / step_key / pause_button；sim 仅供离线推演与回归"
+    },
+    "max_seconds": 60,
+    "log": "C:/Users/23922/Documents/ds_harness/ak/data/derived/logs_1-1_axisrun.json",
+    "input": {
+      "backend": "input:adb",
+      "adb": "D:/__soft/MuMu Player 12/shell/adb.exe",
+      "serial": "127.0.0.1:16384",
+      "display_w": 1920,
+      "display_h": 1080
+    }
+  }
+}

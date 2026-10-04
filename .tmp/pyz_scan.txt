@@ -1,0 +1,10 @@
+scanned exe size 3746883
+candidate zlib streams: 731 successfully inflated: 507
+b'autoenter': 1 stream hits; first offsets [(302902, 4483)]
+b'xlsm': 2 stream hits; first offsets [(302902, 4483), (2991971, 9466)]
+b'ACTION_COLUMN_NAME_MAPPING': 1 stream hits; first offsets [(2991971, 9466)]
+b'perform_deploy': 1 stream hits; first offsets [(3007676, 6475)]
+--- ctx in stream@302902 (inflated 4483) ---
+b'\x07\x00\x00\x00\xda\x0bactual_time\xda\x0escheduled_timer\x08\x00\x00\x00\xda\x07FAILURE\xda\x0bnext_action\xda\nshow_error\xda\nset_paused\xda\x0ecleanup_vision)\x16\xda\tfile_pathr3\x00\x00\x00\xda\tautoenter\xda\x01er\x13\x00\x00\x00r\x18\x00\x00\x00r\x19\x00\x00\x00r\x1a\x00\x00\x00r\x1b\x00\x00\x00r\x1c\x00\x00\x00r\x1d\x00\x00\x00r\x1e\x00\x00\x00r\x1f\x00\x00\x00r \x00\x00\x00\xda\x08map_data\xda\x0fview_data_front\xda\x0eview_data_side\xda\nmap_height\xda\tmap_width\xda\x0coperator_loc\xda\x0eoperator_alias\xda\x06'
+--- ctx in stream@302902 (inflated 4483) ---
+b'\x0bdescriptionz\x06--xlsmz\x1bThe path to the Excel file.)\x02\xda\x04type\xda\x04helpz\x07--debug\xda\nstore_truez\x12Run in debug mode.)\x02rV\x00\x00\x00r[\x00\x00\x00z\x0b--autoenterz\x17Run in auto enter mode.)-\xda\x08argparser(\x00\x00\x00\xda\nsrc.loggerr\x02\x00\x00\x00\xda\tsrc.excelr\x03\x00\x00\x00r\x04\x00\x00\x00\xda\nsrc.configr\x05\x00\x00\x00r1\x00\x00\x00\xda\x18src.logic.perform_actionr\x06\x00\x00\x00r\x07\x00\x00\x00r\x08\x00\x00\x00\xda\x13src.lo'

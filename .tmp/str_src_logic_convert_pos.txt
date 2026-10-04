@@ -1,0 +1,17 @@
+Action
+action
+height
+width
+returnc
+    Convert chess board representation to numerical representation
+    For example, under height 7, width 11: D2 -> (1, 3), C5 -> (4, 4), F7 -> (6, 1)
+    
+tile_pos
+Exception
+logic\convert_pos.py
+convert_position
+__main__
+src.logic.actionr
+__name__r
+printr
+<module>

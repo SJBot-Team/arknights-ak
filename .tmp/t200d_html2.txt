@@ -1,0 +1,39 @@
+﻿img tags in html: 22
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/afbfd7e90dcf9beaaf33600547271636374873950.png@1416w_798h_1c" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/face/member/noface.jpg@96w_96h_1c" class="b-img__inner" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/40040d26f0eb1f17f6d97cee6e6fbdd8374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/aab6802f6bf79fd08504d2524b877f91374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/4acfc8503e8fd04210e32fa9d2c5cba8374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/8345f1c5703c45cb697b444a8b0ed302374873950.png@298w_188h" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/b1c82b77d33ba92b1e37484a5cd4c277374873950.png@386w_168h" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/8584620743d6cd4fbe3c8d24fb5df906374873950.png@280w_206h" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/e9c021a60bc1be2521b75dedfe451ab0374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/44d5a7f05abd9350c80f4451d0e33e94374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/d1202d3795b4c6b2a3eac8971afb0063374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/21b9fb3cf1f77d0402b739d538559eec374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/b8571d0785cd84932375e89b5560d556374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/2599974ae68619e69988285f8c56616d374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/50d4d6ad87a3dbf85bfedbbb5d678fd9374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/d9dc45afcd4b14622288dbdc77835805374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/01b8779fbc1ede886ed47b06e8ba4b6e374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/ece9e930c159f47ac0341d995cdd5604374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/f1edf3d5c50957cec6aff419f622406c374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/new_dyn/8b7fecdd5739cd11f039f9a387e32465374873950.png@1192w" class="b-img__inner" loading="lazy" onload="bmgCmptOnload(this)" onerror="bmgCmptOnerror(this)" >
+IMG> <img src="//i0.hdslb.com/bfs/static/jinkela/video/asserts/22-coin-ani.png" alt="" class="coin-popup__figure__pic-img">
+IMG> <img src="//i0.hdslb.com/bfs/static/jinkela/video/asserts/22-coin-ani.png" alt="" class="coin-popup__figure__pic-img">
+--- bfs/article urls ---
+--- all hdslb urls ---
+--- state keys ---
+['bmgDefDomain', 'isMac', 'modern', 'features', 'id', 'detail', 'isClient', 'isPreview', 'fallback', 'theme', 'themeMode', 'abtest']
+bmgDefDomain = 
+isMac = False
+modern = True
+features = ['onlyfansVote', 'onlyfansAssetsV2', 'onlyfansOpusCard', 'decorationCard', 'htmlNewStyle', 'ugcDelete', 'editable', 'opu
+id = 1253400031141036040
+detail -> ['id_str', 'type', 'basic', 'modules']
+isClient = False
+isPreview = False
+fallback -> ['id', 'type']
+theme = light
+themeMode = light
+abtest -> ['html_new_style']

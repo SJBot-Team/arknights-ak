@@ -1,0 +1,69 @@
+CODE <module> argcount=0 flags=0x40 names=['COST_AREA_RATIO', 'PIL', 'Image', 'numpy', 'dtype', '', 'functools', 'lru_cache', 'src.config', 'GameRatioConfig', 'info', 'ImageProcessingConfig', 'threshold', 'src.logic.game_time', 'GameTime', 'src.mumu.mumu_vision', 'capture_game_window', 'src.utils.error_to_log', 'ErrorToLog', 'src.logger', 'logger', '_time_counter', '_last_tick', 'filter', '_update_time_counter', 'cost_bar_area', 'bytes', 'THRESH_BINARY', 'cost_number_area', 'bool', 'left', '__name__', 2, 'start_time', 'game_time', 'end_time', ('_time_counter', 'logger', 'info', 'capture_game_window', 'ratioconfig', 'COST_AREA_RATIO', 'cv2', 'threshold', 'imgconfig', 'WHITE_THRESHOLD', 'THRESH_BINARY', 'get_tick', 'tobytes', '_last_tick')]
+  const 0
+  const None
+  const ('Image',)
+  const ('lru_cache',)
+  const ('GameRatioConfig',)
+  const ('ImageProcessingConfig',)
+  const ('GameTime',)
+  const ('capture_game_window',)
+  const ('ErrorToLog',)
+  const ('logger',)
+  const ('current_tick', 'return')
+  CODE <module>._update_time_counter argcount=1 flags=0x43 names=['_last_tick', '_time_counter']
+    const '\n    Update the global time counter based on the current tick.\n    If the current tick is less than the last tick, it means the cost bar has been filled once.\n    \n    Args:\n        current_tick (int): The current tick value.\n    '
+    const 1
+    const None
+  const '_update_time_counter'
+  const ('initial_time', 'return')
+  CODE <module>.reset_time_counter argcount=1 flags=0x43 names=['_time_counter', 'logger', 'info', 'capture_game_window', 'ratioconfig', 'COST_AREA_RATIO', 'cv2', 'threshold', 'imgconfig', 'WHITE_THRESHOLD', 'THRESH_BINARY', 'get_tick', 'tobytes', '_last_tick']
+    const '\n    Reset the global time counter with an initial time value.\n    \n    Args:\n        initial_time (int): The initial time value to start from.\n    '
+    const 'Setting initial time counter to '
+    const ('ratio',)
+    const 255
+    const -1
+    const None
+    const 'Setting initial tick to '
+  const 'cost_bar_area'
+  const 120
+  const ('maxsize',)
+  const ('cost_bar_area_bytes', 'return')
+  CODE <module>.THRESH_BINARY argcount=1 flags=0x43 names=['np', 'frombuffer', 'uint8', 'mean', 'round', 'GameTime', 'TICK_MAX']
+    const "\n    Calculate the current game tick based on the ratio of white pixels in the cost bar image.\n    \n    This function assumes that the game represents time progression by filling a bar with white color in the cost area.\n    The 'tick' is then the proportion of the bar that is filled.\n    \n    Args:\n        cost_bar_area_bytes (bytes): A byte string representing a black and white image of the cost bar.\n    \n    Returns:\n        int: The current game tick, scaled to be between 0 and GameTime.TICK_MAX - 1.\n    "
+    const ('dtype',)
+    const 'ratio'
+    const 1
+  const 'THRESH_BINARY'
+  const ('cost_number_area_bytes', 'width', 'height', 'return')
+  CODE <module>.get_cost argcount=3 flags=0x43 names=['Image', 'frombytes', 'tesserocr', 'PyTessBaseAPI', 'PSM', 'SINGLE_WORD', 'SetImage', 'GetUTF8Text', 'MeanTextConf', 'threshold', 'OCR_CONFIDENCE_THRESHOLD', 'ErrorToLog', 'join', 'filter', 'str', 'isdigit', 'int', 'ValueError']
+    const '\n    Extract the current cost from the game window using OCR.\n    \n    This function assumes that the cost is displayed as a number in a specific area of the game window.\n    It uses Tesseract to perform OCR and extract the cost number.\n    \n    Args:\n        cost_number_area_bytes (bytes): A byte string representing a black and white image of the cost number area.\n        width (int): The width of the cost number area.\n        height (int): The height of the cost number area.\n    \n    Returns:\n        int: The current cost. Returns -1 if the OCR operation fails.\n    '
+    const 'L'
+    const 'arknights_digit'
+    const ('lang', 'psm')
+    const '无法识别当前费用。'
+    const None
+    const ''
+  const 'cost_number_area'
+  const ('need_cost', 'return')
+  CODE <module>.get_game_time argcount=1 flags=0x43 names=['capture_game_window', 'info', 'ratioconfig', 'COST_AREA_RATIO', 'cv2', 'threshold', 'imgconfig', 'WHITE_THRESHOLD', 'THRESH_BINARY', 'get_tick', '_update_time_counter', 'filter', 'shape', 'COST_NUMBER_AREA_RATIO', 'cost_number_area', 'GameTime', '_time_counter']
+    const '\n    Get the current game time from the game window.\n    \n    Args:\n        need_cost (bool): Whether to calculate the cost using OCR. \n            Set to False if you only need time and tick.\n    \n    Returns:\n        GameTime: The current game time, with tick and time fields.\n        The cost field is only set if need_cost is True.\n    '
+    const 'Setting initial time counter to '
+    const 'ratio'
+    const 255
+    const None
+    const 1
+    const 0
+    const 2
+    const 3
+    const ((b'\x00\x0f\x10\x03\x0e\x03', <code THRESH_BINARY consts=4 names=7>, ('cost_number_area_bytes', 'width', 'height', 'return'), 'cost_number_area', 'api', 'cost', 'confidence'), 'tick', 'time')
+  const 'left'
+  const '__main__'
+  const True
+  const ('get_cost',)
+  const 'Game time with cost: '
+  const ' (time elapsed: '
+  const '.3f'
+  const ' seconds)'
+  const False
+  const 'Game time without cost: '
+  const 'Game time with cost (cached): '

@@ -1,0 +1,343 @@
+target=0x1A0 kind=w
+W 0x0050ADD6	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	MirrorReflection.public void OnWillRenderObject() { }	+0x106
+W 0x005AE96B	440f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm11	TrapCompositeManager.private void _FindCompositeTrap() { }	+0x38B
+W 0x0060A25A	4889ac24a0010000	mov qword ptr [rsp + 0x1a0], rbp	RacingEnemy.private void _DoCollisionInternal(Vector2 kbDir, float force, FP speedLoss, FP hpLoss) { }	+0x34A
+W 0x00627248	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	Scheduler.public void SpawnSummonedEnemyWithFixedDirection(string enemyKey, Enemy host, MotionMode motionMode, bool unharmful, bool alwaysCountAsKilled, float offset, float startAngle, float endAngle, int summonCnt) { }	+0x138
+W 0x006D8D29	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	RangeSelector.public override void Reset(Entity owner, Ability ability, Func<Entity, bool> validator) { }	+0x1A9
+W 0x00700A68	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	Character.private void _BuildAtInternal(Character.BuildParam characterBuildParam) { }	+0x18
+W 0x00887FF1	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	GameModeFactory.EnemyDuelGameMode.private void _DoClearOnWaveWillStart() { }	+0x101
+W 0x00888359	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	GameModeFactory.EnemyDuelGameMode.private void _DoClearOnWaveWillStart() { }	+0x469
+W 0x00933081	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	TrapEddSkillReadyEffect.public override void OnTick(FP deltaTime) { }	+0x1F1
+W 0x0096F3ED	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	EffectBehaviour.public override void OnHitTarget(Entity target) { }	+0xCD
+W 0x009E12B7	6689bc24a0010000	mov word ptr [rsp + 0x1a0], di	TorappuBattleModifierWrap.private static int _m_RemoveSharedFlag(IntPtr L) { }	+0xA7
+W 0x009E1907	6689bc24a0010000	mov word ptr [rsp + 0x1a0], di	TorappuBattleModifierWrap.private static int _m_SetSharedFlag(IntPtr L) { }	+0xA7
+W 0x009E1E0E	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	TorappuBattleModifierWrap.private static int _m_Split(IntPtr L) { }	+0x1CE
+W 0x009E27E9	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	TorappuBattleModifierWrap.private static int _s_set_extraData(IntPtr L) { }	+0x89
+W 0x009E30DF	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	TorappuBattleModifierWrap.private static int _s_set_originAtk(IntPtr L) { }	+0x8F
+W 0x009E3349	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	TorappuBattleModifierWrap.private static int _s_set_realDelta(IntPtr L) { }	+0x89
+W 0x009E37BF	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	TorappuBattleModifierWrap.private static int _s_set_value(IntPtr L) { }	+0x8F
+W 0x00A3643D	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	AroundTargetRangedAttack.private void _CalculateProjectilesStartPos(Vector3 target) { }	+0x1BD
+W 0x00A395E7	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	CrossRangedAttack.protected override bool DoCastOnTargets(IList<ActionNode> actions, IList<BuffData> buffs, IList<IAbilityAttachment> attachments) { }	+0x687
+W 0x00A486A1	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RangedAttackWithProjectilesRotatingAround.private void _CalculateProjectileGeneratePos(ILocatable target) { }	+0x71
+W 0x00A59968	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	PoachrRespawnPredefinedAbility.protected override void OnCastOnTile(Tile tile, IList<ActionNode> actions, IList<BuffData> buffs, IList<IAbilityAttachment> attachments) { }	+0xA8
+W 0x00A62878	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	Whitw2Skill3FunnelRangedAttack.private void _CalculateProjectilesStartPos(Entity target) { }	+0x188
+W 0x00A73727	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	GameCityMultiSummonEnemyToTileAbility.private void _DoSummonEnemies() { }	+0x107
+W 0x00AF876C	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	TorappuColorResWrap.public static void __Register(IntPtr L) { }	+0x29C
+W 0x00B232B3	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	RacingDamageWhenCollision.protected override void OnRacingEvent(object arg) { }	+0x133
+W 0x00B4D488	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Nodes.AutoChessDamageSplit.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x298
+W 0x00BB39B6	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	Nodes.AdvancedApplyDamage.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0xC6
+W 0x00BB6A66	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Nodes.BlockDamage.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x106
+W 0x00BBD660	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Nodes.DamageSplitToBuffKeySources.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x1A0
+W 0x00BBEA16	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Nodes.DamageViaAttr.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x66
+W 0x00BBEFEE	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Nodes.DamageViaCurHpRatio.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x7E
+W 0x00BC52FC	0f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm4	Nodes.NoSourceGlobalDamageScaleByBuffCnt.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x2FC
+W 0x00BC9142	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	Nodes.ApplyElementDamage.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x272
+W 0x00BCA568	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Nodes.BleedingDamagePerSec.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0xB8
+W 0x00BCF936	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	Nodes.EnemyDuelSummonEnemies.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x116
+W 0x00BDD797	440f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm12	Nodes.SplitDamageToNearbyOperators.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x467
+W 0x00BDFFAB	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	Nodes.AdvancedApplyHeal.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0xBB
+W 0x00BE64FF	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Nodes.FixedValueElementHeal.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x16F
+W 0x00BEAF98	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Nodes.HealToken.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x218
+W 0x00C77D97	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	Nodes.SummonEnemiesFollowMyRouteWithBuff.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x147
+W 0x00C7892C	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	Nodes.SummonEnemiesFollowMyRoute.public override bool Execute(Blackboard blackboard, ActionNode.SourceType sourceType, ref Context.Snapshot snapshot) { }	+0x1BC
+W 0x00CA19B3	f20f118c24a0010000	movsd qword ptr [rsp + 0x1a0], xmm1	LineEffectEmitterDynamic.private void _TryUpdateEffects() { }	+0x183
+W 0x00CC5CAB	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	AutoChessCharacterMenuPanel.private bool _RenderBattleField(Character character, Tile tile) { }	+0xCB
+W 0x00DA51D9	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	UICooperateFortressEdgePanel.private bool _EdgeMarkUpdate(UICooperateEdgePinMark mark, out Vector3 interactPos, out float angle) { }	+0xD9
+W 0x00DECA23	440f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm14	TextGradient.private void _ApplyGradient(List<UIVertex> vertexList, int start, int end) { }	+0xC3
+W 0x00DF7855	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	AdaptiveDynIllustUpdater.private DynIllustGeometryUtils.Output _CalcAdaptiveParam(DynIllustView dynIllustView, bool isCoexist) { }	+0x4B5
+W 0x00F43839	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	UIMisc.public static void DisplayGetSkin(GameObject disableTarget, string charId, string skinId, bool showSpDynIllust, Action callback) { }	+0xB9
+W 0x00F4BA84	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	UIRadarMap.protected override void OnPopulateMesh(VertexHelper vh) { }	+0x94
+W 0x00F76436	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	UIJudgeDialogWrapper.public static UIJudgeDialog OpenSimpleNoNextTimeCheckJudgeDialog(string desc, Action onPositive, string checkParam) { }	+0x226
+W 0x00F8A4E6	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	LocatableRecycleLayoutHelper.private void _OnValueChanged(Vector2 _) { }	+0xE6
+W 0x00FCCB41	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	UILineRenderer.private void _CreateBottomAndTopPoints(Vector3 p, float progress, Vector3 direction, float thickness, VertexHelper vh) { }	+0x81
+W 0x00FD40A5	f30f11b7a0010000	movss dword ptr [rdi + 0x1a0], xmm6	UISlicedCircleBar.protected override void OnPopulateMesh(VertexHelper vh) { }	+0x255
+W 0x01132D2A	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	IRuneSquadController.public static RuneSquadHomeStateBeanV1.SquadSlotCache Create(SquadItemStruct member) { }	+0x13A
+W 0x0113B85E	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	SquadFriendListItem.public void Render(SquadFriendListItem.Params param) { }	+0x15E
+W 0x011457DA	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	SquadHomeStateBean.private void _RefreshBattlePerformanceList() { }	+0xBA
+W 0x01149296	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	SquadSlotCache.public static SquadSlotCache CreateByEditMode(UISquadEditCharModel editModel) { }	+0xF6
+W 0x011E3D1B	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	SiracusaBigMapNodeViewHolder.public override void Render(SiracusaMapMapNodeViewModel viewModel) { }	+0xEB
+W 0x0123487D	0f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm2	SandboxV2CharListViewModel.public void InitViewModel(SandboxV2AdminCharSelectStateBean.OpenOption option) { }	+0x5AD
+W 0x0126AF32	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UnityEngineParticleSystemWrap.private static int _m_TriggerSubEmitter(IntPtr L) { }	+0x2E2
+W 0x0129A41D	440f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm11	SandboxV2WorkbenchMakeDialog.public void OnMakeConfirmEvent() { }	+0x18D
+W 0x012CEFC9	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	SandboxV2DungeonController.public void OnBtnSettleGameClicked() { }	+0xD9
+W 0x0132A70C	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	SandboxV2DungeonConstructNodeViewModel.private void _LoadBuildingData(SandboxV2DungeonNodeViewModel.UpdateParam updateParam) { }	+0x13C
+W 0x0132B06F	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	SandboxV2DungeonConstructNodeViewModel.private void _LoadBuildingData(SandboxV2DungeonNodeViewModel.UpdateParam updateParam) { }	+0xA9F
+W 0x013CBA02	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	SandboxV2SquadGroupPanel.private void _OnSquadSlotClick(int slotIdx) { }	+0x102
+W 0x01463BFF	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	RL02OuterBuffCurve.private void _DrawArc(VertexHelper vh, PolarPoint startPos, PolarPoint endPos) { }	+0x1F
+W 0x0146436E	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	RL02OuterBuffCurve.private void _DrawLine(VertexHelper vh, PolarPoint startPos, PolarPoint endPos) { }	+0x10E
+W 0x01541419	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	MonopolyMapNodeView.private void _InitIfNot() { }	+0x99
+W 0x0166B2CD	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	ActivityOnBattleViewModel.private void _LoadActivityModels() { }	+0x15D
+W 0x016796E5	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	HomeMainStateBean.private void _FindHomeEntryActivity(List<string> outValidActs, List<string> outUncompleteActs, List<string> outUnfinishedActs, List<string> outFinishedActs) { }	+0x125
+W 0x016A8D74	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	HomeMailStateBean.public void GetDataByIndex(int startIndex, int endIndex, ListMailBoxResponse response) { }	+0xC4
+W 0x0178D655	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	AudioManager.private AudioChannel _PlayMusicWithSyncChannel(MusicParam audioParam, AudioManager.AudioPlayOption options, AudioManager.AudioFadeParam audioFadeParam, string channelNameToSync) { }	+0x1B5
+W 0x01825D00	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	EnemyDuelRoundEndOperationView.public override void OnValueChanged(EnemyDuelRoundEndOperationProperty property) { }	+0xB0
+W 0x01838FEC	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	EnemyDuelServiceBattlePhase.public override void Enter(IEnemyDuelServiceCore core) { }	+0x14C
+W 0x0183A3C8	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	EnemyDuelServiceBattlePhase.private bool _DoBattleStart(StageData stageData, BattleStageInfo overrideStageInfo, EnemyDuelServiceParam actParam, EnemyDuelServiceBattleInfo battle, GameModeMeta gameModeMeta, bool isMulti) { }	+0x1E8
+W 0x0184F1F3	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	EnemyDuelServiceSingleMode.public void Start(SingleBattleEntry entry) { }	+0xF3
+W 0x018770FA	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	DeepSeaRPSquadHomeTechTreePluginView.private List<DeepSeaRPSquadHomeTechTreePluginView.TechInfo> _RefreshTechInfoList(SquadHomePlugin.PluginInputParams param) { }	+0x43A
+W 0x018771F7	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	DeepSeaRPSquadHomeTechTreePluginView.private List<DeepSeaRPSquadHomeTechTreePluginView.TechInfo> _RefreshTechInfoList(SquadHomePlugin.PluginInputParams param) { }	+0x537
+W 0x018B4FB6	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	RL03DetailItemView.Adapter.public override GameObject RenderView(int position, GameObject prefab, Transform parent) { }	+0xC6
+W 0x018D1210	f30f11b5a0010000	movss dword ptr [rbp + 0x1a0], xmm6	RoguelikeDungeonNodeDefaultLogic.public override void RenderCurves() { }	+0x1860
+W 0x018D12FF	f30f11bda0010000	movss dword ptr [rbp + 0x1a0], xmm7	RoguelikeDungeonNodeDefaultLogic.public override void RenderCurves() { }	+0x194F
+W 0x018EF1A5	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	RoguelikeCurve.protected override void OnPopulateMesh(VertexHelper vh) { }	+0xE5
+W 0x018F8407	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	RoguelikeMenuRelicItemData.protected override void LayoutTransitionImpl() { }	+0xD7
+W 0x0194D4D6	4889ac24a0010000	mov qword ptr [rsp + 0x1a0], rbp	RoguelikeRewardRelicSelectView.public override void Render(RoguelikeRewardItemViewModel viewModel, string topicId) { }	+0x76
+W 0x019562E6	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	RoguelikeRewardSelectView.Adapter.public override GameObject RenderView(int position, GameObject prefab, Transform parent) { }	+0xC6
+W 0x01969B01	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RoguelikeSortItemViewStruct.public static RoguelikeSortItemViewStruct CreateRecruitViewStruct(string topicId, RoguelikeItemBundle item, RoguelikeTopicItemModel itemData) { }	+0xB1
+W 0x01969D9B	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RoguelikeSortItemViewStruct.public static RoguelikeSortItemViewStruct CreateRelicViewStruct(string topicId, RoguelikeItemBundle item, RoguelikeTopicItemModel itemData) { }	+0xAB
+W 0x0196A24C	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RoguelikeSortItemViewStruct.public static RoguelikeSortItemViewStruct CreateTotemViewStruct(string topicId, RoguelikeItemBundle item, RoguelikeTopicItemModel itemData) { }	+0xAC
+W 0x0196A4AB	4889ac24a0010000	mov qword ptr [rsp + 0x1a0], rbp	RoguelikeSortItemViewStruct.public static RoguelikeSortItemViewStruct CreateTrapViewStruct(string topicId, RoguelikeItemBundle item, RoguelikeTopicItemModel itemData) { }	+0x7B
+W 0x01A093E7	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RoguelikeCommonShopController.private void _InitCommonChildView() { }	+0x1B7
+W 0x01A20BD0	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	RoguelikeSquadOnlyState.public void OverrideInParams(ref BattleInOut.InParams inParams, CommonStartBattleResponse response) { }	+0x200
+W 0x01A352C2	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	RoguelikeSquadState.private void _StartBattle(List<RequestSquadSlot> slots) { }	+0x592
+W 0x01A7FF2F	f30f11bda0010000	movss dword ptr [rbp + 0x1a0], xmm7	RL05DungeonNodeViewLogic.public override void RenderCurves() { }	+0x156F
+W 0x01A7FFA4	f30f11b5a0010000	movss dword ptr [rbp + 0x1a0], xmm6	RL05DungeonNodeViewLogic.public override void RenderCurves() { }	+0x15E4
+W 0x01A86B9A	4889ac24a0010000	mov qword ptr [rsp + 0x1a0], rbp	RL05RewardCopperSelectView.public override void Render(RoguelikeRewardItemViewModel viewModel, string topicId) { }	+0x6A
+W 0x01B244D1	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	RL02EndingFrameDiceReportViewModel.protected override bool LoadData(string topicId, RL02EndingFrameViewModel dataSource) { }	+0x131
+W 0x01B2F07F	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	RoguelikeInitBornRelicContext.public override void Load(PlayerRoguelikePendingEvent evt) { }	+0x35F
+W 0x01B2FA86	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	RoguelikeInitBornRelicContext.public override void Load(PlayerRoguelikePendingEvent evt) { }	+0xD66
+W 0x01B8101E	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	CrossAppSharePage.private void _StartShare(CrossAppSharePage.InputParam inputParam) { }	+0x1EE
+W 0x01BA44C4	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	DiagramUtils.public static CrisisV2DiagramInput CreateAchieveDiagramModel(List<int> totalScore, List<int> singleScore, List<int> maxScore, List<string> descs, bool isFast = False) { }	+0xB4
+W 0x01BA47FB	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	DiagramUtils.public static CrisisV2DiagramInput CreateBattleSettleBigDiagramModel(List<int> totalScore, List<int> currentScore, List<int> maxScore, List<string> descs, bool isFast = False) { }	+0xAB
+W 0x01BC9EB5	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	CrisisV2MapButtonView.public override void OnValueChanged(CrisisV2MapProp property) { }	+0xD5
+W 0x01BCE9AF	440f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm12	CrisisV2MapRoad.private int _DrawArc(VertexHelper vh, CrisisV2MapRoad.ArcData arcData, int vertIndex) { }	+0x1AF
+W 0x01BE80BE	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	CrisisV2RuneDetailPackView.protected override void LayoutTransitionImpl() { }	+0x20E
+W 0x01D6C0B7	0f119c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm3	CharAttrViewModel.public void LoadAttrByCardViewModel(PredefinedCharStruct charStruct, string selectedSkillId) { }	+0xC7
+W 0x01DEB39B	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	CharacterLvlupWheelItemView.private void Render(CharacterLvlupWheelItemView.Param param, bool isSelected) { }	+0x19B
+W 0x01E9458E	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	BossRushBattleFinishView.private void _Render() { }	+0xEE
+W 0x01EB6E0C	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	BossRushSquadGroupViewModel.private void _TryLoadCustomSquadFromCache(string actId, string squadId, int fixTeamCount, SquadItemStruct[] squadItemList) { }	+0x1DC
+W 0x01F5018C	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	AutoChessRoomPlayerCardView.private void _InitIfNot() { }	+0xCC
+W 0x01F65DC4	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	AutoChessSettleGameTeamViewModel.public ReportPlayerPanelInputParam GenReportPanelInputParam(string uid) { }	+0xA4
+W 0x01FD4995	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	AutoChessTeamServer.private bool _UpdateTeamStatus(Protocol protocol) { }	+0x65
+W 0x0210A7C7	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	ZoneHomeEntryActivityModel.public static IList<ZoneHomeEntryItemModel> LoadData() { }	+0x107
+W 0x0218D951	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	MainStageButtonOnMap.public override void RenderStage(StageButtonOnMapHolder holder, StageViewModel viewModel, ZoneViewModel zoneViewModel, bool isSelected) { }	+0x121
+W 0x02191BAF	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	StageActivityLoader.private ActivityStageController _InstantiateController(ActivityBasicInfo basicInfo, ActivityStageController prefab, string dynEntryId, ActivityStageDynEntry dynEntryPrefab) { }	+0x10F
+W 0x021C31A2	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	StageZoneHomeMainGroupPanel.private void _JumpToActivity(ZoneHomeEntryItemModel entryModel) { }	+0x72
+W 0x022B3849	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	ArchiveRelicModel.private void _GenerateRootItems(string archiveId, RoguelikeArchiveComponentData compData, RoguelikeTopicDetail topicDetail, PlayerRoguelikeV2.OuterData playerData) { }	+0x619
+W 0x0231A33D	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	MileStoneState.private void _SendItemRequest(string rewardId) { }	+0xBD
+W 0x0231DF53	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	CharacterUtil.public static ModifiedSharedCharData CheckAllSkillAndEquipData(SharedCharData sharedData, EvolvePhaseAndLevel maxExolvePhaseAndLevel, bool isFriend = True) { }	+0x173
+W 0x0231F06D	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	CharacterUtil.public static bool CheckAvailCharHaveUniEquipToLvlup(out string charId, out int instId) { }	+0x4CD
+W 0x0245336A	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	ActMultiV3BattleFinishViewModel.public ReportPlayerPanelInputParam GenReportPanelInputParam(bool show) { }	+0x17A
+W 0x0247DCAB	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Act9D0StageController.protected override void OnLoaded() { }	+0x8B
+W 0x02564463	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	StageDataUtil.private static ListDict<ZoneViewType, ZoneGroupViewModel> _LoadZonesViewImpl(ref Dictionary<string, ZoneViewModel> zoneModels) { }	+0x453
+W 0x025652E0	0f118c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm1	StageDataUtil.private static ListDict<ZoneViewType, ZoneGroupViewModel> _LoadZonesViewImpl(ref Dictionary<string, ZoneViewModel> zoneModels) { }	+0x12D0
+W 0x025A8275	0f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm2	Act38sideFireworkSquadPluginViewModel.public void LoadData(SquadHomePlugin.PluginInputParams param) { }	+0x495
+W 0x025A8378	0f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm2	Act38sideFireworkSquadPluginViewModel.public void LoadData(SquadHomePlugin.PluginInputParams param) { }	+0x598
+W 0x025B3F2C	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	Act29signCheckinListViewModel.private void _GenerateCheckinItemViewModels() { }	+0xEC
+W 0x025B543E	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	Act29signCheckinListView.private void _InitIfNot(ActivityCommonCheckinViewModel outerViewModel) { }	+0xBE
+W 0x0273FF30	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Act1LockBattleFinishView.private void _Init() { }	+0xB0
+W 0x0274D9D2	440f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm14	BattlePhase.public override void Enter() { }	+0x2C2
+W 0x0274DF9A	440f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm11	BattlePhase.public override void Enter() { }	+0x88A
+W 0x027E4300	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Act12sideZoneDescGroupViewModel.public void LoadData(ActivityBasicInfo actBasicInfo, List<ActivityZoneViewModel> actZoneModels) { }	+0xD0
+W 0x02877FF1	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	TeamServer.private bool _UpdateTeamStatus(Protocol protocol) { }	+0x91
+W 0x0289D319	440f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm15	ReflectCamera.private void LateUpdate() { }	+0x259
+W 0x028AFC37	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	UNMATCHED	+0xA427
+W 0x02936F48	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	UNMATCHED	+0x225E8
+W 0x02B0E0E6	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	GachaPhase0.private bool MoveNext() { }	+0xA6
+W 0x0310BDA3	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	HotUpdater.private static bool _CalcAndStoreNewPersistentResInfoToCacheFolder(HotUpdateInfo hotUpdateInfo, PersistentResInfo oldPersistentInfo, List<HotUpdateInfo.ABInfo> updateResList, List<HotUpdateInfo.ABInfo> removeResList, Dictionary<string, HotUpdateInfo.ABInfo> updatedABInfos) { }	+0x353
+W 0x0310CC29	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	HotUpdater.private static HotUpdater.CalcResult _CalcUpdateResParams(HotUpdateInfo newUpdateInfo, PersistentResInfo persistentResInfo, HotUpdater.DownloadPartEnum downloadPart) { }	+0x769
+W 0x0310CCFF	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	HotUpdater.private static HotUpdater.CalcResult _CalcUpdateResParams(HotUpdateInfo newUpdateInfo, PersistentResInfo persistentResInfo, HotUpdater.DownloadPartEnum downloadPart) { }	+0x83F
+W 0x0310D0A0	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	HotUpdater.private static HotUpdater.CalcResult _CalcUpdateResParams(HotUpdateInfo newUpdateInfo, PersistentResInfo persistentResInfo, HotUpdater.DownloadPartEnum downloadPart) { }	+0xBE0
+W 0x0310E02D	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	HotUpdater.private static void _DoLargePackExtension(HotUpdateInfo hotupdateInfo, HotUpdater.CalcResult calcRet) { }	+0x10D
+W 0x03151B31	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	BuildingAssistantModel.public static List<BuildingAssistantModel> LoadAssistants(List<int> playerAssists, Dictionary<string, PlayerBuildingChar> playerChars, Dictionary<string, RoomSlotModel> roomSlots) { }	+0x91
+W 0x03159210	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	BuildingModel.public BuildingPrivateOwnerModel LoadPrivateOwnerModelBySlot(string slotId) { }	+0x1E0
+W 0x0315E8F1	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	BuildingPrivateOwnerModel.public static List<BuildingPrivateOwnerModel> LoadPrivateOwners(ListDict<int, string> ownerInfos, Dictionary<string, PlayerBuildingChar> playerChars, Dictionary<string, RoomSlotModel> roomSlots) { }	+0xC1
+W 0x03179D5A	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	BuildingServiceUtil.public static bool SendClearChars(RoomSlotModel slotModel, Action<BuildingAssignCharResponse> onProceed) { }	+0x12A
+W 0x0317CE68	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	BuildingUtil.public static void DrawGizmosGridMap(Vector3 leftBottom, Vector3 leftTop, Vector3 rightBottom, Vector3 rightTop, GridMap map, Color wireColor, Color obstacleColor) { }	+0x78
+W 0x03188534	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	ShopInfoViewModel.public void LoadData(RoomSlotModel slotModel, PlayerBuildingShop playerShop) { }	+0xD4
+W 0x0319BAA3	f20f118424a0010000	movsd qword ptr [rsp + 0x1a0], xmm0	FurnitureEntity.public void UpdateRotateState() { }	+0xA63
+W 0x031AF87D	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	DIYTouchHandler.public void OnPointerDown(PointerEventData eventData) { }	+0x11D
+W 0x031DB898	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	DIYFilterToggleView.private void _InitSubTypeButton(ListDict<BuildingData.FurnitureSubType, DIYFilterSubTypeModel> subtypeModels) { }	+0x148
+W 0x0322C193	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	VCharacter.public override bool OnInteract() { }	+0x123
+W 0x03232920	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	VCharacter.States.CFurnitureState.SubState.public override void OnEnter(int lastState) { }	+0x80
+W 0x0324D950	0f118c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm1	VRoom.private void _UpdateCharacters(bool isInit) { }	+0x1D0
+W 0x0324E3C9	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	VRoom.private void _UpdateCharacters(bool isInit) { }	+0xC49
+W 0x0326AD33	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	VWallGenerator.private Mesh _CreateMesh(IList<Rect> bounds, Rect boundingBox) { }	+0x53
+W 0x032A814D	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	BuildingStationSelectState.public bool CheckIfCharValid(int instId) { }	+0xDD
+W 0x032CE6E6	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	BuildingStationSelectState.PreQueueSelectPlugin.public override Dictionary<int, StationCharViewModel> LoadAllCharacters(RoomSlotModel targetRoom, string currRoomTarget) { }	+0x1A6
+W 0x032CEC51	f20f118c24a0010000	movsd qword ptr [rsp + 0x1a0], xmm1	BuildingStationSelectState.PreQueueSelectPlugin.public override Dictionary<int, StationCharViewModel> LoadAllCharacters(RoomSlotModel targetRoom, string currRoomTarget) { }	+0x711
+W 0x032CF93E	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	BuildingStationSelectState.StationSelectPlugin.public override Dictionary<int, StationCharViewModel> LoadAllCharacters(RoomSlotModel targetRoom, string currRoomTarget) { }	+0x1CE
+W 0x032CFF2D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	BuildingStationSelectState.StationSelectPlugin.public override Dictionary<int, StationCharViewModel> LoadAllCharacters(RoomSlotModel targetRoom, string currRoomTarget) { }	+0x7BD
+W 0x032D0B90	f20f118da0010000	movsd qword ptr [rbp + 0x1a0], xmm1	BuildingStationSelectState.StationSelectPlugin.private void _UpdateSelectedChars(List<BuildingCharModel> selectedChars) { }	+0x650
+W 0x032F1A9F	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	BuildingStationSelectCharInfoView.public override void OnValueChanged(StationCharGroupProperty property) { }	+0x7F
+W 0x032F20C0	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	BuildingStationSelectCharInfoView.private void _OnManpowerChanged() { }	+0xA0
+W 0x033053D7	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	BuildingSMRoomCharView.public void Render(StationRoomStructModel roomModel, StationCharStructModel charSlotModel, int position, bool isEditDormLock) { }	+0x97
+W 0x033179AB	0f118c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm1	StationManageRestViewModel.private void _LoadBatchRestData() { }	+0x12B
+W 0x03317C21	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	StationManageRestViewModel.private void _LoadBatchRestData() { }	+0x3A1
+W 0x0334682B	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	BuildingShopStockView.public override void OnValueChanged(SStockViewProperty property) { }	+0x9B
+W 0x0334AC4C	440f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm11	BuildingStationManageRoomStatusView.private StationManageEditRoomQueueStructModel _GenQueueStructModel(BuildingStationManageRoomStatusView.RoomStyle roomStyle, bool isUpdateByMsg) { }	+0x11C
+W 0x03355691	f30f1193a0010000	movss dword ptr [rbx + 0x1a0], xmm2	BuildingMeetingHomeState.private void Awake() { }	+0x211
+W 0x0339E87A	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	AssistReportState.public bool CheckIfCharValid(int instId) { }	+0xDA
+W 0x03401F3B	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	AVGTutorialPanel.private static void _AlignRectTransform(Graphic currentGraphic, Graphic targetGraphic) { }	+0x7B
+W 0x0346E4EB	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	AVGReaderModeLargeBackgroundView.public void OnValueChanged(AVGReaderModePerformanceViewModel viewModel) { }	+0x29B
+W 0x0346E839	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	AVGReaderModeLargeBackgroundView.public void RenderView(Command command) { }	+0x1E9
+W 0x03488A2C	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	AVGReaderModeShowItemView.public void RebuildFromViewModel(AVGReaderModeViewModel viewModel, AVGReaderModeTextView prefab) { }	+0x13C
+W 0x034CC449	440f29ac24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm13	SceneCustomReflection.private void _UpdateReflectCamera() { }	+0xC9
+W 0x034D5544	440f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm14	HGSceneWaterEffect.private void _UpdateReflectCamera() { }	+0xC4
+W 0x034E50EF	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	SceneShaderEffect.private void _UpdateReflectCamera() { }	+0xFF
+W 0x034E7AF1	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	SceneVolumeEffect.private void Update() { }	+0x121
+W 0x035312AF	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	BakeMuzzleController.private void _UpdateMixCachePoint(Dictionary<int, BakedMountPointData> bakedMountPointDict, Dictionary<int, BakedMountPointData> mixMountPointDict) { }	+0x20F
+W 0x0359BADD	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	BattleController.ReplayController.private bool _TryExecuteOperation(BattleLogger.LogItem log, ref int indexInReadyLogsQueue) { }	+0x9D
+W 0x035E8D8B	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	RangeLineEffectByStatusHandler.protected override void _RenderLine() { }	+0x25B
+W 0x035E8E1E	4489ac24a0010000	mov dword ptr [rsp + 0x1a0], r13d	RangeLineEffectByStatusHandler.protected override void _RenderLine() { }	+0x2EE
+W 0x035E913B	4489a424a0010000	mov dword ptr [rsp + 0x1a0], r12d	RangeLineEffectByStatusHandler.protected override void _RenderLine() { }	+0x60B
+W 0x036030AF	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	Entity.protected virtual bool SetHpInternal(FP value, bool force, bool noSource, bool skipReborn) { }	+0x10F
+W 0x036187B9	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	BattleLogger.BattleStats.private void _GenerateCharList(BattleLogger.BattleStats snapShot, BattleLogger logger, ListDict<string, BattleLogger.BattleStats.CharAdvancedStats> advChars, List<BattleLogger.CharInfo> squad) { }	+0x1A9
+W 0x03618F34	0f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm3	BattleLogger.BattleStats.private void _GenerateCharList(BattleLogger.BattleStats snapShot, BattleLogger logger, ListDict<string, BattleLogger.BattleStats.CharAdvancedStats> advChars, List<BattleLogger.CharInfo> squad) { }	+0x924
+W 0x0361CE05	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	BattleVerboseRecorder.private void _OnAppliedModifier(object arg) { }	+0x8A5
+W 0x036202C0	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	BattleLogger.BattleStats.EnemyAdvancedStats.public List<object> ToList() { }	+0xA0
+W 0x036807D1	0f118c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm1	Act46SideBattleManager.private void _DealRebuildList() { }	+0x1A1
+W 0x03680C57	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Act46SideBattleManager.private void _DealRebuildList() { }	+0x627
+W 0x0370B811	4c89ac24a0010000	mov qword ptr [rsp + 0x1a0], r13	CriAtomMixerBehaviour.public override void ProcessFrame(Playable playable, FrameData info, object playerData) { }	+0x131
+W 0x03724300	440f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm12	DOTween.private static TweenerCore<Vector3, Vector3[], Vector3ArrayOptions> Shake(DOGetter<Vector3> getter, DOSetter<Vector3> setter, float duration, Vector3 strength, int vibrato, float randomness, bool ignoreZAxis, bool vectorBased, bool fadeOut, ShakeRandomnessMode randomnessMode) { }	+0x140
+W 0x0374D8F3	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	PathPlugin.public void SetOrientation(PathOptions options, Tween t, Path path, float pathPerc, Vector3 tPos, UpdateNotice updateNotice) { }	+0x93
+W 0x03786D3B	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x13DAB
+W 0x0379030B	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x1D37B
+W 0x037A07AE	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x2D81E
+W 0x037A891B	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x3598B
+W 0x037B0C9B	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x3DD0B
+W 0x037B1A29	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x3EA99
+W 0x037D996B	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x669DB
+W 0x03850E4A	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0xDDEBA
+W 0x03863768	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0xF07D8
+W 0x03896928	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x123998
+W 0x038994BA	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x12652A
+W 0x038A5588	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x1325F8
+W 0x038B07FA	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x13D86A
+W 0x038D498D	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x1619FD
+W 0x038DD9FA	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x16AA6A
+W 0x038E401A	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x17108A
+W 0x038E5048	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x1720B8
+W 0x038FF76A	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UNMATCHED	+0x18C7DA
+W 0x03B46F42	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	UNMATCHED	+0x8272
+W 0x03B47D42	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	UNMATCHED	+0x9072
+W 0x03BCE615	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x8F945
+W 0x03BCE8A0	0f118c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x8FBD0
+W 0x03BCEF25	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x90255
+W 0x03BCF1B0	0f118c24a0010000	movups xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x904E0
+W 0x03BEA339	44898424a0010000	mov dword ptr [rsp + 0x1a0], r8d	UNMATCHED	+0xAB669
+W 0x03BEA4C6	4489bc24a0010000	mov dword ptr [rsp + 0x1a0], r15d	UNMATCHED	+0xAB7F6
+W 0x03BEA64A	4489bc24a0010000	mov dword ptr [rsp + 0x1a0], r15d	UNMATCHED	+0xAB97A
+W 0x03D1BDF5	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	UNMATCHED	+0x28135
+W 0x03D1C3AE	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x286EE
+W 0x03D976AB	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x6D62B
+W 0x03DA3509	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x79489
+W 0x03DAE759	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x846D9
+W 0x03DC27E9	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	UNMATCHED	+0x98769
+W 0x03EA4B43	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x22F63
+W 0x03EA58BA	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x23CDA
+W 0x03EAF55D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x2D97D
+W 0x03EAF8F8	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x2DD18
+W 0x03F9E746	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0xBB4A6
+W 0x03F9F4A3	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xBC203
+W 0x04037B1D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x227BD
+W 0x0408DBFC	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x7889C
+W 0x040D6ADA	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0xC177A
+W 0x0410AD0D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xF59AD
+W 0x0410B3FE	f20f1185a0010000	movsd qword ptr [rbp + 0x1a0], xmm0	UNMATCHED	+0xF609E
+W 0x0410BBBF	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xF685F
+W 0x0410C1E9	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xF6E89
+W 0x0410D4AE	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xF814E
+W 0x0410DB71	f20f1185a0010000	movsd qword ptr [rbp + 0x1a0], xmm0	UNMATCHED	+0xF8811
+W 0x041148EC	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xFF58C
+W 0x041F3A1A	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x1257A
+W 0x04272C3F	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x478AF
+W 0x04273A7D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x486ED
+W 0x04273E8F	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x48AFF
+W 0x04274F5E	f20f1185a0010000	movsd qword ptr [rbp + 0x1a0], xmm0	UNMATCHED	+0x49BCE
+W 0x042751F3	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x49E63
+W 0x0427618E	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x4ADFE
+W 0x04276706	f20f1185a0010000	movsd qword ptr [rbp + 0x1a0], xmm0	UNMATCHED	+0x4B376
+W 0x0427E0DF	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x52D4F
+W 0x0427E80E	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x5347E
+W 0x04571D80	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x84D0
+W 0x0457863A	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0xED8A
+W 0x0457898E	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0xF0DE
+W 0x045FC1E0	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x2F960
+W 0x045FCD1F	0f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm3	UNMATCHED	+0x3049F
+W 0x046201F2	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x53972
+W 0x04620B0F	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	UNMATCHED	+0x5428F
+W 0x04643F1A	0f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm4	UNMATCHED	+0x7769A
+W 0x04644292	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	UNMATCHED	+0x77A12
+W 0x04644ACC	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	UNMATCHED	+0x7824C
+W 0x0468AD6C	0f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm4	UNMATCHED	+0xBE4EC
+W 0x046C937B	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	__XLua_Gen_Delegate97.public virtual Vector3 EndInvoke(IAsyncResult result) { }	+0x370B
+W 0x0470361A	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0x3D9AA
+W 0x0489F778	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	UNMATCHED	+0xA5F8
+W 0x048BC7CD	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	UNMATCHED	+0x2764D
+W 0x04937E91	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	UNMATCHED	+0xA2D11
+W 0x04967170	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0xD1FF0
+W 0x04967466	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0xD22E6
+W 0x04A03DD5	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	UNMATCHED	+0x16EC55
+W 0x04E83E9A	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	SkeletonGraphic.protected void UpdateMeshMultipleCanvasRenderers(SkeletonRendererInstruction currentInstructions, bool keepRendererCount) { }	+0xCA
+W 0x04E91346	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	MeshGenerator.public void BuildMeshWithArrays(SkeletonRendererInstruction instruction, bool updateTriangles) { }	+0x146
+W 0x050F8E41	f20f1180a0010000	movsd qword ptr [rax + 0x1a0], xmm0	UNMATCHED	+0x7A41
+W 0x051D9B71	440f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm14	CameraMotionBlur.private void OnRenderImage(RenderTexture source, RenderTexture destination) { }	+0x1F1
+W 0x051E4174	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	Fisheye.private void OnRenderImage(RenderTexture source, RenderTexture destination) { }	+0xF4
+W 0x052F6798	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	ColorGradingComponent.private Texture2D GetCurveTexture() { }	+0xA8
+W 0x052FF1FE	440f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm14	ScreenOverlay.private void OnRenderImage(RenderTexture source, RenderTexture destination) { }	+0x18E
+W 0x05516DF5	440f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm9	DynIllustGeometryUtils.private static DynIllustGeometryUtils.Output _CalculateOutputWithWorldSpaceCamera(DynIllustGeometryUtils.Input input) { }	+0x125
+W 0x05534D14	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	RuntimeAtlasManager.private void _ProcessInsertQueue() { }	+0x104
+W 0x05543C30	4c89b424a0010000	mov qword ptr [rsp + 0x1a0], r14	UIParticleRenderer.public void UpdateMesh(Camera bakeCamera) { }	+0x160
+W 0x05552D76	440f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm12	ParticleGeometryUtils.private static void _BuildParticleLine(ParticleGeometryUtils.TrailContextData context, ParticleGeometryUtils.ParticleLineParameters lineParam, List<Vector3> lineVerts) { }	+0xA6
+W 0x05553C35	f20f1185a0010000	movsd qword ptr [rbp + 0x1a0], xmm0	ParticleGeometryUtils.private static string _DrawMeshParticles(ParticleGeometryUtils.ContextData context) { }	+0x9D5
+W 0x05555544	440f29ada0010000	movaps xmmword ptr [rbp + 0x1a0], xmm13	ParticleGeometryUtils.private static void _DrawTrailMesh(ParticleGeometryUtils.TrailContextData context) { }	+0xB14
+W 0x0555641D	f20f1185a0010000	movsd qword ptr [rbp + 0x1a0], xmm0	ParticleGeometryUtils.private static void _GenerateParticleGeometry(ParticleGeometryUtils.ContextData context) { }	+0xC9D
+W 0x05557870	440f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm14	ParticleGeometryUtils.private static void _ParticleGeomBillboardFacingOrVelocity(ParticleSystemRenderSpace renderSpace, bool useRotation3D, Vector3 positionWS, Vector3 rotationEular, Vector3 velocity, Vector2 hsize, Vector3 pivot, Vector3 axisX, Vector3 axisZ, ParticleGeometryUtils.ContextData context) { }	+0xB0
+W 0x05566D9D	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	ParticleGeometryUtils.BuiltMesh.public void AddParticleTriangleOfDstMesh(ParticleGeometryUtils.ParticleTriangle baseTriangle, int offset, IList<int> indexList) { }	+0xDD
+W 0x05568A97	0f29bc24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm7	ParticleGeometryUtils.BuiltMesh.private void _PrepareData() { }	+0xA7
+W 0x05573DA2	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	ParticleGeometryUtils.BuiltMesh.public static ParticleGeometryUtils.ParticleLineParameters CreateFromParticle(int psIndex, ParticleGeometryUtils.ParticleLineParameters lineParam, float widthScale, ParticleSystem.Particle particle, ParticleGeometryUtils.TrailContextData context) { }	+0x72
+W 0x05576B8D	440f29a424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm12	ParticleGeometryUtils.BuiltMesh.public float CalcTrailLifetime(int index) { }	+0x7D
+W 0x055D35C7	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	InputActionMap.internal void ResolveBindings() { }	+0xB17
+W 0x055D644F	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	InputActionRebindingExtensions.private static void ApplyParameterOverride(InputActionState state, int mapIndex, ref InputActionRebindingExtensions.ParameterOverride[] parameterOverrides, ref int parameterOverridesCount, InputActionRebindingExtensions.ParameterOverride parameterOverride) { }	+0x19F
+W 0x055D64C3	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	InputActionRebindingExtensions.private static void ApplyParameterOverride(InputActionState state, int mapIndex, ref InputActionRebindingExtensions.ParameterOverride[] parameterOverrides, ref int parameterOverridesCount, InputActionRebindingExtensions.ParameterOverride parameterOverride) { }	+0x213
+W 0x055D9925	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	InputActionRebindingExtensions.public static Nullable<PrimitiveValue> GetParameterValue(InputAction action, string name, int bindingIndex) { }	+0x65
+W 0x055D9E5F	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	InputActionRebindingExtensions.private static void LoadBindingOverridesFromJsonInternal(IInputActionCollection2 actions, string json) { }	+0x2AF
+W 0x055DA390	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	InputActionRebindingExtensions.public static InputActionRebindingExtensions.RebindingOperation PerformInteractiveRebinding(InputAction action, int bindingIndex = -1) { }	+0xB0
+W 0x055E04E8	0f29b424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm6	InputActionMap.public static Nullable<InputActionRebindingExtensions.ParameterOverride> Find(InputActionMap actionMap, ref InputBinding binding, string parameterName, string objectRegistrationName) { }	+0x248
+W 0x055E159A	f20f118da0010000	movsd qword ptr [rbp + 0x1a0], xmm1	InputActionChange.public InputActionMap[] ToMaps() { }	+0x5FA
+W 0x055E4D9D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	InputActionRebindingExtensions.RebindingOperation.public InputActionRebindingExtensions.RebindingOperation WithTargetBinding(int bindingIndex) { }	+0x2AD
+W 0x0561E40D	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	InputBindingCompositeContext.public void AddActionMap(InputActionMap actionMap) { }	+0x11ED
+W 0x0568FD7F	4488a424a0010000	mov byte ptr [rsp + 0x1a0], r12b	InputExtensions.private void OnNativeDeviceDiscovered(int deviceId, string deviceDescriptor) { }	+0x28F
+W 0x0569FDA0	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	InputUser.private void ActivateControlSchemeInternal(int userIndex, InputControlScheme scheme) { }	+0x60
+W 0x056ABAB3	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	PlayerInput.private void InitializeActions() { }	+0xF3
+W 0x056C40CA	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	InputSystemUIInputModule.private void ProcessPointer(ref PointerModel state) { }	+0x4A
+W 0x056D9780	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	HID.public static bool ParseReportDescriptor(byte* bufferPtr, int bufferLength, ref HID.HIDDeviceDescriptor deviceDescriptor) { }	+0x1A0
+W 0x056DA2C1	f20f118424a0010000	movsd qword ptr [rsp + 0x1a0], xmm0	HID.public static bool ParseReportDescriptor(byte* bufferPtr, int bufferLength, ref HID.HIDDeviceDescriptor deviceDescriptor) { }	+0xCE1
+W 0x0581CB03	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	ColorGrading.private void RenderHDRPipeline2D(PostProcessRenderContext context) { }	+0x93
+W 0x0581DC3C	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	ColorGrading.private void RenderHDRPipeline3D(PostProcessRenderContext context) { }	+0x19C
+W 0x0581EA9B	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	ColorGrading.private void RenderLDRPipeline2D(PostProcessRenderContext context) { }	+0x7B
+W 0x0582484B	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	HGMobileBlur.public override void Render(PostProcessRenderContext context) { }	+0xCB
+W 0x05825A7C	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	MotionBlur.public override void Render(PostProcessRenderContext context) { }	+0x7C
+W 0x0583AA68	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	PostProcessLayer.private int RenderBuiltins(PostProcessRenderContext context, bool isFinalPass, int releaseTargetAfterUse = -1, int eye = -1) { }	+0x158
+W 0x05845B1F	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	PostProcessVolume.private void OnDrawGizmos() { }	+0x20F
+W 0x058885EA	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	TMP_Dropdown.public void Show() { }	+0x25A
+W 0x058D71E3	f2440f119da0010000	movsd qword ptr [rbp + 0x1a0], xmm11	TMP_TextUtilities.public static int FindNearestLink(TMP_Text text, Vector3 position, Camera camera) { }	+0x7F3
+W 0x058D7E3B	f2440f119da0010000	movsd qword ptr [rbp + 0x1a0], xmm11	TMP_TextUtilities.public static int FindNearestWord(TMP_Text text, Vector3 position, Camera camera) { }	+0x7EB
+W 0x0595F461	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	InternalStaticBatchingUtility.StaticBatcherGOSorter.private static void MakeBatch(List<MeshSubsetCombineUtility.MeshContainer> meshes, Transform staticBatchRootTransform, int batchIndex) { }	+0x1D1
+W 0x0595FA4C	0f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm0	InternalStaticBatchingUtility.StaticBatcherGOSorter.private static void MakeBatch(List<MeshSubsetCombineUtility.MeshContainer> meshes, Transform staticBatchRootTransform, int batchIndex) { }	+0x7BC
+W 0x059BA0DF	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	Input.private static void DoSendMouseEvents(int skipRTCameras) { }	+0xDF
+W 0x059DF34D	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	TextElement.private void DrawUnderlineMesh(Vector3 start, Vector3 end, ref int index, float startScale, float endScale, float maxScale, float sdfScale, Color32 underlineColor, TextGenerationSettings generationSettings, TextInfo textInfo) { }	+0xAD
+W 0x05A12944	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	Dropdown.public void Show() { }	+0x1C4
+W 0x05A1DB60	440f299424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm10	Image.private void GenerateTiledSprite(VertexHelper toFill) { }	+0xD0
+W 0x05A33631	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	IMGUIContainer.private void DoIMGUIRepaint() { }	+0xC1
+W 0x05A3440C	48898424a0010000	mov qword ptr [rsp + 0x1a0], rax	IMGUIContainer.private void DoOnGUI(Event evt, Matrix4x4 parentTransform, Rect clippingRect, bool isComputingLayout, Rect layoutSize, Action onGUIHandler, bool canAffectFocus = True) { }	+0x80C
+W 0x05A449C8	f20f118424a0010000	movsd qword ptr [rsp + 0x1a0], xmm0	VisualElement.private static void AssignStyleValues(VisualElement ve, StyleValues src) { }	+0x9F8
+W 0x05A56DBB	440f299c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm11	Page.DataSet<T>.public static bool NudgeVerticesToNewSpace(VisualElement ve, UIRenderDevice device) { }	+0xDB
+W 0x05A5739A	0f118424a0010000	movups xmmword ptr [rsp + 0x1a0], xmm0	Page.DataSet<T>.public static UIRStylePainter.ClosingInfo PaintElement(RenderChain renderChain, VisualElement ve, ref ChainBuilderStats stats) { }	+0x23A
+W 0x05A5871B	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	Page.DataSet<T>.public static UIRStylePainter.ClosingInfo PaintElement(RenderChain renderChain, VisualElement ve, ref ChainBuilderStats stats) { }	+0x15BB
+W 0x05A5AA9A	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Page.DataSet<T>.internal void ExecuteNonDrawMesh(DrawParams drawParams, float pixelsPerPoint, ref Exception immediateException) { }	+0x28A
+W 0x05A636C2	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	Allocator2D.Alloc2D.public void Free(MeshHandle mesh) { }	+0x92
+W 0x05A651A6	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	Allocator2D.Alloc2D.private void UpdateAfterGPUUsedData(MeshHandle mesh, uint vertexCount, uint indexCount, out NativeSlice<Vertex> vertexData, out NativeSlice<ushort> indexData, out ushort indexOffset, out UIRenderDevice.AllocToUpdate allocToUpdate, bool copyBackIndices) { }	+0x206
+W 0x05A6D4BA	f30f11b7a0010000	movss dword ptr [rdi + 0x1a0], xmm6	Page.DataSet<T>.private static void DepthFirstOnOpacityChanged(RenderChain renderChain, float parentCompositeOpacity, VisualElement ve, uint dirtyID, bool hierarchical, ref ChainBuilderStats stats, bool isDoingFullVertexRegeneration = False) { }	+0x15A
+W 0x05A7656D	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Page.DataSet<T>.internal void DrawTextNative(MeshGenerationContextUtils.TextParams textParams, ITextHandle handle, float pixelsPerPoint) { }	+0x17D
+W 0x05A7682C	0f298c24a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm1	Page.DataSet<T>.internal void DrawTextNative(MeshGenerationContextUtils.TextParams textParams, ITextHandle handle, float pixelsPerPoint) { }	+0x43C
+W 0x05A79197	48899c24a0010000	mov qword ptr [rsp + 0x1a0], rbx	Page.DataSet<T>.private void GenerateStencilClipEntryForSVGBackground() { }	+0xB7
+W 0x05A92386	4c89a424a0010000	mov qword ptr [rsp + 0x1a0], r12	TextElement.private void UpdateVisibleText() { }	+0x206
+W 0x05B28CE2	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	PanelTextSettings.public TextInfo Update(MeshGenerationContextUtils.TextParams parms, float pixelsPerPoint) { }	+0x2C2
+W 0x05B29F32	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	PanelTextSettings.internal static TextCoreSettings GetTextCoreSettingsForElement(VisualElement ve) { }	+0x92
+W 0x05B47690	440f298424a0010000	movaps xmmword ptr [rsp + 0x1a0], xmm8	Allocator2D.Alloc2D.private static void TessellateQuadSingleEdge(Rect rect, Tessellation.Edges smoothedEdge, Color32 color, float posZ, MeshWriteData mesh, ColorPage colorPage, ref ushort vertexCount, ref ushort indexCount, bool countOnly) { }	+0x20
+W 0x05B49040	440f298da0010000	movaps xmmword ptr [rbp + 0x1a0], xmm9	Allocator2D.Alloc2D.private static void TessellateQuad(Rect rect, Tessellation.Edges smoothedEdges, Vector2* offsets, Color32 color, float posZ, MeshWriteData mesh, ColorPage colorPage, ref ushort vertexCount, ref ushort indexCount, bool countOnly) { }	+0x9E0
+W 0x05B54686	4889b424a0010000	mov qword ptr [rsp + 0x1a0], rsi	RectTransformUtility.public static Bounds CalculateRelativeRectTransformBounds(Transform root, Transform child) { }	+0x46
+W 0x05B78A25	4889bc24a0010000	mov qword ptr [rsp + 0x1a0], rdi	Selectable.public Selectable FindSelectable(Vector3 dir) { }	+0x175
+W 0x05B7EBB9	4c89bc24a0010000	mov qword ptr [rsp + 0x1a0], r15	Text.protected override void OnPopulateMesh(VertexHelper toFill) { }	+0x79

@@ -1,0 +1,18 @@
+AsstGetVersion: v6.16.8
+AsstSetUserDir(MAA): 1
+AsstLoadResource(MAA): 1
+AsstSetStaticOption(1 /*CpuOCR*/, 'true'): 1
+AsstCreateEx -> 0x2d00abb8e10
+AsstGetUUID n= 0 uuid= 
+AsstConnected: 0
+AsstRunning: 0
+AsstSetInstanceOption(2,b'macadam') -> 0
+AsstSetInstanceOption(3,b'1') -> 1
+AsstSetInstanceOption(4,b'0') -> 1
+AsstSetInstanceOption(5,b'1') -> 1
+AsstAppendTask(StartUp) -> task_id = 1
+AsstAppendTask(Fight) -> task_id = 2
+AsstGetTasksList bytes = 2 ids = []
+callback events: 0
+  [CB msg=5] {}
+AsstDestroy OK  => 绑定链路可用

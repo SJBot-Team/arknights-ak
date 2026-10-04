@@ -1,0 +1,353 @@
+{
+ "level": "H12-4",
+ "timebase": "cost",
+ "seed": 0,
+ "meta": {
+  "source": "赛博塑料h12-4.xlsm",
+  "solver": "赛博塑料/PRTS+ 轴表",
+  "note": "费用列 B 仅在显式读数行作为锚点；空 B 行按 C 相对上一行计时。D 列绝对时间在费用条满后不可靠（见使用须知第三条），仅作提示。",
+  "coord_transform": "rc_normal",
+  "coord_transform_legal_rate": 0.955,
+  "sim_verify": {
+   "matched_ops": 0,
+   "max_frame_diff": 0,
+   "sim_result": "WIN",
+   "sim_frames": 12000
+  }
+ },
+ "ops": [
+  {
+   "op": "deploy",
+   "unit": "令",
+   "coord": "C12",
+   "dir": "上",
+   "cost": 11,
+   "foff": 15,
+   "abs_seconds": 1.5
+  },
+  {
+   "op": "deploy",
+   "unit": "蕾缪安",
+   "coord": "G9",
+   "dir": "下",
+   "cost": 20,
+   "abs_seconds": 20.0
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 4,
+   "abs_seconds": 25.133333333333333
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 5,
+   "abs_seconds": 27.166666666666668
+  },
+  {
+   "op": "skill",
+   "unit": "令",
+   "foff": 23,
+   "abs_seconds": 28.766666666666666
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "D11",
+   "dir": "左",
+   "abs_seconds": 29.0
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "G8",
+   "dir": "上",
+   "foff": 5,
+   "abs_seconds": 49.166666666666664
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 5,
+   "abs_seconds": 58.166666666666664
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "abs_seconds": 60.1
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "G11",
+   "dir": "下",
+   "abs_seconds": 83.0
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 13,
+   "abs_seconds": 95.43333333333334
+  },
+  {
+   "op": "skill",
+   "unit": "令",
+   "foff": 27,
+   "abs_seconds": 98.9
+  },
+  {
+   "op": "retreat",
+   "unit": "蕾缪安",
+   "foff": 8,
+   "abs_seconds": 99.26666666666667
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "F8",
+   "dir": "上",
+   "foff": 15,
+   "abs_seconds": 129.5
+  },
+  {
+   "op": "deploy",
+   "unit": "麒麟R夜刀",
+   "coord": "G12",
+   "dir": "上",
+   "abs_seconds": 130.0
+  },
+  {
+   "op": "retreat",
+   "unit": "麒麟R夜刀",
+   "foff": 5,
+   "abs_seconds": 130.16666666666666
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "H4",
+   "dir": "右",
+   "cost": 29,
+   "foff": 20,
+   "abs_seconds": 149.66666666666666
+  },
+  {
+   "op": "skill",
+   "unit": "令",
+   "cost": 27,
+   "foff": 15,
+   "abs_seconds": 165.5
+  },
+  {
+   "op": "deploy",
+   "unit": "U-Official",
+   "coord": "B8",
+   "dir": "左",
+   "cost": 29,
+   "abs_seconds": 167.0
+  },
+  {
+   "op": "retreat",
+   "unit": "U-Official",
+   "foff": 22,
+   "abs_seconds": 170.73333333333332
+  },
+  {
+   "op": "deploy",
+   "unit": "蕾缪安",
+   "coord": "E5",
+   "dir": "左",
+   "abs_seconds": 171.0
+  },
+  {
+   "op": "retreat",
+   "unit": "弦惊",
+   "coord": "G11",
+   "abs_seconds": 173.0
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "C4",
+   "dir": "上",
+   "cost": 18,
+   "abs_seconds": 190.0
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 12,
+   "abs_seconds": 199.4
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 14,
+   "abs_seconds": 202.46666666666667
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "D4",
+   "dir": "右",
+   "foff": 21,
+   "abs_seconds": 218.7
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 22,
+   "abs_seconds": 231.73333333333332
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 14,
+   "abs_seconds": 233.46666666666667
+  },
+  {
+   "op": "skill",
+   "unit": "令",
+   "foff": 8,
+   "abs_seconds": 234.26666666666668
+  },
+  {
+   "op": "deploy",
+   "unit": "傀影",
+   "coord": "G12",
+   "dir": "上",
+   "abs_seconds": 235.0
+  },
+  {
+   "op": "retreat",
+   "unit": "傀影",
+   "foff": 5,
+   "abs_seconds": 235.16666666666666
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "D5",
+   "dir": "左",
+   "cost": 29,
+   "abs_seconds": 239.0
+  },
+  {
+   "op": "deploy",
+   "unit": "艾拉",
+   "coord": "G12",
+   "dir": "上",
+   "abs_seconds": 244.0
+  },
+  {
+   "op": "deploy",
+   "unit": "雷鸣地雷",
+   "coord": "F10",
+   "dir": "无",
+   "abs_seconds": 245.0
+  },
+  {
+   "op": "deploy",
+   "unit": "雷鸣地雷",
+   "coord": "F11",
+   "dir": "无",
+   "abs_seconds": 251.0
+  },
+  {
+   "op": "deploy",
+   "unit": "雷鸣地雷",
+   "coord": "F12",
+   "dir": "无",
+   "abs_seconds": 257.0
+  },
+  {
+   "op": "skill",
+   "unit": "艾拉",
+   "abs_seconds": 264.0
+  },
+  {
+   "op": "skill",
+   "unit": "艾拉",
+   "abs_seconds": 265.0
+  },
+  {
+   "op": "retreat",
+   "unit": "艾拉",
+   "abs_seconds": 276.0
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 15,
+   "abs_seconds": 279.5
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "D4",
+   "dir": "左",
+   "cost": 32,
+   "foff": 18,
+   "abs_seconds": 285.6
+  },
+  {
+   "op": "skill",
+   "unit": "令",
+   "abs_seconds": 304.0
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "C4",
+   "dir": "上",
+   "foff": 26,
+   "abs_seconds": 305.8666666666667
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 20,
+   "abs_seconds": 313.6666666666667
+  },
+  {
+   "op": "retreat",
+   "unit": "弦惊",
+   "coord": "D4",
+   "abs_seconds": 328.2
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "H5",
+   "dir": "右",
+   "foff": 25,
+   "abs_seconds": 336.8333333333333
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 27,
+   "abs_seconds": 348.9
+  },
+  {
+   "op": "deploy",
+   "unit": "弦惊",
+   "coord": "G11",
+   "dir": "下",
+   "foff": 29,
+   "abs_seconds": 363.96666666666664
+  },
+  {
+   "op": "skill",
+   "unit": "令",
+   "abs_seconds": 366.1
+  },
+  {
+   "op": "skill",
+   "unit": "蕾缪安",
+   "foff": 15,
+   "abs_seconds": 380.5
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+﻿TYPE 1
+BASIC {
+ "comment_type": 12,
+ "comment_id_str": "53229679",
+ "title": "【神奇答疑课#1】梓兰、大嘴花、出怪帧与三帧索敌 - 哔哩哔哩",
+ "uid": "374873950",
+ "tribee": null,
+ "like_icon": {
+  "id": "0",
+  "start_url": "",
+  "action_url": "",
+  "end_url": ""
+ },
+ "editable": false,
+ "aigc": false,
+ "open_app_extra": "",
+ "rid_str": "53229679",
+ "article_type": 4,
+ "is_only_fans": false
+}
+N MODULES 7
+== MOD 0 MODULE_TYPE_TOP ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']
+== MOD 1 MODULE_TYPE_TITLE ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']
+== MOD 2 MODULE_TYPE_AUTHOR ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']
+== MOD 3 MODULE_TYPE_CONTENT ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']
+== MOD 4 MODULE_TYPE_COPYRIGHT ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']
+== MOD 5 MODULE_TYPE_BOTTOM ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']
+== MOD 6 MODULE_TYPE_STAT ['module_type', 'module_top', 'module_title', 'module_author', 'module_collection', 'module_dispute', 'module_topic', 'module_content', 'module_reprint_source', 'module_blocked', 'module_extend', 'module_copyright', 'module_bottom', 'module_stat', 'module_item_null', 'module_paywall', 'module_tribee']

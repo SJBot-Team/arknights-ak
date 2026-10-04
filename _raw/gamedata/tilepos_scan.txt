@@ -1,0 +1,10 @@
+Arknights-Tile-Pos: 4177 个关卡文件
+样例 a001_01-activities-a001-level_a001_01.json: 类型=dict
+  {"code": "GT-1", "height": 7, "levelId": "activities/a001/level_a001_01", "name": "日正当中", "stageId": "a001_01", "tiles": [[{"buildableType": 0, "heightType": 1, "isEnd": false, "isStart": false, "tileKey": "tile_forbidden"}, {"buildableType": 0, "heightType": 1, "isEnd": false, "isStart": false, "tileKey": "tile_forbidden"}, {"buildableType": 0, "heightType": 1, "isEnd": false, "isStart": false, "
+
+stages.json 类型=list, 长度=617
+  [{"apCost": 9, "code": "GT-1", "dropInfos": [{"dropType": "EXTRA_DROP", "itemId": "2001"}, {"dropType": "EXTRA_DROP", "itemId": "30011"}, {"dropType": "NORMAL_DROP", "itemId": "30012"}, {"dropType": "EXTRA_DROP", "itemId": "30021"}, {"dropType": "EXTRA_DROP", "itemId": "30031"}, {"dropType": "EXTRA_DROP", "itemId": "3003"}, {"dropType": "EXTRA_DROP", "itemId": "30041"}, {"dropType": "EXTRA_DROP", "itemId": "30051"}, {"dropType": "EXTRA_DROP", "itemId": "30061"}, {"dropType": "FURNITURE", "itemId
+含 'buff_template': 无
+含 'attributeModifiers': 无
+含 'blackboard': 无
+含 'enemy': ['item_index.json']

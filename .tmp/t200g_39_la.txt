@@ -1,0 +1,166 @@
+
+======================================================================
+===== locate_avatar  argcount=1 nlocals=13 co_code=320B
+  consts=['\n    Locate the exact location of the avatar on game screen. Modify the action object in place.\n    ', (0, None, None), 'Could not find a good matching avatar for ', ', with max_val: ', '未在待部署区找到干员', '。', 1, 'Found best matching avatar for ', 0, 2, 'Avatar position of ', ' found at: ', ', max_val: ', None]
+  names=['get_avatars', 'oper', 'capture_game_window', 'ratioconfig', 'OPERATOR_AREA_RATIO', 'cv2', 'matchTemplate', 'TM_CCOEFF_NORMED', 'minMaxLoc', 'imgconfig', 'TEMPLATE_MATCH_THRESHOLD', 'logger', 'error', 'ErrorToLog', 'len', 'info', 'replace_avatar', 'shape', 'SCREEN_STANDARD_SIZE', 'avatar_pos']
+  varnames=['action', 'avatars', 'oper_area_img', 'max_val', 'max_pos', 'max_avatar', 'avatar', 'matched', '_', 'val', 'pos', 'avatar_ratio_x', 'avatar_ratio_y']
+          0 LOAD_GLOBAL              0 (0)
+          2 LOAD_FAST                0 (0)
+          4 LOAD_ATTR                1 (1)
+          6 CALL_FUNCTION            1
+          8 STORE_FAST               1 (1)
+         10 LOAD_GLOBAL              2 (2)
+         12 LOAD_GLOBAL              3 (3)
+         14 LOAD_ATTR                4 (4)
+         16 CALL_FUNCTION            1
+         18 STORE_FAST               2 (2)
+         20 LOAD_CONST               1 (1)
+         22 UNPACK_SEQUENCE          3
+         24 STORE_FAST               3 (3)
+         26 STORE_FAST               4 (4)
+         28 STORE_FAST               5 (5)
+         30 LOAD_FAST                1 (1)
+         32 GET_ITER
+    >>   34 FOR_ITER                62 (to 98)
+         36 STORE_FAST               6 (6)
+         38 LOAD_GLOBAL              5 (5)
+         40 LOAD_METHOD              6 (6)
+         42 LOAD_FAST                2 (2)
+         44 LOAD_FAST                6 (6)
+         46 LOAD_GLOBAL              5 (5)
+         48 LOAD_ATTR                7 (7)
+         50 CALL_METHOD              3
+         52 STORE_FAST               7 (7)
+         54 LOAD_GLOBAL              5 (5)
+         56 LOAD_METHOD              8 (8)
+         58 LOAD_FAST                7 (7)
+         60 CALL_METHOD              1
+         62 UNPACK_SEQUENCE          4
+         64 STORE_FAST               8 (8)
+         66 STORE_FAST               9 (9)
+         68 STORE_FAST               8 (8)
+         70 STORE_FAST              10 (10)
+         72 LOAD_FAST                9 (9)
+         74 LOAD_FAST                3 (3)
+         76 COMPARE_OP               4 (>)
+         78 POP_JUMP_IF_FALSE       34
+         80 LOAD_FAST                9 (9)
+         82 LOAD_FAST               10 (10)
+         84 LOAD_FAST                6 (6)
+         86 ROT_THREE
+         88 ROT_TWO
+         90 STORE_FAST               3 (3)
+         92 STORE_FAST               4 (4)
+         94 STORE_FAST               5 (5)
+         96 JUMP_ABSOLUTE           34
+    >>   98 LOAD_FAST                3 (3)
+        100 LOAD_GLOBAL              9 (9)
+        102 LOAD_ATTR               10 (10)
+        104 COMPARE_OP               0 (<)
+        106 POP_JUMP_IF_FALSE      150
+        108 LOAD_GLOBAL             11 (11)
+        110 LOAD_METHOD             12 (12)
+        112 LOAD_CONST               2 (2)
+        114 LOAD_FAST                0 (0)
+        116 LOAD_ATTR                1 (1)
+        118 FORMAT_VALUE             0
+        120 LOAD_CONST               3 (3)
+        122 LOAD_FAST                3 (3)
+        124 FORMAT_VALUE             0
+        126 BUILD_STRING             4
+        128 CALL_METHOD              1
+        130 POP_TOP
+        132 LOAD_GLOBAL             13 (13)
+        134 LOAD_CONST               4 (4)
+        136 LOAD_FAST                0 (0)
+        138 LOAD_ATTR                1 (1)
+        140 FORMAT_VALUE             0
+        142 LOAD_CONST               5 (5)
+        144 BUILD_STRING             3
+        146 CALL_FUNCTION            1
+        148 RAISE_VARARGS            1
+    >>  150 LOAD_GLOBAL             14 (14)
+        152 LOAD_FAST                1 (1)
+        154 CALL_FUNCTION            1
+        156 LOAD_CONST               6 (6)
+        158 COMPARE_OP               4 (>)
+        160 POP_JUMP_IF_FALSE      192
+        162 LOAD_GLOBAL             11 (11)
+        164 LOAD_METHOD             15 (15)
+        166 LOAD_CONST               7 (7)
+        168 LOAD_FAST                0 (0)
+        170 LOAD_ATTR                1 (1)
+        172 FORMAT_VALUE             0
+        174 BUILD_STRING             2
+        176 CALL_METHOD              1
+        178 POP_TOP
+        180 LOAD_GLOBAL             16 (16)
+        182 LOAD_FAST                0 (0)
+        184 LOAD_ATTR                1 (1)
+        186 LOAD_FAST                5 (5)
+        188 CALL_FUNCTION            2
+        190 POP_TOP
+    >>  192 LOAD_GLOBAL              3 (3)
+        194 LOAD_ATTR                4 (4)
+        196 LOAD_CONST               8 (8)
+        198 BINARY_SUBSCR
+        200 LOAD_FAST                4 (4)
+        202 LOAD_CONST               8 (8)
+        204 BINARY_SUBSCR
+        206 LOAD_FAST                5 (5)
+        208 LOAD_ATTR               17 (17)
+        210 LOAD_CONST               6 (6)
+        212 BINARY_SUBSCR
+        214 LOAD_CONST               9 (9)
+        216 BINARY_TRUE_DIVIDE
+        218 BINARY_ADD
+        220 LOAD_GLOBAL              9 (9)
+        222 LOAD_ATTR               18 (18)
+        224 LOAD_CONST               8 (8)
+        226 BINARY_SUBSCR
+        228 BINARY_TRUE_DIVIDE
+        230 BINARY_ADD
+        232 STORE_FAST              11 (11)
+        234 LOAD_GLOBAL              3 (3)
+        236 LOAD_ATTR                4 (4)
+        238 LOAD_CONST               6 (6)
+        240 BINARY_SUBSCR
+        242 LOAD_FAST                4 (4)
+        244 LOAD_CONST               6 (6)
+        246 BINARY_SUBSCR
+        248 LOAD_FAST                5 (5)
+        250 LOAD_ATTR               17 (17)
+        252 LOAD_CONST               8 (8)
+        254 BINARY_SUBSCR
+        256 LOAD_CONST               9 (9)
+        258 BINARY_TRUE_DIVIDE
+        260 BINARY_ADD
+        262 LOAD_GLOBAL              9 (9)
+        264 LOAD_ATTR               18 (18)
+        266 LOAD_CONST               6 (6)
+        268 BINARY_SUBSCR
+        270 BINARY_TRUE_DIVIDE
+        272 BINARY_ADD
+        274 STORE_FAST              12 (12)
+        276 LOAD_FAST               11 (11)
+        278 LOAD_FAST               12 (12)
+        280 BUILD_TUPLE              2
+        282 LOAD_FAST                0 (0)
+        284 STORE_ATTR              19 (19)
+        286 LOAD_GLOBAL             11 (11)
+        288 LOAD_METHOD             15 (15)
+        290 LOAD_CONST              10 (10)
+        292 LOAD_FAST                0 (0)
+        294 LOAD_ATTR                1 (1)
+        296 FORMAT_VALUE             0
+        298 LOAD_CONST              11 (11)
+        300 LOAD_FAST                4 (4)
+        302 FORMAT_VALUE             0
+        304 LOAD_CONST              12 (12)
+        306 LOAD_FAST                3 (3)
+        308 FORMAT_VALUE             0
+        310 BUILD_STRING             6
+        312 CALL_METHOD              1
+        314 POP_TOP
+        316 LOAD_CONST              13 (13)
+        318 RETURN_VALUE

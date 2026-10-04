@@ -1,0 +1,16 @@
+ErrorToLogT
+message
+isErrorc
+selfr
+utils\error_to_log.py
+__init__
+ErrorToLog.__init__c
+__str__
+ErrorToLog.__str__N
+__name__
+__module__
+__qualname__
+boolr
+Exceptionr
+<module>
+错误

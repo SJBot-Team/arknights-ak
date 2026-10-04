@@ -1,0 +1,24 @@
+# A minimal example pack: two slots, enough to show every moving part.
+#
+# It is deliberately NOT the real growth/monetization outline. The mechanism is
+# what ships here; the 24-slot outline validated across two targets is content
+# work, and content and mechanism land on different schedules.
+name: example
+version: "1"
+description: 示例领域包 —— 演示槽位、切面裁剪、探针、依赖边与证据门槛
+
+# Dependency edges. `requires` means doing the other slot first is a
+# prerequisite for getting this one right -- it warns, it never blocks, because
+# reversing routinely cannot reach complete evidence and a hard gate walls
+# people off.
+edges:
+  - from: E01
+    to: [E02]
+    kind: requires
+
+# Thresholds hang off cells, not slots: a responsibility boundary is answered by
+# a paragraph with citations, while a core mechanism that stops short of the
+# instruction level has not been answered at all.
+facet_defaults:
+  core_mechanism:
+    threshold: managed_code

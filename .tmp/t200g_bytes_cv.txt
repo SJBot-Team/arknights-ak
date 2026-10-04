@@ -1,0 +1,78 @@
+
+===== <module> argcount=0 nlocals=0 co_code=206B
+      0 LOAD_CONST                       0   const=0
+      2 LOAD_CONST                       1   const=None
+      4 IMPORT_NAME                      0   name='numpy'
+      6 STORE_NAME                       1   name='np'
+      8 LOAD_CONST                       0   const=0
+     10 LOAD_CONST                       1   const=None
+     12 IMPORT_NAME                      2   name='math'
+     14 STORE_NAME                       2   name='math'
+     16 LOAD_CONST                       0   const=0
+     18 LOAD_CONST                       2   const=('List', 'Tuple', 'Dict', 'Any')
+     20 IMPORT_NAME                      3   name='typing'
+     22 IMPORT_FROM                      4   name='List'
+     24 STORE_NAME                       4   name='List'
+     26 IMPORT_FROM                      5   name='Tuple'
+     28 STORE_NAME                       5   name='Tuple'
+     30 IMPORT_FROM                      6   name='Dict'
+     32 STORE_NAME                       6   name='Dict'
+     34 IMPORT_FROM                      7   name='Any'
+     36 STORE_NAME                       7   name='Any'
+     38 POP_TOP                           
+     40 LOAD_CONST                       0   const=0
+     42 LOAD_CONST                       3   const=('logger',)
+     44 IMPORT_NAME                      8   name='src.logger'
+     46 IMPORT_FROM                      9   name='logger'
+     48 STORE_NAME                       9   name='logger'
+     50 POP_TOP                           
+     52 LOAD_CONST                       0   const=0
+     54 LOAD_CONST                       4   const=('ViewCalculationConfig',)
+     56 IMPORT_NAME                     10   name='src.config'
+     58 IMPORT_FROM                     11   name='ViewCalculationConfig'
+     60 STORE_NAME                      12   name='viewconfig'
+     62 POP_TOP                           
+     64 LOAD_NAME                        6   name='Dict'
+     66 LOAD_NAME                       13   name='str'
+     68 LOAD_NAME                        7   name='Any'
+     70 BUILD_TUPLE                      2
+     72 BINARY_SUBSCR                     
+     82 LOAD_NAME                       15   name='float'
+     84 LOAD_NAME                       15   name='float'
+     86 BUILD_TUPLE                      2
+     88 BINARY_SUBSCR                     
+     98 LOAD_CONST                       6   const=<code transform_map_to_view consts=24 names=18>
+    100 LOAD_CONST                       7   const='transform_map_to_view'
+    102 MAKE_FUNCTION                    4
+    104 STORE_NAME                      16   name='transform_map_to_view'
+    106 LOAD_NAME                       17   name='__name__'
+    108 LOAD_CONST                       8   const='__main__'
+    110 COMPARE_OP                       2
+    116 LOAD_CONST                       9   const=('get_map_by_code',)
+    118 IMPORT_NAME                     18   name='src.cache'
+    120 IMPORT_FROM                     19   name='get_map_by_code'
+    122 STORE_NAME                      19   name='get_map_by_code'
+    124 POP_TOP                           
+    126 LOAD_NAME                       19   name='get_map_by_code'
+    128 LOAD_CONST                      10   const='1-7'
+    130 GET_AWAITABLE                    1
+    132 STORE_NAME                      20   name='map'
+    134 LOAD_NAME                       16   name='transform_map_to_view'
+    136 LOAD_NAME                       20   name='map'
+    138 LOAD_CONST                      11   const=True
+    140 GET_AWAITABLE                    2
+    142 STORE_NAME                      21   name='res'
+    144 LOAD_NAME                        9   name='logger'
+    146 LOAD_METHOD                     22   name='info'
+    168 LOAD_NAME                       16   name='transform_map_to_view'
+    170 LOAD_NAME                       20   name='map'
+    172 LOAD_CONST                      15   const=False
+    174 GET_AWAITABLE                    2
+    176 STORE_NAME                      21   name='res'
+    178 LOAD_NAME                        9   name='logger'
+    180 LOAD_METHOD                     22   name='info'
+    202 LOAD_CONST                       1   const=None
+    204 RETURN_VALUE                      
+
+===== transform_map_to_view argcount=2 nlocals=21 co_code=718B
+  !! IndexError: list index out of range

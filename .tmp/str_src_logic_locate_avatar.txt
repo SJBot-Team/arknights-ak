@@ -1,0 +1,60 @@
+get_avatars
+replace_avatar
+Action
+capture_game_window
+logger
+GameRatioConfig
+ImageProcessingConfig
+ErrorToLog
+action
+returnc
+    Locate the exact location of the avatar on game screen. Modify the action object in place.
+    
+*Could not find a good matching avatar for 
+, with max_val: 
+Found best matching avatar for r
+Avatar position of 
+ found at: 
+, max_val: N
+operr
+ratioconfig
+OPERATOR_AREA_RATIO
+cv2Z
+matchTemplateZ
+TM_CCOEFF_NORMEDZ
+minMaxLoc
+imgconfig
+TEMPLATE_MATCH_THRESHOLDr
+errorr
+infor
+shape
+SCREEN_STANDARD_SIZE
+avatar_pos
+avatarsZ
+oper_area_img
+max_valZ
+max_posZ
+max_avatar
+avatarZ
+matched
+posZ
+avatar_ratio_xZ
+avatar_ratio_y
+logic\locate_avatar.py
+locate_avatar
+__main__
+time
+Avatar position found at: 
+, time taken: 
+ seconds
+src.cacher
+src.logic.actionr
+src.mumu.mumu_visionr
+src.loggerr
+src.configr
+src.utils.error_to_logr
+__name__r<
+start_timer
+end_timer+
+<module>
+未在待部署区找到干员

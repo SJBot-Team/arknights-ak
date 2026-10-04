@@ -1,0 +1,419 @@
+{
+ "levelId": "obt/main/level_main_01-07",
+ "source_ab": "level_main_01-07.ab",
+ "grid": {
+  "x_min": 0,
+  "x_max": 6,
+  "y_min": 0,
+  "y_max": 10
+ },
+ "width": 7,
+ "height": 11,
+ "tiles": [
+  {
+   "x": 0,
+   "y": 10,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 10,
+   "key": "tile_start"
+  },
+  {
+   "x": 2,
+   "y": 10,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 3,
+   "y": 10,
+   "key": "tile_start"
+  },
+  {
+   "x": 4,
+   "y": 10,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 5,
+   "y": 10,
+   "key": "tile_start"
+  },
+  {
+   "x": 6,
+   "y": 10,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 9,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 9,
+   "key": "tile_floor"
+  },
+  {
+   "x": 2,
+   "y": 9,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 3,
+   "y": 9,
+   "key": "tile_floor"
+  },
+  {
+   "x": 4,
+   "y": 9,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 5,
+   "y": 9,
+   "key": "tile_floor"
+  },
+  {
+   "x": 6,
+   "y": 9,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 8,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 8,
+   "key": "tile_road"
+  },
+  {
+   "x": 2,
+   "y": 8,
+   "key": "tile_wall"
+  },
+  {
+   "x": 3,
+   "y": 8,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 8,
+   "key": "tile_wall"
+  },
+  {
+   "x": 5,
+   "y": 8,
+   "key": "tile_road"
+  },
+  {
+   "x": 6,
+   "y": 8,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 7,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "key": "tile_road"
+  },
+  {
+   "x": 2,
+   "y": 7,
+   "key": "tile_wall"
+  },
+  {
+   "x": 3,
+   "y": 7,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 7,
+   "key": "tile_wall"
+  },
+  {
+   "x": 5,
+   "y": 7,
+   "key": "tile_road"
+  },
+  {
+   "x": 6,
+   "y": 7,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 6,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "key": "tile_road"
+  },
+  {
+   "x": 2,
+   "y": 6,
+   "key": "tile_wall"
+  },
+  {
+   "x": 3,
+   "y": 6,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 6,
+   "key": "tile_wall"
+  },
+  {
+   "x": 5,
+   "y": 6,
+   "key": "tile_road"
+  },
+  {
+   "x": 6,
+   "y": 6,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 5,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "key": "tile_road"
+  },
+  {
+   "x": 2,
+   "y": 5,
+   "key": "tile_wall"
+  },
+  {
+   "x": 3,
+   "y": 5,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 5,
+   "key": "tile_wall"
+  },
+  {
+   "x": 5,
+   "y": 5,
+   "key": "tile_road"
+  },
+  {
+   "x": 6,
+   "y": 5,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 4,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "key": "tile_road"
+  },
+  {
+   "x": 2,
+   "y": 4,
+   "key": "tile_road"
+  },
+  {
+   "x": 3,
+   "y": 4,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 4,
+   "key": "tile_road"
+  },
+  {
+   "x": 5,
+   "y": 4,
+   "key": "tile_road"
+  },
+  {
+   "x": 6,
+   "y": 4,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 3,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "key": "tile_wall"
+  },
+  {
+   "x": 2,
+   "y": 3,
+   "key": "tile_road"
+  },
+  {
+   "x": 3,
+   "y": 3,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 4,
+   "y": 3,
+   "key": "tile_road"
+  },
+  {
+   "x": 5,
+   "y": 3,
+   "key": "tile_wall"
+  },
+  {
+   "x": 6,
+   "y": 3,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 2,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "key": "tile_wall"
+  },
+  {
+   "x": 2,
+   "y": 2,
+   "key": "tile_road"
+  },
+  {
+   "x": 3,
+   "y": 2,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 2,
+   "key": "tile_road"
+  },
+  {
+   "x": 5,
+   "y": 2,
+   "key": "tile_wall"
+  },
+  {
+   "x": 6,
+   "y": 2,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 1,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "key": "tile_wall"
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "key": "tile_wall"
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "key": "tile_road"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "key": "tile_wall"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "key": "tile_wall"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 0,
+   "y": 0,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "key": "tile_end"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "key": "tile_forbidden"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "key": "tile_forbidden"
+  }
+ ],
+ "start": [
+  [
+   1,
+   10
+  ],
+  [
+   5,
+   10
+  ],
+  [
+   3,
+   10
+  ]
+ ],
+ "end": [
+  [
+   3,
+   0
+  ]
+ ]
+}

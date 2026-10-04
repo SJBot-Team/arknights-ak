@@ -1,0 +1,3015 @@
+{
+ "probe_time": "2026-09-28 19:11:15",
+ "target_window": "2026-09-21 ~ 2026-09-28",
+ "lapis_space": [
+  {
+   "code": -412,
+   "page": 1,
+   "message": "request was banned"
+  },
+  {
+   "code": -352,
+   "page": 2,
+   "message": "风控校验失败"
+  },
+  {
+   "code": 0,
+   "page": 3,
+   "count": 7936,
+   "videos": [
+    {
+     "bvid": "BV1v6h46UE7K",
+     "title": "【我长颈鹿懂了】短脖兔杯#2 Day2│20260923直播",
+     "created": 1790161696,
+     "length": "241:59",
+     "play": 74,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1Achx64Epi",
+     "title": "【我长颈鹿懂了】短脖兔杯#2 Day2│20260923直播",
+     "created": 1790146014,
+     "length": "274:14",
+     "play": 94,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1Wfhs6ZEgQ",
+     "title": "【洛方直】NOSL看弹幕就死│20260923直播",
+     "created": 1790144847,
+     "length": "116:32",
+     "play": 39,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1BXhx6DENr",
+     "title": "【有毒的粽子】黑流树海最没有邦的分队│20260923直播",
+     "created": 1790140165,
+     "length": "419:12",
+     "play": 89,
+     "comment": 0
+    },
+    {
+     "bvid": "BV11ahW64Emi",
+     "title": "【深蓝LXXXIV】七麻代打（可点歌）│20260923直播",
+     "created": 1790130785,
+     "length": "292:29",
+     "play": 69,
+     "comment": 0
+    },
+    {
+     "bvid": "BV16khW6SEBj",
+     "title": "【洛方直】NOSL看弹幕就死│20260923直播",
+     "created": 1790125842,
+     "length": "77:39",
+     "play": 59,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1tChn6pEh1",
+     "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+     "created": 1790094663,
+     "length": "140:36",
+     "play": 67,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1CehH67Ej6",
+     "title": "【没有-MeiYou】今日游戏│20260922直播",
+     "created": 1790086045,
+     "length": "243:24",
+     "play": 144,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1GLhH6hEhh",
+     "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+     "created": 1790085174,
+     "length": "133:47",
+     "play": 41,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1rXhE6BEb1",
+     "title": "【风前舆论汤】相识也不过擦过梦中│20260922直播",
+     "created": 1790076250,
+     "length": "220:53",
+     "play": 21,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1dfhj6REDr",
+     "title": "【我长颈鹿懂了】短脖兔杯#2 Day1│20260922直播",
+     "created": 1790065421,
+     "length": "711:16",
+     "play": 395,
+     "comment": 1
+    },
+    {
+     "bvid": "BV1H3hE6iERE",
+     "title": "【有毒的粽子】黑流树海最没有邦的分队│20260922直播",
+     "created": 1790054482,
+     "length": "497:52",
+     "play": 117,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1SRh767Efe",
+     "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+     "created": 1790051819,
+     "length": "99:39",
+     "play": 38,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1xxhk65EQa",
+     "title": "【深蓝LXXXIV】七麻代打冲豪！（可点歌）│20260922直播",
+     "created": 1790050044,
+     "length": "325:48",
+     "play": 44,
+     "comment": 0
+    },
+    {
+     "bvid": "BV17khk6YEo6",
+     "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+     "created": 1790044039,
+     "length": "104:30",
+     "play": 47,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1Ythz6LEsE",
+     "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+     "created": 1790009847,
+     "length": "53:20",
+     "play": 47,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1wah66aEAj",
+     "title": "【没有-MeiYou】放空│20260921直播",
+     "created": 1790004863,
+     "length": "304:16",
+     "play": 65,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1YWhq6gEcy",
+     "title": "【有毒的粽子】Sudoku Mansion数独银河城│20260921直播",
+     "created": 1789999356,
+     "length": "123:38",
+     "play": 32,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1johq6mEPK",
+     "title": "【黑蓑影卫攻略组】狠狠地撕咬│20260921直播",
+     "created": 1789996705,
+     "length": "154:53",
+     "play": 18,
+     "comment": 0
+    },
+    {
+     "bvid": "BV13MhB6gEvC",
+     "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+     "created": 1789990293,
+     "length": "191:12",
+     "play": 42,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1EUhv6LEVv",
+     "title": "【风前舆论汤】相识也不过擦过梦中│20260921直播",
+     "created": 1789981510,
+     "length": "242:26",
+     "play": 35,
+     "comment": 0
+    },
+    {
+     "bvid": "BV11fhi64EcQ",
+     "title": "【上大夫空乙己】萨米│20260921直播",
+     "created": 1789970325,
+     "length": "73:26",
+     "play": 52,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1yfhi64EhF",
+     "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+     "created": 1789970262,
+     "length": "65:35",
+     "play": 13,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1hkhe6hEJN",
+     "title": "【有毒的粽子】黑流树海最没有邦的分队│20260921直播",
+     "created": 1789964252,
+     "length": "295:02",
+     "play": 88,
+     "comment": 0
+    },
+    {
+     "bvid": "BV16Nhv6yEgq",
+     "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+     "created": 1789959751,
+     "length": "107:01",
+     "play": 13,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1Uthv6fEKc",
+     "title": "【深蓝LXXXIV】七麻代打冲豪！（可点歌）│20260921直播",
+     "created": 1789955674,
+     "length": "345:14",
+     "play": 38,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1rqhh6TEw3",
+     "title": "【洛方直】NOSL看弹幕就死│20260920直播",
+     "created": 1789924989,
+     "length": "151:54",
+     "play": 43,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1qkeB6oEhn",
+     "title": "【没有-MeiYou】放空│20260920直播",
+     "created": 1789918503,
+     "length": "260:37",
+     "play": 84,
+     "comment": 0
+    },
+    {
+     "bvid": "BV1BzeB6fE24",
+     "title": "【上大夫空乙己】我其实一点都不会唱歌│20260920直播",
+     "created": 1789917935,
+     "length": "221:59",
+     "play": 111,
+     "comment": 0
+    },
+    {
+     "bvid": "BV18oeB67Exj",
+     "title": "【有毒的粽子】Sudoku Mansion数独银河城│20260920直播",
+     "created": 1789912000,
+     "length": "372:55",
+     "play": 63,
+     "comment": 0
+    }
+   ]
+  }
+ ],
+ "searches": {
+  "神祇读神奇": {
+   "code": 0,
+   "kw": "神祇读神奇",
+   "page": 1,
+   "numResults": 1000,
+   "results": [
+    {
+     "bvid": "BV1cmaa6VEPR",
+     "title": "【神祇读神奇】上课回,出怪帧│20260927直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1790515998,
+     "duration": "140:33",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1xRho6DEAQ",
+     "title": "【神祇读神奇】上课回,属性，伤害等│20260926直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1790430204,
+     "duration": "271:11",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1WqFaz7EqL",
+     "title": "【千秋】神奇算出182帧开只用了一分钟",
+     "author": "MareEtCaelum",
+     "mid": 13052228,
+     "pubdate": 1770291056,
+     "duration": "4:15",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV12hat6qEAN",
+     "title": "神了",
+     "author": "efageaga",
+     "mid": 3546860797036981,
+     "pubdate": 1790488720,
+     "duration": "0:48",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV16CYi6sE6A",
+     "title": "神祇【一拜团队】vs官网求超越",
+     "author": "我想养个风云战姬",
+     "mid": 1166393428,
+     "pubdate": 1789302732,
+     "duration": "15:27",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1bPu1zSEhD",
+     "title": "牧神记太学院大考第二关对战以元气化成的神祇，同时又要提防其他士子的攻击，秦牧机灵巧妙利用规则漏洞取胜，惊呆众人。",
+     "author": "想看就看一起看",
+     "mid": 20124064,
+     "pubdate": 1752551762,
+     "duration": "0:57",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1GVeb6dEVw",
+     "title": "【神祇读神奇】上课回,失衡下的进墙，穿墙等│20260919直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1789816686,
+     "duration": "179:27",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1rzKZzYEFW",
+     "title": "【A2】神奇是我六年极限生涯认识的独一位存在",
+     "author": "MareEtCaelum",
+     "mid": 13052228,
+     "pubdate": 1750956397,
+     "duration": "5:20",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV17DNhz7E59",
+     "title": "【A2/神奇】我知道神祇是神奇所以你前面那兩個字是什麼啊",
+     "author": "那我問你這碓嗎",
+     "mid": 474752049,
+     "pubdate": 1750091985,
+     "duration": "0:46",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1Leho6NEuS",
+     "title": "【神小话录播清屏版】 2026.09.26 20点场 三角洲行动 PUBG",
+     "author": "神小话",
+     "mid": 1076218930,
+     "pubdate": 1790428929,
+     "duration": "260:45",
+     "typename": "电子竞技"
+    },
+    {
+     "bvid": "BV1scb7zmEo7",
+     "title": "【神奇】幫小飛機修正一下大師課裡說錯的地方",
+     "author": "那我問你這碓嗎",
+     "mid": 474752049,
+     "pubdate": 1755187333,
+     "duration": "1:36",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1XMhQ62EMW",
+     "title": "有一点点神",
+     "author": "该名字已存在ss",
+     "mid": 3707041885456514,
+     "pubdate": 1790388249,
+     "duration": "1:58",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV14b4k6qEXt",
+     "title": "【神祇读神奇】看看女神异闻录│20260829直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1787978807,
+     "duration": "143:53",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1cT9uYBECQ",
+     "title": "警惕与神对话 不要看",
+     "author": "尖叫然后走掉",
+     "mid": 34486806,
+     "pubdate": 1740703866,
+     "duration": "2:11",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1qReG6XE6W",
+     "title": "【神祇读神奇】上课回│20260912直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1789407804,
+     "duration": "296:36",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1uKCJYXEiz",
+     "title": "当你看网文时，发现作者没什么文化🤣",
+     "author": "账号已注销",
+     "mid": 608394208,
+     "pubdate": 1735267608,
+     "duration": "2:45",
+     "typename": "搞笑"
+    },
+    {
+     "bvid": "BV1NhYe6dEw3",
+     "title": "仙逆第159集：王林降临仙遗族，力战十三叶塔山，诛杀天赋诡异的人形雾兽，探鼎遇元神袭杀，开启终极凶兵射神车",
+     "author": "时雨漫馆",
+     "mid": 3546624523503930,
+     "pubdate": 1789294773,
+     "duration": "25:30",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1qeeF6UEE9",
+     "title": "《引路人》12，训诫救赎，崽子挨了一顿惨的。",
+     "author": "小日出不学厨艺了",
+     "mid": 476731164,
+     "pubdate": 1789556400,
+     "duration": "4:15",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1zTau63ECK",
+     "title": "【48小时看完】开局一个小破盆，开挂修仙终成神，一路杀到诸神之巅！一口气看完1-12季超级大合集！！！",
+     "author": "4k超清修复2802",
+     "mid": 1014155607,
+     "pubdate": 1790297100,
+     "duration": "2941:55",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1zShx6XEMn",
+     "title": "国外声乐老师大实话锐评《湾区升明月2026》P1 REACTION｜窦靖童 周深 单依纯 王力宏 齐豫 齐秦 李克勤 檀健次 刘惜君",
+     "author": "JKAI杰凯",
+     "mid": 7295246,
+     "pubdate": 1790308800,
+     "duration": "40:40",
+     "typename": "乐评盘点"
+    },
+    {
+     "bvid": "BV1C3bK6cEL4",
+     "title": "《百星巨人》",
+     "author": "白亦轩cc",
+     "mid": 1161544886,
+     "pubdate": 1788780216,
+     "duration": "9:33",
+     "typename": "娱乐杂谈"
+    },
+    {
+     "bvid": "BV1NmYh67E1K",
+     "title": "课堂上玩这种play，日本人胆子真大",
+     "author": "神抽点名漫说",
+     "mid": 687409357,
+     "pubdate": 1788991493,
+     "duration": "38:40",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1FEeE6kEqD",
+     "title": "一口气看爽7小时《修仙：从杂役开始》，EP 1-3 废柴觉醒逆天系统一路横推，收尽宗门美人，最终执掌合欢宗！",
+     "author": "追剧的猫猫虫",
+     "mid": 1627381144,
+     "pubdate": 1789453853,
+     "duration": "416:38",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV13ReB6SEAS",
+     "title": "（转载）The Visitor in the Pink Hills!",
+     "author": "静の澜",
+     "mid": 2137197434,
+     "pubdate": 1789912206,
+     "duration": "5:37",
+     "typename": "MMD·3D"
+    },
+    {
+     "bvid": "BV1vphU66EM1",
+     "title": "【华晨宇】火星乐园2.0｜20260925 南京站中秋场Day 1晚上场 4K超清饭拍",
+     "author": "KomorebiLam",
+     "mid": 85819087,
+     "pubdate": 1790346554,
+     "duration": "146:34",
+     "typename": "音乐现场"
+    },
+    {
+     "bvid": "BV1h77G6cEub",
+     "title": "小时候把这段当篇看",
+     "author": "别澜我a",
+     "mid": 3546599596755093,
+     "pubdate": 1782460529,
+     "duration": "1:29",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1KuaK6VEFc",
+     "title": "这是蜜月vlog吗？？？【一雨季#07】",
+     "author": "雨哥到处跑",
+     "mid": 147166910,
+     "pubdate": 1790305500,
+     "duration": "27:22",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1stYn6nEcv",
+     "title": "决战测谎仪（合集一）",
+     "author": "来自远古TK的你",
+     "mid": 1416802743,
+     "pubdate": 1788902314,
+     "duration": "17:31",
+     "typename": "科学科普"
+    },
+    {
+     "bvid": "BV1g5td6EER9",
+     "title": "《棋落谁家》第二十一集",
+     "author": "-睏睏不困-",
+     "mid": 3707050976610833,
+     "pubdate": 1788417786,
+     "duration": "4:13",
+     "typename": "亲子"
+    },
+    {
+     "bvid": "BV1SwYv6eEBL",
+     "title": "西游记原著 ，三调芭蕉扇上 水果版电影级AI史诗级大片《世德堂本•西游记》，忠实原著略加改编。【AI全民制作人】",
+     "author": "造点不一样的水果",
+     "mid": 402204512,
+     "pubdate": 1789286130,
+     "duration": "9:45",
+     "typename": "MV"
+    },
+    {
+     "bvid": "BV1uMTY6aEZv",
+     "title": "【原神一条龙全收集】挪德卡莱月之八(成就数224/月神瞳79/摩拉68)杜南纳深坑+霜月/宝箱/摩拉堆/玉帛/月之印/探索度/原神6.7一条龙",
+     "author": "你的影月月",
+     "mid": 431073645,
+     "pubdate": 1782887883,
+     "duration": "177:10",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1R7hx6yE4f",
+     "title": "1级薇斯纳vs90级魈",
+     "author": "星穹铁道深渊bot",
+     "mid": 3707019630479917,
+     "pubdate": 1790141559,
+     "duration": "2:40",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1PUht6AEL7",
+     "title": "《喜人奇妙夜3》第三季“先导片”之“直播间取组合名大赛”【刷到必看系列】",
+     "author": "B站的一个用户-",
+     "mid": 1665832462,
+     "pubdate": 1790157600,
+     "duration": "94:46",
+     "typename": "综艺"
+    },
+    {
+     "bvid": "BV1hGem6uEQR",
+     "title": "他将一个8岁小女孩囚禁3096天，性侵了700多次，意外怀孕17次，给她讲了300个成人故事！",
+     "author": "华宇影视w",
+     "mid": 690735488,
+     "pubdate": 1789735038,
+     "duration": "18:36",
+     "typename": "影视杂谈"
+    },
+    {
+     "bvid": "BV1wutC6PEfi",
+     "title": "乐在其中",
+     "author": "yakeso_",
+     "mid": 41291201,
+     "pubdate": 1788580800,
+     "duration": "4:17",
+     "typename": "同人·手书"
+    },
+    {
+     "bvid": "BV1iuaT6wEYv",
+     "title": "声乐老师锐评《湾区升明月2026》全开麦舞台（最后有彩蛋！）｜单依纯 窦靖童 齐豫 周笔畅 檀健次 陈楚生 周深 王力宏",
+     "author": "杰西卡的音乐旅行",
+     "mid": 16325233,
+     "pubdate": 1790308800,
+     "duration": "48:59",
+     "typename": "音乐现场"
+    },
+    {
+     "bvid": "BV1VRhY6YEZq",
+     "title": "琢玉（11）",
+     "author": "一只摸鱼的炸毛怪",
+     "mid": 11471314,
+     "pubdate": 1789939615,
+     "duration": "23:58",
+     "typename": "影视剪辑"
+    },
+    {
+     "bvid": "BV1L7h26KEJY",
+     "title": "啊？我也要攻略你的吗？【泡面番】",
+     "author": "圆桌动漫",
+     "mid": 654552,
+     "pubdate": 1790388000,
+     "duration": "11:49",
+     "typename": "同人·手书"
+    },
+    {
+     "bvid": "BV1jFe46oEEg",
+     "title": "【百日成王完结吐槽】我好不容易做一次国漫，你却让我输得这么彻底。",
+     "author": "在下独狼UP",
+     "mid": 1589852125,
+     "pubdate": 1789801203,
+     "duration": "6:36",
+     "typename": "特摄"
+    },
+    {
+     "bvid": "BV1dFhb69Eed",
+     "title": "EP02 极限拉扯！首现历时最长OFFER！",
+     "author": "李佳琦Austin",
+     "mid": 168064909,
+     "pubdate": 1790395200,
+     "duration": "209:35",
+     "typename": "综艺"
+    },
+    {
+     "bvid": "BV1Fuaa6uERV",
+     "title": "【血狼/京云杯】罗大哥李在赣神魔！血狼看罗哥打京云杯决赛差点暴毙，两人吓的一起狼嚎！",
+     "author": "转瞬即逝Elapse",
+     "mid": 29150978,
+     "pubdate": 1790519018,
+     "duration": "10:49",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV15Eaa6AErJ",
+     "title": "【集成战略Tab】我们做了一个很好用的肉鸽程序......",
+     "author": "里雪りあ",
+     "mid": 1684845011,
+     "pubdate": 1790520502,
+     "duration": "6:29",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1eFYq6CEwp",
+     "title": "【超时空合约】4人涤墨920 百捆伊桑",
+     "author": "王楚钦攻略组",
+     "mid": 234823387,
+     "pubdate": 1789303673,
+     "duration": "4:8",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV14jeV6BEy1",
+     "title": "【摩根和外公】根头唱歌同学怒",
+     "author": "ApocalypseVita",
+     "mid": 192087625,
+     "pubdate": 1789405166,
+     "duration": "0:52",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1sHac6fEVP",
+     "title": "【超级Q弹女妖】简单/困难模式 完全攻略🍎",
+     "author": "青霧",
+     "mid": 391768620,
+     "pubdate": 1790247600,
+     "duration": "28:18",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1BfhD69EfX",
+     "title": "【锐评】现在最火的歌都是什么鬼？真就一点进步没有？直接破防！【2026第三季度排行榜测评】",
+     "author": "特别厉害的祁奕翔",
+     "mid": 8299159,
+     "pubdate": 1790391600,
+     "duration": "24:47",
+     "typename": "音乐综合"
+    },
+    {
+     "bvid": "BV1rLez6NEw7",
+     "title": "小松绿都干了哪些坏事？",
+     "author": "晨南er",
+     "mid": 37752727,
+     "pubdate": 1789908637,
+     "duration": "2:51",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1AXhX6iEXF",
+     "title": "“不完成我的要求我就自爆！”杀戮尖塔2mod社区传奇巨婴，圈子越小神人越神",
+     "author": "麻椒土豆饼",
+     "mid": 405976930,
+     "pubdate": 1790399634,
+     "duration": "1:25",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1KRen6dEVr",
+     "title": "地堡大扫除 已通关（完结）我大概是全网首通？",
+     "author": "星灵雪枫",
+     "mid": 1465964,
+     "pubdate": 1789531200,
+     "duration": "706:26",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1Vja86dEKT",
+     "title": "英雄or小人？封号原因？",
+     "author": "玉玉__",
+     "mid": 3546781006694901,
+     "pubdate": 1790509883,
+     "duration": "9:42",
+     "typename": "娱乐粉丝创作"
+    }
+   ]
+  },
+  "【神祇读神奇】": {
+   "code": 0,
+   "kw": "【神祇读神奇】",
+   "page": 1,
+   "numResults": 1000,
+   "results": [
+    {
+     "bvid": "BV1cmaa6VEPR",
+     "title": "【神祇读神奇】上课回,出怪帧│20260927直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1790515998,
+     "duration": "140:33",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1xRho6DEAQ",
+     "title": "【神祇读神奇】上课回,属性，伤害等│20260926直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1790430204,
+     "duration": "271:11",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1GVeb6dEVw",
+     "title": "【神祇读神奇】上课回,失衡下的进墙，穿墙等│20260919直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1789816686,
+     "duration": "179:27",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV16CYi6sE6A",
+     "title": "神祇【一拜团队】vs官网求超越",
+     "author": "我想养个风云战姬",
+     "mid": 1166393428,
+     "pubdate": 1789302732,
+     "duration": "15:27",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1bPu1zSEhD",
+     "title": "牧神记太学院大考第二关对战以元气化成的神祇，同时又要提防其他士子的攻击，秦牧机灵巧妙利用规则漏洞取胜，惊呆众人。",
+     "author": "想看就看一起看",
+     "mid": 20124064,
+     "pubdate": 1752551762,
+     "duration": "0:57",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV17DNhz7E59",
+     "title": "【A2/神奇】我知道神祇是神奇所以你前面那兩個字是什麼啊",
+     "author": "那我問你這碓嗎",
+     "mid": 474752049,
+     "pubdate": 1750091985,
+     "duration": "0:46",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1qReG6XE6W",
+     "title": "【神祇读神奇】上课回│20260912直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1789407804,
+     "duration": "296:36",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV14b4k6qEXt",
+     "title": "【神祇读神奇】看看女神异闻录│20260829直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1787978807,
+     "duration": "143:53",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1kqt26rEGB",
+     "title": "【神祇读神奇】玩玩结城理│20260905直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1788601112,
+     "duration": "710:59",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV15Veh6eEnF",
+     "title": "2026.09.19 匹配0 神祇",
+     "author": "荒謬當道愛拯救之",
+     "mid": 270417945,
+     "pubdate": 1789828337,
+     "duration": "22:33",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1kBa866EYw",
+     "title": "神话里的上古圣物，居然真的藏在现实这些地方？",
+     "author": "散修墨辰",
+     "mid": 275981701,
+     "pubdate": 1790506200,
+     "duration": "7:44",
+     "typename": "GMV"
+    },
+    {
+     "bvid": "BV1qQR9BUELw",
+     "title": "【神祇读神奇/切片】关于巅峰的h14-4",
+     "author": "悠悠球0605",
+     "mid": 1861852354,
+     "pubdate": 1778322939,
+     "duration": "3:39",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1LU3u6DExt",
+     "title": "【神祇读神奇】看鹰角直播-2026.07.25直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1784987995,
+     "duration": "130:34",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV12T411n7yG",
+     "title": "【Live2D模型展示】月光照耀神祇，聆听尘世喧嚣",
+     "author": "桃弥丝Themis",
+     "mid": 331534143,
+     "pubdate": 1682211600,
+     "duration": "1:26",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV16daP6AEZ3",
+     "title": "？？神神？！",
+     "author": "一只阳间姬",
+     "mid": 3747542718221514,
+     "pubdate": 1790256385,
+     "duration": "0:26",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1L4ez6oEcc",
+     "title": "【神祇读神奇】上课回,仇恨，排序等│20260920直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1789911331,
+     "duration": "287:30",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1j4KC6KEse",
+     "title": "【神奇】上课│20260718直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1784481474,
+     "duration": "286:37",
+     "typename": "预告·资讯"
+    },
+    {
+     "bvid": "BV1wPuG6aEyY",
+     "title": "【神祇读神奇】今天习题课│20260808直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1786191231,
+     "duration": "545:27",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1y1Yk67EtZ",
+     "title": "Mind Itch - [LiteralHat]",
+     "author": "Gimimeme",
+     "mid": 3632306780637723,
+     "pubdate": 1789377126,
+     "duration": "2:25",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1C3bK6cEL4",
+     "title": "《百星巨人》",
+     "author": "白亦轩cc",
+     "mid": 1161544886,
+     "pubdate": 1788780216,
+     "duration": "9:33",
+     "typename": "娱乐杂谈"
+    },
+    {
+     "bvid": "BV1qeeF6UEE9",
+     "title": "《引路人》12，训诫救赎，崽子挨了一顿惨的。",
+     "author": "小日出不学厨艺了",
+     "mid": 476731164,
+     "pubdate": 1789556400,
+     "duration": "4:15",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1NmYh67E1K",
+     "title": "课堂上玩这种play，日本人胆子真大",
+     "author": "神抽点名漫说",
+     "mid": 687409357,
+     "pubdate": 1788991493,
+     "duration": "38:40",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1FEeE6kEqD",
+     "title": "一口气看爽7小时《修仙：从杂役开始》，EP 1-3 废柴觉醒逆天系统一路横推，收尽宗门美人，最终执掌合欢宗！",
+     "author": "追剧的猫猫虫",
+     "mid": 1627381144,
+     "pubdate": 1789453853,
+     "duration": "416:38",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1jqfbBoEfm",
+     "title": "你轻点，好疼…",
+     "author": "子吟呀",
+     "mid": 1688884027,
+     "pubdate": 1772015219,
+     "duration": "3:0",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1h77G6cEub",
+     "title": "小时候把这段当篇看",
+     "author": "别澜我a",
+     "mid": 3546599596755093,
+     "pubdate": 1782460529,
+     "duration": "1:29",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1hGem6uEQR",
+     "title": "他将一个8岁小女孩囚禁3096天，性侵了700多次，意外怀孕17次，给她讲了300个成人故事！",
+     "author": "华宇影视w",
+     "mid": 690735488,
+     "pubdate": 1789735038,
+     "duration": "18:36",
+     "typename": "影视杂谈"
+    },
+    {
+     "bvid": "BV1HNt86bEa5",
+     "title": "柯南早期尺度最大一集，竟是毛利最高光时刻 柯南早期尺度最大一集，竟是毛利最高光时刻",
+     "author": "图图教画画",
+     "mid": 1915642836,
+     "pubdate": 1788182000,
+     "duration": "9:8",
+     "typename": "MAD·AMV"
+    },
+    {
+     "bvid": "BV1wutC6PEfi",
+     "title": "乐在其中",
+     "author": "yakeso_",
+     "mid": 41291201,
+     "pubdate": 1788580800,
+     "duration": "4:17",
+     "typename": "同人·手书"
+    },
+    {
+     "bvid": "BV147ag6WEqC",
+     "title": "第17季（台配/更新中）",
+     "author": "番茄与漫波",
+     "mid": 352610954,
+     "pubdate": 1790403900,
+     "duration": "236:44",
+     "typename": "影视剪辑"
+    },
+    {
+     "bvid": "BV1SwYv6eEBL",
+     "title": "西游记原著 ，三调芭蕉扇上 水果版电影级AI史诗级大片《世德堂本•西游记》，忠实原著略加改编。【AI全民制作人】",
+     "author": "造点不一样的水果",
+     "mid": 402204512,
+     "pubdate": 1789286130,
+     "duration": "9:45",
+     "typename": "MV"
+    },
+    {
+     "bvid": "BV17kYC6uEAV",
+     "title": "【艳红少女】#1 起源 （已授权）",
+     "author": "四方根绶带",
+     "mid": 1649613005,
+     "pubdate": 1789362547,
+     "duration": "3:57",
+     "typename": "音游"
+    },
+    {
+     "bvid": "BV1Q9e46SEf3",
+     "title": "魔王派出了魅魔……",
+     "author": "不飞行的蜥蜴人",
+     "mid": 396957599,
+     "pubdate": 1789879500,
+     "duration": "2:44",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1cge56aEb1",
+     "title": "被夸是大脑斧正主没听见，好可惜",
+     "author": "斯可_",
+     "mid": 3493075389254400,
+     "pubdate": 1789395101,
+     "duration": "5:16",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1ireP68E1T",
+     "title": "极恶老大第三季预告片（中文字幕）／Helluva Boss",
+     "author": "嘎兜",
+     "mid": 1846633328,
+     "pubdate": 1789589795,
+     "duration": "2:12",
+     "typename": "预告·资讯"
+    },
+    {
+     "bvid": "BV1AmJG6tE8v",
+     "title": "多少人爽文启蒙",
+     "author": "让我栞栞omo",
+     "mid": 230059619,
+     "pubdate": 1781521875,
+     "duration": "6:50",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1iQYs6nEt3",
+     "title": "五年前小巧可爱的病娇妹妹，如今变得高大无比？！逆天新作！太变态了！！",
+     "author": "小二不呀",
+     "mid": 98366148,
+     "pubdate": 1788923713,
+     "duration": "9:34",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV11s4y1Q7wc",
+     "title": "男人从五岁就开始拔锤，可他却不知道锤子是神女所化",
+     "author": "阳一说漫",
+     "mid": 3493115744749703,
+     "pubdate": 1683810803,
+     "duration": "5:28",
+     "typename": "动漫杂谈"
+    },
+    {
+     "bvid": "BV1L7h26KEJY",
+     "title": "啊？我也要攻略你的吗？【泡面番】",
+     "author": "圆桌动漫",
+     "mid": 654552,
+     "pubdate": 1790388000,
+     "duration": "11:49",
+     "typename": "同人·手书"
+    },
+    {
+     "bvid": "BV1zKeh6uEk8",
+     "title": "【山新】时隔500天的读评论第2期！大家的留言还挺直接的嘛桀桀桀桀 =w= 开锅！",
+     "author": "山新",
+     "mid": 14082,
+     "pubdate": 1789873200,
+     "duration": "2:23",
+     "typename": "搞笑"
+    },
+    {
+     "bvid": "BV14waw6aEVd",
+     "title": "我每天给皇室公主的舌头镶珍珠，可今天这些珍珠突然自己跑了起来",
+     "author": "露露公主日记",
+     "mid": 3546970459212399,
+     "pubdate": 1790219704,
+     "duration": "2:52",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV15Eh26vEry",
+     "title": "博主哂10岁女孩的“神仙”颜值 不说话的时候美若天仙 看着一点也不像10岁 但一开口就知道还是个孩了",
+     "author": "兔兔T漫",
+     "mid": 3493258902637355,
+     "pubdate": 1790334276,
+     "duration": "4:56",
+     "typename": "小剧场"
+    },
+    {
+     "bvid": "BV1sEag6XE5C",
+     "title": "🍎第一次去大城市，半夜门外有人求饶？！",
+     "author": "RingoTsuga津贺林吾",
+     "mid": 3546929608788700,
+     "pubdate": 1790303400,
+     "duration": "6:31",
+     "typename": "配音"
+    },
+    {
+     "bvid": "BV1NXhR65Ew4",
+     "title": "【托主播的福，还是第1次看到封存的高考卷子。】  【且看且珍惜吧，当试卷公布的时候，肯定是一个惊天大雷，感觉直播间都会被封。】  教育局负责保管高考卷子的地方堪",
+     "author": "黑火漫推",
+     "mid": 294672615,
+     "pubdate": 1790424300,
+     "duration": "92:31",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1Jhe16EE6q",
+     "title": "你是哪路小神仙？来人世间是为了什么？",
+     "author": "大米饭-中西结合版",
+     "mid": 26003696,
+     "pubdate": 1790438400,
+     "duration": "6:8",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1dPhQ6JEkZ",
+     "title": "刘欢去世前最后一场公开演出!《我欲成仙》",
+     "author": "咕嘿嘿嘿咕",
+     "mid": 1047048591,
+     "pubdate": 1790390130,
+     "duration": "4:14",
+     "typename": "音乐综合"
+    },
+    {
+     "bvid": "BV1XaaP6UEa4",
+     "title": "恶魔想成为你的家人！请交出性命！阴间电视台！越南模拟恐怖APTV EP6",
+     "author": "阿力阿力栗",
+     "mid": 785025,
+     "pubdate": 1790326800,
+     "duration": "15:12",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV16veP6eEeC",
+     "title": "《花骨朵》亚细亚旷世奇才/洛天依",
+     "author": "亚细亚旷世奇才",
+     "mid": 2010145557,
+     "pubdate": 1789812000,
+     "duration": "2:51",
+     "typename": "音乐综合"
+    },
+    {
+     "bvid": "BV1p9hn61END",
+     "title": "十四年只更40集的鸽子王，居然在六部国漫里偷偷打了卡，盘点那些离谱的联动彩蛋《罗小黑战记》",
+     "author": "优菈动漫解说",
+     "mid": 1705388052,
+     "pubdate": 1790087534,
+     "duration": "3:11",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1hQYz62EcC",
+     "title": "安娜在正式比赛中对阵亲妈",
+     "author": "国象的天空",
+     "mid": 627469173,
+     "pubdate": 1789732800,
+     "duration": "13:34",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1ofhD6XEUf",
+     "title": "学术回战！拼尽全力仍无法战胜？！【小明修仙传EP10】【AI月月抢位赛】",
+     "author": "路人甲导演",
+     "mid": 44359329,
+     "pubdate": 1790386784,
+     "duration": "7:8",
+     "typename": "鬼畜剧场"
+    }
+   ]
+  },
+  "神祇读神奇 机制": {
+   "code": 0,
+   "kw": "神祇读神奇 机制",
+   "page": 1,
+   "numResults": 1000,
+   "results": [
+    {
+     "bvid": "BV1UGz6YeEGY",
+     "title": "“神祇”是什么东西？又该怎么读？读di和zhi可就错了！",
+     "author": "艺述史",
+     "mid": 702465029,
+     "pubdate": 1732873013,
+     "duration": "3:46",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1VE411j7xs",
+     "title": "【史诗幻想5】史诗难度一回合击杀神祇",
+     "author": "闪电风扇",
+     "mid": 514584606,
+     "pubdate": 1584151778,
+     "duration": "1:36",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1K8411D7Tq",
+     "title": "【斗罗大陆H5】任务 晉升一级神祇",
+     "author": "月分享",
+     "mid": 1777575232,
+     "pubdate": 1688749657,
+     "duration": "28:40",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1Usa86JE9d",
+     "title": "承接上一期，神祇瑞灵纹复引比渴血效果更佳",
+     "author": "奥奇传说手游鸭天帝",
+     "mid": 3546679340960631,
+     "pubdate": 1790507708,
+     "duration": "0:5",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1AG4y1r7CZ",
+     "title": "神祇阿瑞斯——技能定位全面解析与养成配队攻略（全是干货跟重点）",
+     "author": "透明心事_",
+     "mid": 491336147,
+     "pubdate": 1662183913,
+     "duration": "3:20",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1cmaa6VEPR",
+     "title": "【神祇读神奇】上课回,出怪帧│20260927直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1790515998,
+     "duration": "140:33",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1EY356TEcr",
+     "title": "【全民神祇】在这个世界，十八岁要是还没能成功开辟神域，连进电子厂打螺丝的资格都没有，只能去前线给深渊魔物当自助餐。开局觉醒废土神域，但是下一秒金手指就到账了！",
+     "author": "星辰开心馆",
+     "mid": 3546977178486806,
+     "pubdate": 1785067200,
+     "duration": "1895:25",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1ve7JzkEtS",
+     "title": "洛克王国万象集图鉴可获取宠物-勇者神祇（二）",
+     "author": "福建限定林北",
+     "mid": 13102839,
+     "pubdate": 1748571795,
+     "duration": "2:9",
+     "typename": "短片"
+    },
+    {
+     "bvid": "BV1bmPdzYE3n",
+     "title": "【零希沃特】古神低语，外界神祇",
+     "author": "岚瀞同学",
+     "mid": 178979873,
+     "pubdate": 1773108486,
+     "duration": "4:53",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1aQax6LEUw",
+     "title": "神祇的实力等级划分，斗罗神界的形成及演变",
+     "author": "重温斗罗",
+     "mid": 1388797417,
+     "pubdate": 1790472688,
+     "duration": "2:15",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1kzsYeQEbg",
+     "title": "神祇召唤即将上线！勇者神祇系列PVE神宠推荐！",
+     "author": "上宫零愿",
+     "mid": 404320746,
+     "pubdate": 1727171481,
+     "duration": "4:18",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1oN41157G2",
+     "title": "神祇的等级是怎样划分的吗",
+     "author": "七七极速漫剪",
+     "mid": 1087472492,
+     "pubdate": 1702267520,
+     "duration": "1:49",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1N32yB2EPV",
+     "title": "特别好评!?扮演神祇化身+卡牌对战丨 克苏鲁背景+类《桌游》丨steam新品节-独立游戏-试玩推荐 丨神祇  神启的呐喊",
+     "author": "BLANK糕子",
+     "mid": 617381,
+     "pubdate": 1766163600,
+     "duration": "3:59",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1gm42157pR",
+     "title": "塔那托斯是龙之秘境中的勇者神祇，洛克王国一共有十八位勇者神祇",
+     "author": "热血说动漫",
+     "mid": 470976493,
+     "pubdate": 1719450803,
+     "duration": "2:16",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1s8411f7kt",
+     "title": "是“神祇”不是“神祗”，词语书写要规范",
+     "author": "紫盈书声",
+     "mid": 699738567,
+     "pubdate": 1685452900,
+     "duration": "1:28",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1TomVBBEK1",
+     "title": "【神奇】讲解寻路机制，每帧走在什么位置│20251211直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1765479497,
+     "duration": "327:11",
+     "typename": "预告·资讯"
+    },
+    {
+     "bvid": "BV1WsYE6yEGG",
+     "title": "全民神祗，我靠提取万物独自升级 林渊意外降临神祇世界，苦熬十八年却只觉醒了废土神域，觉醒测试时惨遭评定F级，神域是寸草不生的荒芜焦土，受尽周围人的嘲讽轻视。",
+     "author": "落枫寒漫",
+     "mid": 3707017585756428,
+     "pubdate": 1789119636,
+     "duration": "204:40",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1U13g6rE57",
+     "title": "【全民神祇】觉醒SSS神国天赋【时间之王】，倍速基础：外界一天神国两年，可升级！",
+     "author": "星辰开心馆",
+     "mid": 3546977178486806,
+     "pubdate": 1784980800,
+     "duration": "1342:51",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1ZC411W7uF",
+     "title": "【单人桌游电台01】沉睡的神祇 | 在奇幻的开放世界中自由探索和寻宝",
+     "author": "Solo玩家老李",
+     "mid": 388306611,
+     "pubdate": 1708765951,
+     "duration": "17:42",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1HM4y1n7EH",
+     "title": "【奥奇传说手游】智慧神祇·帝释天超稳定满分68分平民攻略！",
+     "author": "账号已注销",
+     "mid": 479122431,
+     "pubdate": 1686803230,
+     "duration": "8:25",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV195Yi65EkN",
+     "title": "新种族畸变怪神明机制！指向性弃牌！【酒馆资讯】",
+     "author": "BeDarkx",
+     "mid": 12511119,
+     "pubdate": 1789306465,
+     "duration": "2:49",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1zeYt6bELD",
+     "title": "一个视频教你分清一级神、二级神、准神和幻兽",
+     "author": "胖丁的忠实歌迷",
+     "mid": 122764589,
+     "pubdate": 1788957195,
+     "duration": "1:59",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1JaH7ehEBc",
+     "title": "简单聊下宝可梦准神，二级神，一级神，幻兽",
+     "author": "最强丸子丶五六一",
+     "mid": 279943425,
+     "pubdate": 1725031654,
+     "duration": "18:8",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV16V411K71p",
+     "title": "我们历史上真的存在过“神权君授”么？【中国封神简史·历史上的官方封神活动】",
+     "author": "文化遗产搬运委员会",
+     "mid": 4477242,
+     "pubdate": 1689933600,
+     "duration": "25:27",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1m2WpzXEjA",
+     "title": "【睡神1&amp;2】沉睡的神祇/遥远的天空 TTS桌游教学",
+     "author": "滌_尘",
+     "mid": 360811508,
+     "pubdate": 1760753877,
+     "duration": "86:51",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1V3411s7XH",
+     "title": "［斗罗大陆H5］二级神祇攻略（下）",
+     "author": "凌宇若星",
+     "mid": 28400894,
+     "pubdate": 1647397818,
+     "duration": "3:28",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1tYYS6zEMF",
+     "title": "【完结】【全民神祇】开局觉醒神明模拟器，诸天文明万亿倍演化速度！",
+     "author": "星辰开心馆",
+     "mid": 3546977178486806,
+     "pubdate": 1789214400,
+     "duration": "3005:26",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV15WhD6mEV8",
+     "title": "【双语音版本】《神祇开局招募地球玩家》【有声书】【字幕】【睡前长音频】【静态动画】",
+     "author": "摸鱼听书客",
+     "mid": 3706984387840030,
+     "pubdate": 1790436600,
+     "duration": "4721:49",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1Zm41117rn",
+     "title": "奥奇手游精灵挑战：是非神祇-修尔",
+     "author": "一夜寒轩",
+     "mid": 675235539,
+     "pubdate": 1713550902,
+     "duration": "7:12",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV17Wuj6PEHD",
+     "title": "洛克人物志 勇者神祇玩法",
+     "author": "梁王萧孟诚",
+     "mid": 1080158462,
+     "pubdate": 1786586400,
+     "duration": "20:59",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1zuE46dERX",
+     "title": "【全民神祇】觉醒三十万公里垃圾场？真实的我：觉醒超越当前宇宙级唯一SSS天赋，提取万物词条，别人不要的垃圾我捡漏",
+     "author": "星辰开心馆",
+     "mid": 3546977178486806,
+     "pubdate": 1780818920,
+     "duration": "931:55",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1gN411M7Hd",
+     "title": "楚地神祇——山鬼",
+     "author": "遛萝卜的兔子",
+     "mid": 1083154893,
+     "pubdate": 1701057600,
+     "duration": "4:31",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1NT421k7ay",
+     "title": "尼克西的COC跑团小课堂（51）- 七版规则中的神祇分类",
+     "author": "尼克西Yith-ver",
+     "mid": 1589635,
+     "pubdate": 1720264816,
+     "duration": "8:29",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1McKn6RErH",
+     "title": "以太：神秘的第五元素【神秘学科普】",
+     "author": "阿瓦隆女巫",
+     "mid": 3690995879250123,
+     "pubdate": 1784282849,
+     "duration": "7:4",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1sS4y1R79M",
+     "title": "【规则教学】Sleeping Gods《沉睡的神祇》小清新开放世界跑团桌游！（feat. KS版）",
+     "author": "夏天桌游",
+     "mid": 687472412,
+     "pubdate": 1637917219,
+     "duration": "11:38",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1KHYE6mEUC",
+     "title": "众魔神是如何理解并执行“神爱世人”这一指令",
+     "author": "姜困困77",
+     "mid": 3493130462563260,
+     "pubdate": 1789118880,
+     "duration": "3:54",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1Wv411e7qq",
+     "title": "【斗罗大陆H5攻略】二级神祇最少体力进阶副本攻略！42体通关毁灭城堡",
+     "author": "Kimlio搜宝犬",
+     "mid": 90997747,
+     "pubdate": 1612383566,
+     "duration": "4:43",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1EAoGYUE7V",
+     "title": "已完结【神祇时代：从超S级神域开始】神坠大陆，这是一个人人都能成神的大陆。”叮，成功在神迹石签到，奖励超S级神域。““叮，成功在龙魔圣像签到，奖励超S种族封印",
+     "author": "漫话书声",
+     "mid": 104397604,
+     "pubdate": 1744626600,
+     "duration": "3022:38",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1iDWyz8ENj",
+     "title": "（造4新手向攻略）一个视频带你玩转神域",
+     "author": "一只颜艺猹",
+     "mid": 341470358,
+     "pubdate": 1760964764,
+     "duration": "12:36",
+     "typename": "电子竞技"
+    },
+    {
+     "bvid": "BV1qy411B7ro",
+     "title": "【128小时】《全民神祇：我献祭亿万生灵成神》这是个人人成神的世界，开局获得生命献祭能力！获得垃圾眷族，我直接献祭逆天改命！凭献祭就能无限变强，成为神上神！",
+     "author": "乙坂爱动漫",
+     "mid": 337994386,
+     "pubdate": 1717932856,
+     "duration": "8868:58",
+     "typename": "动漫杂谈"
+    },
+    {
+     "bvid": "BV18Kah6HEwN",
+     "title": "九圈难题的突破：AI采摘理论物理的低垂果实",
+     "author": "分析学爱好者",
+     "mid": 441167301,
+     "pubdate": 1790503303,
+     "duration": "6:36",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1xLho67EhK",
+     "title": "【饥荒联机】查理二阶段登场，战利品无限耐久魔杖，测试服更新一览",
+     "author": "三个蘑菇一条命",
+     "mid": 12875864,
+     "pubdate": 1790431681,
+     "duration": "4:3",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1BRhx6JER2",
+     "title": "【原神影域】7.1绝境攻炼满徽章保姆级通关攻略/焰羽追绞/囚笼冰城/头像框[破垒]",
+     "author": "苦雪的清心花凉糕Suki",
+     "mid": 1228488651,
+     "pubdate": 1790139579,
+     "duration": "38:5",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1VVhk6pEiR",
+     "title": "【毕导】这个X你肯定见过，但它其实根本不存在",
+     "author": "毕导",
+     "mid": 254463269,
+     "pubdate": 1790047687,
+     "duration": "15:3",
+     "typename": "科学科普"
+    },
+    {
+     "bvid": "BV1AhaA68EBc",
+     "title": "新种族新角色还有全新的单机职业？月圆之夜九周年庆它来啦！",
+     "author": "天天卡牌",
+     "mid": 10462362,
+     "pubdate": 1790326800,
+     "duration": "3:36",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV1c7hX6hEgh",
+     "title": "【萌黄一槽】宇智波佐助[篮球之星]全技能爆料！教练，他开写轮眼打球！",
+     "author": "火影忍者手游情报君",
+     "mid": 441897078,
+     "pubdate": 1790413200,
+     "duration": "3:58",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1JDhq6QEtD",
+     "title": "你有没有想过，万米深海底下藏着人类根本理解不了的东西？",
+     "author": "漫小葉",
+     "mid": 3691001336039437,
+     "pubdate": 1789993167,
+     "duration": "18:20",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1Pwht6eESz",
+     "title": "若娜瓦解放天钉，“圣土化”是什么？",
+     "author": "爱音大胜利",
+     "mid": 2340914,
+     "pubdate": 1790156919,
+     "duration": "1:36",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV12uh16QEvh",
+     "title": "若娜瓦人设崩塌？冰神反抗天理的动机？【原神7.1人设分析】",
+     "author": "归塘鲤",
+     "mid": 3546715097401521,
+     "pubdate": 1790317874,
+     "duration": "11:23",
+     "typename": "手机游戏"
+    },
+    {
+     "bvid": "BV1rW4y1S7Gj",
+     "title": "尘世七执政，追寻七种理念",
+     "author": "哈基漂噢",
+     "mid": 1394483052,
+     "pubdate": 1687519312,
+     "duration": "2:27",
+     "typename": "GMV"
+    }
+   ]
+  },
+  "Lapis___ 神祇": {
+   "code": 0,
+   "kw": "Lapis___ 神祇",
+   "page": 1,
+   "numResults": 1000,
+   "results": [
+    {
+     "bvid": "BV1Eo4y1t7Qj",
+     "title": "Lapis Philosophorum特效钢琴版，很好听的曲子，值得一听！",
+     "author": "光点钢琴师",
+     "mid": 1032500159,
+     "pubdate": 1683026280,
+     "duration": "1:29",
+     "typename": "演奏"
+    },
+    {
+     "bvid": "BV1cmaa6VEPR",
+     "title": "【神祇读神奇】上课回,出怪帧│20260927直播",
+     "author": "Lapis___",
+     "mid": 592610,
+     "pubdate": 1790515998,
+     "duration": "140:33",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1J3cuenEKJ",
+     "title": "【皮肤杂货铺】第144期：神祇系列",
+     "author": "嗷嗷小耗子",
+     "mid": 14316246,
+     "pubdate": 1736678100,
+     "duration": "9:32",
+     "typename": "电子竞技"
+    },
+    {
+     "bvid": "BV1a2h46yETd",
+     "title": "科尔努诺斯究竟是谁？消失的凯尔特神祇",
+     "author": "荒野系漫游指南",
+     "mid": 19645005,
+     "pubdate": 1790164603,
+     "duration": "13:53",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1VE411j7xs",
+     "title": "【史诗幻想5】史诗难度一回合击杀神祇",
+     "author": "闪电风扇",
+     "mid": 514584606,
+     "pubdate": 1584151778,
+     "duration": "1:36",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1bmPdzYE3n",
+     "title": "【零希沃特】古神低语，外界神祇",
+     "author": "岚瀞同学",
+     "mid": 178979873,
+     "pubdate": 1773108486,
+     "duration": "4:53",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1uX4y1F7dZ",
+     "title": "古埃及·神明之《Ptah.普塔》創造之神，孟菲斯主神，工匠的守護神",
+     "author": "Ashoka_西域妙音",
+     "mid": 433392245,
+     "pubdate": 1628758801,
+     "duration": "3:39",
+     "typename": "乐评盘点"
+    },
+    {
+     "bvid": "BV1gW4y117vE",
+     "title": "《战神4》攻略《矮人差事：孔雀石里的神祇》",
+     "author": "斥候公社",
+     "mid": 31654989,
+     "pubdate": 1659272328,
+     "duration": "27:37",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1Bu4y1Q73x",
+     "title": "Lapis 唱歌！",
+     "author": "HHCQ口",
+     "mid": 3537108404799743,
+     "pubdate": 1692526832,
+     "duration": "1:34",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1X5411h7oh",
+     "title": "【1080P 60FPS】Lapis Lazuli（夜明け前より瑠璃色な PV）",
+     "author": "墨烟花",
+     "mid": 591584,
+     "pubdate": 1595059087,
+     "duration": "2:16",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1bJCsBZEgk",
+     "title": "✨全球神祇时代🔥【完结文】全球神祇流小说，AI有声小说一口气看完",
+     "author": "墨海云游",
+     "mid": 3546776539761015,
+     "pubdate": 1763276400,
+     "duration": "6256:40",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1wjLxzaEkg",
+     "title": "【我的世界】《创世神的传说：神祇再临》新版BOSS展示01",
+     "author": "迷途的金丝雀",
+     "mid": 6159953,
+     "pubdate": 1745385260,
+     "duration": "5:49",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1fT4y167d6",
+     "title": "艾尔登法环狩猎神祇圣印记和神皮祷告书获取！！！",
+     "author": "-时间孤影-",
+     "mid": 318085691,
+     "pubdate": 1651981379,
+     "duration": "2:45",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1qGLK6pECC",
+     "title": "节奏大师 Lapis（难度比较困难）",
+     "author": "喜欢节奏舞蹈优雅萌可",
+     "mid": 472978303,
+     "pubdate": 1779124109,
+     "duration": "2:50",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1JG4y1d7ch",
+     "title": "【epic周免评测】晦暗神祇好玩吗？？？",
+     "author": "无敌游戏反诈大王",
+     "mid": 14434129,
+     "pubdate": 1669169642,
+     "duration": "4:58",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV16REgzcEmm",
+     "title": "【快点】《神祇之瞳》by仄黎第1～200话",
+     "author": "奈羲白黑",
+     "mid": 42462446,
+     "pubdate": 1746968334,
+     "duration": "620:31",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1zEto6eEmK",
+     "title": "众神林立的广阔世界里，各方神祇争夺信仰与领地，凡人在其中挣扎谋求成神之路。",
+     "author": "五花肉听书",
+     "mid": 9555315,
+     "pubdate": 1788441987,
+     "duration": "10026:39",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1ZC411W7uF",
+     "title": "【单人桌游电台01】沉睡的神祇 | 在奇幻的开放世界中自由探索和寻宝",
+     "author": "Solo玩家老李",
+     "mid": 388306611,
+     "pubdate": 1708765951,
+     "duration": "17:42",
+     "typename": "桌游棋牌"
+    },
+    {
+     "bvid": "BV18h411p7b7",
+     "title": "【宇宙小子歌曲】Lapis Lazuli 天青石碧琉璃 原配版",
+     "author": "糖糖倒过来还是糖糖",
+     "mid": 1011734790,
+     "pubdate": 1632952846,
+     "duration": "0:30",
+     "typename": "动画综合"
+    },
+    {
+     "bvid": "BV1nKuGzgEhi",
+     "title": "勇者神祇毕业！",
+     "author": "保罗串章鱼",
+     "mid": 1235053953,
+     "pubdate": 1752244773,
+     "duration": "3:25",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1tYYS6zEMF",
+     "title": "【完结】【全民神祇】开局觉醒神明模拟器，诸天文明万亿倍演化速度！",
+     "author": "星辰开心馆",
+     "mid": 3546977178486806,
+     "pubdate": 1789214400,
+     "duration": "3005:26",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1nbE56sEh8",
+     "title": "【水子哥】【艾特尔：神祇之路】奇幻4X即时策略游戏",
+     "author": "水子哥的综合游戏室",
+     "mid": 30998094,
+     "pubdate": 1780972449,
+     "duration": "35:20",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1N32yB2EPV",
+     "title": "特别好评!?扮演神祇化身+卡牌对战丨 克苏鲁背景+类《桌游》丨steam新品节-独立游戏-试玩推荐 丨神祇  神启的呐喊",
+     "author": "BLANK糕子",
+     "mid": 617381,
+     "pubdate": 1766163600,
+     "duration": "3:59",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1YZDXYrE6Y",
+     "title": "【中二节奏】Lapis   MASTER 13  ALL JUSTICE  1009921",
+     "author": "Benren_9961",
+     "mid": 60109218,
+     "pubdate": 1731040200,
+     "duration": "2:29",
+     "typename": "音游"
+    },
+    {
+     "bvid": "BV1tafLYVEJm",
+     "title": "我认为Lapis比较重要的几个片段",
+     "author": "Lapis520",
+     "mid": 2008252960,
+     "pubdate": 1737670062,
+     "duration": "19:41",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1jh411U75q",
+     "title": "【斗罗大陆H5】65行动力通关三级神祇进阶二级神祇攻略",
+     "author": "Kimlio搜宝犬",
+     "mid": 90997747,
+     "pubdate": 1618179615,
+     "duration": "44:22",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1UYgX6oEh3",
+     "title": "[phigros/自制] 世界湮灭,苍星石仍会闪耀. Lapis AT Lv.17",
+     "author": "乐普14_0413",
+     "mid": 525188000,
+     "pubdate": 1785084481,
+     "duration": "2:15",
+     "typename": "音游"
+    },
+    {
+     "bvid": "BV1Ha41137kU",
+     "title": "纸片马里奥：折纸国王，冰神祇山，北极熊大BOSS",
+     "author": "蓝胖子电玩",
+     "mid": 393536342,
+     "pubdate": 1662112700,
+     "duration": "19:27",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1e8NjzvEqD",
+     "title": "【快点】《神祇之瞳》by仄黎第201话～301（完）",
+     "author": "奈羲白黑",
+     "mid": 42462446,
+     "pubdate": 1750235559,
+     "duration": "332:29",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1LnyKYfEKA",
+     "title": "神祇集体回归 必拿的神祇 我终于得到神宠赫拉了",
+     "author": "孔常糍",
+     "mid": 240967024,
+     "pubdate": 1729209600,
+     "duration": "1:43",
+     "typename": "网络游戏"
+    },
+    {
+     "bvid": "BV1wRHCerE5A",
+     "title": "【博德之门3】容易忽视的神祇",
+     "author": "海德Chaotic",
+     "mid": 20993100,
+     "pubdate": 1725272514,
+     "duration": "6:26",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1LQRhBnEp5",
+     "title": "神明留学指南：当古希腊众神降临现代校园？漫画《神祇留学记》爆笑开课～",
+     "author": "游蔓官方",
+     "mid": 3546617112168620,
+     "pubdate": 1778118224,
+     "duration": "0:47",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV11YEC65EN9",
+     "title": "类英雄无敌+战锤的4x策略游戏《艾特尔：神祇之路》实况解说",
+     "author": "策略君脱哥",
+     "mid": 101653196,
+     "pubdate": 1781244473,
+     "duration": "7:49",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1eZgt6YE5M",
+     "title": "[44小时完结]全民神祇：开局拜冷门神，侍神度直接拉满",
+     "author": "咸鱼的有声书屋",
+     "mid": 1786025138,
+     "pubdate": 1785420600,
+     "duration": "3397:53",
+     "typename": "国产原创相关"
+    },
+    {
+     "bvid": "BV1Evbx6jExV",
+     "title": "《拉之晨光》古埃及太阳神拉赞歌｜GPT-6 Astra艺术重建｜4K中英字幕",
+     "author": "电光耗子钢蛋",
+     "mid": 512163912,
+     "pubdate": 1788712883,
+     "duration": "3:6",
+     "typename": "绘画"
+    },
+    {
+     "bvid": "BV1PA7R6rECo",
+     "title": "这也有人翻？五人跳大神 来颂 天照大御神-AMATERAS SYSTEM-",
+     "author": "真皮pipi",
+     "mid": 16045722,
+     "pubdate": 1780563900,
+     "duration": "4:51",
+     "typename": "翻唱"
+    },
+    {
+     "bvid": "BV1iS4y1179Q",
+     "title": "【艾尔登法环】狩猎神祇圣印记&amp;神皮祷告书获得方法",
+     "author": "戸山アリサ",
+     "mid": 13343601,
+     "pubdate": 1649068251,
+     "duration": "1:20",
+     "typename": "单机游戏"
+    },
+    {
+     "bvid": "BV1yR4y1S7V8",
+     "title": "[kalpa] Lapis (Ice Respect Remix) / feat. Masahiro &quot;Godspeed&quot; Aoki",
+     "author": "账号已注销",
+     "mid": 112953180,
+     "pubdate": 1671844287,
+     "duration": "2:43",
+     "typename": "原创音乐"
+    },
+    {
+     "bvid": "BV1qs411f7Y2",
+     "title": "【初音ミク】Lapis Lazuli",
+     "author": "樱花树下的爱子",
+     "mid": 290495,
+     "pubdate": 1376053749,
+     "duration": "4:20",
+     "typename": "VOCALOID·UTAU"
+    },
+    {
+     "bvid": "BV1jDdqBuEfd",
+     "title": "【全民神祇】穿越全民拜神变强的世界，专拜冷门神祇，一炷香让君财神侍神度达50%，还拜阎王获权，接下S级祈雨任务，震惊全校与城主。",
+     "author": "小白追漫丶",
+     "mid": 14404564,
+     "pubdate": 1776473100,
+     "duration": "2439:40",
+     "typename": "动态漫.广播剧"
+    },
+    {
+     "bvid": "BV12Ee164E1P",
+     "title": "【双面怪盗凛丨角色曲 PV】Two Faces",
+     "author": "MuseDash_喵斯快跑",
+     "mid": 269396974,
+     "pubdate": 1789808400,
+     "duration": "3:0",
+     "typename": "音游"
+    },
+    {
+     "bvid": "BV1ySaP6TEP9",
+     "title": "Kaise Hua _ Kabir Singh _ Shahid K_ Kiara A_ Sandeep V _ Vishal Mishra_ 史上最佳歌曲",
+     "author": "TheRed_bili",
+     "mid": 347924226,
+     "pubdate": 1790261487,
+     "duration": "4:15",
+     "typename": "原创音乐"
+    },
+    {
+     "bvid": "BV17pha6iErq",
+     "title": "【精神控制男】【粉丝定制】使用Geass控制吉诺也成为自己的骑士，坐拥双骑，终得三位绝对忠诚的部下（id：早乙女呱呱）",
+     "author": "阿波罗ooo",
+     "mid": 2057642220,
+     "pubdate": 1789921956,
+     "duration": "4:0",
+     "typename": "影视剪辑"
+    },
+    {
+     "bvid": "BV1TGh16DEuP",
+     "title": "到底皮里·雷斯的地图500年前，是怎么画出南极？",
+     "author": "乾洺侃神话",
+     "mid": 3707082559719776,
+     "pubdate": 1790337960,
+     "duration": "4:57",
+     "typename": "搞笑"
+    },
+    {
+     "bvid": "BV1kse36sEUj",
+     "title": "《花骨朵》Official Music Video",
+     "author": "亚细亚旷世奇才",
+     "mid": 2010145557,
+     "pubdate": 1790413200,
+     "duration": "1:43",
+     "typename": "音乐综合"
+    },
+    {
+     "bvid": "BV1C4th6AEAt",
+     "title": "『Il Risveglio Degli Dei』一些小剧场",
+     "author": "与你娘做一个安家的钱",
+     "mid": 372293828,
+     "pubdate": 1788196441,
+     "duration": "31:4",
+     "typename": "音乐现场"
+    },
+    {
+     "bvid": "BV1QC886JEej",
+     "title": "【Product/熟肉】Crystal Claire - Episode 2",
+     "author": "沉迷吸狐无法自拔",
+     "mid": 521003538,
+     "pubdate": 1787499879,
+     "duration": "11:10",
+     "typename": "日常"
+    },
+    {
+     "bvid": "BV1k54U63E4x",
+     "title": "Crystal Claire - Episode 2",
+     "author": "----黄瓜瓜----",
+     "mid": 3493143135652067,
+     "pubdate": 1788019444,
+     "duration": "11:9",
+     "typename": "人文历史"
+    },
+    {
+     "bvid": "BV1Uwa46BE61",
+     "title": "【Phigros】Entrance to the Chaos - 打打だいず vs. siromaru 【Official Audio】",
+     "author": "打打だいず_D-D-Dice",
+     "mid": 3493121201539886,
+     "pubdate": 1790510400,
+     "duration": "2:26",
+     "typename": "音游"
+    },
+    {
+     "bvid": "BV1WhaA6hEJT",
+     "title": "《京剧猫》+《叶罗丽》团队新作！《甲武神》这部动画好看吗？",
+     "author": "二啦不二",
+     "mid": 293673997,
+     "pubdate": 1790251200,
+     "duration": "6:48",
+     "typename": "动漫杂谈"
+    }
+   ]
+  }
+ },
+ "candidates": [
+  {
+   "bvid": "BV1cmaa6VEPR",
+   "title": "【神祇读神奇】上课回,出怪帧│20260927直播",
+   "created": 1790515998,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "140:33",
+   "src": "search:神祇读神奇"
+  },
+  {
+   "bvid": "BV1Usa86JE9d",
+   "title": "承接上一期，神祇瑞灵纹复引比渴血效果更佳",
+   "created": 1790507708,
+   "author": "奥奇传说手游鸭天帝",
+   "mid": 3546679340960631,
+   "length": "0:5",
+   "src": "search:神祇读神奇 机制"
+  },
+  {
+   "bvid": "BV1aQax6LEUw",
+   "title": "神祇的实力等级划分，斗罗神界的形成及演变",
+   "created": 1790472688,
+   "author": "重温斗罗",
+   "mid": 1388797417,
+   "length": "2:15",
+   "src": "search:神祇读神奇 机制"
+  },
+  {
+   "bvid": "BV15WhD6mEV8",
+   "title": "【双语音版本】《神祇开局招募地球玩家》【有声书】【字幕】【睡前长音频】【静态动画】",
+   "created": 1790436600,
+   "author": "摸鱼听书客",
+   "mid": 3706984387840030,
+   "length": "4721:49",
+   "src": "search:神祇读神奇 机制"
+  },
+  {
+   "bvid": "BV1xRho6DEAQ",
+   "title": "【神祇读神奇】上课回,属性，伤害等│20260926直播",
+   "created": 1790430204,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "271:11",
+   "src": "search:神祇读神奇"
+  },
+  {
+   "bvid": "BV1a2h46yETd",
+   "title": "科尔努诺斯究竟是谁？消失的凯尔特神祇",
+   "created": 1790164603,
+   "author": "荒野系漫游指南",
+   "mid": 19645005,
+   "length": "13:53",
+   "src": "search:Lapis___ 神祇"
+  },
+  {
+   "bvid": "BV1v6h46UE7K",
+   "title": "【我长颈鹿懂了】短脖兔杯#2 Day2│20260923直播",
+   "created": 1790161696,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "241:59",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1Achx64Epi",
+   "title": "【我长颈鹿懂了】短脖兔杯#2 Day2│20260923直播",
+   "created": 1790146014,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "274:14",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1Wfhs6ZEgQ",
+   "title": "【洛方直】NOSL看弹幕就死│20260923直播",
+   "created": 1790144847,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "116:32",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1BXhx6DENr",
+   "title": "【有毒的粽子】黑流树海最没有邦的分队│20260923直播",
+   "created": 1790140165,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "419:12",
+   "src": "space"
+  },
+  {
+   "bvid": "BV11ahW64Emi",
+   "title": "【深蓝LXXXIV】七麻代打（可点歌）│20260923直播",
+   "created": 1790130785,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "292:29",
+   "src": "space"
+  },
+  {
+   "bvid": "BV16khW6SEBj",
+   "title": "【洛方直】NOSL看弹幕就死│20260923直播",
+   "created": 1790125842,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "77:39",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1tChn6pEh1",
+   "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+   "created": 1790094663,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "140:36",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1CehH67Ej6",
+   "title": "【没有-MeiYou】今日游戏│20260922直播",
+   "created": 1790086045,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "243:24",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1GLhH6hEhh",
+   "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+   "created": 1790085174,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "133:47",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1rXhE6BEb1",
+   "title": "【风前舆论汤】相识也不过擦过梦中│20260922直播",
+   "created": 1790076250,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "220:53",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1dfhj6REDr",
+   "title": "【我长颈鹿懂了】短脖兔杯#2 Day1│20260922直播",
+   "created": 1790065421,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "711:16",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1H3hE6iERE",
+   "title": "【有毒的粽子】黑流树海最没有邦的分队│20260922直播",
+   "created": 1790054482,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "497:52",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1SRh767Efe",
+   "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+   "created": 1790051819,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "99:39",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1xxhk65EQa",
+   "title": "【深蓝LXXXIV】七麻代打冲豪！（可点歌）│20260922直播",
+   "created": 1790050044,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "325:48",
+   "src": "space"
+  },
+  {
+   "bvid": "BV17khk6YEo6",
+   "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+   "created": 1790044039,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "104:30",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1Ythz6LEsE",
+   "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+   "created": 1790009847,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "53:20",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1wah66aEAj",
+   "title": "【没有-MeiYou】放空│20260921直播",
+   "created": 1790004863,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "304:16",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1YWhq6gEcy",
+   "title": "【有毒的粽子】Sudoku Mansion数独银河城│20260921直播",
+   "created": 1789999356,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "123:38",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1johq6mEPK",
+   "title": "【黑蓑影卫攻略组】狠狠地撕咬│20260921直播",
+   "created": 1789996705,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "154:53",
+   "src": "space"
+  },
+  {
+   "bvid": "BV13MhB6gEvC",
+   "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+   "created": 1789990293,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "191:12",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1EUhv6LEVv",
+   "title": "【风前舆论汤】相识也不过擦过梦中│20260921直播",
+   "created": 1789981510,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "242:26",
+   "src": "space"
+  },
+  {
+   "bvid": "BV11fhi64EcQ",
+   "title": "【上大夫空乙己】萨米│20260921直播",
+   "created": 1789970325,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "73:26",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1yfhi64EhF",
+   "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+   "created": 1789970262,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "65:35",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1hkhe6hEJN",
+   "title": "【有毒的粽子】黑流树海最没有邦的分队│20260921直播",
+   "created": 1789964252,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "295:02",
+   "src": "space"
+  },
+  {
+   "bvid": "BV16Nhv6yEgq",
+   "title": "【洛方直】NOSL看弹幕就死│20260921直播",
+   "created": 1789959751,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "107:01",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1Uthv6fEKc",
+   "title": "【深蓝LXXXIV】七麻代打冲豪！（可点歌）│20260921直播",
+   "created": 1789955674,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "345:14",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1rqhh6TEw3",
+   "title": "【洛方直】NOSL看弹幕就死│20260920直播",
+   "created": 1789924989,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "151:54",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1qkeB6oEhn",
+   "title": "【没有-MeiYou】放空│20260920直播",
+   "created": 1789918503,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "260:37",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1BzeB6fE24",
+   "title": "【上大夫空乙己】我其实一点都不会唱歌│20260920直播",
+   "created": 1789917935,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "221:59",
+   "src": "space"
+  },
+  {
+   "bvid": "BV18oeB67Exj",
+   "title": "【有毒的粽子】Sudoku Mansion数独银河城│20260920直播",
+   "created": 1789912000,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "372:55",
+   "src": "space"
+  },
+  {
+   "bvid": "BV1L4ez6oEcc",
+   "title": "【神祇读神奇】上课回,仇恨，排序等│20260920直播",
+   "created": 1789911331,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "287:30",
+   "src": "search:【神祇读神奇】"
+  },
+  {
+   "bvid": "BV15Veh6eEnF",
+   "title": "2026.09.19 匹配0 神祇",
+   "created": 1789828337,
+   "author": "荒謬當道愛拯救之",
+   "mid": 270417945,
+   "length": "22:33",
+   "src": "search:【神祇读神奇】"
+  },
+  {
+   "bvid": "BV1GVeb6dEVw",
+   "title": "【神祇读神奇】上课回,失衡下的进墙，穿墙等│20260919直播",
+   "created": 1789816686,
+   "author": "Lapis___",
+   "mid": 592610,
+   "length": "179:27",
+   "src": "search:神祇读神奇"
+  }
+ ],
+ "views": [
+  {
+   "bvid": "BV1cmaa6VEPR",
+   "code": 0,
+   "title": "【神祇读神奇】上课回,出怪帧│20260927直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790515998,
+   "duration": 8433,
+   "desc": "https://live.bilibili.com/31229274\n关注神祇读神奇喵，支持神祇读神奇谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42251649424,
+     "part": "31229274-20260927-185649-552-上课回,出怪帧",
+     "duration": 7201
+    },
+    {
+     "page": 2,
+     "cid": 42252239801,
+     "part": "31229274-20260927-205645-758-上课回,出怪帧",
+     "duration": 1232
+    }
+   ],
+   "total_parts_dur": 8433
+  },
+  {
+   "bvid": "BV1Usa86JE9d",
+   "code": 0,
+   "title": "承接上一期，神祇瑞灵纹复引比渴血效果更佳",
+   "owner": "奥奇传说手游鸭天帝",
+   "mid": 3546679340960631,
+   "pubdate": 1790507708,
+   "duration": 5,
+   "desc": "-",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42248900318,
+     "part": "lv_0_20260927191306",
+     "duration": 5
+    }
+   ],
+   "total_parts_dur": 5
+  },
+  {
+   "bvid": "BV1aQax6LEUw",
+   "code": 0,
+   "title": "神祇的实力等级划分，斗罗神界的形成及演变",
+   "owner": "重温斗罗",
+   "mid": 1388797417,
+   "pubdate": 1790472688,
+   "duration": 135,
+   "desc": "-",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42235071568,
+     "part": "杂谈67",
+     "duration": 135
+    }
+   ],
+   "total_parts_dur": 135
+  },
+  {
+   "bvid": "BV15WhD6mEV8",
+   "code": 0,
+   "title": "【双语音版本】《神祇开局招募地球玩家》【有声书】【字幕】【睡前长音频】【静态动画】",
+   "owner": "摸鱼听书客",
+   "mid": 3706984387840030,
+   "pubdate": 1790436600,
+   "duration": 283309,
+   "desc": "喜欢这个视频的话，别忘了点赞、投币、收藏走一波！你的三连是我更新的最大动力，点个关注，带你解锁更多好玩的内容！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42208855182,
+     "part": "【双语音版本】《神祇开局招募地球玩家》【有声书】【字幕】【睡前长音频】【静态动画】",
+     "duration": 10
+    },
+    {
+     "page": 2,
+     "cid": 42208855115,
+     "part": "01云溪_《神祇开局招募地球玩家》作者：羊吱吱_01",
+     "duration": 35258
+    },
+    {
+     "page": 3,
+     "cid": 42208857265,
+     "part": "01云溪_《神祇开局招募地球玩家》作者：羊吱吱_02",
+     "duration": 35195
+    },
+    {
+     "page": 4,
+     "cid": 42208921103,
+     "part": "01云溪_《神祇开局招募地球玩家》作者：羊吱吱_03",
+     "duration": 35370
+    },
+    {
+     "page": 5,
+     "cid": 42208923375,
+     "part": "01云溪_《神祇开局招募地球玩家》作者：羊吱吱_04",
+     "duration": 33193
+    },
+    {
+     "page": 6,
+     "cid": 42208986917,
+     "part": "02晓晓_《神祇开局招募地球玩家》作者：羊吱吱_01",
+     "duration": 35244
+    },
+    {
+     "page": 7,
+     "cid": 42209052071,
+     "part": "02晓晓_《神祇开局招募地球玩家》作者：羊吱吱_02",
+     "duration": 35287
+    },
+    {
+     "page": 8,
+     "cid": 42209118258,
+     "part": "02晓晓_《神祇开局招募地球玩家》作者：羊吱吱_03",
+     "duration": 35234
+    },
+    {
+     "page": 9,
+     "cid": 42209184029,
+     "part": "02晓晓_《神祇开局招募地球玩家》作者：羊吱吱_04",
+     "duration": 35354
+    },
+    {
+     "page": 10,
+     "cid": 42209248687,
+     "part": "02晓晓_《神祇开局招募地球玩家》作者：羊吱吱_05",
+     "duration": 3164
+    }
+   ],
+   "total_parts_dur": 283309
+  },
+  {
+   "bvid": "BV1xRho6DEAQ",
+   "code": 0,
+   "title": "【神祇读神奇】上课回,属性，伤害等│20260926直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790430204,
+   "duration": 16271,
+   "desc": "https://live.bilibili.com/31229274\n关注神祇读神奇喵，支持神祇读神奇谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42224124252,
+     "part": "31229274-20260926-190120-651-上课回,属性，伤害等",
+     "duration": 7202
+    },
+    {
+     "page": 2,
+     "cid": 42226486217,
+     "part": "31229274-20260926-210122-452-上课回,属性，伤害等",
+     "duration": 7201
+    },
+    {
+     "page": 3,
+     "cid": 42227206884,
+     "part": "31229274-20260926-230129-358-上课回,属性，伤害等",
+     "duration": 1868
+    }
+   ],
+   "total_parts_dur": 16271
+  },
+  {
+   "bvid": "BV1a2h46yETd",
+   "code": 0,
+   "title": "科尔努诺斯究竟是谁？消失的凯尔特神祇",
+   "owner": "荒野系漫游指南",
+   "mid": 19645005,
+   "pubdate": 1790164603,
+   "duration": 833,
+   "desc": "",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42138141062,
+     "part": "科尔努诺斯究竟是谁？消失的凯尔特神祇",
+     "duration": 833
+    }
+   ],
+   "total_parts_dur": 833
+  },
+  {
+   "bvid": "BV1v6h46UE7K",
+   "code": 0,
+   "title": "【我长颈鹿懂了】短脖兔杯#2 Day2│20260923直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790161696,
+   "duration": 14519,
+   "desc": "https://live.bilibili.com/12123365\n关注我长颈鹿懂了喵，支持我长颈鹿懂了谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42136964753,
+     "part": "12123365-20260923-185645-191-短脖兔杯#2 Day2",
+     "duration": 437
+    },
+    {
+     "page": 2,
+     "cid": 42139782213,
+     "part": "12123365-20260923-190416-061-短脖兔杯#2 Day2",
+     "duration": 7204
+    },
+    {
+     "page": 3,
+     "cid": 42142335653,
+     "part": "12123365-20260923-210425-114-短脖兔杯#2 Day2",
+     "duration": 6878
+    }
+   ],
+   "total_parts_dur": 14519
+  },
+  {
+   "bvid": "BV1Achx64Epi",
+   "code": 0,
+   "title": "【我长颈鹿懂了】短脖兔杯#2 Day2│20260923直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790146014,
+   "duration": 16454,
+   "desc": "https://live.bilibili.com/12123365\n关注我长颈鹿懂了喵，支持我长颈鹿懂了谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42129820066,
+     "part": "12123365-20260923-121442-748-短脖兔杯#2 Day2",
+     "duration": 7203
+    },
+    {
+     "page": 2,
+     "cid": 42132834273,
+     "part": "12123365-20260923-141446-683-短脖兔杯#2 Day2",
+     "duration": 7203
+    },
+    {
+     "page": 3,
+     "cid": 42133620480,
+     "part": "12123365-20260923-161448-513-短脖兔杯#2 Day2",
+     "duration": 2048
+    }
+   ],
+   "total_parts_dur": 16454
+  },
+  {
+   "bvid": "BV1Wfhs6ZEgQ",
+   "code": 0,
+   "title": "【洛方直】NOSL看弹幕就死│20260923直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790144847,
+   "duration": 6992,
+   "desc": "https://live.bilibili.com/26519998\n关注洛方直喵，支持洛方直谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42130015330,
+     "part": "26519998-20260923-140858-130-NOSL看弹幕就死",
+     "duration": 765
+    },
+    {
+     "page": 2,
+     "cid": 42130080739,
+     "part": "26519998-20260923-142243-854-NOSL看弹幕就死",
+     "duration": 80
+    },
+    {
+     "page": 3,
+     "cid": 42132635765,
+     "part": "26519998-20260923-142451-279-NOSL看弹幕就死",
+     "duration": 6147
+    }
+   ],
+   "total_parts_dur": 6992
+  },
+  {
+   "bvid": "BV1BXhx6DENr",
+   "code": 0,
+   "title": "【有毒的粽子】黑流树海最没有邦的分队│20260923直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790140165,
+   "duration": 25152,
+   "desc": "https://live.bilibili.com/540136\n关注有毒的粽子喵，支持有毒的粽子谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42128116172,
+     "part": "540136-20260923-104549-580-黑流树海最没有邦的分队",
+     "duration": 7205
+    },
+    {
+     "page": 2,
+     "cid": 42129621721,
+     "part": "540136-20260923-124558-112-黑流树海最没有邦的分队",
+     "duration": 4757
+    },
+    {
+     "page": 3,
+     "cid": 42129951137,
+     "part": "540136-20260923-140650-503-黑流树海最没有邦的分队",
+     "duration": 805
+    },
+    {
+     "page": 4,
+     "cid": 42131261113,
+     "part": "540136-20260923-142034-827-黑流树海最没有邦的分队",
+     "duration": 3019
+    },
+    {
+     "page": 5,
+     "cid": 42131917325,
+     "part": "540136-20260923-151053-314-黑流树海最没有邦的分队",
+     "duration": 1700
+    },
+    {
+     "page": 6,
+     "cid": 42133029893,
+     "part": "540136-20260923-153916-488-黑流树海最没有邦的分队",
+     "duration": 2604
+    },
+    {
+     "page": 7,
+     "cid": 42135130069,
+     "part": "540136-20260923-162524-481-黑流树海最没有邦的分队",
+     "duration": 5062
+    }
+   ],
+   "total_parts_dur": 25152
+  },
+  {
+   "bvid": "BV11ahW64Emi",
+   "code": 0,
+   "title": "【深蓝LXXXIV】七麻代打（可点歌）│20260923直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790130785,
+   "duration": 17549,
+   "desc": "https://live.bilibili.com/25804713\n关注深蓝LXXXIV喵，支持深蓝LXXXIV谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42125099191,
+     "part": "25804713-20260923-100743-120-七麻代打（可点歌）",
+     "duration": 1264
+    },
+    {
+     "page": 2,
+     "cid": 42127788350,
+     "part": "25804713-20260923-102853-131-七麻代打（可点歌）",
+     "duration": 7201
+    },
+    {
+     "page": 3,
+     "cid": 42130147972,
+     "part": "25804713-20260923-122856-390-七麻代打（可点歌）",
+     "duration": 7203
+    },
+    {
+     "page": 4,
+     "cid": 42131001125,
+     "part": "25804713-20260923-142857-918-歹人按钮亮了必须点模式（可点歌）",
+     "duration": 1881
+    }
+   ],
+   "total_parts_dur": 17549
+  },
+  {
+   "bvid": "BV16khW6SEBj",
+   "code": 0,
+   "title": "【洛方直】NOSL看弹幕就死│20260923直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790125842,
+   "duration": 4659,
+   "desc": "https://live.bilibili.com/26519998\n关注洛方直喵，支持洛方直谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42123526713,
+     "part": "26519998-20260923-083437-017-NOSL看弹幕就死",
+     "duration": 1844
+    },
+    {
+     "page": 2,
+     "cid": 42124250743,
+     "part": "26519998-20260923-090526-796-NOSL看弹幕就死",
+     "duration": 2815
+    }
+   ],
+   "total_parts_dur": 4659
+  },
+  {
+   "bvid": "BV1tChn6pEh1",
+   "code": 0,
+   "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790094663,
+   "duration": 8436,
+   "desc": "https://live.bilibili.com/26519998\n关注洛方直喵，支持洛方直谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42117762298,
+     "part": "26519998-20260922-234004-630-NOSL看弹幕就死",
+     "duration": 2262
+    },
+    {
+     "page": 2,
+     "cid": 42119333973,
+     "part": "26519998-20260923-001745-698-NOSL看弹幕就死",
+     "duration": 6174
+    }
+   ],
+   "total_parts_dur": 8436
+  },
+  {
+   "bvid": "BV1CehH67Ej6",
+   "code": 0,
+   "title": "【没有-MeiYou】今日游戏│20260922直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790086045,
+   "duration": 14604,
+   "desc": "https://live.bilibili.com/2397378\n关注没有-MeiYou喵，支持没有-MeiYou谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42114682458,
+     "part": "2397378-20260922-210642-512-今日游戏",
+     "duration": 2957
+    },
+    {
+     "page": 2,
+     "cid": 42117432301,
+     "part": "2397378-20260922-215935-505-今日游戏",
+     "duration": 7203
+    },
+    {
+     "page": 3,
+     "cid": 42118679804,
+     "part": "2397378-20260922-235943-755-今日游戏",
+     "duration": 4444
+    }
+   ],
+   "total_parts_dur": 14604
+  },
+  {
+   "bvid": "BV1GLhH6hEhh",
+   "code": 0,
+   "title": "【洛方直】NOSL看弹幕就死│20260922直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790085174,
+   "duration": 8027,
+   "desc": "https://live.bilibili.com/26519998\n关注洛方直喵，支持洛方直谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42114222948,
+     "part": "26519998-20260922-195346-104-NOSL看弹幕就死",
+     "duration": 6141
+    },
+    {
+     "page": 2,
+     "cid": 42114614175,
+     "part": "26519998-20260922-213617-989-NOSL看弹幕就死",
+     "duration": 939
+    },
+    {
+     "page": 3,
+     "cid": 42115268985,
+     "part": "26519998-20260922-220452-857-NOSL看弹幕就死",
+     "duration": 947
+    }
+   ],
+   "total_parts_dur": 8027
+  },
+  {
+   "bvid": "BV1rXhE6BEb1",
+   "code": 0,
+   "title": "【风前舆论汤】相识也不过擦过梦中│20260922直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790076250,
+   "duration": 13253,
+   "desc": "https://live.bilibili.com/1912482020\n关注风前舆论汤喵，支持风前舆论汤谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42110682795,
+     "part": "1912482020-20260922-165702-857-相识也不过擦过梦中",
+     "duration": 7201
+    },
+    {
+     "page": 2,
+     "cid": 42112844967,
+     "part": "1912482020-20260922-185700-971-相识也不过擦过梦中",
+     "duration": 6052
+    }
+   ],
+   "total_parts_dur": 13253
+  },
+  {
+   "bvid": "BV1dfhj6REDr",
+   "code": 0,
+   "title": "【我长颈鹿懂了】短脖兔杯#2 Day1│20260922直播",
+   "owner": "Lapis___",
+   "mid": 592610,
+   "pubdate": 1790065421,
+   "duration": 42676,
+   "desc": "https://live.bilibili.com/12123365\n关注我长颈鹿懂了喵，支持我长颈鹿懂了谢谢喵！",
+   "pages": [
+    {
+     "page": 1,
+     "cid": 42106422564,
+     "part": "12123365-20260922-135929-483-短脖兔杯#2表演赛",
+     "duration": 7203
+    },
+    {
+     "page": 2,
+     "cid": 42109371833,
+     "part": "12123365-20260922-155934-569-短脖兔杯#2 Day1",
+     "duration": 7203
+    },
+    {
+     "page": 3,
+     "cid": 42111993372,
+     "part": "12123365-20260922-175936-579-短脖兔杯#2 Day1",
+     "duration": 7203
+    },
+    {
+     "page": 4,
+     "cid": 42114809876,
+     "part": "12123365-20260922-195939-152-短脖兔杯#2 Day1",
+     "duration": 7203
+    },
+    {
+     "page": 5,
+     "cid": 42115336306,
+     "part": "12123365-20260922-215942-384-短脖兔杯#2 Day1",
+     "duration": 1474
+    },
+    {
+     "page": 6,
+     "cid": 42117894130,
+     "part": "12123365-20260922-222501-147-短脖兔杯#2 Day1",
+     "duration": 7201
+    },
+    {
+     "page": 7,
+     "cid": 42119204732,
+     "part": "12123365-20260923-002506-236-短脖兔杯#2 Day1",
+     "duration": 5189
+    }
+   ],
+   "total_parts_dur": 42676
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+汉语拼音	官方汉语命名	代码层ID	一句话说明	知识库地址	玩家俗称	来源	英文名	日文名	韩文名	繁中名	职业	分支	位置	星级	攻击范围ID	排序号	备注
+amiya	阿米娅	char_002_amiya	5★ 术师；**单干员档案解包的标准样例**（含精英 0/1/2 各阶段，28KB）	04/26 §三、04/15	阿米娅	MAA resource/battle_data.json · chars	Amiya	アーミヤ	아미야	阿米婭	CASTER	corecaster	RANGED	5	3-6/3-1/3-1	17	
+kaierxi	凯尔希	char_003_kalts				MAA resource/battle_data.json · chars	Kal'tsit	ケルシー	켈시	凱爾希	MEDIC	physician	RANGED	6	3-3/3-8/3-10	541	
+12f	12F	char_009_12fce				MAA resource/battle_data.json · chars	12F	12F	12F	12F	CASTER	splashcaster	RANGED	2	2-3/2-3/2-3	238	非中文名（拼音列填小写原名，只为统一检索）
+chen	陈	char_010_chen	6★ 近卫（剑豪）；属性与 gamedata 逐项一致的对照样例（ATK 610）	04/15	陈、陈sir	MAA resource/battle_data.json · chars	Ch'en	チェン	첸	陳	WARRIOR	sword	MELEE	6	1-1/1-1/1-1	137	
+huang	煌	char_017_huang				MAA resource/battle_data.json · chars	Blaze	ブレイズ	블레이즈	煌	WARRIOR	centurion	MELEE	6	1-1/1-1/1-1	395	
+amiyawarrior	阿米娅-WARRIOR	char_1001_amiya2				MAA resource/battle_data.json · chars	Amiya-WARRIOR	アーミヤ-WARRIOR	아미야-WARRIOR	阿米婭-WARRIOR	WARRIOR	artsfghter	MELEE	5	1-1/1-1/1-1	0	
+yanyuyanrong	炎狱炎熔	char_1011_lava2				MAA resource/battle_data.json · chars	Lava the Purgatory	炎獄ラヴァ	라바 더 퍼거토리	炎獄炎熔	CASTER	splashcaster	RANGED	5	2-3/3-6/3-6	1145	
+zhuoxinsikadi	浊心斯卡蒂	char_1012_skadi2				MAA resource/battle_data.json · chars	Skadi the Corrupting Heart	濁心スカジ	스카디 더 커럽팅 하트	濁心斯卡蒂	SUPPORT	bard	RANGED	6	x-4/x-1/x-1	1352	
+jiariweilongchen	假日威龙陈	char_1013_chen2			水陈	MAA resource/battle_data.json · chars	Ch'en the Holungday	遊龍チェン	첸 더 홀룽데이	假日威龍陳	SNIPER	reaperrange	RANGED	6	2-4/2-5/2-5	453	
+yaoqishilinguang	耀骑士临光	char_1014_nearl2				MAA resource/battle_data.json · chars	Nearl the Radiant Knight	耀騎士ニアール	니어 더 래디언트 나이트	耀騎士臨光	WARRIOR	fearless	MELEE	6	1-1/1-1/1-1	1150	
+yuyuananjielina	予愿安洁莉娜	char_1015_aglna2				MAA resource/battle_data.json · chars	予愿安洁莉娜	予愿安洁莉娜	予愿安洁莉娜	予愿安洁莉娜	SPECIAL	skywalker	MELEE	6	1-1/2-2/2-2	1271	
+chunjinaiyafala	纯烬艾雅法拉	char_1016_agoat2				MAA resource/battle_data.json · chars	Eyjafjalla the Hvít Aska	純燼エイヤフィヤトラ	에이야퍄들라 더 크비트 아스카	純燼艾雅法拉	MEDIC	wandermedic	RANGED	6	3-3/3-17/3-17	162	
+weinaweiduoliya	维娜·维多利亚	char_1019_siege2				MAA resource/battle_data.json · chars	Vina Victoria	ヴィーナ・ヴィクトリア	비나 빅토리아	維娜·維多利亞	WARRIOR	artsfghter	MELEE	6	1-1/1-1/1-1	1008	
+kong	空	char_101_sora				MAA resource/battle_data.json · chars	Sora	ソラ	소라	空	SUPPORT	bard	RANGED	5	x-4/x-1/x-1	565	
+yanyingweicao	焰影苇草	char_1020_reed2				MAA resource/battle_data.json · chars	Reed the Flame Shadow	焔影リード	리드 더 플레임 섀도우	焰影葦草	MEDIC	incantationmedic	RANGED	6	3-1/3-3/3-3	1144	
+hanmangkeluosi	寒芒克洛丝	char_1021_kroos2			寒克	MAA resource/battle_data.json · chars	Kroos the Keen Glint	寒芒クルース	크루스 더 킨 글린트	寒芒克洛絲	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	358	
+xieyingdiaoxiangshi	撷英调香师	char_1022_flwr2				MAA resource/battle_data.json · chars	Perfumer the Distilled	萃香パフューマー	퍼퓨머 더 디스틸트	擷英調香師	SUPPORT	blessing	RANGED	5	y-2/y-6/y-6	1074	
+guimingyoulingsha	归溟幽灵鲨	char_1023_ghost2				MAA resource/battle_data.json · chars	Specter the Unchained	帰溟スペクター	스펙터 디 언체인드	歸溟幽靈鯊	SPECIAL	dollkeeper	MELEE	6	1-1/1-1/1-1	346	
+zhuochenfurong	濯尘芙蓉	char_1024_hbisc2				MAA resource/battle_data.json · chars	Hibiscus the Purifier	濯塵ハイビスカス	히비스커스 더 퓨리파이어	濯塵芙蓉	MEDIC	incantationmedic	RANGED	5	3-1/3-3/3-3	1349	
+bailianjiaweier	百炼嘉维尔	char_1026_gvial2				MAA resource/battle_data.json · chars	Gavial the Invincible	百錬ガヴィル	가비알 디 인빈서블	百煉嘉維爾	WARRIOR	centurion	MELEE	6	1-1/1-1/1-1	36	
+chengxigeleiyi	承曦格雷伊	char_1027_greyy2				MAA resource/battle_data.json · chars	Greyy the Lightningbearer	承曦グレイ	그레이 더 라이트닝베어러	承曦格雷伊	SNIPER	bombarder	RANGED	5	3-3/3-9/3-9	149	
+jianmodekesasi	缄默德克萨斯	char_1028_texas2			翼德	MAA resource/battle_data.json · chars	Texas the Omertosa	血掟テキサス	텍사스 디 오메르토사	緘默德克薩斯	SPECIAL	executor	MELEE	6	1-1/1-1/1-1	438	
+qilinryedao	麒麟R夜刀	char_1029_yato2				MAA resource/battle_data.json · chars	Kirin R Yato	キリンRヤトウ	키린R 야토	麒麟R夜刀	SPECIAL	executor	MELEE	6	1-1/1-1/1-1	777	
+dekesasi	德克萨斯	char_102_texas			德狗	MAA resource/battle_data.json · chars	Texas	テキサス	텍사스	德克薩斯	PIONEER	pioneer	MELEE	5	1-1/1-1/1-1	204	
+huolongsheijiao	火龙S黑角	char_1030_noirc2				MAA resource/battle_data.json · chars	Rathalos S Noir Corne	レウスSノイルホーン	레우스S 느와르 코르네	火龍S黑角	WARRIOR	musha	MELEE	5	1-1/1-1/1-1	416	
+cuiyuhemo	淬羽赫默	char_1031_slent2				MAA resource/battle_data.json · chars	Silence the Paradigmatic	淬羽サイレンス	사일런스 더 패러디그매틱	淬羽赫默	SUPPORT	blessing	RANGED	6	y-2/y-6/y-6	173	
+shengyuesongzangren	圣约送葬人	char_1032_excu2				MAA resource/battle_data.json · chars	Executor the Ex Foedere	聖約イグゼキュター	이그제큐터 디 엑스 포에데레	聖約送葬人	WARRIOR	reaper	MELEE	6	1-3/1-3/1-3	862	
+linlangshihuaiya	琳琅诗怀雅	char_1033_swire2				MAA resource/battle_data.json · chars	Swire the Elegant Wit	琳琅スワイヤー	스와이어 디 엘리건트 위트	琳瑯詩懷雅	SPECIAL	merchant	MELEE	6	1-1/1-1/1-1	623	
+dihuojiexika	涤火杰西卡	char_1034_jesca2				MAA resource/battle_data.json · chars	Jessica the Liberated	滌火ジェシカ	제시카 더 리버레이티드	滌火潔西卡	TANK	shotprotector	MELEE	6	2-2/2-2/2-2	211	
+weishendaier	维什戴尔	char_1035_wisdel			EW	MAA resource/battle_data.json · chars	Wiš'adel	ウィシャデル	위셔델	維什戴爾	SNIPER	bombarder	RANGED	6	3-3/3-9/3-9	1009	
+lizhenruiqiangfen	历阵锐枪芬	char_1036_fang2				MAA resource/battle_data.json · chars	Fang the Fire-Sharpened	歴陣鋭槍フェン	팽 더 파이어 샤픈드	歷陣銳槍芬	PIONEER	charger	MELEE	5	1-1/1-1/1-1	636	
+amiyamedic	阿米娅-MEDIC	char_1037_amiya3				MAA resource/battle_data.json · chars	Amiya-MEDIC	アーミヤ-MEDIC	아미야-MEDIC	阿米婭-MEDIC	MEDIC	incantationmedic	RANGED	5	3-1/3-3/3-3	0	
+huangwulapulande	荒芜拉普兰德	char_1038_whitw2				MAA resource/battle_data.json · chars	Lappland the Decadenza	荒蕪ラップランド	라플란드 더 데카덴차	荒蕪拉普蘭德	CASTER	funnel	RANGED	6	3-6/3-1/3-1	400	
+yinxingjici	引星棘刺	char_1039_thorn2				MAA resource/battle_data.json · chars	Thorns the Lodestar	引星ソーンズ	쏜즈 더 로드스타	引星棘刺	SPECIAL	alchemist	RANGED	6	2-1/2-1/3-5	1207	
+nengtianshi	能天使	char_103_angel				MAA resource/battle_data.json · chars	Exusiai	エクシア	엑시아	能天使	SNIPER	fastshot	RANGED	6	3-1/3-3/3-3	731	
+zhuhuang	烛煌	char_1040_blaze2				MAA resource/battle_data.json · chars	Blaze the Igniting Spark	熾炎ブレイズ	블레이즈 디 이그나이팅 스파크	燭煌	CASTER	primcaster	RANGED	6	3-6/3-1/3-1	1346	
+xinyuenengtianshi	新约能天使	char_1041_angel2				MAA resource/battle_data.json · chars	Exusiai the New Covenant	新約エクシア	엑시아 더 뉴 커버넌트	新約能天使	SPECIAL	geek	RANGED	6	3-1/3-3/3-3	1091	
+jiushen	酒神	char_1042_phatm2				MAA resource/battle_data.json · chars	Tragodia	トラゴーディア	트라고디아	酒神	SUPPORT	ritualist	RANGED	6	y-2/y-2/y-2	521	
+sitingjingzhe	司霆惊蛰	char_1043_leizi2				MAA resource/battle_data.json · chars	Leizi the Thunderbringer	司霆レイズ	레이즈 더 썬더브링어	司霆驚蟄	WARRIOR	librator	MELEE	6	1-2/1-2/1-2	927	
+zhanyexingxiong	斩业星熊	char_1044_hsgma2				MAA resource/battle_data.json · chars	Hoshiguma the Breacher	斬業ホシグマ	호시구마 더 브리처	斬業星熊	TANK	artsprotector	MELEE	6	1-1/1-1/1-1	1300	
+linyuyinhui	凛御银灰	char_1045_svash2				MAA resource/battle_data.json · chars	SilverAsh the Reignfrost	凛御シルバーアッシュ	실버애쉬 더 레인프로스트	凜御銀灰	PIONEER	counsellor	MELEE	6	1-1/1-1/1-1	629	
+shenglingchuxue	圣聆初雪	char_1046_sbell2				MAA resource/battle_data.json · chars	Pramanix the Prerita	聖聆プラマニクス	프라마닉스 더 프레리타	聖聆初雪	CASTER	phalanx	RANGED	6	x-4/x-1/x-1	854	
+suguangxingyuan	溯光星源	char_1047_halo2				MAA resource/battle_data.json · chars	Astgenne the Lightchaser	溯光アステジーニ	아스트젠 더 라이트체이서	溯光星源	SUPPORT	slower	RANGED	6	y-2/y-2/y-2	938	
+yanhulongzilan	焰狐龙梓兰	char_1048_orchd2				MAA resource/battle_data.json · chars	焰狐龙梓兰	焰狐龙梓兰	焰狐龙梓兰	焰狐龙梓兰	SNIPER	closerange	RANGED	6	2-3/3-6/3-6	1136	
+leilanglongskongbao	雷狼龙S空爆	char_1049_catap2				MAA resource/battle_data.json · chars	雷狼龙S空爆	雷狼龙S空爆	雷狼龙S空爆	雷狼龙S空爆	WARRIOR	mercenary	MELEE	5	1-1/1-1/1-1	594	
+chirenmingxiaochen	赤刃明霄陈	char_1050_chen3				MAA resource/battle_data.json · chars	Ch'en the Dawnstreak	赤刃明霄チェン	첸 더 던스트릭	赤刃明霄陳	WARRIOR	artsfghter	MELEE	6	1-1/1-1/1-1	154	
+nuchaolindong	怒潮凛冬	char_1051_headb2				MAA resource/battle_data.json · chars	怒潮凛冬	怒潮凛冬	怒潮凛冬	怒潮凛冬	WARRIOR	hammer	MELEE	6	1-1/1-1/1-1	745	
+kaierxisihengtuo	凯尔希·思衡托	char_1052_kalts2				MAA resource/battle_data.json · chars	凯尔希·思衡托	凯尔希·思衡托	凯尔希·思衡托	凯尔希·思衡托	MEDIC	watchman	RANGED	6	y-2/y-6/y-6	542	
+fulanka	芙兰卡	char_106_franka				MAA resource/battle_data.json · chars	Franka	フランカ	프란카	芙蘭卡	WARRIOR	fearless	MELEE	5	1-1/1-1/1-1	297	
+leishe	雷蛇	char_107_liskam				MAA resource/battle_data.json · chars	Liskarm	リスカム	리스캄	雷蛇	TANK	shotprotector	MELEE	5	2-2/2-2/2-2	597	
+hemo	赫默	char_108_silent				MAA resource/battle_data.json · chars	Silence	サイレンス	사일런스	赫默	MEDIC	physician	RANGED	5	3-1/3-3/3-3	373	
+yuanshan	远山	char_109_fmout				MAA resource/battle_data.json · chars	Gitano	ギターノ	기타노	遠山	CASTER	splashcaster	RANGED	4	2-3/3-6/3-6	1223	
+shenhaise	深海色	char_110_deepcl				MAA resource/battle_data.json · chars	Deepcolor	ディピカ	딥컬러	深海色	SUPPORT	summoner	RANGED	4	3-6/3-1/3-1	865	
+tuijinzhiwang	推进之王	char_112_siege				MAA resource/battle_data.json · chars	Siege	シージ	시즈	推進之王	PIONEER	pioneer	MELEE	6	1-1/1-1/1-1	992	
+w	W	char_113_cqbw				MAA resource/battle_data.json · chars	W	W	W	W	SNIPER	aoesniper	RANGED	6	3-3/3-8/3-10	999	非中文名（拼音列填小写原名，只为统一检索）
+lindong	凛冬	char_115_headbr				MAA resource/battle_data.json · chars	Zima	ズィマー	지마	凜冬	PIONEER	pioneer	MELEE	5	1-1/1-1/1-1	613	
+moyao	末药	char_117_myrrh				MAA resource/battle_data.json · chars	Myrrh	ミルラ	미르	末藥	MEDIC	physician	RANGED	4	3-1/3-3/3-3	712	
+baixue	白雪	char_118_yuki				MAA resource/battle_data.json · chars	Shirayuki	シラユキ	시라유키	白雪	SNIPER	aoesniper	RANGED	4	3-3/3-8/3-10	42	
+furong	芙蓉	char_120_hibisc				MAA resource/battle_data.json · chars	Hibiscus	ハイビスカス	히비스커스	芙蓉	MEDIC	physician	RANGED	3	3-1/3-3/3-1	298	
+yanrong	炎熔	char_121_lava				MAA resource/battle_data.json · chars	Lava	ラヴァ	라바	炎熔	CASTER	splashcaster	RANGED	3	2-3/3-6/2-3	1138	
+migelu	米格鲁	char_122_beagle				MAA resource/battle_data.json · chars	Beagle	ビーグル	비글	米格魯	TANK	protector	MELEE	3	0-1/0-1/0-1	686	
+fen	芬	char_123_fang	3★ 先锋；**天赋「部署费用 −1」**，1-1 案例里费用 9→8 的关键	04/54a、04/54e	芬	MAA resource/battle_data.json · chars	Fang	フェン	팽	芬	PIONEER	pioneer	MELEE	3	1-1/1-1/1-1	274	
+keluosi	克洛丝	char_124_kroos			kkdy	MAA resource/battle_data.json · chars	Kroos	クルース	크루스	克洛絲	SNIPER	fastshot	RANGED	3	3-1/3-3/3-1	560	
+liuxing	流星	char_126_shotst				MAA resource/battle_data.json · chars	Meteor	メテオ	메테오	流星	SNIPER	fastshot	RANGED	4	3-1/3-3/3-3	633	
+aisidaier	艾丝黛尔	char_127_estell				MAA resource/battle_data.json · chars	Estelle	エステル	에스텔	艾絲黛爾	WARRIOR	centurion	MELEE	4	1-1/1-1/1-1	11	
+baimianxiao	白面鸮	char_128_plosis				MAA resource/battle_data.json · chars	Ptilopsis	フィリオプシス	프틸롭시스	白面鴞	MEDIC	ringhealer	RANGED	5	y-1/y-2/y-2	37	
+landu	蓝毒	char_129_bluep				MAA resource/battle_data.json · chars	Blue Poison	アズリウス	블루포이즌	藍毒	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	585	
+dubin	杜宾	char_130_doberm				MAA resource/battle_data.json · chars	Dobermann	ドーベルマン	도베르만	杜賓	WARRIOR	instructor	MELEE	4	2-2/2-2/2-2	226	
+yanke	炎客	char_131_flameb				MAA resource/battle_data.json · chars	Flamebringer	エンカク	플레임브링어	炎客	WARRIOR	fearless	MELEE	5	1-1/1-1/1-1	1137	
+mei	梅	char_133_mm				MAA resource/battle_data.json · chars	May	メイ	메이	梅	SNIPER	fastshot	RANGED	4	3-1/3-3/3-3	669	
+yifulite	伊芙利特	char_134_ifrit			小火龙	MAA resource/battle_data.json · chars	Ifrit	イフリータ	이프리트	伊芙利特	CASTER	blastcaster	RANGED	6	4-1/5-1/5-1	1173	
+xingyuan	星源	char_135_halo				MAA resource/battle_data.json · chars	Astgenne	アステジーニ	아스트젠	星源	CASTER	chain	RANGED	5	3-6/3-1/3-1	1085	
+xingxiong	星熊	char_136_hsguma				MAA resource/battle_data.json · chars	Hoshiguma	ホシグマ	호시구마	星熊	TANK	protector	MELEE	6	1-1/1-1/1-1	1084	
+liefeng	猎蜂	char_137_brownb				MAA resource/battle_data.json · chars	Beehunter	ビーハンター	비헌터	獵蜂	WARRIOR	fighter	MELEE	4	1-1/1-1/1-1	604	
+lapulande	拉普兰德	char_140_whitew				MAA resource/battle_data.json · chars	Lappland	ラップランド	라플란드	拉普蘭德	WARRIOR	lord	MELEE	5	2-3/3-12/3-12	592	
+yeyan	夜烟	char_141_nights				MAA resource/battle_data.json · chars	Haze	ヘイズ	헤이즈	夜煙	CASTER	corecaster	RANGED	4	3-6/3-1/3-1	1165	
+youlingsha	幽灵鲨	char_143_ghost				MAA resource/battle_data.json · chars	Specter	スペクター	스펙터	幽靈鯊	WARRIOR	centurion	MELEE	5	1-1/1-1/1-1	1214	
+hong	红	char_144_red				MAA resource/battle_data.json · chars	Projekt Red	レッド	레드	紅	SPECIAL	executor	MELEE	5	1-1/1-1/1-1	379	
+puluowangsi	普罗旺斯	char_145_prove				MAA resource/battle_data.json · chars	Provence	プロヴァンス	프로방스	普羅旺斯	SNIPER	closerange	RANGED	5	2-3/3-6/3-6	771	
+shanling	闪灵	char_147_shining				MAA resource/battle_data.json · chars	Shining	シャイニング	샤이닝	閃靈	MEDIC	physician	RANGED	6	3-1/3-3/3-3	841	
+linguang	临光	char_148_nearl				MAA resource/battle_data.json · chars	Nearl	ニアール	니어	臨光	TANK	guardian	MELEE	5	0-1/0-1/0-1	618	
+qingdaofu	清道夫	char_149_scave				MAA resource/battle_data.json · chars	Scavenger	スカベンジャー	스캐빈저	清道夫	PIONEER	pioneer	MELEE	4	1-1/1-1/1-1	778	
+shijunzhe	弑君者	char_1502_crosly				MAA resource/battle_data.json · chars	Crownslayer	クラウンスレイヤー	크라운슬레이어	弒君者	SPECIAL	executor	MELEE	6	1-1/1-1/1-1	884	
+shetuxiang	蛇屠箱	char_150_snakek				MAA resource/battle_data.json · chars	Cuora	クオーラ	쿠오라	蛇屠箱	TANK	protector	MELEE	4	0-1/0-1/0-1	873	
+taojinniang	桃金娘	char_151_myrtle			桃子	MAA resource/battle_data.json · chars	Myrtle	テンニンカ	머틀	桃金娘	PIONEER	bearer	MELEE	4	1-1/1-1/1-1	955	
+mogen	摩根	char_154_morgan				MAA resource/battle_data.json · chars	Morgan	モーガン	모건	摩根	WARRIOR	fearless	MELEE	5	1-1/1-1/1-1	705	
+yintuoluo	因陀罗	char_155_tiger				MAA resource/battle_data.json · chars	Indra	インドラ	인드라	因陀羅	WARRIOR	fighter	MELEE	5	1-1/1-1/1-1	1205	
+dageda	达格达	char_157_dagda				MAA resource/battle_data.json · chars	Dagda	ダグザ	다그다	達格達	WARRIOR	fighter	MELEE	5	1-1/1-1/1-1	177	
+shoulinren	守林人	char_158_milu				MAA resource/battle_data.json · chars	Firewatch	ファイヤーウォッチ	파이어워치	守林人	SNIPER	longrange	RANGED	5	3-3/3-9/3-9	906	
+duanzuizhe	断罪者	char_159_peacok				MAA resource/battle_data.json · chars	Conviction	コンビクション	컨빅션	斷罪者	WARRIOR	fearless	MELEE	4	1-1/1-1/1-1	224	
+huoshen	火神	char_163_hpsts				MAA resource/battle_data.json · chars	Vulcan	ヴァルカン	벌컨	火神	TANK	unyield	MELEE	5	0-1/0-1/0-1	419	
+yemo	夜魔	char_164_nightm				MAA resource/battle_data.json · chars	Nightmare	ナイトメア	나이트메어	夜魔	CASTER	corecaster	RANGED	5	3-6/3-1/3-1	1160	
+tianhuo	天火	char_166_skfire				MAA resource/battle_data.json · chars	Skyfire	スカイフレア	스카이파이어	天火	CASTER	splashcaster	RANGED	5	2-3/3-6/3-6	967	
+huafalin	华法琳	char_171_bldsk				MAA resource/battle_data.json · chars	Warfarin	ワルファリン	와파린	華法琳	MEDIC	physician	RANGED	5	3-1/3-3/3-3	391	
+yinhui	银灰	char_172_svrash				MAA resource/battle_data.json · chars	SilverAsh	シルバーアッシュ	실버애쉬	銀灰	WARRIOR	lord	MELEE	6	2-3/3-12/3-12	1198	
+yaxin	崖心	char_173_slchan				MAA resource/battle_data.json · chars	Cliffheart	クリフハート	클리프하트	崖心	SPECIAL	hookmaster	MELEE	5	2-2/3-2/3-2	1153	
+chuxue	初雪	char_174_slbell				MAA resource/battle_data.json · chars	Pramanix	プラマニクス	프라마닉스	初雪	SUPPORT	underminer	RANGED	5	y-2/y-6/y-6	165	
+yeying	夜莺	char_179_cgbird				MAA resource/battle_data.json · chars	Nightingale	ナイチンゲール	나이팅게일	夜鶯	MEDIC	ringhealer	RANGED	6	y-1/y-2/y-2	1167	
+aiyafala	艾雅法拉	char_180_amgoat				MAA resource/battle_data.json · chars	Eyjafjalla	エイヤフィヤトラ	에이야퍄들라	艾雅法拉	CASTER	corecaster	RANGED	6	3-6/3-1/3-1	12	
+diaoxiangshi	调香师	char_181_flower				MAA resource/battle_data.json · chars	Perfumer	パフューマー	퍼퓨머	調香師	MEDIC	ringhealer	RANGED	4	y-1/y-2/y-2	975	
+diling	地灵	char_183_skgoat				MAA resource/battle_data.json · chars	Earthspirit	アーススピリット	어스스피릿	地靈	SUPPORT	slower	RANGED	4	y-2/y-2/y-2	212	
+musi	慕斯	char_185_frncat				MAA resource/battle_data.json · chars	Mousse	ムース	무스	慕斯	WARRIOR	artsfghter	MELEE	4	1-1/1-1/1-1	724	
+jiaweier	嘉维尔	char_187_ccheal				MAA resource/battle_data.json · chars	Gavial	ガヴィル	가비알	嘉維爾	MEDIC	physician	RANGED	4	3-1/3-3/3-3	457	
+helage	赫拉格	char_188_helage				MAA resource/battle_data.json · chars	Hellagur	ヘラグ	헬라그	赫拉格	WARRIOR	musha	MELEE	6	1-1/1-1/1-1	371	
+hongyun	红云	char_190_clour				MAA resource/battle_data.json · chars	Vermeil	ヴァーミル	버메일	紅雲	SNIPER	fastshot	RANGED	4	3-1/3-3/3-3	388	
+lingyu	翎羽	char_192_falco				MAA resource/battle_data.json · chars	Plume	プリュム	플룸	翎羽	PIONEER	charger	MELEE	3	1-1/1-1/1-1	620	
+shuangye	霜叶	char_193_frostl				MAA resource/battle_data.json · chars	Frostleaf	フロストリーフ	프로스트리프	霜葉	WARRIOR	lord	MELEE	4	2-3/3-12/3-12	913	
+liexia	烈夏	char_194_leto				MAA resource/battle_data.json · chars	Leto	リェータ	레토	烈夏	WARRIOR	lord	MELEE	5	2-3/3-12/3-12	608	
+zhenli	真理	char_195_glassb				MAA resource/battle_data.json · chars	Istina	イースチナ	이스티나	真理	SUPPORT	slower	RANGED	5	y-2/y-2/y-2	1315	
+gumi	古米	char_196_sunbr				MAA resource/battle_data.json · chars	Gummy	グム	굼	古米	TANK	guardian	MELEE	4	0-1/0-1/0-1	348	
+zaolu	早露	char_197_poca				MAA resource/battle_data.json · chars	Rosa	ロサ	로사	早露	SNIPER	siegesniper	RANGED	6	4-4/4-3/4-3	1278	
+xunshi	讯使	char_198_blackd				MAA resource/battle_data.json · chars	Courier	クーリエ	쿠리어	訊使	PIONEER	pioneer	MELEE	4	1-1/1-1/1-1	1118	
+jiaofeng	角峰	char_199_yak				MAA resource/battle_data.json · chars	Matterhorn	マッターホルン	마터호른	角峰	TANK	protector	MELEE	4	0-1/0-1/0-1	451	
+tifeng	提丰	char_2012_typhon				MAA resource/battle_data.json · chars	Typhon	ティフォン	티폰	提豐	SNIPER	siegesniper	RANGED	6	4-4/4-3/4-3	982	
+keebai	刻俄柏	char_2013_cerber			小刻	MAA resource/battle_data.json · chars	Ceobe	ケオベ	케오베	刻俄柏	CASTER	corecaster	RANGED	6	3-6/3-1/3-1	558	
+nian	年	char_2014_nian				MAA resource/battle_data.json · chars	Nian	ニェン	니엔	年	TANK	protector	MELEE	6	1-1/1-1/1-1	733	
+xi	夕	char_2015_dusk				MAA resource/battle_data.json · chars	Dusk	シー	시	夕	CASTER	splashcaster	RANGED	6	2-3/3-6/3-6	1037	
+kesong	可颂	char_201_moeshd				MAA resource/battle_data.json · chars	Croissant	クロワッサン	크루아상	可頌	TANK	protector	MELEE	5	0-1/0-1/0-1	563	
+ling	令	char_2023_ling	辅助；h12-4 案例核心干员，**模组把「弦惊」费用 23→18**	04/41e §7.53	令、令姐	MAA resource/battle_data.json · chars	Ling	リィン	링	令	SUPPORT	summoner	RANGED	6	3-6/3-1/3-1	614	
+chongyue	重岳	char_2024_chyue				MAA resource/battle_data.json · chars	Chongyue	チョンユエ	총웨	重岳	WARRIOR	fighter	MELEE	6	1-1/1-1/1-1	159	
+shu	黍	char_2025_shu	6★ 干员；同上排序样例（`char_202_demkni` < `char_2025_shu`）	01b §12.11	黍	MAA resource/battle_data.json · chars	Shu	シュウ	슈	黍	TANK	guardian	MELEE	6	0-1/0-1/0-1	908	
+yu	余	char_2026_yu				MAA resource/battle_data.json · chars	Yu	ユー	위	餘	TANK	primprotector	MELEE	6	0-1/0-1/0-1	1221	
+wang	望	char_2027_wang				MAA resource/battle_data.json · chars	Wang	ウァン	왕	望	SPECIAL	traper	RANGED	6	3-1/3-3/3-3	1002	
+saileiya	塞雷娅	char_202_demkni	6★ 重装；**待部署区排序样例**（ID 文本序 `_` < 数字）	01b §12.11	塞妈	MAA resource/battle_data.json · chars	Saria	サリア	사리아	塞雷婭	TANK	guardian	MELEE	6	0-1/0-1/0-1	822	
+baijin	白金	char_204_platnm				MAA resource/battle_data.json · chars	Platinum	プラチナ	플래티넘	白金	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	35	
+lingzhi	灵知	char_206_gnosis				MAA resource/battle_data.json · chars	Gnosis	ノーシス	노시스	靈知	SUPPORT	underminer	RANGED	6	y-2/y-6/y-6	621	
+meilansha	玫兰莎	char_208_melan				MAA resource/battle_data.json · chars	Melantha	メランサ	멜란사	玫蘭莎	WARRIOR	fearless	MELEE	3	1-1/1-1/1-1	672	
+kati	卡缇	char_209_ardign				MAA resource/battle_data.json · chars	Cardigan	カーディ	카디건	卡緹	TANK	protector	MELEE	3	0-1/0-1/0-1	550	
+shidouhuade	史都华德	char_210_stward				MAA resource/battle_data.json · chars	Steward	スチュワード	스튜어드	史都華德	CASTER	corecaster	RANGED	3	3-6/3-1/3-6	880	
+andeqieer	安德切尔	char_211_adnach				MAA resource/battle_data.json · chars	Adnachiel	アドナキエル	아드나키엘	安德切爾	SNIPER	fastshot	RANGED	3	3-1/3-3/3-1	19	
+ansaier	安赛尔	char_212_ansel				MAA resource/battle_data.json · chars	Ansel	アンセル	안셀	安賽爾	MEDIC	physician	RANGED	3	3-1/3-3/3-1	22	
+mositima	莫斯提马	char_213_mostma				MAA resource/battle_data.json · chars	Mostima	モスティマ	모스티마	莫斯提馬	CASTER	splashcaster	RANGED	6	2-3/3-6/3-6	710	
+kafuka	卡夫卡	char_214_kafka				MAA resource/battle_data.json · chars	Kafka	カフカ	카프카	卡夫卡	SPECIAL	executor	MELEE	5	1-1/1-1/1-1	540	
+shixie	狮蝎	char_215_mantic				MAA resource/battle_data.json · chars	Manticore	マンティコア	맨티코어	獅蠍	SPECIAL	stalker	MELEE	5	y-1/y-1/y-1	899	
+anzhela	安哲拉	char_218_cuttle				MAA resource/battle_data.json · chars	Andreana	アンドレアナ	안드레아나	安哲拉	SNIPER	longrange	RANGED	5	3-3/3-9/3-9	24	
+yunxing	陨星	char_219_meteo				MAA resource/battle_data.json · chars	Meteorite	メテオリーテ	메테오라이트	隕星	SNIPER	aoesniper	RANGED	5	3-3/3-8/3-10	1269	
+gelani	格拉尼	char_220_grani				MAA resource/battle_data.json · chars	Grani	グラニ	그라니	格拉尼	PIONEER	charger	MELEE	5	1-1/1-1/1-1	323	
+fengdi	风笛	char_222_bpipe				MAA resource/battle_data.json · chars	Bagpipe	バグパイプ	백파이프	風笛	PIONEER	charger	MELEE	6	1-1/1-1/1-1	276	
+a	阿	char_225_haak				MAA resource/battle_data.json · chars	Aak	ア	아	阿	SPECIAL	geek	RANGED	6	3-1/3-3/3-3	0	
+hong	吽	char_226_hmau				MAA resource/battle_data.json · chars	Hung	ウン	훔	吽	TANK	guardian	MELEE	5	0-1/0-1/0-1	380	
+baoxing	暴行	char_230_savage				MAA resource/battle_data.json · chars	Savage	サベージ	새비지	暴行	WARRIOR	centurion	MELEE	5	1-1/1-1/1-1	59	
+jiexika	杰西卡	char_235_jesica				MAA resource/battle_data.json · chars	Jessica	ジェシカ	제시카	潔西卡	SNIPER	fastshot	RANGED	4	3-1/3-3/3-3	479	
+ansuo	暗索	char_236_rope				MAA resource/battle_data.json · chars	Rope	ロープ	로프	暗索	SPECIAL	hookmaster	MELEE	4	2-2/3-2/3-2	23	
+li	砾	char_237_gravel				MAA resource/battle_data.json · chars	Gravel	グラベル	그라벨	礫	SPECIAL	executor	MELEE	4	1-1/1-1/1-1	600	
+xiangcao	香草	char_240_wyvern				MAA resource/battle_data.json · chars	Vanilla	バニラ	바닐라	香草	PIONEER	pioneer	MELEE	3	1-1/1-1/1-1	1048	
+shitieshou	食铁兽	char_241_panda				MAA resource/battle_data.json · chars	FEater	エフイーター	에프이터	食鐵獸	SPECIAL	pusher	MELEE	5	1-1/1-1/1-1	897	
+meier	梅尔	char_242_otter				MAA resource/battle_data.json · chars	Mayer	メイヤー	메이어	梅爾	SUPPORT	summoner	RANGED	5	3-6/3-1/3-1	670	
+huaihu	槐琥	char_243_waaifu				MAA resource/battle_data.json · chars	Waai Fu	ワイフー	와이후	槐琥	SPECIAL	executor	MELEE	5	1-1/1-1/1-1	393	
+suxin	塑心	char_245_cello				MAA resource/battle_data.json · chars	Virtuosa	ヴィルトゥオーサ	비르투오사	塑心	SUPPORT	ritualist	RANGED	6	y-2/y-2/y-2	951	
+maizhelun	麦哲伦	char_248_mgllan				MAA resource/battle_data.json · chars	Magallan	マゼラン	마젤란	麥哲倫	SUPPORT	summoner	RANGED	6	3-6/3-1/3-1	664	
+mouersaisi	缪尔赛思	char_249_mlyss				MAA resource/battle_data.json · chars	Muelsyse	ミュルジス	뮤엘시스	繆爾賽思	PIONEER	tactician	RANGED	6	3-1/3-3/3-3	701	
+guiying	傀影	char_250_phatom				MAA resource/battle_data.json · chars	Phantom	ファントム	팬텀	傀影	SPECIAL	executor	MELEE	6	1-1/1-1/1-1	577	
+baihui	柏喙	char_252_bibeak				MAA resource/battle_data.json · chars	Bibeak	バイビーク	바이비크	柏喙	WARRIOR	sword	MELEE	5	1-1/1-1/1-1	34	
+geleiyi	格雷伊	char_253_greyy				MAA resource/battle_data.json · chars	Greyy	グレイ	그레이	格雷伊	CASTER	splashcaster	RANGED	4	2-3/3-6/3-6	326	
+wulian	巫恋	char_254_vodfox				MAA resource/battle_data.json · chars	Shamare	シャマレ	샤마르	巫戀	SUPPORT	underminer	RANGED	5	y-2/y-6/y-6	1027	
+bodengke	波登可	char_258_podego				MAA resource/battle_data.json · chars	Podenco	ポデンコ	포덴코	波登可	SUPPORT	slower	RANGED	4	y-2/y-2/y-2	96	
+jianlei	坚雷	char_260_durnar				MAA resource/battle_data.json · chars	Dur-nar	ジュナー	듀나	堅雷	TANK	artsprotector	MELEE	4	0-1/0-1/0-1	437	
+weicao	苇草	char_261_sddrag				MAA resource/battle_data.json · chars	Reed	リード	리드	葦草	PIONEER	charger	MELEE	5	1-1/1-1/1-1	1004	
+sikadi	斯卡蒂	char_263_skadi				MAA resource/battle_data.json · chars	Skadi	スカジ	스카디	斯卡蒂	WARRIOR	fearless	MELEE	6	1-1/1-1/1-1	924	
+shan	山	char_264_f12yin	近卫；讲座里讨论"技能期间控制覆盖率"的干员	22a §1.1 (T2)	山	MAA resource/battle_data.json · chars	Mountain	マウンテン	마운틴	山	WARRIOR	fighter	MELEE	6	1-1/1-1/1-1	833	
+bianren	鞭刃	char_265_sophia				MAA resource/battle_data.json · chars	Whislash	ウィスラッシュ	위슬래시	鞭刃	WARRIOR	instructor	MELEE	5	2-2/2-2/2-2	74	
+fangting	芳汀	char_271_spikes				MAA resource/battle_data.json · chars	Arene	アレーン	아렌	芳汀	WARRIOR	lord	MELEE	4	2-3/3-12/3-12	242	
+jie	孑	char_272_strong				MAA resource/battle_data.json · chars	Jaye	ジェイ	제이	孑	SPECIAL	merchant	MELEE	4	1-1/1-1/1-1	470	
+xingji	星极	char_274_astesi				MAA resource/battle_data.json · chars	Astesia	アステシア	아스테시아	星極	WARRIOR	artsfghter	MELEE	5	1-1/1-1/1-1	1080	
+weifeng	微风	char_275_breeze				MAA resource/battle_data.json · chars	Breeze	ブリーズ	브리즈	微風	MEDIC	ringhealer	RANGED	5	y-1/y-2/y-2	1007	
+axiao	阿消	char_277_sqrrel				MAA resource/battle_data.json · chars	Shaw	ショウ	쇼	阿消	SPECIAL	pusher	MELEE	4	1-1/1-1/1-1	30	
+zilan	梓兰	char_278_orchid				MAA resource/battle_data.json · chars	Orchid	オーキッド	오키드	梓蘭	SUPPORT	slower	RANGED	3	y-2/y-2/y-2	1355	
+songzangren	送葬人	char_279_excu				MAA resource/battle_data.json · chars	Executor	イグゼキュター	이그제큐터	送葬人	SNIPER	reaperrange	RANGED	5	2-4/2-5/2-5	932	
+paopuka	泡普卡	char_281_popka				MAA resource/battle_data.json · chars	Popukar	ポプカル	포푸카	泡普卡	WARRIOR	centurion	MELEE	3	1-1/1-1/1-1	755	
+kongbao	空爆	char_282_catap				MAA resource/battle_data.json · chars	Catapult	カタパルト	캐터펄트	空爆	SNIPER	aoesniper	RANGED	3	3-3/3-8/3-3	566	
+yuejianye	月见夜	char_283_midn				MAA resource/battle_data.json · chars	Midnight	ミッドナイト	미드나이트	月見夜	WARRIOR	lord	MELEE	3	2-3/3-12/2-3	1257	
+bandian	斑点	char_284_spot				MAA resource/battle_data.json · chars	Spot	スポット	스팟	斑點	TANK	guardian	MELEE	3	0-1/0-1/0-1	43	
+lancet2	Lancet-2	char_285_medic2				MAA resource/battle_data.json · chars	Lancet-2	Lancet-2	Lancet-2	Lancet-2	MEDIC	physician	RANGED	1	3-1/3-1/3-1	584	非中文名（拼音列填小写原名，只为统一检索）
+castle3	Castle-3	char_286_cast3				MAA resource/battle_data.json · chars	Castle-3	Castle-3	Castle-3	Castle-3	WARRIOR	fearless	MELEE	1	1-1/1-1/1-1	128	非中文名（拼音列填小写原名，只为统一检索）
+chanwan	缠丸	char_289_gyuki				MAA resource/battle_data.json · chars	Matoimaru	マトイマル	마토이마루	纏丸	WARRIOR	fearless	MELEE	4	1-1/1-1/1-1	132	
+hongdou	红豆	char_290_vigna				MAA resource/battle_data.json · chars	Vigna	ヴィグナ	비그나	紅豆	PIONEER	charger	MELEE	4	1-1/1-1/1-1	382	
+anjielina	安洁莉娜	char_291_aglina				MAA resource/battle_data.json · chars	Angelina	アンジェリーナ	안젤리나	安潔莉娜	SUPPORT	slower	RANGED	6	y-2/y-2/y-2	20	
+jici	棘刺	char_293_thorns				MAA resource/battle_data.json · chars	Thorns	ソーンズ	쏜즈	棘刺	WARRIOR	lord	MELEE	6	2-3/3-12/3-12	463	
+duanya	断崖	char_294_ayer				MAA resource/battle_data.json · chars	Ayerscarpe	エアースカーペ	에이어스카르페	斷崖	WARRIOR	lord	MELEE	5	2-3/3-12/3-12	223	
+hexian	和弦	char_297_hamoni				MAA resource/battle_data.json · chars	Harmonie	ハーモニー	아르모니	和弦	CASTER	mystic	RANGED	5	3-13/3-14/3-14	376	
+susuluo	苏苏洛	char_298_susuro				MAA resource/battle_data.json · chars	Sussurro	ススーロ	수수로	蘇蘇洛	MEDIC	physician	RANGED	4	3-1/3-3/3-3	950	
+feiyameita	菲亚梅塔	char_300_phenxi			肥鸭	MAA resource/battle_data.json · chars	Fiammetta	フィアメッタ	피아메타	菲亞梅塔	SNIPER	aoesniper	RANGED	6	3-3/3-8/3-10	273	
+kedao	刻刀	char_301_cutter				MAA resource/battle_data.json · chars	Cutter	カッター	커터	刻刀	WARRIOR	sword	MELEE	4	1-1/1-1/1-1	557	
+anbier	安比尔	char_302_glaze				MAA resource/battle_data.json · chars	Ambriel	アンブリエル	엠브리엘	安比爾	SNIPER	longrange	RANGED	4	3-3/3-9/3-9	18	
+baoyu	暴雨	char_304_zebra				MAA resource/battle_data.json · chars	Heavyrain	ヘビーレイン	헤비레인	暴雨	TANK	protector	MELEE	5	0-1/0-1/0-1	60	
+jingzhe	惊蛰	char_306_leizi				MAA resource/battle_data.json · chars	Leizi	レイズ	레이즈	驚蟄	CASTER	chain	RANGED	5	3-6/3-1/3-1	507	
+shihuaiya	诗怀雅	char_308_swire				MAA resource/battle_data.json · chars	Swire	スワイヤー	스와이어	詩懷雅	WARRIOR	instructor	MELEE	5	2-2/2-2/2-2	883	
+niyan	泥岩	char_311_mudrok				MAA resource/battle_data.json · chars	Mudrock	マドロック	머드락	泥岩	TANK	unyield	MELEE	6	1-1/1-1/1-1	742	
+laoli	老鲤	char_322_lmlee				MAA resource/battle_data.json · chars	Lee	リー	리	老鯉	SPECIAL	merchant	MELEE	6	1-1/1-1/1-1	589	
+baisong	拜松	char_325_bison				MAA resource/battle_data.json · chars	Bison	バイソン	바이슨	拜松	TANK	protector	MELEE	5	0-1/0-1/0-1	38	
+gelaokesi	格劳克斯	char_326_glacus				MAA resource/battle_data.json · chars	Glaucus	グラウコス	글라우쿠스	格勞克斯	SUPPORT	slower	RANGED	5	y-2/y-2/y-2	324	
+kada	卡达	char_328_cammou				MAA resource/battle_data.json · chars	Click	カシャ	클릭	卡達	CASTER	funnel	RANGED	4	3-6/3-1/3-1	539	
+kongxian	空弦	char_332_archet				MAA resource/battle_data.json · chars	Archetto	アルケット	아르케토	空弦	SNIPER	fastshot	RANGED	6	3-1/3-3/3-3	570	
+zhutie	铸铁	char_333_sidero				MAA resource/battle_data.json · chars	Sideroca	シデロカ	시데로카	鑄鐵	WARRIOR	artsfghter	MELEE	5	1-1/1-1/1-1	1353	
+xiyin	稀音	char_336_folivo				MAA resource/battle_data.json · chars	Scene	シーン	씬	稀音	SUPPORT	summoner	RANGED	5	3-6/3-1/3-1	1098	
+yan	宴	char_337_utage				MAA resource/battle_data.json · chars	Utage	ウタゲ	우타게	宴	WARRIOR	musha	MELEE	4	1-1/1-1/1-1	1130	
+ailisi	爱丽丝	char_338_iris				MAA resource/battle_data.json · chars	Iris	アイリス	아이리스	愛麗絲	CASTER	mystic	RANGED	5	3-13/3-14/3-14	10	
+hei	黑	char_340_shwaz				MAA resource/battle_data.json · chars	Schwarz	シュヴァルツ	슈바르츠	黑	SNIPER	closerange	RANGED	6	2-3/3-6/3-6	367	
+hantan	寒檀	char_341_sntlla				MAA resource/battle_data.json · chars	Santalla	サンタラ	산탈라	寒檀	CASTER	splashcaster	RANGED	5	2-3/3-6/3-6	360	
+yuehe	月禾	char_343_tknogi				MAA resource/battle_data.json · chars	Tsukinogi	ツキノギ	츠키노기	月禾	SUPPORT	blessing	RANGED	5	y-2/y-6/y-6	1256	
+mila	蜜蜡	char_344_beewax				MAA resource/battle_data.json · chars	Beeswax	ビーズワクス	비즈왁스	蜜蠟	CASTER	phalanx	RANGED	5	x-4/x-1/x-1	689	
+yaye	亚叶	char_345_folnic				MAA resource/battle_data.json · chars	Folinic	フォリニック	폴리닉	亞葉	MEDIC	physician	RANGED	5	3-1/3-3/3-3	1154	
+aosita	奥斯塔	char_346_aosta				MAA resource/battle_data.json · chars	Aosta	アオスタ	아오스타	奥斯塔	SNIPER	reaperrange	RANGED	5	2-4/2-5/2-5	28	
+jieke	杰克	char_347_jaksel				MAA resource/battle_data.json · chars	Jackie	ジャッキー	재키	傑克	WARRIOR	fighter	MELEE	4	1-1/1-1/1-1	477	
+xilan	锡兰	char_348_ceylon				MAA resource/battle_data.json · chars	Ceylon	セイロン	실론	錫蘭	MEDIC	healer	RANGED	5	3-3/3-4/3-4	1076	
+jiawei	贾维	char_349_chiave	干员；**prefab 碰撞半径 0.25 的验证样例**（`m_Radius`）	04/16 §	贾维	MAA resource/battle_data.json · chars	Chiave	キアーベ	키아베	賈維	PIONEER	pioneer	MELEE	5	1-1/1-1/1-1	456	
+shierteer	史尔特尔	char_350_surtr			42	MAA resource/battle_data.json · chars	Surtr	スルト	수르트	史爾特爾	WARRIOR	artsfghter	MELEE	6	1-1/1-1/1-1	881	
+yisang	伊桑	char_355_ethan				MAA resource/battle_data.json · chars	Ethan	イーサン	에단	伊桑	SPECIAL	stalker	MELEE	4	y-1/y-1/y-1	1209	
+buluoka	布洛卡	char_356_broca				MAA resource/battle_data.json · chars	Broca	ブローカ	브로카	布洛卡	WARRIOR	centurion	MELEE	5	1-1/1-1/1-1	118	
+linglan	铃兰	char_358_lisa				MAA resource/battle_data.json · chars	Suzuran	スズラン	스즈란	鈴蘭	SUPPORT	slower	RANGED	6	y-2/y-2/y-2	617	
+cuoe	嵯峨	char_362_saga				MAA resource/battle_data.json · chars	Saga	サガ	사가	嵯峨	PIONEER	pioneer	MELEE	6	1-1/1-1/1-1	174	
+rongquan	熔泉	char_363_toddi				MAA resource/battle_data.json · chars	Toddifons	トギフォンス	토디폰스	熔泉	SNIPER	siegesniper	RANGED	5	4-4/4-3/4-3	813	
+siyue	四月	char_365_aprl				MAA resource/battle_data.json · chars	April	エイプリル	에이프릴	四月	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	929	
+suantang	酸糖	char_366_acdrop				MAA resource/battle_data.json · chars	Aciddrop	アシッドドロップ	애시드드롭	酸糖	SNIPER	closerange	RANGED	4	2-3/3-6/3-6	936	
+huihou	灰喉	char_367_swllow				MAA resource/battle_data.json · chars	GreyThroat	グレースロート	그레이스롯	灰喉	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	407	
+beina	贝娜	char_369_bena				MAA resource/battle_data.json · chars	Bena	ベナ	베나	貝娜	SPECIAL	dollkeeper	MELEE	5	1-1/1-1/1-1	62	
+laienhate	莱恩哈特	char_373_lionhd				MAA resource/battle_data.json · chars	Leonhardt	レオンハルト	레온하르트	萊恩哈特	CASTER	splashcaster	RANGED	5	2-3/3-6/3-6	581	
+thrmex	THRM-EX	char_376_therex				MAA resource/battle_data.json · chars	THRM-EX	THRM-EX	THRM-EX	THRM-EX	SPECIAL	executor	MELEE	1	x-4/x-4/x-4	964	非中文名（拼音列填小写原名，只为统一检索）
+chengshan	澄闪	char_377_gdglow				MAA resource/battle_data.json · chars	Goldenglow	ゴールデングロー	골든글로우	澄閃	CASTER	funnel	RANGED	6	3-6/3-1/3-1	146	
+shimian	石棉	char_378_asbest				MAA resource/battle_data.json · chars	Asbestos	アスベストス	아스베스토스	石棉	TANK	artsprotector	MELEE	5	0-1/0-1/0-1	888	
+shesha	慑砂	char_379_sesa				MAA resource/battle_data.json · chars	Sesa	シェーシャ	세사	懾砂	SNIPER	aoesniper	RANGED	5	3-3/3-8/3-10	871	
+paopao	泡泡	char_381_bubble				MAA resource/battle_data.json · chars	Bubble	バブル	버블	泡泡	TANK	protector	MELEE	4	0-1/0-1/0-1	754	
+xuezhi	雪雉	char_383_snsant				MAA resource/battle_data.json · chars	Snowsant	スノーズント	스노우상트	雪雉	SPECIAL	hookmaster	MELEE	5	2-2/3-2/3-2	1108	
+qingliu	清流	char_385_finlpp				MAA resource/battle_data.json · chars	Purestream	セイリュウ	퓨어스트림	清流	MEDIC	healer	RANGED	4	3-3/3-4/3-4	780	
+	薄绿	char_388_mint				MAA resource/battle_data.json · chars	Mint	ミント	민트	薄綠	CASTER	phalanx	RANGED	5	x-4/x-1/x-1	98	拼音待核
+midiexiang	迷迭香	char_391_rosmon				MAA resource/battle_data.json · chars	Rosmontis	ロスモンティス	로즈몬티스	迷迭香	SNIPER	bombarder	RANGED	6	3-3/3-9/3-9	684	
+hadiya	哈蒂娅	char_394_hadiya				MAA resource/battle_data.json · chars	Hadiya	ハディヤ	하디야	哈蒂婭	WARRIOR	mercenary	MELEE	5	1-1/1-1/1-1	351	
+zhengyiqishihao	正义骑士号	char_4000_jnight				MAA resource/battle_data.json · chars	'Justice Knight'	ジャスティスナイト	저스티스 나이트	正義騎士號	SNIPER	fastshot	RANGED	1	3-1/3-1/3-1	1312	
+buding	布丁	char_4004_pudd				MAA resource/battle_data.json · chars	Pudding	プリン	푸딩	布丁	CASTER	chain	RANGED	4	3-6/3-1/3-1	102	
+meila	玫拉	char_4006_melnte				MAA resource/battle_data.json · chars	Melanite	メラナイト	멜라나이트	玫拉	SNIPER	closerange	RANGED	5	2-3/3-6/3-6	671	
+ailini	艾丽妮	char_4009_irene				MAA resource/battle_data.json · chars	Irene	アイリーニ	아이린	艾麗妮	WARRIOR	sword	MELEE	6	1-1/1-1/1-1	9	
+wendi	温蒂	char_400_weedy				MAA resource/battle_data.json · chars	Weedy	ウィーディ	위디	溫蒂	SPECIAL	pusher	MELEE	6	1-1/1-1/1-1	1018	
+yindelaixi	隐德来希	char_4010_etlchi				MAA resource/battle_data.json · chars	Entelechia	エンテレケイア	엔텔레키아	隱德來希	WARRIOR	reaper	MELEE	6	1-3/1-3/1-3	1180	
+zhisong	止颂	char_4011_lessng				MAA resource/battle_data.json · chars	Lessing	レッシング	레싱	止頌	WARRIOR	fearless	MELEE	6	1-1/1-1/1-1	1335	
+yela	耶拉	char_4013_kjera				MAA resource/battle_data.json · chars	Kjera	イェラ	쉐라	耶拉	CASTER	funnel	RANGED	5	3-6/3-1/3-1	1158	
+ziyue	子月	char_4014_lunacu				MAA resource/battle_data.json · chars	Lunacub	ルナカブ	루나컵	子月	SNIPER	longrange	RANGED	5	3-3/3-9/3-9	1360	
+konggou	空构	char_4015_spuria				MAA resource/battle_data.json · chars	Spuria	スプリア	스푸리아	空構	SPECIAL	geek	RANGED	5	3-1/3-3/3-3	567	
+fengwan	风丸	char_4016_kazema				MAA resource/battle_data.json · chars	Kazemaru	カゼマル	카제마루	風丸	SPECIAL	dollkeeper	MELEE	5	1-1/1-1/1-1	282	
+mitu	谜图	char_4017_puzzle				MAA resource/battle_data.json · chars	Puzzle	パズル	퍼즐	謎圖	PIONEER	agent	MELEE	5	2-2/2-2/2-2	700	
+jiuselu	九色鹿	char_4019_ncdeer				MAA resource/battle_data.json · chars	Nine-Colored Deer	九色鹿	나인컬러드 디어	九色鹿	SUPPORT	blessing	RANGED	5	y-2/y-6/y-6	520	
+jijing	极境	char_401_elysm				MAA resource/battle_data.json · chars	Elysium	エリジウム	엘리시움	極境	PIONEER	bearer	MELEE	5	1-1/1-1/1-1	486	
+hongsun	红隼	char_4023_rfalcn				MAA resource/battle_data.json · chars	Kestrel	ケストレル	케스트럴	紅隼	PIONEER	pioneer	MELEE	5	1-1/1-1/1-1	385	
+muluo	暮落	char_4025_aprot2				MAA resource/battle_data.json · chars	Shalem	シャレム	샬렘	暮落	TANK	artsprotector	MELEE	5	0-1/0-1/0-1	720	
+rendong	忍冬	char_4026_vulpis				MAA resource/battle_data.json · chars	Vulpisfoglia	ウルピスフォリア	불피스폴리아	忍冬	PIONEER	pioneer	MELEE	6	1-1/1-1/1-1	810	
+huoerhaiya	霍尔海雅	char_4027_heyak				MAA resource/battle_data.json · chars	Ho'olheyak	ホルハイヤ	오올헤약	霍爾海雅	CASTER	corecaster	RANGED	6	3-6/3-1/3-1	415	
+tuye	图耶	char_402_tuye				MAA resource/battle_data.json · chars	Tuye	トゥイエ	투예	圖耶	MEDIC	physician	RANGED	5	3-1/3-3/3-3	996	
+fuzou	复奏	char_4031_liesel				MAA resource/battle_data.json · chars	Ripresa	リプレーザ	리프레사	复奏	CASTER	splashcaster	RANGED	5	2-3/3-6/3-6	300	
+danshu	但书	char_4032_provs				MAA resource/battle_data.json · chars	Proviso	プロヴァイゾ	프로바이조	但書	SUPPORT	slower	RANGED	5	y-2/y-2/y-2	186	
+jianxingzhe	见行者	char_4036_forcer				MAA resource/battle_data.json · chars	Enforcer	エンフォーサー	인포서	見行者	SPECIAL	pusher	MELEE	5	1-1/1-1/1-1	443	
+beiluonei	贝洛内	char_4037_demetr				MAA resource/battle_data.json · chars	Bellone	ベッローネ	벨로네	贝洛内	WARRIOR	fighter	MELEE	6	1-1/1-1/1-1	61	
+haojiao	号角	char_4039_horn				MAA resource/battle_data.json · chars	Horn	ホルン	혼	號角	TANK	fortress	MELEE	6	4-5/4-5/4-6	362	
+luoluo	洛洛	char_4040_rockr				MAA resource/battle_data.json · chars	Rockrock	ロックロック	락락	洛洛	CASTER	funnel	RANGED	5	3-6/3-1/3-1	651	
+heguo	褐果	char_4041_chnut				MAA resource/battle_data.json · chars	Chestnut	チェストナット	체스트넛	褐果	MEDIC	wandermedic	RANGED	4	3-3/3-17/3-17	366	
+liuming	流明	char_4042_lumen				MAA resource/battle_data.json · chars	Lumen	ルーメン	루멘	流明	MEDIC	healer	RANGED	6	3-3/3-4/3-4	630	
+ailatuo	埃拉托	char_4043_erato				MAA resource/battle_data.json · chars	Erato	エラト	에라토	埃拉托	SNIPER	siegesniper	RANGED	5	4-4/4-3/4-3	8	
+haidi	海蒂	char_4045_heidi				MAA resource/battle_data.json · chars	Heidi	ハイディ	하이디	海蒂	SUPPORT	bard	RANGED	5	x-4/x-1/x-1	352	
+heijian	黑键	char_4046_ebnhlz				MAA resource/battle_data.json · chars	Ebenholz	エーベンホルツ	에벤홀츠	黑鍵	CASTER	mystic	RANGED	6	3-13/3-14/3-14	368	
+cheerni	车尔尼	char_4047_pianst				MAA resource/battle_data.json · chars	Czerny	ツェルニー	체르니	車爾尼	TANK	artsprotector	MELEE	5	0-1/0-1/0-1	136	
+duoluoxi	多萝西	char_4048_doroth				MAA resource/battle_data.json · chars	Dorothy	ドロシー	도로시	多蘿西	SPECIAL	traper	RANGED	6	3-1/3-3/3-3	233	
+xielv	协律	char_4051_akkord				MAA resource/battle_data.json · chars	Akkord	アコルト	아코르트	協律	CASTER	blastcaster	RANGED	4	4-1/5-1/5-1	1069	
+xunlan	寻澜	char_4052_surfer				MAA resource/battle_data.json · chars	Surfer	サーファー	서퍼	尋瀾	PIONEER	agent	MELEE	5	2-2/2-2/2-2	1116	
+zhijian	至简	char_4054_malist				MAA resource/battle_data.json · chars	Minimalist	ミニマリスト	미니멀리스트	至簡	CASTER	funnel	RANGED	5	3-6/3-1/3-1	1322	
+hongxue	鸿雪	char_4055_bgsnow				MAA resource/battle_data.json · chars	Pozëmka	パゼオンカ	파죰카	鴻雪	SNIPER	closerange	RANGED	6	2-3/3-6/3-6	387	
+titi	缇缇	char_4056_titi				MAA resource/battle_data.json · chars	Titi	ティティ	티티	緹緹	MEDIC	incantationmedic	RANGED	6	3-1/3-3/3-3	984	
+peipei	佩佩	char_4058_pepe				MAA resource/battle_data.json · chars	Pepe	ペペ	페페	佩佩	WARRIOR	hammer	MELEE	6	1-1/1-1/1-1	761	
+kuai	苦艾	char_405_absin				MAA resource/battle_data.json · chars	Absinthe	アブサント	압생트	苦艾	CASTER	corecaster	RANGED	5	3-6/3-1/3-1	574	
+qianhuai	铅踝	char_4062_totter				MAA resource/battle_data.json · chars	Totter	トター	토터	鉛踝	SNIPER	siegesniper	RANGED	4	4-4/4-3/4-3	773	
+shiying	石英	char_4063_quartz				MAA resource/battle_data.json · chars	Quartz	クォーツ	쿼츠	石英	WARRIOR	crusher	MELEE	4	1-1/1-1/1-1	903	
+maenna	玛恩纳	char_4064_mlynar			叔叔	MAA resource/battle_data.json · chars	Młynar	ムリナール	무에나	瑪恩納	WARRIOR	librator	MELEE	6	1-2/1-2/1-2	658	
+chizui	斥罪	char_4065_judge				MAA resource/battle_data.json · chars	Penance	ペナンス	페넌스	斥罪	TANK	unyield	MELEE	6	1-1/1-1/1-1	156	
+haimo	海沫	char_4066_highmo				MAA resource/battle_data.json · chars	Highmore	ハイモア	하이모어	海沫	WARRIOR	reaper	MELEE	5	1-3/1-3/1-3	354	
+luoxiaohei	罗小黑	char_4067_lolxh				MAA resource/battle_data.json · chars	Luo Xiaohei	羅小黒	나소흑	羅小黑	WARRIOR	lord	MELEE	4	2-3/3-12/3-12	653	
+mingjiao	明椒	char_4071_peper				MAA resource/battle_data.json · chars	Paprika	パプリカ	파프리카	明椒	MEDIC	chainhealer	RANGED	5	y-1/y-2/y-2	695	
+baitie	白铁	char_4072_ironmn				MAA resource/battle_data.json · chars	Stainless	ステインレス	스테인리스	白鐵	SUPPORT	craftsman	MELEE	6	1-1/1-1/1-1	39	
+tailadaludiaochatuan	泰拉大陆调查团	char_4077_palico				MAA resource/battle_data.json · chars	Terra Research Commission	テラ大陸調査団	테라 대륙 조사단	泰拉大陸調查團	SNIPER	bombarder	RANGED	1	3-3/3-3/3-3	952	
+jieyun	截云	char_4078_bdhkgt				MAA resource/battle_data.json · chars	Jieyun	ジエユン	지에윈	截雲	SNIPER	aoesniper	RANGED	5	3-3/3-8/3-10	480	
+haini	海霓	char_4079_haini				MAA resource/battle_data.json · chars	Lucilla	ルシーラ	루실라	海霓	SUPPORT	underminer	RANGED	5	y-2/y-6/y-6	355	
+lin	林	char_4080_lin				MAA resource/battle_data.json · chars	Lin	リン	린	林	CASTER	phalanx	RANGED	6	x-4/x-1/x-1	611	
+wenmi	温米	char_4081_warmy				MAA resource/battle_data.json · chars	Warmy	ウォーミー	워미	溫米	CASTER	primcaster	RANGED	5	3-6/3-1/3-1	1022	
+choubai	仇白	char_4082_qiubai				MAA resource/battle_data.json · chars	Qiubai	チューバイ	치우바이	仇白	WARRIOR	lord	MELEE	6	2-3/3-12/3-12	790	
+duoling	铎铃	char_4083_chimes				MAA resource/battle_data.json · chars	Wind Chimes	ウィンドチャイム	윈드차임스	鐸鈴	WARRIOR	crusher	MELEE	5	1-1/1-1/1-1	232	
+yineisi	伊内丝	char_4087_ines				MAA resource/battle_data.json · chars	Ines	イネス	이네스	伊內絲	PIONEER	agent	MELEE	6	2-2/2-2/2-2	1181	
+hedelei	赫德雷	char_4088_hodrer				MAA resource/battle_data.json · chars	Hoederer	ヘドリー	외드레르	赫德雷	WARRIOR	crusher	MELEE	6	1-1/1-1/1-1	365	
+uofficial	U-Official	char_4091_ulika				MAA resource/battle_data.json · chars	U-Official	U-Official	U-Official	U-Official	SUPPORT	bard	RANGED	1	x-4/x-4/x-4	998	非中文名（拼音列填小写原名，只为统一检索）
+friston3	Friston-3	char_4093_frston				MAA resource/battle_data.json · chars	Friston-3	Friston-3	Friston-3	Friston-3	TANK	protector	MELEE	1	0-1/0-1/0-1	294	非中文名（拼音列填小写原名，只为统一检索）
+weiweianna	薇薇安娜	char_4098_vvana				MAA resource/battle_data.json · chars	Viviana	ヴィヴィアナ	비비아나	薇薇安娜	WARRIOR	artsfghter	MELEE	6	1-1/1-1/1-1	1012	
+yueyue	跃跃	char_4100_caper				MAA resource/battle_data.json · chars	Caper	ケイパー	케이퍼	躍躍	SNIPER	loopshooter	RANGED	4	3-3/y-7/y-7	1259	
+linshi	凛视	char_4102_threye				MAA resource/battle_data.json · chars	Valarqvin	ヴァラルクビン	발라크빈	凜視	SUPPORT	ritualist	RANGED	5	y-2/y-2/y-2	624	
+bingniang	冰酿	char_4104_coldst				MAA resource/battle_data.json · chars	Coldshot	コールドショット	콜드샷	冰釀	SNIPER	hunter	RANGED	5	3-12/4-9/4-9	89	
+xingren	杏仁	char_4105_almond				MAA resource/battle_data.json · chars	Almond	アーモンド	아몬드	杏仁	SPECIAL	hookmaster	MELEE	5	2-2/3-2/3-2	1081	
+cangtai	苍苔	char_4106_bryota				MAA resource/battle_data.json · chars	Bryophyta	ブライオファイタ	브라이오피타	蒼苔	WARRIOR	instructor	MELEE	5	2-2/2-2/2-2	125	
+weidi	维荻	char_4107_vrdant				MAA resource/battle_data.json · chars	Verdant	ヴァーダント	버던트	維荻	SPECIAL	dollkeeper	MELEE	4	1-1/1-1/1-1	1005	
+shenlv	深律	char_4109_baslin				MAA resource/battle_data.json · chars	Bassline	ベースライン	베이스라인	深律	TANK	guardian	MELEE	5	0-1/0-1/0-1	868	
+daifeien	戴菲恩	char_4110_delphn				MAA resource/battle_data.json · chars	Delphine	デルフィーン	델핀	戴菲恩	CASTER	mystic	RANGED	5	3-13/3-14/3-14	180	
+haluode	哈洛德	char_4114_harold				MAA resource/battle_data.json · chars	Harold	ハロルド	해럴드	哈洛德	MEDIC	wandermedic	RANGED	5	3-3/3-17/3-17	356	
+jian	锏	char_4116_blkkgt				MAA resource/battle_data.json · chars	Degenbrecher	デーゲンブレヒャー	데겐블레허	鐧	WARRIOR	sword	MELEE	6	1-1/1-1/1-1	425	
+laiyi	莱伊	char_4117_ray	狙击；讲座里"镜像力转换力度 −1"的特例干员	26b (T2)	莱伊	MAA resource/battle_data.json · chars	Ray	レイ	레이	萊伊	SNIPER	hunter	RANGED	6	3-12/4-9/4-9	583	
+wanqing	万顷	char_4119_wanqin				MAA resource/battle_data.json · chars	Wanqing	ワンチィン	완칭	萬頃	PIONEER	bearer	MELEE	5	1-1/1-1/1-1	1003	
+temimi	特米米	char_411_tomimi				MAA resource/battle_data.json · chars	Tomimi	トミミ	토미미	特米米	CASTER	corecaster	RANGED	5	3-6/3-1/3-1	960	
+zuole	左乐	char_4121_zuole				MAA resource/battle_data.json · chars	Zuo Le	ズオ・ラウ	좌락	左樂	WARRIOR	musha	MELEE	6	1-1/1-1/1-1	1368	
+xiaoman	小满	char_4122_grabds				MAA resource/battle_data.json · chars	Grain Buds	グレインバッズ	그레인버즈	小滿	SUPPORT	slower	RANGED	5	y-2/y-2/y-2	1061	
+aila	艾拉	char_4123_ela				MAA resource/battle_data.json · chars	Ela	Ela	Ela	ELA	SPECIAL	traper	RANGED	6	3-1/3-3/3-3	7	
+shuangyue	双月	char_4124_iana				MAA resource/battle_data.json · chars	Iana	Iana	Iana	IANA	SPECIAL	dollkeeper	MELEE	5	1-1/1-1/1-1	914	
+yisheng	医生	char_4125_rdoc				MAA resource/battle_data.json · chars	Doc	Doc	Doc	DOC	WARRIOR	instructor	MELEE	5	2-2/2-2/2-2	1210	
+daohuosuo	导火索	char_4126_fuze				MAA resource/battle_data.json · chars	Fuze	Fuze	Fuze	FUZE	WARRIOR	centurion	MELEE	5	1-1/1-1/1-1	193	
+lutuo	露托	char_4130_luton				MAA resource/battle_data.json · chars	Lutonada	ルトナダ	루토나다	露托	TANK	unyield	MELEE	4	0-1/0-1/0-1	655	
+aoda	奥达	char_4131_odda				MAA resource/battle_data.json · chars	Odda	オッダ	오다	奧達	WARRIOR	hammer	MELEE	5	1-1/1-1/1-1	25	
+asikalun	阿斯卡纶	char_4132_ascln				MAA resource/battle_data.json · chars	Ascalon	アスカロン	아스카론	阿斯卡綸	SPECIAL	stalker	MELEE	6	y-1/y-1/y-1	29	
+luogesi	逻各斯	char_4133_logos				MAA resource/battle_data.json · chars	Logos	ロゴス	로고스	邏各斯	CASTER	corecaster	RANGED	6	3-6/3-1/3-1	650	
+mowang	魔王	char_4134_cetsyr				MAA resource/battle_data.json · chars	Civilight Eterna	シヴィライト・エテルナ	시빌라이트 에테르나	魔王	SUPPORT	bard	RANGED	6	x-4/x-1/x-1	711	
+phonor0	PhonoR-0	char_4136_phonor				MAA resource/battle_data.json · chars	PhonoR-0	PhonoR-0	PhonoR-0	PhonoR-0	SUPPORT	ritualist	RANGED	1	y-2/y-2/y-2	765	非中文名（拼音列填小写原名，只为统一检索）
+shenxun	深巡	char_4137_udflow				MAA resource/battle_data.json · chars	Underflow	アンダーフロー	언더플로우	深巡	TANK	shotprotector	MELEE	5	2-2/2-2/2-2	870	
+narentuya	娜仁图亚	char_4138_narant				MAA resource/battle_data.json · chars	Narantuya	ナラントゥヤ	나란투야	娜仁圖亞	SNIPER	loopshooter	RANGED	6	3-3/y-7/y-7	725	
+suocao	莎草	char_4139_papyrs				MAA resource/battle_data.json · chars	Papyrus	パピルス	파피루스	莎草	MEDIC	chainhealer	RANGED	5	y-1/y-2/y-2	949	
+hengsha	衡沙	char_4140_lasher				MAA resource/battle_data.json · chars	Sand Reckoner	サンドレコナー	샌드레코너	衡沙	SUPPORT	summoner	RANGED	5	3-6/3-1/3-1	375	
+maluxier	玛露西尔	char_4141_marcil				MAA resource/battle_data.json · chars	Marcille	マルシル	마르실	瑪露希爾	CASTER	splashcaster	RANGED	6	2-3/3-6/3-6	665	
+laiousi	莱欧斯	char_4142_laios				MAA resource/battle_data.json · chars	Laios	ライオス	라이오스	萊歐斯	WARRIOR	fearless	MELEE	5	1-1/1-1/1-1	582	
+senxi	森西	char_4143_sensi				MAA resource/battle_data.json · chars	Senshi	センシ	센시	先西	TANK	guardian	MELEE	5	0-1/0-1/0-1	830	
+qierchake	齐尔查克	char_4144_chilc				MAA resource/battle_data.json · chars	Chilchuck	チルチャック	칠책	奇爾查克	PIONEER	agent	MELEE	5	2-2/2-2/2-2	775	
+wuerbian	乌尔比安	char_4145_ulpia				MAA resource/battle_data.json · chars	Ulpianus	ウルピアヌス	울피아누스	烏爾比安	WARRIOR	crusher	MELEE	6	1-1/1-1/1-1	1024	
+nifu	妮芙	char_4146_nymph				MAA resource/battle_data.json · chars	Nymph	ニンフ	님프	妮芙	CASTER	primcaster	RANGED	6	3-6/3-1/3-1	737	
+duqiao	渡桥	char_4147_mitm				MAA resource/battle_data.json · chars	Mitm	ミトム	미틈	渡橋	PIONEER	tactician	RANGED	5	3-1/3-3/3-3	234	
+feilai	菲莱	char_4148_philae				MAA resource/battle_data.json · chars	Philae	フィラエ	필라에	菲萊	TANK	primprotector	MELEE	5	0-1/0-1/0-1	268	
+xiren	锡人	char_4151_tinman				MAA resource/battle_data.json · chars	Tin Man	ブリキ	틴맨	錫人	SPECIAL	alchemist	RANGED	5	2-1/2-1/3-5	1092	
+caiduo	裁度	char_4155_talr				MAA resource/battle_data.json · chars	Figurino	フィグリーノ	피구리노	裁度	SPECIAL	merchant	MELEE	5	1-1/1-1/1-1	123	
+suishi	燧石	char_415_flint				MAA resource/battle_data.json · chars	Flint	フリント	플린트	燧石	WARRIOR	fighter	MELEE	5	1-1/1-1/1-1	942	
+kaiselin	凯瑟琳	char_4162_cathy				MAA resource/battle_data.json · chars	Catherine	キャサリン	캐서린	凱瑟琳	SUPPORT	craftsman	MELEE	5	1-1/1-1/1-1	543	
+guiyan	瑰盐	char_4163_rosesa				MAA resource/battle_data.json · chars	Rose Salt	ローズソルト	로즈솔트	瑰鹽	MEDIC	ringhealer	RANGED	5	y-1/y-2/y-2	347	
+tekenuo	特克诺	char_4164_tecno				MAA resource/battle_data.json · chars	Tecno	テクノ	테크노	特克諾	CASTER	soulcaster	RANGED	5	3-6/3-1/3-1	957	
+yunji	云迹	char_4165_ctrail				MAA resource/battle_data.json · chars	Contrail	コントレイル	콘트레일	雲跡	SPECIAL	skywalker	MELEE	4	1-1/2-2/2-2	1268	
+baiduren	摆渡人	char_4166_varkis				MAA resource/battle_data.json · chars	Varkáris	ヴァルカリス	바르카리스	擺渡人	WARRIOR	centurion	MELEE	5	1-1/1-1/1-1	33	
+senran	森蚺	char_416_zumama				MAA resource/battle_data.json · chars	Eunectes	ユーネクテス	유넥티스	森蚺	TANK	duelist	MELEE	6	1-1/1-1/1-1	828	
+muqian	钼铅	char_4171_wulfen				MAA resource/battle_data.json · chars	Wulfenite	ウルフェナイト	울페나이트	鉬鉛	SPECIAL	traper	RANGED	5	3-1/3-3/3-3	722	
+xingzhu	行箸	char_4172_xingzh				MAA resource/battle_data.json · chars	Xingzhu	シィンズゥ	싱주	行箸	SUPPORT	blessing	RANGED	5	y-2/y-6/y-6	1087	
+nuoweier	诺威尔	char_4173_nowell				MAA resource/battle_data.json · chars	Nowell	ノウエル	노웰	諾威爾	MEDIC	healer	RANGED	5	3-3/3-4/3-4	746	
+shuidengxin	水灯心	char_4177_brigid				MAA resource/battle_data.json · chars	Brigid	ブリギッド	브리지드	水燈心	SNIPER	loopshooter	RANGED	5	3-3/y-7/y-7	920	
+alanna	阿兰娜	char_4178_alanna				MAA resource/battle_data.json · chars	Alanna	アランナ	알라나	阿蘭娜	SUPPORT	craftsman	MELEE	5	1-1/1-1/1-1	13	
+mon3tr	Mon3tr	char_4179_monstr				MAA resource/battle_data.json · chars	Mon3tr	Mon3tr	Mon3tr	Mon3tr	MEDIC	chainhealer	RANGED	6	y-1/y-2/y-2	709	非中文名（拼音列填小写原名，只为统一检索）
+fengchuanxiangzi	丰川祥子	char_4182_oblvns				MAA resource/battle_data.json · chars	Sakiko Togawa	豊川祥子	토가와 사키코	豐川祥子	WARRIOR	lord	MELEE	6	2-3/3-12/3-12	275	
+ruoyemu	若叶睦	char_4183_mortis				MAA resource/battle_data.json · chars	Mutsumi Wakaba	若葉睦	와카바 무츠미	若葉睦	SPECIAL	dollkeeper	MELEE	5	1-1/1-1/1-1	817	
+sanjiaochuhua	三角初华	char_4184_dolris				MAA resource/battle_data.json · chars	Uika Misumi	三角初華	미스미 우이카	三角初華	SUPPORT	bard	RANGED	5	x-4/x-1/x-1	827	
+youtiansiruomai	祐天寺若麦	char_4185_amoris				MAA resource/battle_data.json · chars	Nyamu Yūtenji	祐天寺にゃむ	유텐지 냐무	祐天寺若麥	WARRIOR	hammer	MELEE	5	1-1/1-1/1-1	1215	
+bafanhailing	八幡海铃	char_4186_tmoris				MAA resource/battle_data.json · chars	Umiri Yahata	八幡海鈴	야하타 우미리	八幡海鈴	SPECIAL	stalker	MELEE	5	y-1/y-1/y-1	32	
+lingyin	聆音	char_4187_graceb				MAA resource/battle_data.json · chars	Gracebearer	グレースベアラー	그레이스베어러	聆音	WARRIOR	primguard	MELEE	5	1-1/1-1/1-1	619	
+confess47	CONFESS-47	char_4188_confes				MAA resource/battle_data.json · chars	CONFESS-47	CONFESS-47	CONFESS-47	CONFESS-47	PIONEER	pioneer	MELEE	1	1-1/1-1/1-1	168	非中文名（拼音列填小写原名，只为统一检索）
+dibi	蒂比	char_4191_tippi				MAA resource/battle_data.json · chars	Tippi	ティッピ	티피	蒂比	SPECIAL	skywalker	MELEE	5	1-1/2-2/2-2	210	
+leimouan	蕾缪安	char_4193_lemuen	狙击；h12-4 案例干员（费用 20），参与费用账本	04/41e §7.111	蕾缪安	MAA resource/battle_data.json · chars	Lemuen	レミュアン	르무엔	蕾繆安	SNIPER	longrange	RANGED	6	3-3/3-9/3-9	596	
+xinyangjiaobanji	信仰搅拌机	char_4194_rmixer				MAA resource/battle_data.json · chars	Sankta Miksaparato	サンクタ・ミキサー	산크타 믹사파라토	信仰攪拌機	TANK	shotprotector	MELEE	6	2-2/2-2/2-2	1090	
+dianhu	电弧	char_4195_radian				MAA resource/battle_data.json · chars	Raidian	レイディアン	라이디언	電弧	SUPPORT	summoner	RANGED	6	3-6/3-1/3-1	205	
+luwuguan	录武官	char_4196_reckpr				MAA resource/battle_data.json · chars	Record Keeper	レコードキーパー	레코드키퍼	錄武官	MEDIC	physician	RANGED	5	3-1/3-3/3-3	656	
+misschristine	Miss.Christine	char_4198_christ				MAA resource/battle_data.json · chars	Miss.Christine	ミス・クリスティーン	미스 크리스틴	Miss.Christine	CASTER	primcaster	RANGED	5	3-6/3-1/3-1	699	非中文名（拼音列填小写原名，只为统一检索）
+songtong	松桐	char_4199_makiri				MAA resource/battle_data.json · chars	Matsukiri	マツキリ	마츠키리	松桐	PIONEER	counsellor	MELEE	5	1-1/1-1/1-1	931	
+yao	遥	char_4202_haruka				MAA resource/battle_data.json · chars	Haruka	ハルカ	하루카	遙	SUPPORT	blessing	RANGED	6	y-2/y-6/y-6	1147	
+jixing	吉星	char_4203_kichi				MAA resource/battle_data.json · chars	Kichisei	キチセイ	키치세이	吉星	SNIPER	reaperrange	RANGED	5	2-4/2-5/2-5	524	
+zhenyan	真言	char_4204_mantra				MAA resource/battle_data.json · chars	Mantra	マントラ	만트라	真言	CASTER	primcaster	RANGED	6	3-6/3-1/3-1	1317	
+zheya	折桠	char_4207_branch				MAA resource/battle_data.json · chars	Vetochki	ヴェトチキ	베토치키	折椏	TANK	unyield	MELEE	5	0-1/0-1/0-1	1318	
+dongshi	冬时	char_4208_wintim				MAA resource/battle_data.json · chars	Snegurochka	スネグーラチカ	스네구로치카	冬時	PIONEER	agent	MELEE	4	2-2/2-2/2-2	218	
+yanwei	焰尾	char_420_flamtl				MAA resource/battle_data.json · chars	Flametail	フレイムテイル	플레임테일	焰尾	PIONEER	pioneer	MELEE	6	1-1/1-1/1-1	1142	
+xuelie	雪猎	char_4211_snhunt				MAA resource/battle_data.json · chars	Snow Hunter	スノーハンター	스노우헌터	雪獵	SNIPER	hunter	RANGED	5	3-12/4-9/4-9	1105	
+nasiti	娜斯提	char_4212_nasti				MAA resource/battle_data.json · chars	Nasti	ナスティ	내스티	娜斯提	SUPPORT	craftsman	MELEE	6	1-1/1-1/1-1	726	
+tiankonghe	天空盒	char_4213_skybx				MAA resource/battle_data.json · chars	Skybox	スカイボックス	스카이박스	天空盒	SNIPER	skybreaker	RANGED	5	3-6/3-1/3-1	968	
+xiangshi	响石	char_4214_cairn				MAA resource/battle_data.json · chars	Cairn	ケルン	케언	響石	TANK	primprotector	MELEE	5	0-1/0-1/0-1	1050	
+luodedaoyinmidui	罗德岛隐秘队	char_4215_buddy				MAA resource/battle_data.json · chars	罗德岛隐秘队	罗德岛隐秘队	罗德岛隐秘队	罗德岛隐秘队	PIONEER	tactician	RANGED	1	3-1/3-1/3-1	649	
+jiechengli	结城理	char_4217_makoto	干员；**单干员全链路解包范例**（机制/数值/buff/prefab/spine）	04/28（整篇）	结城理	MAA resource/battle_data.json · chars	结城理	结城理	结城理	结城理	SPECIAL	dollkeeper	MELEE	6	1-1/1-1/1-1	472	
+aiguisi	埃癸斯	char_4218_aigis				MAA resource/battle_data.json · chars	埃癸斯	埃癸斯	埃癸斯	埃癸斯	SNIPER	skybreaker	RANGED	5	3-6/3-1/3-1	5	
+yueyuyoujiali	岳羽由加莉	char_4219_yukari				MAA resource/battle_data.json · chars	岳羽由加莉	岳羽由加莉	岳羽由加莉	岳羽由加莉	SUPPORT	supportiveranger	RANGED	5	3-1/3-18/3-18	1260	
+yumaobi	羽毛笔	char_421_crow				MAA resource/battle_data.json · chars	La Pluma	ラ・プルマ	라 플루마	羽毛筆	WARRIOR	reaper	MELEE	5	1-3/1-3/1-3	1267	
+hulangwan	虎狼丸	char_4220_kormr				MAA resource/battle_data.json · chars	虎狼丸	虎狼丸	虎狼丸	虎狼丸	WARRIOR	sword	MELEE	1	1-1/1-1/1-1	411	
+ju	矩	char_4221_ju				MAA resource/battle_data.json · chars	Ju	ジュー	쥐	矩	SNIPER	siegesniper	RANGED	5	4-4/4-3/4-3	528	
+fengxu	风絮	char_4222_taraxa				MAA resource/battle_data.json · chars	Taraxacum	タラクサカム	타락사쿰	風絮	MEDIC	watchman	RANGED	5	y-2/y-6/y-6	283	
+botani	伯塔尼	char_4223_botany				MAA resource/battle_data.json · chars	伯塔尼	伯塔尼	伯塔尼	伯塔尼	SUPPORT	ritualist	RANGED	5	y-2/y-2/y-2	101	
+wujiu	乌啾	char_4224_turdus				MAA resource/battle_data.json · chars	乌啾	乌啾	乌啾	乌啾	MEDIC	chainhealer	RANGED	5	y-1/y-2/y-2	1025	
+liexiang	裂响	char_4225_tanya				MAA resource/battle_data.json · chars	裂响	裂响	裂响	裂响	TANK	primprotector	MELEE	5	0-1/0-1/0-1	609	
+weiyi	维伊	char_4226_veen				MAA resource/battle_data.json · chars	维伊	维伊	维伊	维伊	CASTER	mystic	RANGED	6	3-13/3-14/3-14	1015	
+gallus	GALLUS²	char_4227_gallus				MAA resource/battle_data.json · chars	GALLUS²	GALLUS²	GALLUS²	GALLUS²	CASTER	corecaster	RANGED	1	3-6/3-6/3-6	305	非中文名（拼音列填小写原名，只为统一检索）
+keluxier	可露希尔	char_4228_closur				MAA resource/battle_data.json · chars	可露希尔	可露希尔	可露希尔	可露希尔	PIONEER	tactician	RANGED	6	3-1/3-3/3-3	561	
+miuyin	谬因	char_4229_aphris				MAA resource/battle_data.json · chars	谬因	谬因	谬因	谬因	CASTER	blastcaster	RANGED	6	4-1/5-1/5-1	702	
+jiguang	极光	char_422_aurora				MAA resource/battle_data.json · chars	Aurora	オーロラ	오로라	極光	TANK	duelist	MELEE	5	1-1/1-1/1-1	481	
+jixieshi	机械师	char_4230_mcnist				MAA resource/battle_data.json · chars	机械师	机械师	机械师	机械师	TANK	shotprotector	MELEE	6	2-2/2-2/2-2	522	
+peideluo	佩德洛	char_4234_pedro				MAA resource/battle_data.json · chars	佩德洛	佩德洛	佩德洛	佩德洛	SUPPORT	supportiveranger	RANGED	5	3-1/3-18/3-18	759	
+shanbi	珊比	char_4235_thumpy				MAA resource/battle_data.json · chars	珊比	珊比	珊比	珊比	TANK	primprotector	MELEE	6	0-1/0-1/0-1	834	
+shixi	时隙	char_4236_tmslot				MAA resource/battle_data.json · chars	时隙	时隙	时隙	时隙	CASTER	funnel	RANGED	5	3-6/3-1/3-1	898	
+jiaxinta	嘉辛塔	char_4237_jcinta				MAA resource/battle_data.json · chars	嘉辛塔	嘉辛塔	嘉辛塔	嘉辛塔	PIONEER	bearer	MELEE	5	1-1/1-1/1-1	458	
+xiaguang	瑕光	char_423_blemsh				MAA resource/battle_data.json · chars	Blemishine	ブレミシャイン	블레미샤인	瑕光	TANK	guardian	MELEE	6	1-1/1-1/1-1	1040	
+kanielian	卡涅利安	char_426_billro				MAA resource/battle_data.json · chars	Carnelian	カーネリアン	카넬리안	卡涅利安	CASTER	phalanx	RANGED	6	x-4/x-1/x-1	547	
+ciye	伺夜	char_427_vigil				MAA resource/battle_data.json · chars	Vigil	ヴィジェル	비질	伺夜	PIONEER	tactician	RANGED	6	3-1/3-3/3-3	928	
+yuanya	远牙	char_430_fartth				MAA resource/battle_data.json · chars	Fartooth	ファートゥース	파투스	遠牙	SNIPER	longrange	RANGED	6	3-3/3-9/3-9	1239	
+huihao	灰毫	char_431_ashlok				MAA resource/battle_data.json · chars	Ashlock	アッシュロック	애쉬락	灰毫	TANK	fortress	MELEE	5	4-5/4-5/4-6	406	
+lvefeng	掠风	char_433_windft				MAA resource/battle_data.json · chars	Windflit	ウインドフリット	윈드플릿	掠風	SUPPORT	craftsman	MELEE	5	1-1/1-1/1-1	657	
+xuyu	絮雨	char_436_whispr				MAA resource/battle_data.json · chars	Whisperain	ウィスパーレイン	위스퍼레인	絮雨	MEDIC	healer	RANGED	5	3-3/3-4/3-4	1122	
+shuiyue	水月	char_437_mizuki				MAA resource/battle_data.json · chars	Mizuki	ミヅキ	미즈키	水月	SPECIAL	stalker	MELEE	6	y-1/y-1/y-1	922	
+songguo	松果	char_440_pinecn				MAA resource/battle_data.json · chars	Pinecone	パインコーン	파인콘	松果	SNIPER	reaperrange	RANGED	4	2-4/2-5/2-5	930	
+chengfeng	骋风	char_445_wscoot				MAA resource/battle_data.json · chars	Windscoot	ウィンドスクート	윈드스쿠트	騁風	WARRIOR	librator	MELEE	4	1-2/1-2/1-2	141	
+aluoma	阿罗玛	char_446_aroma				MAA resource/battle_data.json · chars	Aroma	アロマ	아로마	阿羅瑪	CASTER	blastcaster	RANGED	5	4-1/5-1/5-1	15	
+mimei	蜜莓	char_449_glider				MAA resource/battle_data.json · chars	Honeyberry	ハニーベリー	허니베리	蜜莓	MEDIC	wandermedic	RANGED	5	3-3/3-17/3-17	692	
+simang	死芒	char_450_necras				MAA resource/battle_data.json · chars	Necrass	ネクラス	네크라스	死芒	CASTER	soulcaster	RANGED	6	3-6/3-1/3-1	926	
+luobin	罗宾	char_451_robin				MAA resource/battle_data.json · chars	Robin	ロビン	로빈	羅賓	SPECIAL	traper	RANGED	5	3-1/3-3/3-3	645	
+doumiao	豆苗	char_452_bstalk				MAA resource/battle_data.json · chars	Beanstalk	ビーンストーク	빈스토크	豆苗	PIONEER	tactician	RANGED	4	3-1/3-3/3-3	219	
+wuyou	乌有	char_455_nothin				MAA resource/battle_data.json · chars	Mr. Nothing	ウユウ	우요우	烏有	SPECIAL	merchant	MELEE	5	1-1/1-1/1-1	1033	
+huijin	灰烬	char_456_ash				MAA resource/battle_data.json · chars	Ash	Ash	Ash	ASH	SNIPER	fastshot	RANGED	6	3-1/3-3/3-3	408	
+shanji	闪击	char_457_blitz				MAA resource/battle_data.json · chars	Blitz	Blitz	Blitz	BLITZ	TANK	shotprotector	MELEE	5	2-2/2-2/2-2	838	
+shuanghua	霜华	char_458_rfrost				MAA resource/battle_data.json · chars	Frost	Frost	Frost	FROST	SPECIAL	traper	RANGED	5	3-1/3-3/3-3	909	
+zhanche	战车	char_459_tachak				MAA resource/battle_data.json · chars	Tachanka	Tachanka	Tachanka	TACHANKA	WARRIOR	sword	MELEE	5	1-1/1-1/1-1	1286	
+yanghui	洋灰	char_464_cement				MAA resource/battle_data.json · chars	Cement	セメント	시멘트	洋灰	TANK	duelist	MELEE	5	1-1/1-1/1-1	1133	
+xuerong	雪绒	char_466_qanik				MAA resource/battle_data.json · chars	Qanipalaat	カニパラート	카니팔라트	雪絨	CASTER	corecaster	RANGED	5	3-6/3-1/3-1	1106	
+shendian	深靛	char_469_indigo				MAA resource/battle_data.json · chars	Indigo	インディゴ	인디고	深靛	CASTER	mystic	RANGED	4	3-13/3-14/3-14	850	
+yike	异客	char_472_pasngr				MAA resource/battle_data.json · chars	Passenger	パッセンジャー	패신저	異客	CASTER	chain	RANGED	6	3-6/3-1/3-1	1177	
+sangshen	桑葚	char_473_mberry				MAA resource/battle_data.json · chars	Mulberry	マルベリー	멀베리	桑葚	MEDIC	wandermedic	RANGED	5	3-3/3-17/3-17	825	
+geleidiya	歌蕾蒂娅	char_474_glady				MAA resource/battle_data.json · chars	Gladiia	グレイディーア	글래디아	歌蕾蒂婭	SPECIAL	hookmaster	MELEE	6	2-2/3-2/3-2	325	
+chidong	赤冬	char_475_akafyu				MAA resource/battle_data.json · chars	Akafuyu	アカフユ	아카후유	赤冬	WARRIOR	musha	MELEE	5	1-1/1-1/1-1	150	
+yeban	夜半	char_476_blkngt				MAA resource/battle_data.json · chars	Blacknight	ブラックナイト	블랙나이트	夜半	PIONEER	tactician	RANGED	5	3-1/3-3/3-3	1155	
+qiliang	绮良	char_478_kirara				MAA resource/battle_data.json · chars	Kirara	キララ	키라라	綺良	SPECIAL	stalker	MELEE	5	y-1/y-1/y-1	776	
+qinliu	琴柳	char_479_sleach				MAA resource/battle_data.json · chars	Saileach	サイラッハ	사일라흐	琴柳	PIONEER	bearer	MELEE	6	1-1/1-1/1-1	786	
+luobilata	罗比菈塔	char_484_robrta				MAA resource/battle_data.json · chars	Roberta	ロベルタ	로베르타	羅比菈塔	SUPPORT	craftsman	MELEE	4	1-1/1-1/1-1	644	
+palasi	帕拉斯	char_485_pallas				MAA resource/battle_data.json · chars	Pallas	パラス	팔라스	帕拉斯	WARRIOR	instructor	MELEE	6	2-2/2-2/2-2	750	
+longshelan	龙舌兰	char_486_takila				MAA resource/battle_data.json · chars	Tequila	テキーラ	테킬라	龍舌蘭	WARRIOR	librator	MELEE	5	1-2/1-2/1-2	639	
+bobo	波卜	char_487_bobb				MAA resource/battle_data.json · chars	Bobbing	ボビング	보빙	波卜	SUPPORT	ritualist	RANGED	5	y-2/y-2/y-2	94	
+qingzhi	青枳	char_488_buildr				MAA resource/battle_data.json · chars	Poncirus	ポンシラス	폰사이러스	青枳	PIONEER	pioneer	MELEE	5	1-1/1-1/1-1	785	
+shiqing	蚀清	char_489_serum				MAA resource/battle_data.json · chars	Corroserum	コロセラム	코로세럼	蝕清	CASTER	blastcaster	RANGED	5	4-1/5-1/5-1	892	
+xiumosi	休谟斯	char_491_humus				MAA resource/battle_data.json · chars	Humus	ヒューマス	휴머스	休謨斯	WARRIOR	reaper	MELEE	4	1-3/1-3/1-3	1095	
+xiali	夏栎	char_492_quercu				MAA resource/battle_data.json · chars	Quercus	クエルクス	퀘르쿠스	夏櫟	SUPPORT	blessing	RANGED	5	y-2/y-6/y-6	1041	
+huoshao	火哨	char_493_firwhl				MAA resource/battle_data.json · chars	Firewhistle	ファイヤーホイッスル	파이어휘슬	火哨	TANK	fortress	MELEE	5	4-5/4-5/4-6	418	
+cimei	刺玫	char_494_vendla				MAA resource/battle_data.json · chars	Vendela	ヴァンデラ	벤델라	刺玫	MEDIC	incantationmedic	RANGED	5	3-1/3-3/3-3	166	
+yezong	野鬃	char_496_wildmn				MAA resource/battle_data.json · chars	Wild Mane	ワイルドメイン	와일드메인	野鬃	PIONEER	charger	MELEE	5	1-1/1-1/1-1	1170	
+xiaoge	晓歌	char_497_ctable				MAA resource/battle_data.json · chars	Cantabile	カンタービレ	칸타빌레	曉歌	PIONEER	agent	MELEE	5	2-2/2-2/2-2	1058	
+yinxian	隐现	char_498_inside				MAA resource/battle_data.json · chars	Insider	インサイダー	인사이더	隱現	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	1206	
+zheguang	折光	char_499_kaitou				MAA resource/battle_data.json · chars	Diamante	ディアマンテ	디아만테	折光	CASTER	primcaster	RANGED	5	3-6/3-1/3-1	1306	
+heijiao	黑角	char_500_noirc				MAA resource/battle_data.json · chars	Noir Corne	ノイルホーン	느와르 코르네	黑角	TANK	protector	MELEE	2	0-1/0-1/0-1	369	
+dulin	杜林	char_501_durin				MAA resource/battle_data.json · chars	Durin	ドゥリン	두린	杜林	CASTER	corecaster	RANGED	2	3-6/3-6/3-6	227	
+yedao	夜刀	char_502_nblade				MAA resource/battle_data.json · chars	Yato	ヤトウ	야토	夜刀	PIONEER	pioneer	MELEE	2	1-1/1-1/1-1	1156	
+xunlinzhe	巡林者	char_503_rang				MAA resource/battle_data.json · chars	Rangers	レンジャー	레인저	巡林者	SNIPER	fastshot	RANGED	2	3-1/3-1/3-1	1117	
+yubeiganyuanjinzhan	预备干员-近战	char_504_rguard				MAA resource/battle_data.json · chars	Reserve Operator - Melee	予備隊員-近距離	예비 인원 - 근거리	預備幹員-近戰	PIONEER	pioneer	MELEE	3	1-1/1-1/1-1	1244	
+yubeiganyuanshushi	预备干员-术师	char_505_rcast				MAA resource/battle_data.json · chars	Reserve Operator - Caster	予備隊員-術師	예비 인원 - 캐스터	預備幹員-術師	CASTER	corecaster	RANGED	3	3-6/3-1/3-6	1247	
+yubeiganyuanhouqin	预备干员-后勤	char_506_rmedic				MAA resource/battle_data.json · chars	Reserve Operator - Logistics	予備隊員-支援	예비 인원 - 지원	預備幹員-後勤	MEDIC	physician	RANGED	3	3-1/3-3/3-1	1242	
+yubeiganyuanjuji	预备干员-狙击	char_507_rsnipe				MAA resource/battle_data.json · chars	Reserve Operator - Sniper	予備隊員-狙撃	예비 인원 - 스나이퍼	預備幹員-狙擊	SNIPER	fastshot	RANGED	3	3-1/3-3/3-1	1246	
+sharp	Sharp	char_508_aguard				MAA resource/battle_data.json · chars	Sharp	Sharp	샤프	Sharp	WARRIOR	fearless	MELEE	5	1-1/1-1/1-1	845	非中文名（拼音列填小写原名，只为统一检索）
+pith	Pith	char_509_acast				MAA resource/battle_data.json · chars	Pith	Pith	피스	Pith	CASTER	splashcaster	RANGED	5	2-3/3-6/3-6	768	非中文名（拼音列填小写原名，只为统一检索）
+touch	Touch	char_510_amedic				MAA resource/battle_data.json · chars	Touch	Touch	터치	Touch	MEDIC	physician	RANGED	5	3-1/3-3/3-3	988	非中文名（拼音列填小写原名，只为统一检索）
+stormeye	Stormeye	char_511_asnipe				MAA resource/battle_data.json · chars	Stormeye	Stormeye	스톰아이	Stormeye	SNIPER	fastshot	RANGED	5	3-1/3-3/3-3	935	非中文名（拼音列填小写原名，只为统一检索）
+muluo	暮落	char_512_aprot				MAA resource/battle_data.json · chars	Shalem	シャレム	샬렘	暮落	TANK	artsprotector	MELEE	5	0-1/0-1/0-1	719	
+yujinxiang	郁金香	char_513_apionr				MAA resource/battle_data.json · chars	Tulip	チューリップ	튤립	鬱金香	PIONEER	pioneer	MELEE	5	1-1/1-1/1-1	1262	
+yubeiganyuanzhongzhuang	预备干员-重装	char_514_rdfend				MAA resource/battle_data.json · chars	Reserve Operator - Defender	予備隊員-重装	예비 인원 - 디펜더	預備幹員-重裝	TANK	protector	MELEE	3	0-1/0-1/0-1	1252	
+yubeiganyuanxianfeng	预备干员-先锋	char_600_cpione				MAA resource/battle_data.json · chars	Reserve Operator - Vanguard	予備隊員-先鋒	예비 오퍼레이터-뱅가드	預備幹員-先鋒	PIONEER	pioneer	MELEE	4	1-1/1-1/1-1	1250	
+yubeiganyuanjinwei	预备干员-近卫	char_601_cguard				MAA resource/battle_data.json · chars	Reserve Operator - Guard	予備隊員-前衛	예비 오퍼레이터-가드	預備幹員-近衛	WARRIOR	fearless	MELEE	4	1-1/1-1/1-1	1243	
+yubeiganyuanzhongzhuang	预备干员-重装	char_602_cdfend				MAA resource/battle_data.json · chars	Reserve Operator - Defender	予備隊員-重装	예비 인원 - 디펜더	預備幹員-重裝	TANK	protector	MELEE	4	0-1/0-1/0-1	1253	
+yubeiganyuanjuji	预备干员-狙击	char_603_csnipe				MAA resource/battle_data.json · chars	Reserve Operator - Sniper	予備隊員-狙撃	예비 인원 - 스나이퍼	預備幹員-狙擊	SNIPER	fastshot	RANGED	4	3-1/3-3/3-3	1245	
+yubeiganyuanshushi	预备干员-术师	char_604_ccast				MAA resource/battle_data.json · chars	Reserve Operator - Caster	予備隊員-術師	예비 인원 - 캐스터	預備幹員-術師	CASTER	corecaster	RANGED	4	3-6/3-1/3-1	1248	
+yubeiganyuanyiliao	预备干员-医疗	char_605_cmedic				MAA resource/battle_data.json · chars	Reserve Operator - Medic	予備隊員-医療	예비 오퍼레이터-메딕	預備幹員-醫療	MEDIC	physician	RANGED	4	3-1/3-3/3-3	1251	
+yubeiganyuanfuzhu	预备干员-辅助	char_606_csuppo				MAA resource/battle_data.json · chars	Reserve Operator - Supporter	予備隊員-補助	예비 오퍼레이터-서포터	預備幹員-輔助	SUPPORT	slower	RANGED	4	y-2/y-2/y-2	1241	
+yubeiganyuantezhong	预备干员-特种	char_607_cspec				MAA resource/battle_data.json · chars	Reserve Operator - Specialist	予備隊員-特殊	예비 오퍼레이터-스페셜리스트	預備幹員-特種	SPECIAL	executor	MELEE	4	1-1/1-1/1-1	1249	
+yujinxiang	郁金香	char_608_acpion				MAA resource/battle_data.json · chars	Tulip	チューリップ	튤립	鬱金香	PIONEER	pioneer	MELEE	6	1-1/1-1/1-1	1261	
+sharp	Sharp	char_609_acguad				MAA resource/battle_data.json · chars	Sharp	Sharp	샤프	Sharp	WARRIOR	fearless	MELEE	6	1-1/1-1/1-1	844	非中文名（拼音列填小写原名，只为统一检索）
+mechanist	Mechanist	char_610_acfend				MAA resource/battle_data.json · chars	Mechanist	Mechanist	메커니스트	Mechanist	TANK	protector	MELEE	6	0-1/0-1/0-1	668	非中文名（拼音列填小写原名，只为统一检索）
+stormeye	Stormeye	char_611_acnipe				MAA resource/battle_data.json · chars	Stormeye	Stormeye	스톰아이	Stormeye	SNIPER	fastshot	RANGED	6	3-1/3-3/3-3	934	非中文名（拼音列填小写原名，只为统一检索）
+pith	Pith	char_612_accast				MAA resource/battle_data.json · chars	Pith	Pith	피스	Pith	CASTER	splashcaster	RANGED	6	2-3/3-6/3-6	767	非中文名（拼音列填小写原名，只为统一检索）
+touch	Touch	char_613_acmedc				MAA resource/battle_data.json · chars	Touch	Touch	터치	Touch	MEDIC	physician	RANGED	6	3-1/3-3/3-3	987	非中文名（拼音列填小写原名，只为统一检索）
+raidian	Raidian	char_614_acsupo				MAA resource/battle_data.json · chars	Raidian	Raidian	라이디언	Raidian	SUPPORT	slower	RANGED	6	y-2/y-2/y-2	806	非中文名（拼音列填小写原名，只为统一检索）
+misery	Misery	char_615_acspec				MAA resource/battle_data.json · chars	Misery	Misery	미저리	Misery	SPECIAL	executor	MELEE	6	1-1/1-1/1-1	698	非中文名（拼音列填小写原名，只为统一检索）
+mengyuefuzhuganyuan	盟约·辅助干员	char_616_pithst				MAA resource/battle_data.json · chars	Alliance/Supportive Operator	盟約・補助オペレーター	맹약·서포터 오퍼레이터	盟約·輔助幹員	SUPPORT	ritualist	RANGED	4	y-2/y-2/y-2	677	
+lingzhusharp	领主·Sharp	char_617_sharp2				MAA resource/battle_data.json · chars	Lord/Sharp	領主・Sharp	로드·샤프	領主·Sharp	WARRIOR	lord	MELEE	6	2-3/3-12/3-12	622	

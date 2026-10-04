@@ -1,0 +1,104 @@
+d!d"d
+dataclass
+ClassVar
+Optional
+GameTimeConfigT
+frozenc
+GameTime
+    Represents game time in Arknights.
+    Attributes:
+        cost (Optional[int]): The in-game cost (relative time).
+        time (Optional[int]): The absolute time since game start 
+        (how many times the cost bar has been fully filled).
+        tick (int): The current tick count.
+        At least one of cost or time must be provided.
+    Class Attributes:
+        TICK_MAX (int): The maximum value of ticks. Can be set globally.
+    N
+costr
+tick
+time
+TICK_MAXc
+-At least one of cost or time must be providedr
+ValueErrorr
+object
+__setattr__
+self
+logic\game_time.py
+__post_init__
+GameTime.__post_init__
+max_valuec
+"Set the global maximum tick value.r
+$TICK_MAX must be a positive integer.N
+clsr!
+set_tick_max(
+GameTime.set_tick_max
+returnc
+"Get the global maximum tick value.
+get_tick_max/
+GameTime.get_tick_max
+otherr,
+carry
+total_tick
+total_time
+total_costr
+__add__4
+GameTime.__add__c
+borrowr:
+__sub__C
+GameTime.__sub__c
+Cannot compare time with cost
+__lt__V
+GameTime.__lt__c
+__gt__f
+GameTime.__gt__c
+__le__i
+GameTime.__le__c
+__ge__l
+GameTime.__ge__c
+__eq__p
+GameTime.__eq__
+__name__
+__module__
+__qualname__
+__doc__r
+__annotations__r
+config
+TICK_MAX_DEFAULTr
+classmethodr(
+boolrI
+__main__
+!Testing relative time operations:
+time1: 
+time2: 
+time1 + time2 = 
+time1 - time2 = 
+time1 < time2 = 
+time1 == time2 = 
+time1 > time2 = 
+Testing absolute time operations:
+abs_time1: 
+abs_time2: 
+abs_time1 + abs_time2 = 
+abs_time1 - abs_time2 = 
+abs_time1 < abs_time2 = 
+abs_time1 == abs_time2 = 
+abs_time1 > abs_time2 = 
+mixed_time1: 
+mixed_time2: 
+mixed_time1 + mixed_time2 = 
+mixed_time1 - mixed_time2 = 
+mixed_time1 < mixed_time2 = 
+mixed_time1 == mixed_time2 = 
+mixed_time1 > mixed_time2 = N
+dataclassesr
+typingr
+src.configr
+time1
+time2
+print
+abs_time1
+abs_time2
+mixed_time1
+mixed_time2r
+<module>

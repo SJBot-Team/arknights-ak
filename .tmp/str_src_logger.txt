@@ -1,0 +1,50 @@
+Enumc
+LogLevelColor
+[94m
+[93m
+[91m
+[95mN
+__name__
+__module__
+__qualname__
+DEBUG
+INFO
+WARNING
+ERROR
+CRITICAL
+RESET
+logger.pyr
+ColoredFormatterc
+levelname
+logging
+Formatter
+formatr
+__members__
+valuer
+self
+recordr
+message
+colorr
+ColoredFormatter.formatN
+DebugLogger
++%(asctime)s - %(levelname)-7s - %(message)s
+__main__
+Debug message
+Info message
+Warning message
+Error message
+Critical message
+enumr
+getLogger
+logger
+setLevelr
+StreamHandler
+formatter
+setFormatter
+addHandlerr
+debug
+info
+warning
+error
+criticalr
+<module>

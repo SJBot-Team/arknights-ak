@@ -1,0 +1,14 @@
+=== trap_304_izdoc ===
+  name: 变格博士, profession: TRAP, rarity: TIER_1
+  traits: null
+  deck 上下文: ...": [{"unlockCondition": {"phase": "PHASE_0", "level": 1}, "requiredPotentialRank": 0, "prefabKey": "deck", "name": null, "description": null, "rangeId": null, "blackboard": [{"key": "mark", "value": 1.0, "valueStr": null}], "tokenKey": null, "isHideT...
+=== trap_307_izsvas ===
+  name: 变格银灰, profession: TRAP, rarity: TIER_1
+  traits: null
+  deck 上下文: ...": [{"unlockCondition": {"phase": "PHASE_0", "level": 1}, "requiredPotentialRank": 0, "prefabKey": "deck", "name": null, "description": null, "rangeId": null, "blackboard": [{"key": "mark", "value": 1.0, "valueStr": null}], "tokenKey": null, "isHideT...
+
+=== skchr_svash2_1 中 deck 上下文 ===
+  ...hidden": false, "levels": [{"name": "周旋的谋略", "rangeId": null, "description": "立刻获得<@ba.vup>{cost}</>点部署费用。待部署区中距离“风雪之眼”最近的1名干员费用<@ba.vup>-{svash2_s_1[deck].cost}</>（优先选择右侧<@ba.vup>近卫/术师/狙击</>干员），且部署后获得相当于凛御银灰最大生命值<@ba.vup>{svash2_s_1[deck].shield:0%}</>的<$ba.barrier>屏障</>", "skillType": "AUTO", "durationType": "NONE", "spData": {"spType": "INCREASE...
+
+=== skill_table 含 supmech ===
+（空=无）

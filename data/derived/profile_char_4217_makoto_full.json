@@ -1,0 +1,2275 @@
+{
+ "charId": "char_4217_makoto",
+ "name": "结城理",
+ "appellation": "Makoto Yuki",
+ "profession": "SPECIAL",
+ "subProfessionId": "dollkeeper",
+ "rarity": "TIER_6",
+ "position": "MELEE",
+ "tags": [
+  "输出",
+  "快速复活",
+  "治疗"
+ ],
+ "trait": {
+  "candidates": [
+   {
+    "unlockCondition": {
+     "phase": "PHASE_0",
+     "level": 1
+    },
+    "requiredPotentialRank": 0,
+    "blackboard": [
+     {
+      "key": "duration",
+      "value": 20.0,
+      "valueStr": null
+     }
+    ],
+    "overrideDescripton": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
+    "prefabKey": "-1",
+    "rangeId": "x-1"
+   }
+  ]
+ },
+ "phases": [
+  {
+   "rangeId": "1-1",
+   "maxLevel": 50,
+   "attributesKeyFrames": [
+    {
+     "level": 1,
+     "data": {
+      "maxHp": 1311,
+      "atk": 356,
+      "def": 126,
+      "magicResistance": 0.0,
+      "cost": 14,
+      "blockCnt": 2,
+      "moveSpeed": 1.0,
+      "attackSpeed": 100.0,
+      "baseAttackTime": 1.2,
+      "respawnTime": 70,
+      "hpRecoveryPerSec": 0.0,
+      "spRecoveryPerSec": 1.0,
+      "maxDeployCount": 1,
+      "maxDeckStackCnt": 0,
+      "tauntLevel": 0,
+      "massLevel": 0,
+      "baseForceLevel": 0,
+      "stunImmune": false,
+      "silenceImmune": false,
+      "sleepImmune": false,
+      "frozenImmune": false,
+      "levitateImmune": false,
+      "disarmedCombatImmune": false,
+      "fearedImmune": false,
+      "palsyImmune": false,
+      "attractImmune": false,
+      "teleportImmune": false,
+      "groundBoundImmune": false
+     }
+    },
+    {
+     "level": 50,
+     "data": {
+      "maxHp": 1749,
+      "atk": 488,
+      "def": 194,
+      "magicResistance": 0.0,
+      "cost": 14,
+      "blockCnt": 2,
+      "moveSpeed": 1.0,
+      "attackSpeed": 100.0,
+      "baseAttackTime": 1.2,
+      "respawnTime": 70,
+      "hpRecoveryPerSec": 0.0,
+      "spRecoveryPerSec": 1.0,
+      "maxDeployCount": 1,
+      "maxDeckStackCnt": 0,
+      "tauntLevel": 0,
+      "massLevel": 0,
+      "baseForceLevel": 0,
+      "stunImmune": false,
+      "silenceImmune": false,
+      "sleepImmune": false,
+      "frozenImmune": false,
+      "levitateImmune": false,
+      "disarmedCombatImmune": false,
+      "fearedImmune": false,
+      "palsyImmune": false,
+      "attractImmune": false,
+      "teleportImmune": false,
+      "groundBoundImmune": false
+     }
+    }
+   ]
+  },
+  {
+   "rangeId": "1-1",
+   "maxLevel": 80,
+   "attributesKeyFrames": [
+    {
+     "level": 1,
+     "data": {
+      "maxHp": 1749,
+      "atk": 488,
+      "def": 194,
+      "magicResistance": 0.0,
+      "cost": 14,
+      "blockCnt": 2,
+      "moveSpeed": 1.0,
+      "attackSpeed": 100.0,
+      "baseAttackTime": 1.2,
+      "respawnTime": 70,
+      "hpRecoveryPerSec": 0.0,
+      "spRecoveryPerSec": 1.0,
+      "maxDeployCount": 1,
+      "maxDeckStackCnt": 0,
+      "tauntLevel": 0,
+      "massLevel": 0,
+      "baseForceLevel": 0,
+      "stunImmune": false,
+      "silenceImmune": false,
+      "sleepImmune": false,
+      "frozenImmune": false,
+      "levitateImmune": false,
+      "disarmedCombatImmune": false,
+      "fearedImmune": false,
+      "palsyImmune": false,
+      "attractImmune": false,
+      "teleportImmune": false,
+      "groundBoundImmune": false
+     }
+    },
+    {
+     "level": 80,
+     "data": {
+      "maxHp": 2215,
+      "atk": 643,
+      "def": 253,
+      "magicResistance": 0.0,
+      "cost": 14,
+      "blockCnt": 2,
+      "moveSpeed": 1.0,
+      "attackSpeed": 100.0,
+      "baseAttackTime": 1.2,
+      "respawnTime": 70,
+      "hpRecoveryPerSec": 0.0,
+      "spRecoveryPerSec": 1.0,
+      "maxDeployCount": 1,
+      "maxDeckStackCnt": 0,
+      "tauntLevel": 0,
+      "massLevel": 0,
+      "baseForceLevel": 0,
+      "stunImmune": false,
+      "silenceImmune": false,
+      "sleepImmune": false,
+      "frozenImmune": false,
+      "levitateImmune": false,
+      "disarmedCombatImmune": false,
+      "fearedImmune": false,
+      "palsyImmune": false,
+      "attractImmune": false,
+      "teleportImmune": false,
+      "groundBoundImmune": false
+     }
+    }
+   ]
+  },
+  {
+   "rangeId": "1-1",
+   "maxLevel": 90,
+   "attributesKeyFrames": [
+    {
+     "level": 1,
+     "data": {
+      "maxHp": 2215,
+      "atk": 643,
+      "def": 253,
+      "magicResistance": 0.0,
+      "cost": 16,
+      "blockCnt": 2,
+      "moveSpeed": 1.0,
+      "attackSpeed": 100.0,
+      "baseAttackTime": 1.2,
+      "respawnTime": 70,
+      "hpRecoveryPerSec": 0.0,
+      "spRecoveryPerSec": 1.0,
+      "maxDeployCount": 1,
+      "maxDeckStackCnt": 0,
+      "tauntLevel": 0,
+      "massLevel": 0,
+      "baseForceLevel": 0,
+      "stunImmune": false,
+      "silenceImmune": false,
+      "sleepImmune": false,
+      "frozenImmune": false,
+      "levitateImmune": false,
+      "disarmedCombatImmune": false,
+      "fearedImmune": false,
+      "palsyImmune": false,
+      "attractImmune": false,
+      "teleportImmune": false,
+      "groundBoundImmune": false
+     }
+    },
+    {
+     "level": 90,
+     "data": {
+      "maxHp": 2805,
+      "atk": 785,
+      "def": 305,
+      "magicResistance": 0.0,
+      "cost": 16,
+      "blockCnt": 2,
+      "moveSpeed": 1.0,
+      "attackSpeed": 100.0,
+      "baseAttackTime": 1.2,
+      "respawnTime": 70,
+      "hpRecoveryPerSec": 0.0,
+      "spRecoveryPerSec": 1.0,
+      "maxDeployCount": 1,
+      "maxDeckStackCnt": 0,
+      "tauntLevel": 0,
+      "massLevel": 0,
+      "baseForceLevel": 0,
+      "stunImmune": false,
+      "silenceImmune": false,
+      "sleepImmune": false,
+      "frozenImmune": false,
+      "levitateImmune": false,
+      "disarmedCombatImmune": false,
+      "fearedImmune": false,
+      "palsyImmune": false,
+      "attractImmune": false,
+      "teleportImmune": false,
+      "groundBoundImmune": false
+     }
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": "不羁之力",
+   "desc": "结城理切换为<替身>状态时<$ba.sluggish>停顿</>周围一定范围内敌人8秒；<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+85%<@ba.talpu>（+5%）</>，生命值+35%，作战能力随技能选择而改变",
+   "blackboard": [
+    {
+     "key": "atk",
+     "value": 0.85,
+     "valueStr": null
+    },
+    {
+     "key": "base_attack_time",
+     "value": 0.4,
+     "valueStr": null
+    },
+    {
+     "key": "sluggish",
+     "value": 8.0,
+     "valueStr": null
+    },
+    {
+     "key": "max_hp_t1",
+     "value": 0.35,
+     "valueStr": null
+    },
+    {
+     "key": "range_id",
+     "value": 0.0,
+     "valueStr": "x-1"
+    }
+   ],
+   "candidates": [
+    {
+     "unlockCondition": {
+      "phase": "PHASE_0",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "1",
+     "name": "不羁之力",
+     "description": "<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+40%，生命值+35%，作战能力随技能选择而改变",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "base_attack_time",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "sluggish",
+       "value": 0.0,
+       "valueStr": null
+      },
+      {
+       "key": "max_hp_t1",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_0",
+      "level": 1
+     },
+     "requiredPotentialRank": 4,
+     "prefabKey": "1",
+     "name": "不羁之力",
+     "description": "<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+45%<@ba.talpu>（+5%）</>，生命值+35%，作战能力随技能选择而改变",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk",
+       "value": 0.45,
+       "valueStr": null
+      },
+      {
+       "key": "base_attack_time",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "sluggish",
+       "value": 0.0,
+       "valueStr": null
+      },
+      {
+       "key": "max_hp_t1",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_1",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "1",
+     "name": "不羁之力",
+     "description": "结城理切换为<替身>状态时<$ba.sluggish>停顿</>周围一定范围内敌人5秒；<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+60%，生命值+35%，作战能力随技能选择而改变",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk",
+       "value": 0.6,
+       "valueStr": null
+      },
+      {
+       "key": "base_attack_time",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "sluggish",
+       "value": 5.0,
+       "valueStr": null
+      },
+      {
+       "key": "max_hp_t1",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_1",
+      "level": 1
+     },
+     "requiredPotentialRank": 4,
+     "prefabKey": "1",
+     "name": "不羁之力",
+     "description": "结城理切换为<替身>状态时<$ba.sluggish>停顿</>周围一定范围内敌人5秒；<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+65%<@ba.talpu>（+5%）</>，生命值+35%，作战能力随技能选择而改变",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk",
+       "value": 0.65,
+       "valueStr": null
+      },
+      {
+       "key": "base_attack_time",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "sluggish",
+       "value": 5.0,
+       "valueStr": null
+      },
+      {
+       "key": "max_hp_t1",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_2",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "1",
+     "name": "不羁之力",
+     "description": "结城理切换为<替身>状态时<$ba.sluggish>停顿</>周围一定范围内敌人8秒；<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+80%，生命值+35%，作战能力随技能选择而改变",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk",
+       "value": 0.8,
+       "valueStr": null
+      },
+      {
+       "key": "base_attack_time",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "sluggish",
+       "value": 8.0,
+       "valueStr": null
+      },
+      {
+       "key": "max_hp_t1",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_2",
+      "level": 1
+     },
+     "requiredPotentialRank": 4,
+     "prefabKey": "1",
+     "name": "不羁之力",
+     "description": "结城理切换为<替身>状态时<$ba.sluggish>停顿</>周围一定范围内敌人8秒；<替身>状态下结城理召唤人格面具作战，攻击间隔增大，攻击力+85%<@ba.talpu>（+5%）</>，生命值+35%，作战能力随技能选择而改变",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk",
+       "value": 0.85,
+       "valueStr": null
+      },
+      {
+       "key": "base_attack_time",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "sluggish",
+       "value": 8.0,
+       "valueStr": null
+      },
+      {
+       "key": "max_hp_t1",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    }
+   ]
+  },
+  {
+   "name": "S.E.E.S.队长",
+   "desc": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力450%<@ba.talpu>（+20%）</>的真实伤害（可叠加）",
+   "blackboard": [
+    {
+     "key": "atk_scale",
+     "value": 4.5,
+     "valueStr": null
+    },
+    {
+     "key": "multi_attack_total_cnt",
+     "value": 1.0,
+     "valueStr": null
+    },
+    {
+     "key": "final_damage_different_ratio",
+     "value": 1.0,
+     "valueStr": null
+    },
+    {
+     "key": "range_id",
+     "value": 0.0,
+     "valueStr": "x-1"
+    }
+   ],
+   "candidates": [
+    {
+     "unlockCondition": {
+      "phase": "PHASE_0",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "2",
+     "name": "S.E.E.S.队长",
+     "description": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力180%的真实伤害（可叠加）",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk_scale",
+       "value": 1.8,
+       "valueStr": null
+      },
+      {
+       "key": "multi_attack_total_cnt",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "final_damage_different_ratio",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_0",
+      "level": 1
+     },
+     "requiredPotentialRank": 2,
+     "prefabKey": "2",
+     "name": "S.E.E.S.队长",
+     "description": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力200%<@ba.talpu>（+20%）</>的真实伤害（可叠加）",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk_scale",
+       "value": 2.0,
+       "valueStr": null
+      },
+      {
+       "key": "multi_attack_total_cnt",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "final_damage_different_ratio",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_1",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "2",
+     "name": "S.E.E.S.队长",
+     "description": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力280%的真实伤害（可叠加）",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk_scale",
+       "value": 2.8,
+       "valueStr": null
+      },
+      {
+       "key": "multi_attack_total_cnt",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "final_damage_different_ratio",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_1",
+      "level": 1
+     },
+     "requiredPotentialRank": 2,
+     "prefabKey": "2",
+     "name": "S.E.E.S.队长",
+     "description": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力300%<@ba.talpu>（+20%）</>的真实伤害（可叠加）",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk_scale",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "multi_attack_total_cnt",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "final_damage_different_ratio",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_2",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "2",
+     "name": "S.E.E.S.队长",
+     "description": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力430%的真实伤害（可叠加）",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk_scale",
+       "value": 4.3,
+       "valueStr": null
+      },
+      {
+       "key": "multi_attack_total_cnt",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "final_damage_different_ratio",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    },
+    {
+     "unlockCondition": {
+      "phase": "PHASE_2",
+      "level": 1
+     },
+     "requiredPotentialRank": 2,
+     "prefabKey": "2",
+     "name": "S.E.E.S.队长",
+     "description": "结城理<替身>状态结束后，带领<$ba.sees>S.E.E.S.</>小队发动总攻击，对<$ba.sees>S.E.E.S.</>小队队员周围一定范围内的所有敌人造成相当于结城理攻击力450%<@ba.talpu>（+20%）</>的真实伤害（可叠加）",
+     "rangeId": null,
+     "blackboard": [
+      {
+       "key": "atk_scale",
+       "value": 4.5,
+       "valueStr": null
+      },
+      {
+       "key": "multi_attack_total_cnt",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "final_damage_different_ratio",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "range_id",
+       "value": 0.0,
+       "valueStr": "x-1"
+      }
+     ],
+     "tokenKey": null,
+     "isHideTalent": false
+    }
+   ]
+  },
+  {
+   "name": null,
+   "desc": null,
+   "blackboard": null,
+   "candidates": null
+  },
+  {
+   "name": null,
+   "desc": null,
+   "blackboard": [],
+   "candidates": [
+    {
+     "unlockCondition": {
+      "phase": "PHASE_2",
+      "level": 1
+     },
+     "requiredPotentialRank": 0,
+     "prefabKey": "-2",
+     "name": null,
+     "description": null,
+     "rangeId": null,
+     "blackboard": [],
+     "tokenKey": null,
+     "isHideTalent": true
+    }
+   ]
+  }
+ ],
+ "skills": [
+  {
+   "skillId": "skchr_makoto_1",
+   "unlockCond": {
+    "phase": "PHASE_0",
+    "level": 1
+   },
+   "levels": [
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 20,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 1.1,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.3,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 18,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 1.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.3,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 16,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 1.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.3,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 14,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.4,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 12,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 1.7,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.4,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 10,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 1.9,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.4,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 8,
+      "initSp": 4,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 2.1,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.5,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 7,
+      "initSp": 5,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 2.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.6,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 7,
+      "initSp": 6,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 2.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.6,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "俄耳甫斯的竖琴",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 7,
+      "initSp": 7,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>俄耳甫斯</>，攻击对敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害，范围内有生命值低于<@ba.vup>50%</>的友方干员时，改为对其治疗相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@atk_scale",
+       "value": 2.8,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.6,
+       "valueStr": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "skillId": "skchr_makoto_2",
+   "unlockCond": {
+    "phase": "PHASE_1",
+    "level": 1
+   },
+   "levels": [
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 24,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 22,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 20,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.4,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 18,
+      "initSp": 3,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.6,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 16,
+      "initSp": 3,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.8,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 14,
+      "initSp": 5,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 12,
+      "initSp": 6,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 12,
+      "initSp": 7,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.6,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 12,
+      "initSp": 7,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.4,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.7,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "塔纳托斯的囚锁",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 12,
+      "initSp": 7,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态召唤<@ba.vup>塔纳托斯</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的法术伤害并有<@ba.vup>{attack@prob:0%}</>概率<$ba.fear>恐惧</>敌人<@ba.vup>{attack@fear}</>秒，范围内<$ba.fear>恐惧</>中的敌人若生命值低于结城理攻击力的<@ba.vup>{attack@kill_atk_scale:0%}</>则立刻倒下\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@fear",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_atk_scale",
+       "value": 2.8,
+       "valueStr": null
+      },
+      {
+       "key": "attack@kill_damage",
+       "value": 9999999.0,
+       "valueStr": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "skillId": "skchr_makoto_3",
+   "unlockCond": {
+    "phase": "PHASE_2",
+    "level": 1
+   },
+   "levels": [
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 29,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 15.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.4,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.25,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 26,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 20.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.5,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.25,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 23,
+      "initSp": 0,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 25.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.6,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.25,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 20,
+      "initSp": 5,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 30.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.7,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.25,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 18,
+      "initSp": 5,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 35.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.8,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.25,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 16,
+      "initSp": 5,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 40.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 1.9,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.25,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 3.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 15,
+      "initSp": 7,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 45.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 15,
+      "initSp": 8,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 50.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.1,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.36,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 15,
+      "initSp": 9,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 55.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.2,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.38,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    },
+    {
+     "name": "开辟明日的剑刃",
+     "rangeId": "x-1",
+     "spData": {
+      "spType": "INCREASE_WITH_TIME",
+      "levelUpCost": null,
+      "maxChargeTime": 1,
+      "spCost": 15,
+      "initSp": 10,
+      "increment": 1.0
+     },
+     "description": "被动：<替身>状态初始召唤<@ba.vup>塔纳托斯</>，攻击速度<@ba.vup>+{talent@attack_speed}</>，攻击对至多<@ba.vup>{attack@max_target}</>名敌人造成攻击力<@ba.vup>{attack@atk_scale:0%}</>的<$ba.weaknessatk>弱点伤害</>，<@ba.vup>塔纳托斯</>在场时，开启技能或受到致命伤时改为召唤<@ba.vup>俄耳甫斯</>，阻挡数<@ba.vup>+{attack@block_cnt}</>，使范围内友方干员获得<@ba.vup>{attack@prob:0%}</>的物理与法术闪避并每秒治疗范围内最多<@ba.vup>{attack@max_target_heal}</>名友方干员相当于结城理攻击力<@ba.vup>{attack@heal_scale:0%}</>的生命值，直到<替身>状态结束\\n主动：立即切换为<替身>状态作战",
+     "blackboard": [
+      {
+       "key": "talent@attack_speed",
+       "value": 60.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@atk_scale",
+       "value": 2.3,
+       "valueStr": null
+      },
+      {
+       "key": "attack@heal_scale",
+       "value": 0.35,
+       "valueStr": null
+      },
+      {
+       "key": "attack@interval",
+       "value": 1.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@prob",
+       "value": 0.4,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@max_target_heal",
+       "value": 4.0,
+       "valueStr": null
+      },
+      {
+       "key": "attack@block_cnt",
+       "value": 2.0,
+       "valueStr": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "potentialRanks": [
+  {
+   "type": "BUFF",
+   "description": "部署费用-1",
+   "buff": {
+    "attributes": {
+     "abnormalFlags": null,
+     "abnormalImmunes": null,
+     "abnormalAntis": null,
+     "abnormalCombos": null,
+     "abnormalComboImmunes": null,
+     "attributeModifiers": [
+      {
+       "attributeType": "COST",
+       "formulaItem": "ADDITION",
+       "value": -1.0,
+       "loadFromBlackboard": false,
+       "fetchBaseValueFromSourceEntity": false
+      }
+     ]
+    }
+   },
+   "equivalentCost": null
+  },
+  {
+   "type": "CUSTOM",
+   "description": "第二天赋效果增强",
+   "buff": null,
+   "equivalentCost": null
+  },
+  {
+   "type": "BUFF",
+   "description": "攻击力+34",
+   "buff": {
+    "attributes": {
+     "abnormalFlags": null,
+     "abnormalImmunes": null,
+     "abnormalAntis": null,
+     "abnormalCombos": null,
+     "abnormalComboImmunes": null,
+     "attributeModifiers": [
+      {
+       "attributeType": "ATK",
+       "formulaItem": "ADDITION",
+       "value": 34.0,
+       "loadFromBlackboard": false,
+       "fetchBaseValueFromSourceEntity": false
+      }
+     ]
+    }
+   },
+   "equivalentCost": null
+  },
+  {
+   "type": "CUSTOM",
+   "description": "第一天赋效果增强",
+   "buff": null,
+   "equivalentCost": null
+  },
+  {
+   "type": "BUFF",
+   "description": "部署费用-1",
+   "buff": {
+    "attributes": {
+     "abnormalFlags": null,
+     "abnormalImmunes": null,
+     "abnormalAntis": null,
+     "abnormalCombos": null,
+     "abnormalComboImmunes": null,
+     "attributeModifiers": [
+      {
+       "attributeType": "COST",
+       "formulaItem": "ADDITION",
+       "value": -1.0,
+       "loadFromBlackboard": false,
+       "fetchBaseValueFromSourceEntity": false
+      }
+     ]
+    }
+   },
+   "equivalentCost": null
+  }
+ ],
+ "favorKeyFrames": [
+  {
+   "level": 0,
+   "data": {
+    "maxHp": 0,
+    "atk": 0,
+    "def": 0,
+    "magicResistance": 0.0,
+    "cost": 0,
+    "blockCnt": 0,
+    "moveSpeed": 0.0,
+    "attackSpeed": 0.0,
+    "baseAttackTime": 0.0,
+    "respawnTime": 0,
+    "hpRecoveryPerSec": 0.0,
+    "spRecoveryPerSec": 0.0,
+    "maxDeployCount": 0,
+    "maxDeckStackCnt": 0,
+    "tauntLevel": 0,
+    "massLevel": 0,
+    "baseForceLevel": 0,
+    "stunImmune": false,
+    "silenceImmune": false,
+    "sleepImmune": false,
+    "frozenImmune": false,
+    "levitateImmune": false,
+    "disarmedCombatImmune": false,
+    "fearedImmune": false,
+    "palsyImmune": false,
+    "attractImmune": false,
+    "teleportImmune": false,
+    "groundBoundImmune": false
+   }
+  },
+  {
+   "level": 50,
+   "data": {
+    "maxHp": 200,
+    "atk": 40,
+    "def": 0,
+    "magicResistance": 0.0,
+    "cost": 0,
+    "blockCnt": 0,
+    "moveSpeed": 0.0,
+    "attackSpeed": 0.0,
+    "baseAttackTime": 0.0,
+    "respawnTime": 0,
+    "hpRecoveryPerSec": 0.0,
+    "spRecoveryPerSec": 0.0,
+    "maxDeployCount": 0,
+    "maxDeckStackCnt": 0,
+    "tauntLevel": 0,
+    "massLevel": 0,
+    "baseForceLevel": 0,
+    "stunImmune": false,
+    "silenceImmune": false,
+    "sleepImmune": false,
+    "frozenImmune": false,
+    "levitateImmune": false,
+    "disarmedCombatImmune": false,
+    "fearedImmune": false,
+    "palsyImmune": false,
+    "attractImmune": false,
+    "teleportImmune": false,
+    "groundBoundImmune": false
+   }
+  }
+ ],
+ "stand_persona": {
+  "orpheus": {
+   "skills": [
+    "S1(俄耳甫斯的竖琴)",
+    "S3-P2"
+   ],
+   "fx": [
+    "makoto_skill_01_orpheus_gun",
+    "makoto_skill_03_orpheus_gun"
+   ],
+   "projectile": "projectile_chr_makoto_s1",
+   "mechanism": [
+    "远程法术/治疗(Stand_S1)",
+    "闪避aura+治疗+阻挡+2(Stand_S3_2)"
+   ]
+  },
+  "thanatos": {
+   "skills": [
+    "S2(塔纳托斯的囚锁)",
+    "S3-P1"
+   ],
+   "fx": [
+    "makoto_skill_02_thanatos_gun",
+    "makoto_skill_03_thanatos_gun"
+   ],
+   "mechanism": [
+    "近战+恐惧处决(Stand_S2)",
+    "弱点伤害(Stand_S3_1)"
+   ]
+  },
+  "sees_team": {
+   "teamId": "sees",
+   "fx": [
+    "makoto_allout_start",
+    "makoto_talent_finish_01"
+   ],
+   "mechanism": "替身结束总攻击(天赋2 atk_scale=4.5 真伤可叠加)"
+  },
+  "stand_values": {
+   "trait_stand_duration_s": 20.0,
+   "stand_block_cnt": 0,
+   "stand_atk_bonus": 0.85,
+   "stand_attack_interval_add": 0.4,
+   "stand_hp_mult": 1.35,
+   "switch_sluggish_s": 8.0,
+   "computed_stand_atk": 1589.2,
+   "computed_stand_hp": 4056.8,
+   "computed_stand_interval": 1.6,
+   "base_atk_full": 859,
+   "base_hp_full": 3005
+  }
+ }
+}

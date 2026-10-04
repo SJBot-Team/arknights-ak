@@ -1,0 +1,49 @@
+﻿### char_1048_orchd2 phases ###
+ phase char_1048_orchd2 2-3 maxLvl 50
+   trait: null
+ phase char_1048_orchd2 3-6 maxLvl 80
+   trait: null
+ phase char_1048_orchd2 3-6 maxLvl 90
+   trait: null
+### full top-level keys with content ###
+  name = "焰狐龙梓兰"
+  nationId = "rhodes"
+  teamId = "reserve6"
+  displayNumber = "MH05"
+  appellation = "Violet Mizutsune Orchid"
+  tagList = ["输出", "快速复活"]
+  itemUsage = "新晋狙击干员梓兰，冷静地面对一切麻烦。"
+  itemDesc = "她很认真地解释，她只是换了身衣服，并没有什么其他的变化，你相信吗？"
+  rarity = "TIER_6"
+  profession = "SNIPER"
+  subProfessionId = "closerange"
+
+### operators whose trait/talent text mentions 隐匿 ###
+  char_4062_totter 铅踝
+  char_508_aguard Sharp
+  char_336_folivo 稀音
+  char_215_mantic 狮蝎
+  char_4124_iana 双月
+  char_4087_ines 伊内丝
+  char_248_mgllan 麦哲伦
+  char_172_svrash 银灰
+  char_609_acguad Sharp
+  token_10005_mgllan_drone1 龙腾.F
+  token_10005_mgllan_drone2 龙腾.L
+  token_10005_mgllan_drone3 龙腾.A
+
+### subProfession of char_1048_orchd2 / trait desc search ###
+"char_1048_orchd2": {
+    "name": "焰狐龙梓兰",
+    "description": "高精度的近距离射击",
+    "sortIndex": 1132,
+    "spTargetType": "NONE",
+    "spTargetId": null,
+    "canUseGeneralPotentialItem": true,
+    "canUseActivityPotentialItem": false,
+    "potentialItemId": "p_char_1048_orchd2",
+    "activityPotentialItemId": null,
+    "classicPotentialItemId": null,
+    "nationId": "rhodes",
+    "groupId": null,
+   

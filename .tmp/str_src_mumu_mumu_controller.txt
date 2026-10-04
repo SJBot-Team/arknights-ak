@@ -1,0 +1,63 @@
+mumu_controller.py
+This module provides functions simulate mouse events directly to the game window (mumu emulator).
+Tuple
+MuMuEmulatorConfig
+HANDLE
+pause
+mouseclick
+mousedown
+mouseup
+mousemovec
+    A decorator that converts ratio coordinates to pixel coordinates and checks their validity.
+    N
+returnc
+Mouse coordinates ratios (
+) are out of bounds.
+ValueError
+win32gui
+GetWindowRectr
+window_rect
+func
+mumu\mumu_controller.py
+wrapper
+#handle_coordinates.<locals>.wrapper
+functools
+wrapsr
+float
+handle_coordinates
+    Pause the game by sending a specific message to the game window.
+    N
+win32api
+SendMessager
+config
+WM_XBUTTONDOWN
+XBUTTON2
+DEFAULT_COORDINATES
+WM_XBUTTONUPr)
+    Send the ESC key to the game by sending a specific message to the game window.
+    N
+XBUTTON1r>
+    Simulate a mouse click at the given coordinates or ratio of window size.
+    r
+win32con
+WM_LBUTTONDOWN
+MAKELONG
+WM_LBUTTONUP
+    Simulate a mouse down event at the given coordinates or ratio of window size.
+    r
+    Simulate a mouse up event at the given coordinates or ratio of window size.
+    N
+MK_LBUTTONrK
+    Simulate a mouse move event to the given coordinates or ratio of window size.
+    N
+WM_MOUSEMOVErV
+__main__
+GameRatioConfig
+__doc__r9
+typingr
+src.configr
+src.mumu.mumu_connectionr
+__all__r3
+__name__r_
+LAST_OPER_RATIOr)
+<module>

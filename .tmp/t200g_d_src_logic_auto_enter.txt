@@ -1,0 +1,44 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_auto_enter.pyc len=2225 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=186
+  names=['time', 'typing', 'Callable', 'cv2', 'numpy', 'np', 'src.logger', 'logger', 'src.config', 'GameRatioConfig', 'ratioconfig', 'ImageProcessingConfig', 'imgconfig', 'PerformActionConfig', 'actionconfig', 'src.logic.game_time', 'GameTime', 'src.logic.analyze_time', 'get_game_time', 'reset_time_counter', 'src.mumu.mumu_controller', 'mouseclick', 'esc', 'src.mumu.mumu_vision', 'capture_game_window', 'wait_for_game_start', 'auto_enter', '__name__']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = None
+  consts[2] = ('Callable',)
+  consts[3] = ('logger',)
+  consts[4] = ('GameRatioConfig',)
+  consts[5] = ('ImageProcessingConfig',)
+  consts[6] = ('PerformActionConfig',)
+  consts[7] = ('GameTime',)
+  consts[8] = ('get_game_time', 'reset_time_counter')
+  consts[9] = ('mouseclick', 'esc')
+  consts[10] = ('capture_game_window',)
+  consts[11] = ('return',)
+  CODE <module>.wait_for_game_start argcount=0 nlocals=5 flags=0x43 co_code=288
+    names=['capture_game_window', 'ratioconfig', 'COST_AREA_RATIO', 'shape', 'int', 'logger', 'info', 'imgconfig', 'DARK_THRESHOLD', 'time', 'sleep', 'BRIGHT_THRESHOLD']
+    varnames=['cost_area_img', 'height', 'width', 'pixel_brightness', 'last_brightness']
+    consts[0] = '\n    Wait for the game to start by monitoring the brightness of the bottom-right pixel in the cost area.\n    First wait for the screen to become dark (loading), then wait for it to become bright (game started).\n    '
+    consts[1] = ('ratio',)
+    consts[2] = 1
+    consts[3] = 'Initial pixel brightness: '
+    consts[4] = 0.01
+    consts[5] = 'Brightness changed: '
+    consts[6] = ' -> '
+    consts[7] = 'Screen darkened, brightness: '
+    consts[8] = 'Game started, brightness: '
+    consts[9] = None
+  consts[13] = 'wait_for_game_start'
+  CODE <module>.auto_enter argcount=0 nlocals=1 flags=0x43 co_code=150
+    names=['logger', 'info', 'mouseclick', 'ratioconfig', 'START_BUTTON_RATIO', 'time', 'sleep', 'actionconfig', 'GENERAL_WAITTIME', 'wait_for_game_start', 'PAUSE_BUTTON_RATIO', 'reset_time_counter', 'get_game_time', 'SPEED_BUTTON_RATIO']
+    varnames=['game_time']
+    consts[0] = None
+    consts[1] = 'Auto enter started'
+    consts[2] = 0.045
+    consts[3] = 'Sent pause signal'
+    consts[4] = 0
+    consts[5] = True
+    consts[6] = ('need_cost',)
+    consts[7] = 'Successfully paused at time '
+    consts[8] = 'Switched game speed to 2x'
+  consts[15] = 'auto_enter'
+  consts[16] = '__main__'

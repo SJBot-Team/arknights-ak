@@ -1,0 +1,287 @@
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=SwitchBegin]  size=384
+  ]5 | :Å | makoto_switchbegin | makoto_switchbegin | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=SwitchEnd]  size=228
+  %ÎEU&Ó& | 6¨àIº% | %Β | ÖÌo | Doll_Skill_3_P1_SwitchIn | duration | null
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Die2Normal]  size=448
+  %Îdð | 6¨àIº% | %ÎÙ¤ | Úª | duration | makoto_switch[heal] | HealViaMaxHpRatio | ÿÿÿÿ | duration | ¿ÿÿÿÿ | hp_ratio | null
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  %Î2¸O)á | ^Ý/[dà×
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=SwitchEnd]  size=228
+  %Î®Ãq1e | 6¨àIº% | %ÎvïZü§ | Doll_Skill_1_SwitchIn | duration | null
+
+### Torappu.Battle.UnitMode  [owner=Switch2Normal]  size=164
+  %Î{ûùL | TD9öBÎJ | %Î;ì® | %΀ | ~»ñ6
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=SwitchBegin]  size=608
+  %Î1¸­}$Ù | ]5 | :Å | makoto_switchbegin | makoto_switchbegin | ÿÿÿÿ | duration | ¿ÿÿÿÿ | makoto_forbid_idle | makoto_forbid_idle | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.AbilitySequenceGroup  [owner=SequenceSwitch]  size=204
+  ;Æ7P  | Ðék® | Ì | %΢( | Ñ§ | %Îa¯>É£ | %ÎBÒWGa | %Î*F©G¥
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  %Î¤î>ùµA | ^Ý/[dà×
+
+### Torappu.Battle.TargetValidator  [owner=Ability0]  size=112
+  %ΐ | Øºp¬ | ,ÁS]RÍ
+
+### Torappu.Battle.Abilities.MeleeAttack  [owner=Attack]  size=252
+  %Ε | 0ôx | ÝÖg$ÚÏ< | Attack_A | duration | atk_scale
+
+### Torappu.Battle.Abilities.AbilitySequenceGroup  [owner=makoto[switch2stand_s3_2]]  size=204
+  %ÎòU | Ðék® | Ì | makoto[switch2stand_s3_2] | õ(ªã | %ÎÄx | çë? | %Îl¿ | ãO#
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=SwitchBegin]  size=384
+  %Υ}Rd) | ]5 | :Å | makoto_switchbegin | makoto_switchbegin | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.BuffToOwner  [owner=SwitchEnd]  size=564
+  %Î>Ä | ­TÌòzáu | makoto_change_01 | makoto_change_01_effect | ÿÿÿÿ | ¿ÿÿÿÿ | makoto_delayed_switchend | makoto_delayed_switchend | ÿÿÿÿ | makoto_delayed_switchend_duration | ¤p}? | ¿ÿÿÿÿ | is_trans_to_s3_2
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Die2Normal]  size=732
+  %Î@ | ÿ±É | 6¨àIº% | %Î} | duration | makoto_switch[heal] | HealViaMaxHpRatio | ÿÿÿÿ | duration | ¿ÿÿÿÿ | hp_ratio | makoto_switchend2normal_talent_2_effect | makoto_switchend2normal_talent_2_effect | ÿÿÿÿ | talent_effect_delay_duration | > | ¿ÿÿÿÿ | null
+
+### Torappu.Battle.Abilities.AbilityParallelGroup  [owner=makoto[switch2normal_allout]]  size=176
+  ?Úî | [l+څ3Xx | makoto[switch2normal_allout] | ParallelAttack | %Î?MÛ<Í | %Î¢*¯7á
+
+### Torappu.Battle.Talent  [owner=-1]  size=112
+  %Î­Ðr | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=Switch2NormalMode]  size=612
+  %ÎN)) | ]5 | :Å | makoto_switchend2normal | makoto_switchend2normal | ÿÿÿÿ | duration | ¿ÿÿÿÿ | mode | makoto_switchend2normal_endcheck | makoto_switchend2normal_endcheck | ÿÿÿÿ | duration | ×#< | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=PassiveT2]  size=288
+  %Îç)î | makoto_talent_2 | makoto_talent_2 | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  ^Ý/[dà×
+
+### Torappu.Battle.Abilities.UberAnimationEffectEmitter  [owner=Attack]  size=380
+  %Ε | 0ôx | ÉúÓÁD | Attack_A | Attack_A | makoto_attack_a_start_01 | makoto_attack_a_hit_01 | Attack_B | makoto_attack_b_start_01 | makoto_attack_b_hit_01
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=Ability0]  size=328
+  %Î\´ÛÝ | makoto_s3_1_create_allow_cast_skill | makoto_s3_1_create_allow_cast_skill | ÿÿÿÿ | duration | )\= | )\=ÿÿÿÿ
+
+### Torappu.Battle.Abilities.AuraAbility  [owner=Ability0]  size=364
+  %ΐ | Øºp¬ | w)ÕX6eì} | makoto_s2_fear_aura_inst_kill | makoto_s2_fear_aura_inst_kill | ÿÿÿÿ | duration | ÍÌÌ= | ¿ÿÿÿÿ | FC= 
+
+### Torappu.Battle.Talent  [owner=-1]  size=112
+  %Î.ð | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.Abilities.AbilitySequenceGroup  [owner=makoto[switch2stand_s3_1]]  size=204
+  %ÎþÝÕkmo | Ðék® | Ì | makoto[switch2stand_s3_1] | %ÎaÜù·- | %ÎæAWÚ_ | %ÎY}
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=SwitchEnd]  size=228
+  %Î­T¥ø;Ô | 6¨àIº% | %ÎíxQ | Doll_Skill_2_SwitchIn | duration | null
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Die2Stand]  size=460
+  %ÎB_¨ | 6¨àIº% | %Î«(ÔÉ] | SwitchOut | duration | makoto_switch[heal] | HealViaMaxHpRatio | ÿÿÿÿ | duration | ¿ÿÿÿÿ | hp_ratio | null
+
+### Torappu.Battle.Abilities.UberEffectEmitter  [owner=HealAlly_Lt50Per]  size=192
+  P¨  | %[ø | makoto_skill_01_heal_01 | makoto_skill_01_start_01
+
+### Torappu.Battle.Talent  [owner=-1]  size=112
+  %Î¸¦ | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=SwitchBegin]  size=384
+  %Î0O&Ýþ± | ]5 | :Å | makoto_switchbegin | makoto_switchbegin | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.UnitMode  [owner=Default]  size=164
+  %Î8ÔïUN | TD9öBÎJ | %Î[Rú¢ | À² | %ÎÞè | %ÎyrêNí
+
+### Torappu.Battle.Abilities.BuffToOwner  [owner=SwitchEnd]  size=776
+  %Î­T¥ø;Ô | ­TÌòzáu | makoto_change_01 | makoto_change_01_effect | ÿÿÿÿ | ¿ÿÿÿÿ | makoto_delayed_switchend | makoto_delayed_switchend | ÿÿÿÿ | makoto_delayed_switchend_duration | ¤p}? | ¿ÿÿÿÿ | makoto_stand[block_zero] | empty | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=-1]  size=280
+  %Î¸¦ | makoto_tr | makoto_tr | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.Heal  [owner=HealAlly_Lt50Per]  size=236
+  ¹_Ç¨ | ç | %Îì | Doll_Skill_1_Attack | duration
+
+### Torappu.Battle.Abilities.UberEffectEmitter  [owner=Attack]  size=128
+  %Î#Ò¤üï | P¨  | %[ø | makoto_skill_02_start_01
+
+### Torappu.Battle.UnitMode  [owner=Stand_S2]  size=164
+  %ÎY+Ä¥ | TD9öBÎJ | %Î`eÆB¦] | %ÎU9 | ªÝ¢ | %Î©lã¾2Q | %Î¯ÞZ×JÚ | %Î^ÝñkÐ»
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=Ability2]  size=304
+  %ÎhÃnü` | makoto_s3_2_heal_others | makoto_s3_2_heal_others | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.BuffAfterAffecting  [owner=Allout_LoopEnd]  size=288
+  %Î_ | oqVØÔUb | makoto_switchend2normal | makoto_switchend2normal | ÿÿÿÿ | duration | ¿ÿÿÿÿ | mode
+
+### Torappu.Battle.Abilities.BuffToOwner  [owner=SwitchEnd]  size=784
+  %Î®Ãq1e | ­TÌòzáu | makoto_change_01 | makoto_change_01_effect | ÿÿÿÿ | duration | ¿ÿÿÿÿ | makoto_delayed_switchend | makoto_delayed_switchend | ÿÿÿÿ | makoto_delayed_switchend_duration | ¤p}? | ¿ÿÿÿÿ | makoto_stand[block_zero] | empty | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=SwitchBegin]  size=628
+  %Îz | /×[ | ]5 | :Å | makoto_switchbegin | makoto_switchbegin | ÿÿÿÿ | duration | ¿ÿÿÿÿ | makoto_s3_2_mod_block_cnt | makoto_s3_2_mod_block_cnt | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.UnitMode  [owner=Stand_S3_1]  size=164
+  %ÎRã¬ | TD9öBÎJ | %ÎhGÚg | %Î«ªÈZ2 | %ÎkñqÎUx | %Σ% | %ÎÆaëõ«
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  %ÎdU!: | ^Ý/[dà×
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=AtkEnemy]  size=40
+  %ν | ,8ë- | ^Ý/[dà×
+
+### Torappu.Battle.Talent  [owner=-1]  size=112
+  HÖçGÒ | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.Abilities.AuraAbility  [owner=Ability0]  size=332
+  %Î|I( | w)ÕX6eì} | makoto_s3_2_aura | makoto_s3_2_aura | ÿÿÿÿ | duration | ¿ÿÿÿÿ | %Î. | $D¿
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=Ability0]  size=296
+  60~Ò | makoto_default_mode | makoto_default_mode | ÿÿÿÿ | duration | ×#< | ¿ÿÿÿÿ
+
+### Torappu.Battle.Character  [owner=char_4217_makoto]  size=560
+  %Î]tho | ðÐAe | %Î3îÊ¯°È | %ι~4US | %Îß;[ | %ÎrÂ | %ÎêÝÿÏ:8 | %Îû½_]Æ | %Îc® | %ÎÔ8n- | %Î3¡)7& | %Î1ïýÛ | %Î0m | H9ó | ¢rF | %ÎL | 5iû | %Î>Ñ | ¢øo | %ÎøÂ­úò | null | %ÎZYÁ | %Î××+ | common_char_birth_01_delay_02
+
+### Torappu.Battle.Abilities.BuffAfterAffecting  [owner=StandBorn]  size=288
+  %Îëø©A³ | oqVØÔUb | makoto_switchend2normal | makoto_switchend2normal | ÿÿÿÿ | duration | ¿ÿÿÿÿ | mode
+
+### Torappu.Battle.Abilities.AbilitySequenceGroup  [owner=makoto[switch2stand_s2]]  size=200
+  %Î8miw | Ðék® | Ì | makoto[switch2stand_s2] | %Î- | %Î JD÷Ou | %ÎâÁâ®º
+
+### Torappu.Battle.EmptyAbility  [owner=Trait]  size=68
+  %Î`~ä}n( | }?r | ®C
+
+### Torappu.Battle.Talent  [owner=1]  size=112
+  %Î;eèË) | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=StandBorn]  size=216
+  %Îëø©A³ | 6¨àIº% | %Îd | ÁÏb | SwitchOut | duration | null
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=AlloutAttack]  size=400
+  %ÎìÇfXn | ]5 | :Å | makoto_on_enter_normal | makoto_on_enter_normal | ÿÿÿÿ | enter_normal_duration | ¿ÿÿÿÿ | enter_normal_duration
+
+### Torappu.Battle.TargetValidator  [owner=Ability0]  size=112
+  %Î|I( | ,ÁS]RÍ
+
+### Torappu.Battle.Abilities.UberEffectEmitter  [owner=MagicAttack]  size=128
+  %ÎÓà,L | P¨  | %[ø | makoto_skill_01_start_02
+
+### Torappu.Battle.Abilities.BuffToOwner  [owner=StandBorn]  size=276
+  %Îëø©A³ | ­TÌòzáu | makoto_change_01 | makoto_change_01_effect | ÿÿÿÿ | ¿ÿÿÿÿ
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  %Îm¬¾ | ^Ý/[dà×
+
+### Torappu.Battle.Abilities.ActiveBuffAbility  [owner=SwitchBegin]  size=380
+  àËjÜ | ]5 | :Å | makoto_switchbegin | makoto_switchbegin | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.AdvancedSelectorWithinHpRatio  [owner=Heal50]  size=164
+  %Îºàk± | Opªí( | max_target
+
+### Torappu.Battle.Abilities.MeleeAttack  [owner=Attack]  size=516
+  %ÎXà | ÝÖg$ÚÏ< | %Σ% | Doll_Skill_3_P1_Attack_A | duration | makoto_s3_1_attack_weak_effect | makoto_s3_1_attack_weak_effect | ÿÿÿÿ | duration | ¿ÿÿÿÿ | atk_scale
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Ability0]  size=40
+  %ΐ | Øºp¬ | ^Ý/[dà×
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=-1]  size=536
+  %Î­Ðr | makoto_switch2normal_invin | empty | ÿÿÿÿ | duration | ¿ÿÿÿÿ | makoto_s3_2_forbid_turn | makoto_s3_2_forbid_turn | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=-1]  size=320
+  %Î+|Äýþ | makoto_standin | makoto_standin | ÿÿÿÿ | makoto_skill_01_buff_01 | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.GroupSelector  [owner=Selector]  size=104
+  %Î2¸O)á | %Îý%t¬¹ | max_target
+
+### Torappu.Battle.UnitMode  [owner=Stand_S1]  size=152
+  %ÎHëå#N | TD9öBÎJ | %Î¿^ý | Àö | %ÎëÖÈ | %ÎÚ¯³Í
+
+### Torappu.Battle.Abilities.AbilitySequenceGroup  [owner=makoto[switch2normal]]  size=200
+  %Î»LHÔ^O | Ðék® | Ì | makoto[switch2normal] | %Î3ÈXÂJ | %Î'B | {Ç | %ÎîÊAÒþ
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=SwitchEnd]  size=236
+  %Î>Ä | 6¨àIº% | %ÎK½ | äK | Doll_Skill_3_P1toP2_ChangeEnd | duration | null
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=1]  size=280
+  %Î;eèË) | makoto_talent_1 | empty | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.AbilityParallelGroup  [owner=2]  size=132
+  %ÎI ó#÷ | [l+څ3Xx | %Î½Àâ¥ | %Î>y
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=-1]  size=1296
+  %Î9 | XEs | makoto_s3_2_effect | empty | ÿÿÿÿ | makoto_skill_03_p2_buff_01 | duration | ¿ÿÿÿÿ | makoto_s3_2_effect2 | empty | ÿÿÿÿ | makoto_skill_03_p2_range_01 | duration | ¿ÿÿÿÿ | makoto_skill_03_p2_range_02_start | empty | ÿÿÿÿ | makoto_skill_03_p2_range_02_start | duration | ¿ÿÿÿÿ | makoto_skill_03_p2_range_02 | empty | ÿÿÿÿ | makoto_skill_03_p2_range_02 | duration | ¿ÿÿÿÿ | makoto_s3_2_forbid_turn | makoto_s3_2_forbid_turn | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.UberAnimationEffectEmitter  [owner=Attack]  size=316
+  %ÎXà | ÉúÓÁD | Doll_Skill_3_P1_Attack_A | Doll_Skill_3_P1_Attack_A | makoto_skill_03_p1_start_A_01 | Doll_Skill_3_P1_Attack_B | makoto_skill_03_p1_start_B_01
+
+### Torappu.Battle.EmptyAbility  [owner=-2]  size=68
+  %Î9ûª | }?r | ®C
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Allout_LoopEnd]  size=244
+  %Î_ | 6¨àIº% | ¬­Ð | Allout_LoopEnd | Skill_AllOutAttack_End | ÍÌL> | duration | null
+
+### Torappu.Battle.UnitMode  [owner=Stand_S3_2]  size=188
+  %Î­Ñ% | TD9öBÎJ | %ÎfÝÖµÿ | %ÎBju© | %ÎW | %ÎkâÅQì | %Î»Êàþ­f | %ÎaM Ù
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=-1]  size=1060
+  %Î.ð | makoto_standin | makoto_standin | ÿÿÿÿ | makoto_skill_02_buff_01 | duration | ¿ÿÿÿÿ | makoto_s2_standin_effect | empty | ÿÿÿÿ | makoto_skill_02_range_01 | duration | ¿ÿÿÿÿ | makoto_s2_standin_effect_2 | empty | ÿÿÿÿ | makoto_skill_02_range_02 | duration | ¿ÿÿÿÿ | makoto_s2_standin_effect_2_start | empty | ÿÿÿÿ | makoto_skill_02_range_02_start | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.PassiveBuffAbility  [owner=-1]  size=1076
+  HÖçGÒ | makoto_standin | makoto_standin | ÿÿÿÿ | makoto_skill_03_p1_buff_01_L | duration | ¿ÿÿÿÿ | is_s3_1 | makoto_s3_1_standin | makoto_s3_1_standin | ÿÿÿÿ | duration | ¿ÿÿÿÿ | makoto_skill_03_p1_range_01 | empty | ÿÿÿÿ | makoto_skill_03_p1_range_01 | duration | ¿ÿÿÿÿ | makoto_skill_03_p1_range_01_start | empty | ÿÿÿÿ | makoto_skill_03_p1_range_01_start | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Die2Stand]  size=480
+  %ÎO¢ÿ±m | 6¨àIº% | %ÎO. | ´Z | Doll_Skill_3_P1toP2_ChangeBegin | duration | makoto_switch[heal] | HealViaMaxHpRatio | ÿÿÿÿ | duration | ¿ÿÿÿÿ | hp_ratio | null
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Ability0]  size=40
+  %Î|I( | ^Ý/[dà×
+
+### Torappu.Battle.Abilities.MeleeAttack  [owner=Attack]  size=712
+  %Î#Ò¤üï | ÝÖg$ÚÏ< | %Î^ÝñkÐ» | durationÍÌL? | makoto_s2_fear_possibility | makoto_s2_fear_possibility | ÿÿÿÿ | fear | ¿ÿÿÿÿ | makoto_s2_fear_damage | makoto_s2_fear_damage | ÿÿÿÿ | duration | ¿ÿÿÿÿ | atk_scale
+
+### Torappu.Battle.BlockedOrAdvancedSelector  [owner=Selector]  size=152
+  ¶0âåæ | ¿væ | max_target
+
+### Torappu.Battle.Talent  [owner=2]  size=112
+  %ÎI ó#÷ | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.AdvancedSelectorWithinHpRatio  [owner=Selector]  size=164
+  ¼Ò% | Opªí( | max_target
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Heal50]  size=40
+  %Îºàk± | ^Ý/[dà×
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  ¼Ò% | ^Ý/[dà×
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Die2Stand]  size=460
+  %Î= ¤Pé» | 6¨àIº% | %Îph=ó¬Á | SwitchOut | duration | makoto_switch[heal] | HealViaMaxHpRatio | ÿÿÿÿ | duration | ¿ÿÿÿÿ | hp_ratio | null
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=StandBorn]  size=216
+  6¨àIº% | %Îê | SwitchOut | duration | null
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  %Ξ!M | ^Ý/[dà×
+
+### Torappu.Battle.Abilities.RangedAttack  [owner=MagicAttack]  size=352
+  %ÎÓà,L | ÏæáxXd¯9 | %ÎP!;\Z | Doll_Skill_1_Attack | duration | atk_scale | projectile_chr_makoto_s1
+
+### Torappu.Battle.Abilities.BuffToOwner  [owner=SwitchEnd]  size=776
+  %ÎEU&Ó& | ­TÌòzáu | makoto_change_01 | makoto_change_01_effect | ÿÿÿÿ | ¿ÿÿÿÿ | makoto_delayed_switchend | makoto_delayed_switchend | ÿÿÿÿ | makoto_delayed_switchend_duration | ¤p}? | ¿ÿÿÿÿ | makoto_stand[block_zero] | empty | ÿÿÿÿ | duration | ¿ÿÿÿÿ
+
+### Torappu.Battle.Abilities.Heal  [owner=makoto[s3_heal_others]]  size=492
+  ¹_Ç¨ | ç | %ÎW | makoto[s3_heal_others] | duration | makoto_s3_2_be_healed | makoto_s3_2_be_healed | ÿÿÿÿ | duration | ¿ÿÿÿÿ | duration
+
+### Torappu.Battle.Abilities.AnimatedActionToOwnerAbility  [owner=Die2Stand]  size=460
+  %΋O | 6¨àIº% | %ÎfQBÈh | SwitchOut | duration | makoto_switch[heal] | HealViaMaxHpRatio | ÿÿÿÿ | duration | ¿ÿÿÿÿ | hp_ratio | null
+
+### Torappu.Battle.Abilities.AbilitySelectableGroup  [owner=Attack]  size=208
+  %ÎýÖ,hm | p8ÔO | %ÎH8v;Ï | Ú2>Õ¾ | %ÎÜ?\k:e | %ÎÖúd¾
+
+### Torappu.Battle.Abilities.AbilitySequenceGroup  [owner=makoto[switch2stand_s1]]  size=200
+  %Î?^ | µ | Ðék® | Ì | makoto[switch2stand_s1] | xYv | Ð7sÙ¿ | %Î_óê»
+
+### Torappu.Battle.AutoLoadBoxRange  [owner=Selector]  size=40
+  ¶0âåæ | ^Ý/[dà×
+
+### Torappu.Battle.Talent  [owner=-1]  size=112
+  %Î+|Äýþ | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ
+
+### Torappu.Battle.Talent  [owner=-1]  size=112
+  %Î9 | XEs | egþ | 6y*Ú | ÿÿÿÿÿÿÿÿ

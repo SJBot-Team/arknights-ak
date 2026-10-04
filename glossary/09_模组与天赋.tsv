@@ -1,0 +1,1415 @@
+汉语拼音	官方汉语命名	代码层ID	一句话说明	知识库地址	玩家俗称	来源	干员/单位	类型	阶段/等级
+	苦艾证章	uniequip_001_absin				gamedata uniequip_table.json · equipDict	char_405_absin	ORIGINAL	
+	Pith证章	uniequip_001_accast				gamedata uniequip_table.json · equipDict	char_612_accast	ORIGINAL	
+	酸糖证章	uniequip_001_acdrop				gamedata uniequip_table.json · equipDict	char_366_acdrop	ORIGINAL	
+	Mechanist证章	uniequip_001_acfend				gamedata uniequip_table.json · equipDict	char_610_acfend	ORIGINAL	
+	Sharp证章	uniequip_001_acguad				gamedata uniequip_table.json · equipDict	char_609_acguad	ORIGINAL	
+	Touch证章	uniequip_001_acmedc				gamedata uniequip_table.json · equipDict	char_613_acmedc	ORIGINAL	
+	Stormeye证章	uniequip_001_acnipe				gamedata uniequip_table.json · equipDict	char_611_acnipe	ORIGINAL	
+	郁金香证章	uniequip_001_acpion				gamedata uniequip_table.json · equipDict	char_608_acpion	ORIGINAL	
+	Misery证章	uniequip_001_acspec				gamedata uniequip_table.json · equipDict	char_615_acspec	ORIGINAL	
+	Raidian证章	uniequip_001_acsupo				gamedata uniequip_table.json · equipDict	char_614_acsupo	ORIGINAL	
+	安洁莉娜证章	uniequip_001_aglina				gamedata uniequip_table.json · equipDict	char_291_aglina	ORIGINAL	
+	纯烬艾雅法拉证章	uniequip_001_agoat2				gamedata uniequip_table.json · equipDict	char_1016_agoat2	ORIGINAL	
+	埃癸斯证章	uniequip_001_aigis				gamedata uniequip_table.json · equipDict	char_4218_aigis	ORIGINAL	
+	赤冬证章	uniequip_001_akafyu				gamedata uniequip_table.json · equipDict	char_475_akafyu	ORIGINAL	
+	协律证章	uniequip_001_akkord				gamedata uniequip_table.json · equipDict	char_4051_akkord	ORIGINAL	
+	阿兰娜证章	uniequip_001_alanna				gamedata uniequip_table.json · equipDict	char_4178_alanna	ORIGINAL	
+	杏仁证章	uniequip_001_almond				gamedata uniequip_table.json · equipDict	char_4105_almond	ORIGINAL	
+	艾雅法拉证章	uniequip_001_amgoat				gamedata uniequip_table.json · equipDict	char_180_amgoat	ORIGINAL	
+	阿米娅证章	uniequip_001_amiya				gamedata uniequip_table.json · equipDict	char_002_amiya	ORIGINAL	
+	阿米娅证章（近卫）	uniequip_001_amiya2				gamedata uniequip_table.json · equipDict	char_002_amiya	ORIGINAL	
+	阿米娅证章（医疗）	uniequip_001_amiya3				gamedata uniequip_table.json · equipDict	char_002_amiya	ORIGINAL	
+	祐天寺若麦证章	uniequip_001_amoris				gamedata uniequip_table.json · equipDict	char_4185_amoris	ORIGINAL	
+	能天使证章	uniequip_001_angel				gamedata uniequip_table.json · equipDict	char_103_angel	ORIGINAL	
+	新约能天使证章	uniequip_001_angel2				gamedata uniequip_table.json · equipDict	char_1041_angel2	ORIGINAL	
+	奥斯塔证章	uniequip_001_aosta				gamedata uniequip_table.json · equipDict	char_346_aosta	ORIGINAL	
+	谬因证章	uniequip_001_aphris				gamedata uniequip_table.json · equipDict	char_4229_aphris	ORIGINAL	
+	四月证章	uniequip_001_aprl				gamedata uniequip_table.json · equipDict	char_365_aprl	ORIGINAL	
+	暮落证章	uniequip_001_aprot2				gamedata uniequip_table.json · equipDict	char_4025_aprot2	ORIGINAL	
+	空弦证章	uniequip_001_archet				gamedata uniequip_table.json · equipDict	char_332_archet	ORIGINAL	
+	阿罗玛证章	uniequip_001_aroma				gamedata uniequip_table.json · equipDict	char_446_aroma	ORIGINAL	
+	石棉证章	uniequip_001_asbest				gamedata uniequip_table.json · equipDict	char_378_asbest	ORIGINAL	
+	阿斯卡纶证章	uniequip_001_ascln				gamedata uniequip_table.json · equipDict	char_4132_ascln	ORIGINAL	
+	灰烬证章	uniequip_001_ash				gamedata uniequip_table.json · equipDict	char_456_ash	ORIGINAL	
+	灰毫证章	uniequip_001_ashlok				gamedata uniequip_table.json · equipDict	char_431_ashlok	ORIGINAL	
+	星极证章	uniequip_001_astesi				gamedata uniequip_table.json · equipDict	char_274_astesi	ORIGINAL	
+	极光证章	uniequip_001_aurora				gamedata uniequip_table.json · equipDict	char_422_aurora	ORIGINAL	
+	断崖证章	uniequip_001_ayer				gamedata uniequip_table.json · equipDict	char_294_ayer	ORIGINAL	
+	深律证章	uniequip_001_baslin				gamedata uniequip_table.json · equipDict	char_4109_baslin	ORIGINAL	
+	截云证章	uniequip_001_bdhkgt				gamedata uniequip_table.json · equipDict	char_4078_bdhkgt	ORIGINAL	
+	蜜蜡证章	uniequip_001_beewax				gamedata uniequip_table.json · equipDict	char_344_beewax	ORIGINAL	
+	贝娜证章	uniequip_001_bena				gamedata uniequip_table.json · equipDict	char_369_bena	ORIGINAL	
+	鸿雪证章	uniequip_001_bgsnow				gamedata uniequip_table.json · equipDict	char_4055_bgsnow	ORIGINAL	
+	柏喙证章	uniequip_001_bibeak				gamedata uniequip_table.json · equipDict	char_252_bibeak	ORIGINAL	
+	卡涅利安证章	uniequip_001_billro				gamedata uniequip_table.json · equipDict	char_426_billro	ORIGINAL	
+	拜松证章	uniequip_001_bison				gamedata uniequip_table.json · equipDict	char_325_bison	ORIGINAL	
+	讯使证章	uniequip_001_blackd				gamedata uniequip_table.json · equipDict	char_198_blackd	ORIGINAL	
+	烛煌证章	uniequip_001_blaze2				gamedata uniequip_table.json · equipDict	char_1040_blaze2	ORIGINAL	
+	华法琳证章	uniequip_001_bldsk				gamedata uniequip_table.json · equipDict	char_171_bldsk	ORIGINAL	
+	瑕光证章	uniequip_001_blemsh				gamedata uniequip_table.json · equipDict	char_423_blemsh	ORIGINAL	
+	闪击证章	uniequip_001_blitz				gamedata uniequip_table.json · equipDict	char_457_blitz	ORIGINAL	
+	锏证章	uniequip_001_blkkgt				gamedata uniequip_table.json · equipDict	char_4116_blkkgt	ORIGINAL	
+	夜半证章	uniequip_001_blkngt				gamedata uniequip_table.json · equipDict	char_476_blkngt	ORIGINAL	
+	蓝毒证章	uniequip_001_bluep				gamedata uniequip_table.json · equipDict	char_129_bluep	ORIGINAL	
+	波卜证章	uniequip_001_bobb				gamedata uniequip_table.json · equipDict	char_487_bobb	ORIGINAL	
+	伯塔尼证章	uniequip_001_botany				gamedata uniequip_table.json · equipDict	char_4223_botany	ORIGINAL	
+	风笛证章	uniequip_001_bpipe				gamedata uniequip_table.json · equipDict	char_222_bpipe	ORIGINAL	
+	折桠证章	uniequip_001_branch				gamedata uniequip_table.json · equipDict	char_4207_branch	ORIGINAL	
+	微风证章	uniequip_001_breeze				gamedata uniequip_table.json · equipDict	char_275_breeze	ORIGINAL	
+	水灯心证章	uniequip_001_brigid				gamedata uniequip_table.json · equipDict	char_4177_brigid	ORIGINAL	
+	布洛卡证章	uniequip_001_broca				gamedata uniequip_table.json · equipDict	char_356_broca	ORIGINAL	
+	猎蜂证章	uniequip_001_brownb				gamedata uniequip_table.json · equipDict	char_137_brownb	ORIGINAL	
+	苍苔证章	uniequip_001_bryota				gamedata uniequip_table.json · equipDict	char_4106_bryota	ORIGINAL	
+	豆苗证章	uniequip_001_bstalk				gamedata uniequip_table.json · equipDict	char_452_bstalk	ORIGINAL	
+	泡泡证章	uniequip_001_bubble				gamedata uniequip_table.json · equipDict	char_381_bubble	ORIGINAL	
+	青枳证章	uniequip_001_buildr				gamedata uniequip_table.json · equipDict	char_488_buildr	ORIGINAL	
+	响石证章	uniequip_001_cairn				gamedata uniequip_table.json · equipDict	char_4214_cairn	ORIGINAL	
+	卡达证章	uniequip_001_cammou				gamedata uniequip_table.json · equipDict	char_328_cammou	ORIGINAL	
+	跃跃证章	uniequip_001_caper				gamedata uniequip_table.json · equipDict	char_4100_caper	ORIGINAL	
+	雷狼龙S空爆证章	uniequip_001_catap2				gamedata uniequip_table.json · equipDict	char_1049_catap2	ORIGINAL	
+	凯瑟琳证章	uniequip_001_cathy				gamedata uniequip_table.json · equipDict	char_4162_cathy	ORIGINAL	
+	嘉维尔证章	uniequip_001_ccheal				gamedata uniequip_table.json · equipDict	char_187_ccheal	ORIGINAL	
+	塑心证章	uniequip_001_cello				gamedata uniequip_table.json · equipDict	char_245_cello	ORIGINAL	
+	洋灰证章	uniequip_001_cement				gamedata uniequip_table.json · equipDict	char_464_cement	ORIGINAL	
+	刻俄柏证章	uniequip_001_cerber				gamedata uniequip_table.json · equipDict	char_2013_cerber	ORIGINAL	
+	魔王证章	uniequip_001_cetsyr				gamedata uniequip_table.json · equipDict	char_4134_cetsyr	ORIGINAL	
+	锡兰证章	uniequip_001_ceylon				gamedata uniequip_table.json · equipDict	char_348_ceylon	ORIGINAL	
+	夜莺证章	uniequip_001_cgbird				gamedata uniequip_table.json · equipDict	char_179_cgbird	ORIGINAL	
+	陈证章	uniequip_001_chen				gamedata uniequip_table.json · equipDict	char_010_chen	ORIGINAL	
+	假日威龙陈证章	uniequip_001_chen2				gamedata uniequip_table.json · equipDict	char_1013_chen2	ORIGINAL	
+	赤刃明霄陈证章	uniequip_001_chen3				gamedata uniequip_table.json · equipDict	char_1050_chen3	ORIGINAL	
+	贾维证章	uniequip_001_chiave				gamedata uniequip_table.json · equipDict	char_349_chiave	ORIGINAL	
+	齐尔查克证章	uniequip_001_chilc				gamedata uniequip_table.json · equipDict	char_4144_chilc	ORIGINAL	
+	铎铃证章	uniequip_001_chimes				gamedata uniequip_table.json · equipDict	char_4083_chimes	ORIGINAL	
+	褐果证章	uniequip_001_chnut				gamedata uniequip_table.json · equipDict	char_4041_chnut	ORIGINAL	
+	Miss.Christine证章	uniequip_001_christ				gamedata uniequip_table.json · equipDict	char_4198_christ	ORIGINAL	
+	重岳证章	uniequip_001_chyue				gamedata uniequip_table.json · equipDict	char_2024_chyue	ORIGINAL	
+	可露希尔证章	uniequip_001_closur				gamedata uniequip_table.json · equipDict	char_4228_closur	ORIGINAL	
+	红云证章	uniequip_001_clour				gamedata uniequip_table.json · equipDict	char_190_clour	ORIGINAL	
+	冰酿证章	uniequip_001_coldst				gamedata uniequip_table.json · equipDict	char_4104_coldst	ORIGINAL	
+	W证章	uniequip_001_cqbw				gamedata uniequip_table.json · equipDict	char_113_cqbw	ORIGINAL	
+	弑君者证章	uniequip_001_crosly				gamedata uniequip_table.json · equipDict	char_1502_crosly	ORIGINAL	
+	羽毛笔证章	uniequip_001_crow				gamedata uniequip_table.json · equipDict	char_421_crow	ORIGINAL	
+	晓歌证章	uniequip_001_ctable				gamedata uniequip_table.json · equipDict	char_497_ctable	ORIGINAL	
+	刻刀证章	uniequip_001_cutter				gamedata uniequip_table.json · equipDict	char_301_cutter	ORIGINAL	
+	安哲拉证章	uniequip_001_cuttle				gamedata uniequip_table.json · equipDict	char_218_cuttle	ORIGINAL	
+	达格达证章	uniequip_001_dagda				gamedata uniequip_table.json · equipDict	char_157_dagda	ORIGINAL	
+	深海色证章	uniequip_001_deepcl				gamedata uniequip_table.json · equipDict	char_110_deepcl	ORIGINAL	
+	戴菲恩证章	uniequip_001_delphn				gamedata uniequip_table.json · equipDict	char_4110_delphn	ORIGINAL	
+	贝洛内证章	uniequip_001_demetr				gamedata uniequip_table.json · equipDict	char_4037_demetr	ORIGINAL	
+	塞雷娅证章	uniequip_001_demkni				gamedata uniequip_table.json · equipDict	char_202_demkni	ORIGINAL	
+	杜宾证章	uniequip_001_doberm				gamedata uniequip_table.json · equipDict	char_130_doberm	ORIGINAL	
+	三角初华证章	uniequip_001_dolris				gamedata uniequip_table.json · equipDict	char_4184_dolris	ORIGINAL	
+	多萝西证章	uniequip_001_doroth				gamedata uniequip_table.json · equipDict	char_4048_doroth	ORIGINAL	
+	坚雷证章	uniequip_001_durnar				gamedata uniequip_table.json · equipDict	char_260_durnar	ORIGINAL	
+	夕证章	uniequip_001_dusk				gamedata uniequip_table.json · equipDict	char_2015_dusk	ORIGINAL	
+	黑键证章	uniequip_001_ebnhlz				gamedata uniequip_table.json · equipDict	char_4046_ebnhlz	ORIGINAL	
+	艾拉证章	uniequip_001_ela				gamedata uniequip_table.json · equipDict	char_4123_ela	ORIGINAL	
+	极境证章	uniequip_001_elysm				gamedata uniequip_table.json · equipDict	char_401_elysm	ORIGINAL	
+	埃拉托证章	uniequip_001_erato				gamedata uniequip_table.json · equipDict	char_4043_erato	ORIGINAL	
+	艾丝黛尔证章	uniequip_001_estell				gamedata uniequip_table.json · equipDict	char_127_estell	ORIGINAL	
+	伊桑证章	uniequip_001_ethan				gamedata uniequip_table.json · equipDict	char_355_ethan	ORIGINAL	
+	隐德来希证章	uniequip_001_etlchi				gamedata uniequip_table.json · equipDict	char_4010_etlchi	ORIGINAL	
+	送葬人证章	uniequip_001_excu				gamedata uniequip_table.json · equipDict	char_279_excu	ORIGINAL	
+	圣约送葬人证章	uniequip_001_excu2				gamedata uniequip_table.json · equipDict	char_1032_excu2	ORIGINAL	
+	山证章	uniequip_001_f12yin				gamedata uniequip_table.json · equipDict	char_264_f12yin	ORIGINAL	
+	历阵锐枪芬证章	uniequip_001_fang2				gamedata uniequip_table.json · equipDict	char_1036_fang2	ORIGINAL	
+	远牙证章	uniequip_001_fartth				gamedata uniequip_table.json · equipDict	char_430_fartth	ORIGINAL	
+	清流证章	uniequip_001_finlpp				gamedata uniequip_table.json · equipDict	char_385_finlpp	ORIGINAL	
+	火哨证章	uniequip_001_firwhl				gamedata uniequip_table.json · equipDict	char_493_firwhl	ORIGINAL	
+	炎客证章	uniequip_001_flameb				gamedata uniequip_table.json · equipDict	char_131_flameb	ORIGINAL	
+	焰尾证章	uniequip_001_flamtl				gamedata uniequip_table.json · equipDict	char_420_flamtl	ORIGINAL	
+	燧石证章	uniequip_001_flint				gamedata uniequip_table.json · equipDict	char_415_flint	ORIGINAL	
+	调香师证章	uniequip_001_flower				gamedata uniequip_table.json · equipDict	char_181_flower	ORIGINAL	
+	撷英调香师证章	uniequip_001_flwr2				gamedata uniequip_table.json · equipDict	char_1022_flwr2	ORIGINAL	
+	远山证章	uniequip_001_fmout				gamedata uniequip_table.json · equipDict	char_109_fmout	ORIGINAL	
+	稀音证章	uniequip_001_folivo				gamedata uniequip_table.json · equipDict	char_336_folivo	ORIGINAL	
+	亚叶证章	uniequip_001_folnic				gamedata uniequip_table.json · equipDict	char_345_folnic	ORIGINAL	
+	见行者证章	uniequip_001_forcer				gamedata uniequip_table.json · equipDict	char_4036_forcer	ORIGINAL	
+	芙兰卡证章	uniequip_001_franka				gamedata uniequip_table.json · equipDict	char_106_franka	ORIGINAL	
+	慕斯证章	uniequip_001_frncat				gamedata uniequip_table.json · equipDict	char_185_frncat	ORIGINAL	
+	霜叶证章	uniequip_001_frostl				gamedata uniequip_table.json · equipDict	char_193_frostl	ORIGINAL	
+	导火索证章	uniequip_001_fuze				gamedata uniequip_table.json · equipDict	char_4126_fuze	ORIGINAL	
+	澄闪证章	uniequip_001_gdglow				gamedata uniequip_table.json · equipDict	char_377_gdglow	ORIGINAL	
+	幽灵鲨证章	uniequip_001_ghost				gamedata uniequip_table.json · equipDict	char_143_ghost	ORIGINAL	
+	归溟幽灵鲨证章	uniequip_001_ghost2				gamedata uniequip_table.json · equipDict	char_1023_ghost2	ORIGINAL	
+	格劳克斯证章	uniequip_001_glacus				gamedata uniequip_table.json · equipDict	char_326_glacus	ORIGINAL	
+	歌蕾蒂娅证章	uniequip_001_glady				gamedata uniequip_table.json · equipDict	char_474_glady	ORIGINAL	
+	真理证章	uniequip_001_glassb				gamedata uniequip_table.json · equipDict	char_195_glassb	ORIGINAL	
+	安比尔证章	uniequip_001_glaze				gamedata uniequip_table.json · equipDict	char_302_glaze	ORIGINAL	
+	蜜莓证章	uniequip_001_glider				gamedata uniequip_table.json · equipDict	char_449_glider	ORIGINAL	
+	灵知证章	uniequip_001_gnosis				gamedata uniequip_table.json · equipDict	char_206_gnosis	ORIGINAL	
+	小满证章	uniequip_001_grabds				gamedata uniequip_table.json · equipDict	char_4122_grabds	ORIGINAL	
+	格拉尼证章	uniequip_001_grani				gamedata uniequip_table.json · equipDict	char_220_grani	ORIGINAL	
+	砾证章	uniequip_001_gravel				gamedata uniequip_table.json · equipDict	char_237_gravel	ORIGINAL	
+	格雷伊证章	uniequip_001_greyy				gamedata uniequip_table.json · equipDict	char_253_greyy	ORIGINAL	
+	承曦格雷伊证章	uniequip_001_greyy2				gamedata uniequip_table.json · equipDict	char_1027_greyy2	ORIGINAL	
+	百炼嘉维尔证章	uniequip_001_gvial2				gamedata uniequip_table.json · equipDict	char_1026_gvial2	ORIGINAL	
+	缠丸证章	uniequip_001_gyuki				gamedata uniequip_table.json · equipDict	char_289_gyuki	ORIGINAL	
+	阿证章	uniequip_001_haak				gamedata uniequip_table.json · equipDict	char_225_haak	ORIGINAL	
+	海霓证章	uniequip_001_haini				gamedata uniequip_table.json · equipDict	char_4079_haini	ORIGINAL	
+	星源证章	uniequip_001_halo				gamedata uniequip_table.json · equipDict	char_135_halo	ORIGINAL	
+	溯光星源证章	uniequip_001_halo2				gamedata uniequip_table.json · equipDict	char_1047_halo2	ORIGINAL	
+	和弦证章	uniequip_001_hamoni				gamedata uniequip_table.json · equipDict	char_297_hamoni	ORIGINAL	
+	哈洛德证章	uniequip_001_harold				gamedata uniequip_table.json · equipDict	char_4114_harold	ORIGINAL	
+	遥证章	uniequip_001_haruka				gamedata uniequip_table.json · equipDict	char_4202_haruka	ORIGINAL	
+	濯尘芙蓉证章	uniequip_001_hbisc2				gamedata uniequip_table.json · equipDict	char_1024_hbisc2	ORIGINAL	
+	怒潮凛冬证章	uniequip_001_headb2				gamedata uniequip_table.json · equipDict	char_1051_headb2	ORIGINAL	
+	凛冬证章	uniequip_001_headbr				gamedata uniequip_table.json · equipDict	char_115_headbr	ORIGINAL	
+	海蒂证章	uniequip_001_heidi				gamedata uniequip_table.json · equipDict	char_4045_heidi	ORIGINAL	
+	赫拉格证章	uniequip_001_helage				gamedata uniequip_table.json · equipDict	char_188_helage	ORIGINAL	
+	霍尔海雅证章	uniequip_001_heyak				gamedata uniequip_table.json · equipDict	char_4027_heyak	ORIGINAL	
+	海沫证章	uniequip_001_highmo				gamedata uniequip_table.json · equipDict	char_4066_highmo	ORIGINAL	
+	吽证章	uniequip_001_hmau				gamedata uniequip_table.json · equipDict	char_226_hmau	ORIGINAL	
+	赫德雷证章	uniequip_001_hodrer				gamedata uniequip_table.json · equipDict	char_4088_hodrer	ORIGINAL	
+	号角证章	uniequip_001_horn				gamedata uniequip_table.json · equipDict	char_4039_horn	ORIGINAL	
+	火神证章	uniequip_001_hpsts				gamedata uniequip_table.json · equipDict	char_163_hpsts	ORIGINAL	
+	斩业星熊证章	uniequip_001_hsgma2				gamedata uniequip_table.json · equipDict	char_1044_hsgma2	ORIGINAL	
+	星熊证章	uniequip_001_hsguma				gamedata uniequip_table.json · equipDict	char_136_hsguma	ORIGINAL	
+	煌证章	uniequip_001_huang				gamedata uniequip_table.json · equipDict	char_017_huang	ORIGINAL	
+	休谟斯证章	uniequip_001_humus				gamedata uniequip_table.json · equipDict	char_491_humus	ORIGINAL	
+	双月证章	uniequip_001_iana				gamedata uniequip_table.json · equipDict	char_4124_iana	ORIGINAL	
+	伊芙利特证章	uniequip_001_ifrit				gamedata uniequip_table.json · equipDict	char_134_ifrit	ORIGINAL	
+	深靛证章	uniequip_001_indigo				gamedata uniequip_table.json · equipDict	char_469_indigo	ORIGINAL	
+	伊内丝证章	uniequip_001_ines				gamedata uniequip_table.json · equipDict	char_4087_ines	ORIGINAL	
+	隐现证章	uniequip_001_inside				gamedata uniequip_table.json · equipDict	char_498_inside	ORIGINAL	
+	艾丽妮证章	uniequip_001_irene				gamedata uniequip_table.json · equipDict	char_4009_irene	ORIGINAL	
+	爱丽丝证章	uniequip_001_iris				gamedata uniequip_table.json · equipDict	char_338_iris	ORIGINAL	
+	白铁证章	uniequip_001_ironmn				gamedata uniequip_table.json · equipDict	char_4072_ironmn	ORIGINAL	
+	杰克证章	uniequip_001_jaksel				gamedata uniequip_table.json · equipDict	char_347_jaksel	ORIGINAL	
+	嘉辛塔证章	uniequip_001_jcinta				gamedata uniequip_table.json · equipDict	char_4237_jcinta	ORIGINAL	
+	涤火杰西卡证章	uniequip_001_jesca2				gamedata uniequip_table.json · equipDict	char_1034_jesca2	ORIGINAL	
+	杰西卡证章	uniequip_001_jesica				gamedata uniequip_table.json · equipDict	char_235_jesica	ORIGINAL	
+	矩证章	uniequip_001_ju				gamedata uniequip_table.json · equipDict	char_4221_ju	ORIGINAL	
+	斥罪证章	uniequip_001_judge				gamedata uniequip_table.json · equipDict	char_4065_judge	ORIGINAL	
+	卡夫卡证章	uniequip_001_kafka				gamedata uniequip_table.json · equipDict	char_214_kafka	ORIGINAL	
+	折光证章	uniequip_001_kaitou				gamedata uniequip_table.json · equipDict	char_499_kaitou	ORIGINAL	
+	凯尔希证章	uniequip_001_kalts				gamedata uniequip_table.json · equipDict	char_003_kalts	ORIGINAL	
+	风丸证章	uniequip_001_kazema				gamedata uniequip_table.json · equipDict	char_4016_kazema	ORIGINAL	
+	吉星证章	uniequip_001_kichi				gamedata uniequip_table.json · equipDict	char_4203_kichi	ORIGINAL	
+	绮良证章	uniequip_001_kirara				gamedata uniequip_table.json · equipDict	char_478_kirara	ORIGINAL	
+	耶拉证章	uniequip_001_kjera				gamedata uniequip_table.json · equipDict	char_4013_kjera	ORIGINAL	
+	寒芒克洛丝证章	uniequip_001_kroos2				gamedata uniequip_table.json · equipDict	char_1021_kroos2	ORIGINAL	
+	莱欧斯证章	uniequip_001_laios				gamedata uniequip_table.json · equipDict	char_4142_laios	ORIGINAL	
+	衡沙证章	uniequip_001_lasher				gamedata uniequip_table.json · equipDict	char_4140_lasher	ORIGINAL	
+	炎狱炎熔证章	uniequip_001_lava2				gamedata uniequip_table.json · equipDict	char_1011_lava2	ORIGINAL	
+	惊蛰证章	uniequip_001_leizi				gamedata uniequip_table.json · equipDict	char_306_leizi	ORIGINAL	
+	司霆惊蛰证章	uniequip_001_leizi2				gamedata uniequip_table.json · equipDict	char_1043_leizi2	ORIGINAL	
+	蕾缪安证章	uniequip_001_lemuen				gamedata uniequip_table.json · equipDict	char_4193_lemuen	ORIGINAL	
+	止颂证章	uniequip_001_lessng				gamedata uniequip_table.json · equipDict	char_4011_lessng	ORIGINAL	
+	烈夏证章	uniequip_001_leto				gamedata uniequip_table.json · equipDict	char_194_leto	ORIGINAL	
+	复奏证章	uniequip_001_liesel				gamedata uniequip_table.json · equipDict	char_4031_liesel	ORIGINAL	
+	林证章	uniequip_001_lin				gamedata uniequip_table.json · equipDict	char_4080_lin	ORIGINAL	
+	令证章	uniequip_001_ling				gamedata uniequip_table.json · equipDict	char_2023_ling	ORIGINAL	
+	莱恩哈特证章	uniequip_001_lionhd				gamedata uniequip_table.json · equipDict	char_373_lionhd	ORIGINAL	
+	铃兰证章	uniequip_001_lisa				gamedata uniequip_table.json · equipDict	char_358_lisa	ORIGINAL	
+	雷蛇证章	uniequip_001_liskam				gamedata uniequip_table.json · equipDict	char_107_liskam	ORIGINAL	
+	老鲤证章	uniequip_001_lmlee				gamedata uniequip_table.json · equipDict	char_322_lmlee	ORIGINAL	
+	逻各斯证章	uniequip_001_logos				gamedata uniequip_table.json · equipDict	char_4133_logos	ORIGINAL	
+	罗小黑证章	uniequip_001_lolxh				gamedata uniequip_table.json · equipDict	char_4067_lolxh	ORIGINAL	
+	流明证章	uniequip_001_lumen				gamedata uniequip_table.json · equipDict	char_4042_lumen	ORIGINAL	
+	子月证章	uniequip_001_lunacu				gamedata uniequip_table.json · equipDict	char_4014_lunacu	ORIGINAL	
+	露托证章	uniequip_001_luton				gamedata uniequip_table.json · equipDict	char_4130_luton	ORIGINAL	
+	结城理证章	uniequip_001_makoto				gamedata uniequip_table.json · equipDict	char_4217_makoto	ORIGINAL	
+	至简证章	uniequip_001_malist				gamedata uniequip_table.json · equipDict	char_4054_malist	ORIGINAL	
+	狮蝎证章	uniequip_001_mantic				gamedata uniequip_table.json · equipDict	char_215_mantic	ORIGINAL	
+	真言证章	uniequip_001_mantra				gamedata uniequip_table.json · equipDict	char_4204_mantra	ORIGINAL	
+	玛露西尔证章	uniequip_001_marcil				gamedata uniequip_table.json · equipDict	char_4141_marcil	ORIGINAL	
+	桑葚证章	uniequip_001_mberry				gamedata uniequip_table.json · equipDict	char_473_mberry	ORIGINAL	
+	机械师证章	uniequip_001_mcnist				gamedata uniequip_table.json · equipDict	char_4230_mcnist	ORIGINAL	
+	玫拉证章	uniequip_001_melnte				gamedata uniequip_table.json · equipDict	char_4006_melnte	ORIGINAL	
+	陨星证章	uniequip_001_meteo				gamedata uniequip_table.json · equipDict	char_219_meteo	ORIGINAL	
+	麦哲伦证章	uniequip_001_mgllan				gamedata uniequip_table.json · equipDict	char_248_mgllan	ORIGINAL	
+	守林人证章	uniequip_001_milu				gamedata uniequip_table.json · equipDict	char_158_milu	ORIGINAL	
+	薄绿证章	uniequip_001_mint				gamedata uniequip_table.json · equipDict	char_388_mint	ORIGINAL	
+	渡桥证章	uniequip_001_mitm				gamedata uniequip_table.json · equipDict	char_4147_mitm	ORIGINAL	
+	水月证章	uniequip_001_mizuki				gamedata uniequip_table.json · equipDict	char_437_mizuki	ORIGINAL	
+	玛恩纳证章	uniequip_001_mlynar				gamedata uniequip_table.json · equipDict	char_4064_mlynar	ORIGINAL	
+	缪尔赛思证章	uniequip_001_mlyss				gamedata uniequip_table.json · equipDict	char_249_mlyss	ORIGINAL	
+	梅证章	uniequip_001_mm				gamedata uniequip_table.json · equipDict	char_133_mm	ORIGINAL	
+	可颂证章	uniequip_001_moeshd				gamedata uniequip_table.json · equipDict	char_201_moeshd	ORIGINAL	
+	Mon3tr证章	uniequip_001_monstr				gamedata uniequip_table.json · equipDict	char_4179_monstr	ORIGINAL	
+	摩根证章	uniequip_001_morgan				gamedata uniequip_table.json · equipDict	char_154_morgan	ORIGINAL	
+	若叶睦证章	uniequip_001_mortis				gamedata uniequip_table.json · equipDict	char_4183_mortis	ORIGINAL	
+	莫斯提马证章	uniequip_001_mostma				gamedata uniequip_table.json · equipDict	char_213_mostma	ORIGINAL	
+	泥岩证章	uniequip_001_mudrok				gamedata uniequip_table.json · equipDict	char_311_mudrok	ORIGINAL	
+	末药证章	uniequip_001_myrrh				gamedata uniequip_table.json · equipDict	char_117_myrrh	ORIGINAL	
+	桃金娘证章	uniequip_001_myrtle				gamedata uniequip_table.json · equipDict	char_151_myrtle	ORIGINAL	
+	娜仁图亚证章	uniequip_001_narant				gamedata uniequip_table.json · equipDict	char_4138_narant	ORIGINAL	
+	娜斯提证章	uniequip_001_nasti				gamedata uniequip_table.json · equipDict	char_4212_nasti	ORIGINAL	
+	九色鹿证章	uniequip_001_ncdeer				gamedata uniequip_table.json · equipDict	char_4019_ncdeer	ORIGINAL	
+	临光证章	uniequip_001_nearl				gamedata uniequip_table.json · equipDict	char_148_nearl	ORIGINAL	
+	耀骑士临光证章	uniequip_001_nearl2				gamedata uniequip_table.json · equipDict	char_1014_nearl2	ORIGINAL	
+	死芒证章	uniequip_001_necras				gamedata uniequip_table.json · equipDict	char_450_necras	ORIGINAL	
+	年证章	uniequip_001_nian				gamedata uniequip_table.json · equipDict	char_2014_nian	ORIGINAL	
+	夜魔证章	uniequip_001_nightm				gamedata uniequip_table.json · equipDict	char_164_nightm	ORIGINAL	
+	夜烟证章	uniequip_001_nights				gamedata uniequip_table.json · equipDict	char_141_nights	ORIGINAL	
+	火龙S黑角证章	uniequip_001_noirc2				gamedata uniequip_table.json · equipDict	char_1030_noirc2	ORIGINAL	
+	乌有证章	uniequip_001_nothin				gamedata uniequip_table.json · equipDict	char_455_nothin	ORIGINAL	
+	诺威尔证章	uniequip_001_nowell				gamedata uniequip_table.json · equipDict	char_4173_nowell	ORIGINAL	
+	妮芙证章	uniequip_001_nymph				gamedata uniequip_table.json · equipDict	char_4146_nymph	ORIGINAL	
+	丰川祥子证章	uniequip_001_oblvns				gamedata uniequip_table.json · equipDict	char_4182_oblvns	ORIGINAL	
+	奥达证章	uniequip_001_odda				gamedata uniequip_table.json · equipDict	char_4131_odda	ORIGINAL	
+	焰狐龙梓兰证章	uniequip_001_orchd2				gamedata uniequip_table.json · equipDict	char_1048_orchd2	ORIGINAL	
+	梅尔证章	uniequip_001_otter				gamedata uniequip_table.json · equipDict	char_242_otter	ORIGINAL	
+	帕拉斯证章	uniequip_001_pallas				gamedata uniequip_table.json · equipDict	char_485_pallas	ORIGINAL	
+	食铁兽证章	uniequip_001_panda				gamedata uniequip_table.json · equipDict	char_241_panda	ORIGINAL	
+	莎草证章	uniequip_001_papyrs				gamedata uniequip_table.json · equipDict	char_4139_papyrs	ORIGINAL	
+	异客证章	uniequip_001_pasngr				gamedata uniequip_table.json · equipDict	char_472_pasngr	ORIGINAL	
+	断罪者证章	uniequip_001_peacok				gamedata uniequip_table.json · equipDict	char_159_peacok	ORIGINAL	
+	佩佩证章	uniequip_001_pepe				gamedata uniequip_table.json · equipDict	char_4058_pepe	ORIGINAL	
+	明椒证章	uniequip_001_peper				gamedata uniequip_table.json · equipDict	char_4071_peper	ORIGINAL	
+	酒神证章	uniequip_001_phatm2				gamedata uniequip_table.json · equipDict	char_1042_phatm2	ORIGINAL	
+	傀影证章	uniequip_001_phatom				gamedata uniequip_table.json · equipDict	char_250_phatom	ORIGINAL	
+	菲亚梅塔证章	uniequip_001_phenxi				gamedata uniequip_table.json · equipDict	char_300_phenxi	ORIGINAL	
+	菲莱证章	uniequip_001_philae				gamedata uniequip_table.json · equipDict	char_4148_philae	ORIGINAL	
+	车尔尼证章	uniequip_001_pianst				gamedata uniequip_table.json · equipDict	char_4047_pianst	ORIGINAL	
+	松果证章	uniequip_001_pinecn				gamedata uniequip_table.json · equipDict	char_440_pinecn	ORIGINAL	
+	盟约·辅助干员证章	uniequip_001_pithst				gamedata uniequip_table.json · equipDict	char_616_pithst	ORIGINAL	
+	白金证章	uniequip_001_platnm				gamedata uniequip_table.json · equipDict	char_204_platnm	ORIGINAL	
+	白面鸮证章	uniequip_001_plosis				gamedata uniequip_table.json · equipDict	char_128_plosis	ORIGINAL	
+	早露证章	uniequip_001_poca				gamedata uniequip_table.json · equipDict	char_197_poca	ORIGINAL	
+	波登可证章	uniequip_001_podego				gamedata uniequip_table.json · equipDict	char_258_podego	ORIGINAL	
+	普罗旺斯证章	uniequip_001_prove				gamedata uniequip_table.json · equipDict	char_145_prove	ORIGINAL	
+	但书证章	uniequip_001_provs				gamedata uniequip_table.json · equipDict	char_4032_provs	ORIGINAL	
+	布丁证章	uniequip_001_pudd				gamedata uniequip_table.json · equipDict	char_4004_pudd	ORIGINAL	
+	谜图证章	uniequip_001_puzzle				gamedata uniequip_table.json · equipDict	char_4017_puzzle	ORIGINAL	
+	雪绒证章	uniequip_001_qanik				gamedata uniequip_table.json · equipDict	char_466_qanik	ORIGINAL	
+	仇白证章	uniequip_001_qiubai				gamedata uniequip_table.json · equipDict	char_4082_qiubai	ORIGINAL	
+	石英证章	uniequip_001_quartz				gamedata uniequip_table.json · equipDict	char_4063_quartz	ORIGINAL	
+	夏栎证章	uniequip_001_quercu				gamedata uniequip_table.json · equipDict	char_492_quercu	ORIGINAL	
+	电弧证章	uniequip_001_radian				gamedata uniequip_table.json · equipDict	char_4195_radian	ORIGINAL	
+	莱伊证章	uniequip_001_ray				gamedata uniequip_table.json · equipDict	char_4117_ray	ORIGINAL	
+	医生证章	uniequip_001_rdoc				gamedata uniequip_table.json · equipDict	char_4125_rdoc	ORIGINAL	
+	录武官证章	uniequip_001_reckpr				gamedata uniequip_table.json · equipDict	char_4196_reckpr	ORIGINAL	
+	红证章	uniequip_001_red				gamedata uniequip_table.json · equipDict	char_144_red	ORIGINAL	
+	焰影苇草证章	uniequip_001_reed2				gamedata uniequip_table.json · equipDict	char_1020_reed2	ORIGINAL	
+	红隼证章	uniequip_001_rfalcn				gamedata uniequip_table.json · equipDict	char_4023_rfalcn	ORIGINAL	
+	霜华证章	uniequip_001_rfrost				gamedata uniequip_table.json · equipDict	char_458_rfrost	ORIGINAL	
+	信仰搅拌机证章	uniequip_001_rmixer				gamedata uniequip_table.json · equipDict	char_4194_rmixer	ORIGINAL	
+	罗宾证章	uniequip_001_robin				gamedata uniequip_table.json · equipDict	char_451_robin	ORIGINAL	
+	罗比菈塔证章	uniequip_001_robrta				gamedata uniequip_table.json · equipDict	char_484_robrta	ORIGINAL	
+	洛洛证章	uniequip_001_rockr				gamedata uniequip_table.json · equipDict	char_4040_rockr	ORIGINAL	
+	暗索证章	uniequip_001_rope				gamedata uniequip_table.json · equipDict	char_236_rope	ORIGINAL	
+	瑰盐证章	uniequip_001_rosesa				gamedata uniequip_table.json · equipDict	char_4163_rosesa	ORIGINAL	
+	迷迭香证章	uniequip_001_rosmon				gamedata uniequip_table.json · equipDict	char_391_rosmon	ORIGINAL	
+	嵯峨证章	uniequip_001_saga				gamedata uniequip_table.json · equipDict	char_362_saga	ORIGINAL	
+	暴行证章	uniequip_001_savage				gamedata uniequip_table.json · equipDict	char_230_savage	ORIGINAL	
+	圣聆初雪证章	uniequip_001_sbell2				gamedata uniequip_table.json · equipDict	char_1046_sbell2	ORIGINAL	
+	清道夫证章	uniequip_001_scave				gamedata uniequip_table.json · equipDict	char_149_scave	ORIGINAL	
+	苇草证章	uniequip_001_sddrag				gamedata uniequip_table.json · equipDict	char_261_sddrag	ORIGINAL	
+	森西证章	uniequip_001_sensi				gamedata uniequip_table.json · equipDict	char_4143_sensi	ORIGINAL	
+	蚀清证章	uniequip_001_serum				gamedata uniequip_table.json · equipDict	char_489_serum	ORIGINAL	
+	慑砂证章	uniequip_001_sesa				gamedata uniequip_table.json · equipDict	char_379_sesa	ORIGINAL	
+	领主·Sharp证章	uniequip_001_sharp2				gamedata uniequip_table.json · equipDict	char_617_sharp2	ORIGINAL	
+	闪灵证章	uniequip_001_shining				gamedata uniequip_table.json · equipDict	char_147_shining	ORIGINAL	
+	流星证章	uniequip_001_shotst				gamedata uniequip_table.json · equipDict	char_126_shotst	ORIGINAL	
+	黍证章	uniequip_001_shu				gamedata uniequip_table.json · equipDict	char_2025_shu	ORIGINAL	
+	黑证章	uniequip_001_shwaz				gamedata uniequip_table.json · equipDict	char_340_shwaz	ORIGINAL	
+	铸铁证章	uniequip_001_sidero				gamedata uniequip_table.json · equipDict	char_333_sidero	ORIGINAL	
+	推进之王证章	uniequip_001_siege				gamedata uniequip_table.json · equipDict	char_112_siege	ORIGINAL	
+	维娜·维多利亚证章	uniequip_001_siege2				gamedata uniequip_table.json · equipDict	char_1019_siege2	ORIGINAL	
+	赫默证章	uniequip_001_silent				gamedata uniequip_table.json · equipDict	char_108_silent	ORIGINAL	
+	斯卡蒂证章	uniequip_001_skadi				gamedata uniequip_table.json · equipDict	char_263_skadi	ORIGINAL	
+	浊心斯卡蒂证章	uniequip_001_skadi2				gamedata uniequip_table.json · equipDict	char_1012_skadi2	ORIGINAL	
+	天火证章	uniequip_001_skfire				gamedata uniequip_table.json · equipDict	char_166_skfire	ORIGINAL	
+	地灵证章	uniequip_001_skgoat				gamedata uniequip_table.json · equipDict	char_183_skgoat	ORIGINAL	
+	初雪证章	uniequip_001_slbell				gamedata uniequip_table.json · equipDict	char_174_slbell	ORIGINAL	
+	崖心证章	uniequip_001_slchan				gamedata uniequip_table.json · equipDict	char_173_slchan	ORIGINAL	
+	琴柳证章	uniequip_001_sleach				gamedata uniequip_table.json · equipDict	char_479_sleach	ORIGINAL	
+	淬羽赫默证章	uniequip_001_slent2				gamedata uniequip_table.json · equipDict	char_1031_slent2	ORIGINAL	
+	蛇屠箱证章	uniequip_001_snakek				gamedata uniequip_table.json · equipDict	char_150_snakek	ORIGINAL	
+	雪猎证章	uniequip_001_snhunt				gamedata uniequip_table.json · equipDict	char_4211_snhunt	ORIGINAL	
+	雪雉证章	uniequip_001_snsant				gamedata uniequip_table.json · equipDict	char_383_snsant	ORIGINAL	
+	寒檀证章	uniequip_001_sntlla				gamedata uniequip_table.json · equipDict	char_341_sntlla	ORIGINAL	
+	鞭刃证章	uniequip_001_sophia				gamedata uniequip_table.json · equipDict	char_265_sophia	ORIGINAL	
+	空证章	uniequip_001_sora				gamedata uniequip_table.json · equipDict	char_101_sora	ORIGINAL	
+	芳汀证章	uniequip_001_spikes				gamedata uniequip_table.json · equipDict	char_271_spikes	ORIGINAL	
+	空构证章	uniequip_001_spuria				gamedata uniequip_table.json · equipDict	char_4015_spuria	ORIGINAL	
+	阿消证章	uniequip_001_sqrrel				gamedata uniequip_table.json · equipDict	char_277_sqrrel	ORIGINAL	
+	孑证章	uniequip_001_strong				gamedata uniequip_table.json · equipDict	char_272_strong	ORIGINAL	
+	古米证章	uniequip_001_sunbr				gamedata uniequip_table.json · equipDict	char_196_sunbr	ORIGINAL	
+	寻澜证章	uniequip_001_surfer				gamedata uniequip_table.json · equipDict	char_4052_surfer	ORIGINAL	
+	史尔特尔证章	uniequip_001_surtr				gamedata uniequip_table.json · equipDict	char_350_surtr	ORIGINAL	
+	苏苏洛证章	uniequip_001_susuro				gamedata uniequip_table.json · equipDict	char_298_susuro	ORIGINAL	
+	银灰证章	uniequip_001_svrash				gamedata uniequip_table.json · equipDict	char_172_svrash	ORIGINAL	
+	诗怀雅证章	uniequip_001_swire				gamedata uniequip_table.json · equipDict	char_308_swire	ORIGINAL	
+	琳琅诗怀雅证章	uniequip_001_swire2				gamedata uniequip_table.json · equipDict	char_1033_swire2	ORIGINAL	
+	灰喉证章	uniequip_001_swllow				gamedata uniequip_table.json · equipDict	char_367_swllow	ORIGINAL	
+	战车证章	uniequip_001_tachak				gamedata uniequip_table.json · equipDict	char_459_tachak	ORIGINAL	
+	龙舌兰证章	uniequip_001_takila				gamedata uniequip_table.json · equipDict	char_486_takila	ORIGINAL	
+	裁度证章	uniequip_001_talr				gamedata uniequip_table.json · equipDict	char_4155_talr	ORIGINAL	
+	裂响证章	uniequip_001_tanya				gamedata uniequip_table.json · equipDict	char_4225_tanya	ORIGINAL	
+	特克诺证章	uniequip_001_tecno				gamedata uniequip_table.json · equipDict	char_4164_tecno	ORIGINAL	
+	德克萨斯证章	uniequip_001_texas				gamedata uniequip_table.json · equipDict	char_102_texas	ORIGINAL	
+	缄默德克萨斯证章	uniequip_001_texas2				gamedata uniequip_table.json · equipDict	char_1028_texas2	ORIGINAL	
+	引星棘刺证章	uniequip_001_thorn2				gamedata uniequip_table.json · equipDict	char_1039_thorn2	ORIGINAL	
+	棘刺证章	uniequip_001_thorns				gamedata uniequip_table.json · equipDict	char_293_thorns	ORIGINAL	
+	凛视证章	uniequip_001_threye				gamedata uniequip_table.json · equipDict	char_4102_threye	ORIGINAL	
+	珊比证章	uniequip_001_thumpy				gamedata uniequip_table.json · equipDict	char_4235_thumpy	ORIGINAL	
+	因陀罗证章	uniequip_001_tiger				gamedata uniequip_table.json · equipDict	char_155_tiger	ORIGINAL	
+	锡人证章	uniequip_001_tinman				gamedata uniequip_table.json · equipDict	char_4151_tinman	ORIGINAL	
+	缇缇证章	uniequip_001_titi				gamedata uniequip_table.json · equipDict	char_4056_titi	ORIGINAL	
+	月禾证章	uniequip_001_tknogi				gamedata uniequip_table.json · equipDict	char_343_tknogi	ORIGINAL	
+	八幡海铃证章	uniequip_001_tmoris				gamedata uniequip_table.json · equipDict	char_4186_tmoris	ORIGINAL	
+	时隙证章	uniequip_001_tmslot				gamedata uniequip_table.json · equipDict	char_4236_tmslot	ORIGINAL	
+	熔泉证章	uniequip_001_toddi				gamedata uniequip_table.json · equipDict	char_363_toddi	ORIGINAL	
+	特米米证章	uniequip_001_tomimi				gamedata uniequip_table.json · equipDict	char_411_tomimi	ORIGINAL	
+	铅踝证章	uniequip_001_totter				gamedata uniequip_table.json · equipDict	char_4062_totter	ORIGINAL	
+	乌啾证章	uniequip_001_turdus				gamedata uniequip_table.json · equipDict	char_4224_turdus	ORIGINAL	
+	图耶证章	uniequip_001_tuye				gamedata uniequip_table.json · equipDict	char_402_tuye	ORIGINAL	
+	提丰证章	uniequip_001_typhon				gamedata uniequip_table.json · equipDict	char_2012_typhon	ORIGINAL	
+	深巡证章	uniequip_001_udflow				gamedata uniequip_table.json · equipDict	char_4137_udflow	ORIGINAL	
+	乌尔比安证章	uniequip_001_ulpia				gamedata uniequip_table.json · equipDict	char_4145_ulpia	ORIGINAL	
+	宴证章	uniequip_001_utage				gamedata uniequip_table.json · equipDict	char_337_utage	ORIGINAL	
+	摆渡人证章	uniequip_001_varkis				gamedata uniequip_table.json · equipDict	char_4166_varkis	ORIGINAL	
+	维伊证章	uniequip_001_veen				gamedata uniequip_table.json · equipDict	char_4226_veen	ORIGINAL	
+	刺玫证章	uniequip_001_vendla				gamedata uniequip_table.json · equipDict	char_494_vendla	ORIGINAL	
+	伺夜证章	uniequip_001_vigil				gamedata uniequip_table.json · equipDict	char_427_vigil	ORIGINAL	
+	红豆证章	uniequip_001_vigna				gamedata uniequip_table.json · equipDict	char_290_vigna	ORIGINAL	
+	巫恋证章	uniequip_001_vodfox				gamedata uniequip_table.json · equipDict	char_254_vodfox	ORIGINAL	
+	维荻证章	uniequip_001_vrdant				gamedata uniequip_table.json · equipDict	char_4107_vrdant	ORIGINAL	
+	忍冬证章	uniequip_001_vulpis				gamedata uniequip_table.json · equipDict	char_4026_vulpis	ORIGINAL	
+	薇薇安娜证章	uniequip_001_vvana				gamedata uniequip_table.json · equipDict	char_4098_vvana	ORIGINAL	
+	槐琥证章	uniequip_001_waaifu				gamedata uniequip_table.json · equipDict	char_243_waaifu	ORIGINAL	
+	望证章	uniequip_001_wang				gamedata uniequip_table.json · equipDict	char_2027_wang	ORIGINAL	
+	万顷证章	uniequip_001_wanqin				gamedata uniequip_table.json · equipDict	char_4119_wanqin	ORIGINAL	
+	温米证章	uniequip_001_warmy				gamedata uniequip_table.json · equipDict	char_4081_warmy	ORIGINAL	
+	温蒂证章	uniequip_001_weedy				gamedata uniequip_table.json · equipDict	char_400_weedy	ORIGINAL	
+	絮雨证章	uniequip_001_whispr				gamedata uniequip_table.json · equipDict	char_436_whispr	ORIGINAL	
+	拉普兰德证章	uniequip_001_whitew				gamedata uniequip_table.json · equipDict	char_140_whitew	ORIGINAL	
+	荒芜拉普兰德证章	uniequip_001_whitw2				gamedata uniequip_table.json · equipDict	char_1038_whitw2	ORIGINAL	
+	野鬃证章	uniequip_001_wildmn				gamedata uniequip_table.json · equipDict	char_496_wildmn	ORIGINAL	
+	掠风证章	uniequip_001_windft				gamedata uniequip_table.json · equipDict	char_433_windft	ORIGINAL	
+	冬时证章	uniequip_001_wintim				gamedata uniequip_table.json · equipDict	char_4208_wintim	ORIGINAL	
+	维什戴尔证章	uniequip_001_wisdel				gamedata uniequip_table.json · equipDict	char_1035_wisdel	ORIGINAL	
+	骋风证章	uniequip_001_wscoot				gamedata uniequip_table.json · equipDict	char_445_wscoot	ORIGINAL	
+	钼铅证章	uniequip_001_wulfen				gamedata uniequip_table.json · equipDict	char_4171_wulfen	ORIGINAL	
+	行箸证章	uniequip_001_xingzh				gamedata uniequip_table.json · equipDict	char_4172_xingzh	ORIGINAL	
+	角峰证章	uniequip_001_yak				gamedata uniequip_table.json · equipDict	char_199_yak	ORIGINAL	
+	麒麟R夜刀证章	uniequip_001_yato2				gamedata uniequip_table.json · equipDict	char_1029_yato2	ORIGINAL	
+	余证章	uniequip_001_yu				gamedata uniequip_table.json · equipDict	char_2026_yu	ORIGINAL	
+	岳羽由加莉证章	uniequip_001_yukari				gamedata uniequip_table.json · equipDict	char_4219_yukari	ORIGINAL	
+	白雪证章	uniequip_001_yuki				gamedata uniequip_table.json · equipDict	char_118_yuki	ORIGINAL	
+	暴雨证章	uniequip_001_zebra				gamedata uniequip_table.json · equipDict	char_304_zebra	ORIGINAL	
+	森蚺证章	uniequip_001_zumama				gamedata uniequip_table.json · equipDict	char_416_zumama	ORIGINAL	
+	左乐证章	uniequip_001_zuole				gamedata uniequip_table.json · equipDict	char_4121_zuole	ORIGINAL	
+	“监护者”单兵通讯单元	uniequip_002_absin				gamedata uniequip_table.json · equipDict	char_405_absin	CCR/X	X
+	Pith证章	uniequip_002_accast				gamedata uniequip_table.json · equipDict	char_612_accast	SPC/X	X
+	“自由、洋葱圈和我”	uniequip_002_acdrop				gamedata uniequip_table.json · equipDict	char_366_acdrop	ARC/X	X
+	Mechanist证章	uniequip_002_acfend				gamedata uniequip_table.json · equipDict	char_610_acfend	PRO/X	X
+	Sharp证章	uniequip_002_acguad				gamedata uniequip_table.json · equipDict	char_609_acguad	DRE/X	X
+	Touch证章	uniequip_002_acmedc				gamedata uniequip_table.json · equipDict	char_613_acmedc	PHY/X	X
+	Stormeye证章	uniequip_002_acnipe				gamedata uniequip_table.json · equipDict	char_611_acnipe	MAR/X	X
+	郁金香证章	uniequip_002_acpion				gamedata uniequip_table.json · equipDict	char_608_acpion	SOL/X	X
+	Misery证章	uniequip_002_acspec				gamedata uniequip_table.json · equipDict	char_615_acspec	EXE/X	X
+	Raidian证章	uniequip_002_acsupo				gamedata uniequip_table.json · equipDict	char_614_acsupo	DEC/X	X
+	重力校准模块	uniequip_002_aglina				gamedata uniequip_table.json · equipDict	char_291_aglina	DEC/Y	Y
+	想要留住的声音	uniequip_002_agoat2				gamedata uniequip_table.json · equipDict	char_1016_agoat2	WDM/X	X
+	约定的证明	uniequip_002_aigis				gamedata uniequip_table.json · equipDict	char_4218_aigis	BRK/X	X
+	武将甲胄	uniequip_002_akafyu				gamedata uniequip_table.json · equipDict	char_475_akafyu	SBL/X	X
+	移动八音盒	uniequip_002_akkord				gamedata uniequip_table.json · equipDict	char_4051_akkord	BLA/X	X
+	“随身保险杠”	uniequip_002_alanna				gamedata uniequip_table.json · equipDict	char_4178_alanna	CRA/X	X
+	“毕业设计”	uniequip_002_almond				gamedata uniequip_table.json · equipDict	char_4105_almond	HOK/X	X
+	“错过的声音”	uniequip_002_amgoat				gamedata uniequip_table.json · equipDict	char_180_amgoat	CCR/X	X
+	DWDB-221E	uniequip_002_amiya				gamedata uniequip_table.json · equipDict	char_002_amiya	CCR/Y	Y
+	待调弦的怒火	uniequip_002_amiya2				gamedata uniequip_table.json · equipDict	char_002_amiya	AFT/X	X
+	带有灼痕的裙子	uniequip_002_amiya3				gamedata uniequip_table.json · equipDict	char_002_amiya	INC/X	X
+	年轻的麦子	uniequip_002_amoris				gamedata uniequip_table.json · equipDict	char_4185_amoris	HAM/X	X
+	能天使的杰作	uniequip_002_angel				gamedata uniequip_table.json · equipDict	char_103_angel	MAR/X	X
+	新朋友圣城生活套组	uniequip_002_angel2				gamedata uniequip_table.json · equipDict	char_1041_angel2	GEE/X	X
+	逃亡路上的应急小包	uniequip_002_aosta				gamedata uniequip_table.json · equipDict	char_346_aosta	RPR/X	X
+	第三相态	uniequip_002_aphris				gamedata uniequip_table.json · equipDict	char_4229_aphris	BLA/Y	Y
+	高保真通讯耳机	uniequip_002_aprl				gamedata uniequip_table.json · equipDict	char_365_aprl	MAR/Y	Y
+	票根收纳册	uniequip_002_aprot2				gamedata uniequip_table.json · equipDict	char_4025_aprot2	AST/X	X
+	“明天的种子”	uniequip_002_archet				gamedata uniequip_table.json · equipDict	char_332_archet	MAR/Y	Y
+	柠檬味的童年	uniequip_002_aroma				gamedata uniequip_table.json · equipDict	char_446_aroma	BLA/X	X
+	“石棉大战双头钳兽”	uniequip_002_asbest				gamedata uniequip_table.json · equipDict	char_378_asbest	AST/X	X
+	“无形，无情”	uniequip_002_ascln				gamedata uniequip_table.json · equipDict	char_4132_ascln	AMB/X	X
+	破墙榴弹战术收纳包	uniequip_002_ash				gamedata uniequip_table.json · equipDict	char_456_ash	MAR/Y	Y
+	出门必备套装	uniequip_002_ashlok				gamedata uniequip_table.json · equipDict	char_431_ashlok	FOR/X	X
+	未卜星图	uniequip_002_astesi				gamedata uniequip_table.json · equipDict	char_274_astesi	AFT/Y	Y
+	盾用摄制模块	uniequip_002_aurora				gamedata uniequip_table.json · equipDict	char_422_aurora	HES/X	X
+	荒野便携提神剂	uniequip_002_ayer				gamedata uniequip_table.json · equipDict	char_294_ayer	LOR/X	X
+	受赐玩物	uniequip_002_baslin				gamedata uniequip_table.json · equipDict	char_4109_baslin	GUA/Y	Y
+	小石头	uniequip_002_bdhkgt				gamedata uniequip_table.json · equipDict	char_4078_bdhkgt	ART/Y	Y
+	“司祭的祝福”	uniequip_002_beewax				gamedata uniequip_table.json · equipDict	char_344_beewax	PLX/X	X
+	《乔弗瑞古今童话集》精装本	uniequip_002_bena				gamedata uniequip_table.json · equipDict	char_369_bena	PUM/Y	Y
+	打字机色带	uniequip_002_bgsnow				gamedata uniequip_table.json · equipDict	char_4055_bgsnow	ARC/Y	Y
+	做工优良的衬衣	uniequip_002_bibeak				gamedata uniequip_table.json · equipDict	char_252_bibeak	SWO/X	X
+	风信子与匕首	uniequip_002_billro				gamedata uniequip_table.json · equipDict	char_426_billro	PLX/X	X
+	“一路以来”	uniequip_002_bison				gamedata uniequip_table.json · equipDict	char_325_bison	PRO/X	X
+	耐低温通讯设备	uniequip_002_blackd				gamedata uniequip_table.json · equipDict	char_198_blackd	SOL/X	X
+	热切的期盼	uniequip_002_blaze2				gamedata uniequip_table.json · equipDict	char_1040_blaze2	PRI/X	X
+	应急储备	uniequip_002_bldsk				gamedata uniequip_table.json · equipDict	char_171_bldsk	PHY/X	X
+	工匠团的回响	uniequip_002_blemsh				gamedata uniequip_table.json · equipDict	char_423_blemsh	GUA/Y	Y
+	战术盾牌维护油	uniequip_002_blitz				gamedata uniequip_table.json · equipDict	char_457_blitz	SPT/X	X
+	“过往的注脚”	uniequip_002_blkkgt				gamedata uniequip_table.json · equipDict	char_4116_blkkgt	SWO/X	X
+	星星与瞌睡虫	uniequip_002_blkngt				gamedata uniequip_table.json · equipDict	char_476_blkngt	TAC/X	X
+	标准比色卡	uniequip_002_bluep				gamedata uniequip_table.json · equipDict	char_129_bluep	MAR/Y	Y
+	社工课程二手教材	uniequip_002_bobb				gamedata uniequip_table.json · equipDict	char_487_bobb	RIT/X	X
+	昨日、今日、明日	uniequip_002_botany				gamedata uniequip_table.json · equipDict	char_4223_botany	RIT/X	X
+	破城矛弹夹	uniequip_002_bpipe				gamedata uniequip_table.json · equipDict	char_222_bpipe	CHG/X	X
+	“时间的痕迹”	uniequip_002_branch				gamedata uniequip_table.json · equipDict	char_4207_branch	UNY/X	X
+	外科医疗套组	uniequip_002_breeze				gamedata uniequip_table.json · equipDict	char_275_breeze	RIN/X	X
+	风的颜色	uniequip_002_brigid				gamedata uniequip_table.json · equipDict	char_4177_brigid	LPS/X	X
+	“兄弟”	uniequip_002_broca				gamedata uniequip_table.json · equipDict	char_356_broca	CEN/X	X
+	咬紧牙关	uniequip_002_brownb				gamedata uniequip_table.json · equipDict	char_137_brownb	FGT/Y	Y
+	餐后好时光	uniequip_002_bryota				gamedata uniequip_table.json · equipDict	char_4106_bryota	INS/X	X
+	钳钳自助餐	uniequip_002_bstalk				gamedata uniequip_table.json · equipDict	char_452_bstalk	TAC/Y	Y
+	泡泡闪光必杀剑	uniequip_002_bubble				gamedata uniequip_table.json · equipDict	char_381_bubble	PRO/X	X
+	寻乡人的启明星	uniequip_002_buildr				gamedata uniequip_table.json · equipDict	char_488_buildr	SOL/X	X
+	“降落伞”	uniequip_002_cairn				gamedata uniequip_table.json · equipDict	char_4214_cairn	PRP/X	X
+	大菲林脱敏实验	uniequip_002_cammou				gamedata uniequip_table.json · equipDict	char_328_cammou	FUN/Y	Y
+	暖意的归宿	uniequip_002_caper				gamedata uniequip_table.json · equipDict	char_4100_caper	LPS/X	X
+	狩猎之路	uniequip_002_catap2				gamedata uniequip_table.json · equipDict	char_1049_catap2	MCN/X	X
+	闲暇时分	uniequip_002_cathy				gamedata uniequip_table.json · equipDict	char_4162_cathy	CRA/X	X
+	“请遵医嘱”	uniequip_002_ccheal				gamedata uniequip_table.json · equipDict	char_187_ccheal	PHY/Y	Y
+	强弱法	uniequip_002_cello				gamedata uniequip_table.json · equipDict	char_245_cello	RIT/X	X
+	工程记录仪	uniequip_002_cement				gamedata uniequip_table.json · equipDict	char_464_cement	HES/X	X
+	“很干的面包”	uniequip_002_cerber				gamedata uniequip_table.json · equipDict	char_2013_cerber	CCR/X	X
+	故事的结局	uniequip_002_cetsyr				gamedata uniequip_table.json · equipDict	char_4134_cetsyr	BAR/X	X
+	野外考察套装	uniequip_002_ceylon				gamedata uniequip_table.json · equipDict	char_348_ceylon	WAH/X	X
+	“封闭的希望”	uniequip_002_cgbird				gamedata uniequip_table.json · equipDict	char_179_cgbird	RIN/X	X
+	罗德岛制式剑	uniequip_002_chen				gamedata uniequip_table.json · equipDict	char_010_chen	SWO/X	X
+	沙滩战斗套装	uniequip_002_chen2				gamedata uniequip_table.json · equipDict	char_1013_chen2	RPR/X	X
+	记忆残页	uniequip_002_chen3				gamedata uniequip_table.json · equipDict	char_1050_chen3	AFT/X	X
+	自制千斤顶	uniequip_002_chiave				gamedata uniequip_table.json · equipDict	char_349_chiave	SOL/Y	Y
+	原版开锁工具	uniequip_002_chilc				gamedata uniequip_table.json · equipDict	char_4144_chilc	AGE/X	X
+	致继任者	uniequip_002_chimes				gamedata uniequip_table.json · equipDict	char_4083_chimes	CRU/X	X
+	地上巡旅纪念灯	uniequip_002_chnut				gamedata uniequip_table.json · equipDict	char_4041_chnut	WDM/X	X
+	“黑色”贩卖机	uniequip_002_christ				gamedata uniequip_table.json · equipDict	char_4198_christ	PRI/X	X
+	“自晦及明”	uniequip_002_chyue				gamedata uniequip_table.json · equipDict	char_2024_chyue	FGT/X	X
+	给自己的小奖杯	uniequip_002_closur				gamedata uniequip_table.json · equipDict	char_4228_closur	TAC/X	X
+	“不落”	uniequip_002_clour				gamedata uniequip_table.json · equipDict	char_190_clour	MAR/X	X
+	“桀骜”	uniequip_002_coldst				gamedata uniequip_table.json · equipDict	char_4104_coldst	HUN/X	X
+	佣兵的行囊	uniequip_002_cqbw				gamedata uniequip_table.json · equipDict	char_113_cqbw	ART/X	X
+	弑君刃	uniequip_002_crosly				gamedata uniequip_table.json · equipDict	char_1502_crosly	EXE/X	X
+	水蓝色黎明	uniequip_002_crow				gamedata uniequip_table.json · equipDict	char_421_crow	REA/X	X
+	“不发声者”	uniequip_002_ctable				gamedata uniequip_table.json · equipDict	char_497_ctable	AGE/Y	Y
+	可替换刀具套装	uniequip_002_cutter				gamedata uniequip_table.json · equipDict	char_301_cutter	SWO/Y	Y
+	枪支调试工具组	uniequip_002_cuttle				gamedata uniequip_table.json · equipDict	char_218_cuttle	DEA/X	X
+	后街圆盾	uniequip_002_dagda				gamedata uniequip_table.json · equipDict	char_157_dagda	FGT/Y	Y
+	诡异的调色盘	uniequip_002_deepcl				gamedata uniequip_table.json · equipDict	char_110_deepcl	SUM/Y	Y
+	正义黯淡	uniequip_002_delphn				gamedata uniequip_table.json · equipDict	char_4110_delphn	MSC/Y	Y
+	实用的工具	uniequip_002_demetr				gamedata uniequip_table.json · equipDict	char_4037_demetr	FGT/Y	Y
+	闲置的拳击手套	uniequip_002_demkni				gamedata uniequip_table.json · equipDict	char_202_demkni	GUA/X	X
+	军用望远镜	uniequip_002_doberm				gamedata uniequip_table.json · equipDict	char_130_doberm	INS/Y	Y
+	占卜的意义	uniequip_002_dolris				gamedata uniequip_table.json · equipDict	char_4184_dolris	BAR/X	X
+	童话书	uniequip_002_doroth				gamedata uniequip_table.json · equipDict	char_4048_doroth	TRP/Y	Y
+	守护的道路	uniequip_002_durnar				gamedata uniequip_table.json · equipDict	char_260_durnar	AST/X	X
+	无题长卷	uniequip_002_dusk				gamedata uniequip_table.json · equipDict	char_2015_dusk	SPC/X	X
+	源石骰子收纳盒	uniequip_002_ebnhlz				gamedata uniequip_table.json · equipDict	char_4046_ebnhlz	MSC/X	X
+	社会期望背包	uniequip_002_ela				gamedata uniequip_table.json · equipDict	char_4123_ela	TRP/D	D
+	应急通讯指南	uniequip_002_elysm				gamedata uniequip_table.json · equipDict	char_401_elysm	BEA/X	X
+	改弦更张	uniequip_002_erato				gamedata uniequip_table.json · equipDict	char_4043_erato	SIE/X	X
+	荒野地的饯别礼	uniequip_002_estell				gamedata uniequip_table.json · equipDict	char_127_estell	CEN/Y	Y
+	超级喷漆套装	uniequip_002_ethan				gamedata uniequip_table.json · equipDict	char_355_ethan	AMB/X	X
+	易枯萎的航船	uniequip_002_etlchi				gamedata uniequip_table.json · equipDict	char_4010_etlchi	REA/X	X
+	执行者随身包	uniequip_002_excu				gamedata uniequip_table.json · equipDict	char_279_excu	RPR/X	X
+	待解答	uniequip_002_excu2				gamedata uniequip_table.json · equipDict	char_1032_excu2	REA/X	X
+	“自由的代价”	uniequip_002_f12yin				gamedata uniequip_table.json · equipDict	char_264_f12yin	FGT/Y	Y
+	一往无前	uniequip_002_fang2				gamedata uniequip_table.json · equipDict	char_1036_fang2	CHG/X	X
+	首战支援套组	uniequip_002_fartth				gamedata uniequip_table.json · equipDict	char_430_fartth	DEA/X	X
+	“江河之韵”	uniequip_002_finlpp				gamedata uniequip_table.json · equipDict	char_385_finlpp	WAH/Y	Y
+	“成长的足迹”	uniequip_002_firwhl				gamedata uniequip_table.json · equipDict	char_493_firwhl	FOR/X	X
+	锈损的断刀	uniequip_002_flameb				gamedata uniequip_table.json · equipDict	char_131_flameb	DRE/Y	Y
+	红松的起点	uniequip_002_flamtl				gamedata uniequip_table.json · equipDict	char_420_flamtl	SOL/Y	Y
+	这些花朵的含义	uniequip_002_flint				gamedata uniequip_table.json · equipDict	char_415_flint	FGT/Y	Y
+	“爱琴之吻”	uniequip_002_flower				gamedata uniequip_table.json · equipDict	char_181_flower	RIN/Y	Y
+	“双月的呼吸”	uniequip_002_flwr2				gamedata uniequip_table.json · equipDict	char_1022_flwr2	BLS/Y	Y
+	占卜师旅行套装	uniequip_002_fmout				gamedata uniequip_table.json · equipDict	char_109_fmout	SPC/X	X
+	专业级改良镜头	uniequip_002_folivo				gamedata uniequip_table.json · equipDict	char_336_folivo	SUM/X	X
+	母亲的领巾	uniequip_002_folnic				gamedata uniequip_table.json · equipDict	char_345_folnic	PHY/Y	Y
+	可执行的幻想	uniequip_002_forcer				gamedata uniequip_table.json · equipDict	char_4036_forcer	PUS/X	X
+	尖端铝热单元	uniequip_002_franka				gamedata uniequip_table.json · equipDict	char_106_franka	DRE/X	X
+	美爪套装二象性	uniequip_002_frncat				gamedata uniequip_table.json · equipDict	char_185_frncat	AFT/X	X
+	不歇律动	uniequip_002_frostl				gamedata uniequip_table.json · equipDict	char_193_frostl	LOR/X	X
+	副语言符号展示系统	uniequip_002_fuze				gamedata uniequip_table.json · equipDict	char_4126_fuze	CEN/Y	Y
+	“辛劳之翼”	uniequip_002_gdglow				gamedata uniequip_table.json · equipDict	char_377_gdglow	FUN/X	X
+	幽明烛光	uniequip_002_ghost				gamedata uniequip_table.json · equipDict	char_143_ghost	CEN/X	X
+	“唱片”收藏箱	uniequip_002_ghost2				gamedata uniequip_table.json · equipDict	char_1023_ghost2	PUM/X	X
+	外骨骼装备	uniequip_002_glacus				gamedata uniequip_table.json · equipDict	char_326_glacus	DEC/X	X
+	执政官手镜	uniequip_002_glady				gamedata uniequip_table.json · equipDict	char_474_glady	HOK/X	X
+	读书笔记	uniequip_002_glassb				gamedata uniequip_table.json · equipDict	char_195_glassb	DEC/Y	Y
+	便携雷达的辅助器材	uniequip_002_glaze				gamedata uniequip_table.json · equipDict	char_302_glaze	DEA/X	X
+	落地之后	uniequip_002_glider				gamedata uniequip_table.json · equipDict	char_449_glider	WDM/X	X
+	“誓言”	uniequip_002_gnosis				gamedata uniequip_table.json · equipDict	char_206_gnosis	UMD/X	X
+	在田野上	uniequip_002_grabds				gamedata uniequip_table.json · equipDict	char_4122_grabds	DEC/X	X
+	骑警套装	uniequip_002_grani				gamedata uniequip_table.json · equipDict	char_220_grani	CHG/X	X
+	隐秘行动工具包	uniequip_002_gravel				gamedata uniequip_table.json · equipDict	char_237_gravel	EXE/X	X
+	新的开始	uniequip_002_greyy				gamedata uniequip_table.json · equipDict	char_253_greyy	SPC/Y	Y
+	新型电控设备技术原型	uniequip_002_greyy2				gamedata uniequip_table.json · equipDict	char_1027_greyy2	BOM/X	X
+	嘉维尔的折磨	uniequip_002_gvial2				gamedata uniequip_table.json · equipDict	char_1026_gvial2	CEN/X	X
+	断竹插花作品	uniequip_002_gyuki				gamedata uniequip_table.json · equipDict	char_289_gyuki	DRE/Y	Y
+	什锦果味医用箱	uniequip_002_haak				gamedata uniequip_table.json · equipDict	char_225_haak	GEE/X	X
+	多功能测绘仪-改良版	uniequip_002_haini				gamedata uniequip_table.json · equipDict	char_4079_haini	UMD/X	X
+	未组装的钟表	uniequip_002_halo				gamedata uniequip_table.json · equipDict	char_135_halo	CHA/Y	Y
+	探索者的收藏	uniequip_002_halo2				gamedata uniequip_table.json · equipDict	char_1047_halo2	DEC/Y	Y
+	情报人员资料夹	uniequip_002_hamoni				gamedata uniequip_table.json · equipDict	char_297_hamoni	MSC/X	X
+	腿部护理套装	uniequip_002_harold				gamedata uniequip_table.json · equipDict	char_4114_harold	WDM/X	X
+	迟来的纪念	uniequip_002_haruka				gamedata uniequip_table.json · equipDict	char_4202_haruka	BLS/Y	Y
+	结晶胸花	uniequip_002_hbisc2				gamedata uniequip_table.json · equipDict	char_1024_hbisc2	INC/X	X
+	迟到的勋章	uniequip_002_headb2				gamedata uniequip_table.json · equipDict	char_1051_headb2	HAM/X	X
+	冬将军的毕业礼物	uniequip_002_headbr				gamedata uniequip_table.json · equipDict	char_115_headbr	SOL/X	X
+	华贵璀璨的死斗	uniequip_002_heidi				gamedata uniequip_table.json · equipDict	char_4045_heidi	BAR/X	X
+	藏锋	uniequip_002_helage				gamedata uniequip_table.json · equipDict	char_188_helage	SBL/X	X
+	“图书馆”	uniequip_002_heyak				gamedata uniequip_table.json · equipDict	char_4027_heyak	CCR/X	X
+	“启航”	uniequip_002_highmo				gamedata uniequip_table.json · equipDict	char_4066_highmo	REA/X	X
+	八点档情景剧录像带	uniequip_002_hmau				gamedata uniequip_table.json · equipDict	char_226_hmau	GUA/Y	Y
+	新的生活	uniequip_002_hodrer				gamedata uniequip_table.json · equipDict	char_4088_hodrer	CRU/X	X
+	“典范之人”	uniequip_002_horn				gamedata uniequip_table.json · equipDict	char_4039_horn	FOR/X	X
+	锻椎者	uniequip_002_hpsts				gamedata uniequip_table.json · equipDict	char_163_hpsts	UNY/X	X
+	无迹	uniequip_002_hsgma2				gamedata uniequip_table.json · equipDict	char_1044_hsgma2	AST/X	X
+	友人们的赠礼	uniequip_002_hsguma				gamedata uniequip_table.json · equipDict	char_136_hsguma	PRO/Y	Y
+	过载的武器与过热的心脏	uniequip_002_huang				gamedata uniequip_table.json · equipDict	char_017_huang	CEN/X	X
+	恶地奇异工具套组	uniequip_002_humus				gamedata uniequip_table.json · equipDict	char_491_humus	REA/X	X
+	“遥远陌生的世界”	uniequip_002_iana				gamedata uniequip_table.json · equipDict	char_4124_iana	PUM/X	X
+	“同熔”	uniequip_002_ifrit				gamedata uniequip_table.json · equipDict	char_134_ifrit	BLA/X	X
+	法杖保养套装	uniequip_002_indigo				gamedata uniequip_table.json · equipDict	char_469_indigo	MSC/X	X
+	角部“护理”套组	uniequip_002_ines				gamedata uniequip_table.json · equipDict	char_4087_ines	AGE/Y	Y
+	“最初的惊喜”	uniequip_002_inside				gamedata uniequip_table.json · equipDict	char_498_inside	MAR/X	X
+	厚重的经卷	uniequip_002_irene				gamedata uniequip_table.json · equipDict	char_4009_irene	SWO/Y	Y
+	梦之城堡立体书	uniequip_002_iris				gamedata uniequip_table.json · equipDict	char_338_iris	MSC/X	X
+	铁钳号·爬行者	uniequip_002_ironmn				gamedata uniequip_table.json · equipDict	char_4072_ironmn	CRA/X	X
+	D32钢椅	uniequip_002_jaksel				gamedata uniequip_table.json · equipDict	char_347_jaksel	FGT/X	X
+	弹射起步	uniequip_002_jcinta				gamedata uniequip_table.json · equipDict	char_4237_jcinta	BEA/X	X
+	“私家英雄”	uniequip_002_jesca2				gamedata uniequip_table.json · equipDict	char_1034_jesca2	SPT/X	X
+	杰西卡的订单	uniequip_002_jesica				gamedata uniequip_table.json · equipDict	char_235_jesica	MAR/Y	Y
+	田间吓兽人	uniequip_002_ju				gamedata uniequip_table.json · equipDict	char_4221_ju	SIE/X	X
+	通往未来的荆棘之路	uniequip_002_judge				gamedata uniequip_table.json · equipDict	char_4065_judge	UNY/X	X
+	魔方挂坠	uniequip_002_kafka				gamedata uniequip_table.json · equipDict	char_214_kafka	EXE/Y	Y
+	凡石	uniequip_002_kaitou				gamedata uniequip_table.json · equipDict	char_499_kaitou	PRI/X	X
+	Mon2tr	uniequip_002_kalts				gamedata uniequip_table.json · equipDict	char_003_kalts	PHY/X	X
+	旧物	uniequip_002_kazema				gamedata uniequip_table.json · equipDict	char_4016_kazema	PUM/X	X
+	可疑的宣传页	uniequip_002_kichi				gamedata uniequip_table.json · equipDict	char_4203_kichi	RPR/X	X
+	《闹闹生存挑战3 联机版》	uniequip_002_kirara				gamedata uniequip_table.json · equipDict	char_478_kirara	AMB/X	X
+	以雪为线	uniequip_002_kjera				gamedata uniequip_table.json · equipDict	char_4013_kjera	FUN/Y	Y
+	真心的话和想冒的险	uniequip_002_kroos2				gamedata uniequip_table.json · equipDict	char_1021_kroos2	MAR/X	X
+	想要带回迷宫的包裹	uniequip_002_laios				gamedata uniequip_table.json · equipDict	char_4142_laios	DRE/Y	Y
+	过往留痕	uniequip_002_lasher				gamedata uniequip_table.json · equipDict	char_4140_lasher	SUM/X	X
+	萨卡兹的刀	uniequip_002_lava2				gamedata uniequip_table.json · equipDict	char_1011_lava2	SPC/X	X
+	“天地通明”	uniequip_002_leizi				gamedata uniequip_table.json · equipDict	char_306_leizi	CHA/X	X
+	“一念”	uniequip_002_leizi2				gamedata uniequip_table.json · equipDict	char_1043_leizi2	LIB/X	X
+	“弹匣与花窗”	uniequip_002_lemuen				gamedata uniequip_table.json · equipDict	char_4193_lemuen	DEA/Y	Y
+	沉锋之束	uniequip_002_lessng				gamedata uniequip_table.json · equipDict	char_4011_lessng	DRE/X	X
+	旧衣服	uniequip_002_leto				gamedata uniequip_table.json · equipDict	char_194_leto	LOR/Y	Y
+	“暮约”	uniequip_002_liesel				gamedata uniequip_table.json · equipDict	char_4031_liesel	SPC/Y	Y
+	“七窍玲珑”	uniequip_002_lin				gamedata uniequip_table.json · equipDict	char_4080_lin	PLX/X	X
+	诗短梦长	uniequip_002_ling				gamedata uniequip_table.json · equipDict	char_2023_ling	SUM/Y	Y
+	传承与开拓	uniequip_002_lionhd				gamedata uniequip_table.json · equipDict	char_373_lionhd	SPC/X	X
+	怀中御守	uniequip_002_lisa				gamedata uniequip_table.json · equipDict	char_358_lisa	DEC/X	X
+	震撼存储	uniequip_002_liskam				gamedata uniequip_table.json · equipDict	char_107_liskam	SPT/X	X
+	“无问吉凶”	uniequip_002_lmlee				gamedata uniequip_table.json · equipDict	char_322_lmlee	MER/X	X
+	来自河谷的笔盒	uniequip_002_logos				gamedata uniequip_table.json · equipDict	char_4133_logos	CCR/D	D
+	毛线球	uniequip_002_lolxh				gamedata uniequip_table.json · equipDict	char_4067_lolxh	LOR/Y	Y
+	纯铜单筒望远镜	uniequip_002_lumen				gamedata uniequip_table.json · equipDict	char_4042_lumen	WAH/X	X
+	“移动的窝”	uniequip_002_lunacu				gamedata uniequip_table.json · equipDict	char_4014_lunacu	DEA/Y	Y
+	生还的人与物	uniequip_002_luton				gamedata uniequip_table.json · equipDict	char_4130_luton	UNY/X	X
+	彼此的声音	uniequip_002_makoto				gamedata uniequip_table.json · equipDict	char_4217_makoto	PUM/Y	Y
+	“新家园”	uniequip_002_malist				gamedata uniequip_table.json · equipDict	char_4054_malist	FUN/Y	Y
+	训练用尾部防护套装	uniequip_002_mantic				gamedata uniequip_table.json · equipDict	char_215_mantic	AMB/X	X
+	中枢神经探测模块	uniequip_002_mantra				gamedata uniequip_table.json · equipDict	char_4204_mantra	PRI/X	X
+	才女的藏书	uniequip_002_marcil				gamedata uniequip_table.json · equipDict	char_4141_marcil	SPC/Y	Y
+	宁心静神	uniequip_002_mberry				gamedata uniequip_table.json · equipDict	char_473_mberry	WDM/X	X
+	机械师特勤证章	uniequip_002_mcnist				gamedata uniequip_table.json · equipDict	char_4230_mcnist	SO/A	A
+	香薰耳坠	uniequip_002_melnte				gamedata uniequip_table.json · equipDict	char_4006_melnte	ARC/Y	Y
+	无名的身份牌	uniequip_002_meteo				gamedata uniequip_table.json · equipDict	char_219_meteo	ART/Y	Y
+	专业无人机操作模块	uniequip_002_mgllan				gamedata uniequip_table.json · equipDict	char_248_mgllan	SUM/X	X
+	野战狙击套装	uniequip_002_milu				gamedata uniequip_table.json · equipDict	char_158_milu	DEA/Y	Y
+	注意力保持装置	uniequip_002_mint				gamedata uniequip_table.json · equipDict	char_388_mint	PLX/X	X
+	内敛锋芒	uniequip_002_mitm				gamedata uniequip_table.json · equipDict	char_4147_mitm	TAC/Y	Y
+	使者之约	uniequip_002_mizuki				gamedata uniequip_table.json · equipDict	char_437_mizuki	AMB/X	X
+	“鞘中人”	uniequip_002_mlynar				gamedata uniequip_table.json · equipDict	char_4064_mlynar	LIB/X	X
+	梳妆流形	uniequip_002_mlyss				gamedata uniequip_table.json · equipDict	char_249_mlyss	TAC/X	X
+	新手侦探礼包	uniequip_002_mm				gamedata uniequip_table.json · equipDict	char_133_mm	MAR/X	X
+	作战靴	uniequip_002_moeshd				gamedata uniequip_table.json · equipDict	char_201_moeshd	PRO/Y	Y
+	记忆存档	uniequip_002_monstr				gamedata uniequip_table.json · equipDict	char_4179_monstr	XAH/X	X
+	“钢铁之心”	uniequip_002_morgan				gamedata uniequip_table.json · equipDict	char_154_morgan	DRE/X	X
+	睦的新朋友	uniequip_002_mortis				gamedata uniequip_table.json · equipDict	char_4183_mortis	PUM/Y	Y
+	锁与匙之家	uniequip_002_mostma				gamedata uniequip_table.json · equipDict	char_213_mostma	SPC/Y	Y
+	土石的根系	uniequip_002_mudrok				gamedata uniequip_table.json · equipDict	char_311_mudrok	UNY/X	X
+	“生命的短暂”	uniequip_002_myrrh				gamedata uniequip_table.json · equipDict	char_117_myrrh	PHY/X	X
+	“私人收藏”	uniequip_002_myrtle				gamedata uniequip_table.json · equipDict	char_151_myrtle	BEA/X	X
+	“吹尽狂沙”	uniequip_002_narant				gamedata uniequip_table.json · equipDict	char_4138_narant	LPS/X	X
+	工程师们	uniequip_002_nasti				gamedata uniequip_table.json · equipDict	char_4212_nasti	CRA/X	X
+	“仙药”	uniequip_002_ncdeer				gamedata uniequip_table.json · equipDict	char_4019_ncdeer	BLS/X	X
+	改良骑士盾牌	uniequip_002_nearl				gamedata uniequip_table.json · equipDict	char_148_nearl	GUA/X	X
+	耀阳锋刃	uniequip_002_nearl2				gamedata uniequip_table.json · equipDict	char_1014_nearl2	DRE/X	X
+	未处理的遗产	uniequip_002_necras				gamedata uniequip_table.json · equipDict	char_450_necras	SOC/X	X
+	混沌阵列	uniequip_002_nian				gamedata uniequip_table.json · equipDict	char_2014_nian	PRO/X	X
+	“两生花”	uniequip_002_nightm				gamedata uniequip_table.json · equipDict	char_164_nightm	CCR/Y	Y
+	女巫的帽子	uniequip_002_nights				gamedata uniequip_table.json · equipDict	char_141_nights	CCR/X	X
+	黑角的随身笔记	uniequip_002_noirc2				gamedata uniequip_table.json · equipDict	char_1030_noirc2	SBL/X	X
+	“檐下听雨”	uniequip_002_nothin				gamedata uniequip_table.json · equipDict	char_455_nothin	MER/X	X
+	致祖父	uniequip_002_nowell				gamedata uniequip_table.json · equipDict	char_4173_nowell	WAH/Y	Y
+	心声	uniequip_002_nymph				gamedata uniequip_table.json · equipDict	char_4146_nymph	PRI/X	X
+	无言的约定	uniequip_002_oblvns				gamedata uniequip_table.json · equipDict	char_4182_oblvns	LOR/Y	Y
+	旧背包	uniequip_002_odda				gamedata uniequip_table.json · equipDict	char_4131_odda	HAM/X	X
+	梓兰特制箭靶	uniequip_002_orchd2				gamedata uniequip_table.json · equipDict	char_1048_orchd2	ARC/X	X
+	咪波控制终端XP	uniequip_002_otter				gamedata uniequip_table.json · equipDict	char_242_otter	SUM/X	X
+	“故乡的山岩”	uniequip_002_pallas				gamedata uniequip_table.json · equipDict	char_485_pallas	INS/X	X
+	尚蜀风味自制辣酱	uniequip_002_panda				gamedata uniequip_table.json · equipDict	char_241_panda	PUS/Y	Y
+	小小的种子	uniequip_002_papyrs				gamedata uniequip_table.json · equipDict	char_4139_papyrs	XAH/X	X
+	电磁调节器	uniequip_002_pasngr				gamedata uniequip_table.json · equipDict	char_472_pasngr	CHA/X	X
+	断罪之拳	uniequip_002_peacok				gamedata uniequip_table.json · equipDict	char_159_peacok	DRE/X	X
+	晴雨	uniequip_002_pepe				gamedata uniequip_table.json · equipDict	char_4058_pepe	HAM/X	X
+	“多彩人生”	uniequip_002_peper				gamedata uniequip_table.json · equipDict	char_4071_peper	XAH/X	X
+	酒神之心	uniequip_002_phatm2				gamedata uniequip_table.json · equipDict	char_1042_phatm2	RIT/X	X
+	克里斯汀小姐的毛毡	uniequip_002_phatom				gamedata uniequip_table.json · equipDict	char_250_phatom	EXE/X	X
+	“律外”特种弹药配给组	uniequip_002_phenxi				gamedata uniequip_table.json · equipDict	char_300_phenxi	ART/Y	Y
+	被摩挲的日子	uniequip_002_philae				gamedata uniequip_table.json · equipDict	char_4148_philae	PRP/X	X
+	“日复一日”	uniequip_002_pianst				gamedata uniequip_table.json · equipDict	char_4047_pianst	AST/X	X
+	移动电箱	uniequip_002_pinecn				gamedata uniequip_table.json · equipDict	char_440_pinecn	RPR/X	X
+	盟约·辅助干员证章	uniequip_002_pithst				gamedata uniequip_table.json · equipDict	char_616_pithst	RIT/X	X
+	独自旅行套装	uniequip_002_platnm				gamedata uniequip_table.json · equipDict	char_204_platnm	MAR/X	X
+	医疗环境分析装置	uniequip_002_plosis				gamedata uniequip_table.json · equipDict	char_128_plosis	RIN/X	X
+	攻城器械训练装置	uniequip_002_poca				gamedata uniequip_table.json · equipDict	char_197_poca	SIE/X	X
+	“不谢的苗圃”	uniequip_002_podego				gamedata uniequip_table.json · equipDict	char_258_podego	DEC/X	X
+	尾巴养护套装	uniequip_002_prove				gamedata uniequip_table.json · equipDict	char_145_prove	ARC/X	X
+	黛丝特的毕业礼	uniequip_002_provs				gamedata uniequip_table.json · equipDict	char_4032_provs	DEC/X	X
+	便携测电设备	uniequip_002_pudd				gamedata uniequip_table.json · equipDict	char_4004_pudd	CHA/Y	Y
+	首要任务	uniequip_002_puzzle				gamedata uniequip_table.json · equipDict	char_4017_puzzle	AGE/X	X
+	自制登山杖	uniequip_002_qanik				gamedata uniequip_table.json · equipDict	char_466_qanik	CCR/Y	Y
+	雪浸过的斗笠	uniequip_002_qiubai				gamedata uniequip_table.json · equipDict	char_4082_qiubai	LOR/X	X
+	钟表修理套组	uniequip_002_quartz				gamedata uniequip_table.json · equipDict	char_4063_quartz	CRU/X	X
+	锈枝	uniequip_002_quercu				gamedata uniequip_table.json · equipDict	char_492_quercu	BLS/X	X
+	电弧特勤证章	uniequip_002_radian				gamedata uniequip_table.json · equipDict	char_4195_radian	SO/A	A
+	《跳舞的月光》	uniequip_002_ray				gamedata uniequip_table.json · equipDict	char_4117_ray	HUN/X	X
+	“第三种力量”	uniequip_002_rdoc				gamedata uniequip_table.json · equipDict	char_4125_rdoc	INS/Y	Y
+	未完成的录武簿	uniequip_002_reckpr				gamedata uniequip_table.json · equipDict	char_4196_reckpr	PHY/X	X
+	神秘的道具包	uniequip_002_red				gamedata uniequip_table.json · equipDict	char_144_red	EXE/Y	Y
+	“赠予红龙的花冠”	uniequip_002_reed2				gamedata uniequip_table.json · equipDict	char_1020_reed2	INC/X	X
+	威吓者	uniequip_002_rfalcn				gamedata uniequip_table.json · equipDict	char_4023_rfalcn	SOL/Y	Y
+	机械式陷阱压力板	uniequip_002_rfrost				gamedata uniequip_table.json · equipDict	char_458_rfrost	TRP/Y	Y
+	毛刷套装	uniequip_002_rmixer				gamedata uniequip_table.json · equipDict	char_4194_rmixer	SPT/X	X
+	限量版年历	uniequip_002_robin				gamedata uniequip_table.json · equipDict	char_451_robin	TRP/Y	Y
+	半自动造型工具套组	uniequip_002_robrta				gamedata uniequip_table.json · equipDict	char_484_robrta	CRA/X	X
+	未命名的无人机	uniequip_002_rockr				gamedata uniequip_table.json · equipDict	char_4040_rockr	FUN/X	X
+	铁皮首饰盒	uniequip_002_rope				gamedata uniequip_table.json · equipDict	char_236_rope	HOK/X	X
+	多彩盐漠生活	uniequip_002_rosesa				gamedata uniequip_table.json · equipDict	char_4163_rosesa	RIN/X	X
+	“记事”	uniequip_002_rosmon				gamedata uniequip_table.json · equipDict	char_391_rosmon	BOM/X	X
+	身向云泥	uniequip_002_saga				gamedata uniequip_table.json · equipDict	char_362_saga	SOL/Y	Y
+	未竟的旅程	uniequip_002_savage				gamedata uniequip_table.json · equipDict	char_230_savage	CEN/X	X
+	千分之一的心	uniequip_002_sbell2				gamedata uniequip_table.json · equipDict	char_1046_sbell2	PLX/Y	Y
+	“专属餐具”	uniequip_002_scave				gamedata uniequip_table.json · equipDict	char_149_scave	SOL/X	X
+	枪刃清洁套装	uniequip_002_sddrag				gamedata uniequip_table.json · equipDict	char_261_sddrag	CHG/Y	Y
+	非魔法厨艺	uniequip_002_sensi				gamedata uniequip_table.json · equipDict	char_4143_sensi	GUA/Y	Y
+	无可抹消	uniequip_002_serum				gamedata uniequip_table.json · equipDict	char_489_serum	BLA/X	X
+	“灵魂共鸣”	uniequip_002_sesa				gamedata uniequip_table.json · equipDict	char_379_sesa	ART/X	X
+	领主·Sharp证章	uniequip_002_sharp2				gamedata uniequip_table.json · equipDict	char_617_sharp2	LOR/X	X
+	干枯剑鞘	uniequip_002_shining				gamedata uniequip_table.json · equipDict	char_147_shining	PHY/Y	Y
+	猎刀	uniequip_002_shotst				gamedata uniequip_table.json · equipDict	char_126_shotst	MAR/X	X
+	“钦天司时”	uniequip_002_shu				gamedata uniequip_table.json · equipDict	char_2025_shu	GUA/X	X
+	定制弩配件套装	uniequip_002_shwaz				gamedata uniequip_table.json · equipDict	char_340_shwaz	ARC/X	X
+	漫游者的压舱石	uniequip_002_sidero				gamedata uniequip_table.json · equipDict	char_333_sidero	AFT/Y	Y
+	“糖果盒”	uniequip_002_siege				gamedata uniequip_table.json · equipDict	char_112_siege	SOL/X	X
+	城主的冒险	uniequip_002_siege2				gamedata uniequip_table.json · equipDict	char_1019_siege2	AFT/X	X
+	紧急防卫程序	uniequip_002_silent				gamedata uniequip_table.json · equipDict	char_108_silent	PHY/Y	Y
+	潮湿的剑袋	uniequip_002_skadi				gamedata uniequip_table.json · equipDict	char_263_skadi	DRE/Y	Y
+	蜕化的残迹	uniequip_002_skadi2				gamedata uniequip_table.json · equipDict	char_1012_skadi2	BAR/X	X
+	阻燃处理方案	uniequip_002_skfire				gamedata uniequip_table.json · equipDict	char_166_skfire	SPC/Y	Y
+	待确认的申请表	uniequip_002_skgoat				gamedata uniequip_table.json · equipDict	char_183_skgoat	DEC/Y	Y
+	“续针”	uniequip_002_slbell				gamedata uniequip_table.json · equipDict	char_174_slbell	UMD/X	X
+	“凌绝顶”	uniequip_002_slchan				gamedata uniequip_table.json · equipDict	char_173_slchan	HOK/X	X
+	牧人的歌	uniequip_002_sleach				gamedata uniequip_table.json · equipDict	char_479_sleach	BEA/X	X
+	难得清醒	uniequip_002_slent2				gamedata uniequip_table.json · equipDict	char_1031_slent2	BLS/X	X
+	超强棒球套装	uniequip_002_snakek				gamedata uniequip_table.json · equipDict	char_150_snakek	PRO/X	X
+	过去的狩猎	uniequip_002_snhunt				gamedata uniequip_table.json · equipDict	char_4211_snhunt	HUN/X	X
+	雪雉的宝贝存钱罐	uniequip_002_snsant				gamedata uniequip_table.json · equipDict	char_383_snsant	HOK/X	X
+	“冰焰”	uniequip_002_sntlla				gamedata uniequip_table.json · equipDict	char_341_sntlla	SPC/Y	Y
+	加长鞭刃丝线	uniequip_002_sophia				gamedata uniequip_table.json · equipDict	char_265_sophia	INS/X	X
+	“齐唱”	uniequip_002_sora				gamedata uniequip_table.json · equipDict	char_101_sora	BAR/X	X
+	芳汀之书	uniequip_002_spikes				gamedata uniequip_table.json · equipDict	char_271_spikes	LOR/Y	Y
+	无人机喷涂套装	uniequip_002_spuria				gamedata uniequip_table.json · equipDict	char_4015_spuria	GEE/X	X
+	客制化防火服	uniequip_002_sqrrel				gamedata uniequip_table.json · equipDict	char_277_sqrrel	PUS/Y	Y
+	精钢刀具套组	uniequip_002_strong				gamedata uniequip_table.json · equipDict	char_272_strong	MER/X	X
+	蜜糖馅饼礼包	uniequip_002_sunbr				gamedata uniequip_table.json · equipDict	char_196_sunbr	GUA/X	X
+	佳肴	uniequip_002_surfer				gamedata uniequip_table.json · equipDict	char_4052_surfer	AGE/X	X
+	萨米的不灭心脏碎片	uniequip_002_surtr				gamedata uniequip_table.json · equipDict	char_350_surtr	AFT/X	X
+	医不自治	uniequip_002_susuro				gamedata uniequip_table.json · equipDict	char_298_susuro	PHY/X	X
+	雪境羽兽护理套组	uniequip_002_svrash				gamedata uniequip_table.json · equipDict	char_172_svrash	LOR/X	X
+	防身口红	uniequip_002_swire				gamedata uniequip_table.json · equipDict	char_308_swire	INS/X	X
+	“金币辉煌”	uniequip_002_swire2				gamedata uniequip_table.json · equipDict	char_1033_swire2	MER/X	X
+	母爱的倒影	uniequip_002_swllow				gamedata uniequip_table.json · equipDict	char_367_swllow	MAR/Y	Y
+	轻机枪枪架	uniequip_002_tachak				gamedata uniequip_table.json · equipDict	char_459_tachak	SWO/X	X
+	“双重身份”	uniequip_002_takila				gamedata uniequip_table.json · equipDict	char_486_takila	LIB/X	X
+	“头面人物”	uniequip_002_talr				gamedata uniequip_table.json · equipDict	char_4155_talr	MER/X	X
+	“漂洗”	uniequip_002_tanya				gamedata uniequip_table.json · equipDict	char_4225_tanya	PRP/X	X
+	烧烤店官方优惠章	uniequip_002_tecno				gamedata uniequip_table.json · equipDict	char_4164_tecno	SOC/Y	Y
+	外勤私人补给包	uniequip_002_texas				gamedata uniequip_table.json · equipDict	char_102_texas	SOL/Y	Y
+	蓝莓与黑巧	uniequip_002_texas2				gamedata uniequip_table.json · equipDict	char_1028_texas2	EXE/Y	Y
+	三面的金币	uniequip_002_thorn2				gamedata uniequip_table.json · equipDict	char_1039_thorn2	ALC/X	X
+	“盐与沙”	uniequip_002_thorns				gamedata uniequip_table.json · equipDict	char_293_thorns	LOR/X	X
+	启行未来的灯	uniequip_002_threye				gamedata uniequip_table.json · equipDict	char_4102_threye	RIT/X	X
+	出发的勇气	uniequip_002_thumpy				gamedata uniequip_table.json · equipDict	char_4235_thumpy	PRP/X	X
+	“汉娜的脱臼复位套装”	uniequip_002_tiger				gamedata uniequip_table.json · equipDict	char_155_tiger	FGT/Y	Y
+	“颅相学”	uniequip_002_tinman				gamedata uniequip_table.json · equipDict	char_4151_tinman	ALC/X	X
+	远方的礼物	uniequip_002_titi				gamedata uniequip_table.json · equipDict	char_4056_titi	INC/X	X
+	胧夜微明	uniequip_002_tknogi				gamedata uniequip_table.json · equipDict	char_343_tknogi	BLS/X	X
+	额外训练	uniequip_002_tmoris				gamedata uniequip_table.json · equipDict	char_4186_tmoris	AMB/Y	Y
+	突发性创造思维	uniequip_002_tmslot				gamedata uniequip_table.json · equipDict	char_4236_tmslot	FUN/X	X
+	弩箭调试箱	uniequip_002_toddi				gamedata uniequip_table.json · equipDict	char_363_toddi	SIE/X	X
+	损坏的尾尾佳	uniequip_002_tomimi				gamedata uniequip_table.json · equipDict	char_411_tomimi	CCR/Y	Y
+	雪花球	uniequip_002_totter				gamedata uniequip_table.json · equipDict	char_4062_totter	SIE/X	X
+	“睡前故事”	uniequip_002_turdus				gamedata uniequip_table.json · equipDict	char_4224_turdus	XAH/X	X
+	集水装置	uniequip_002_tuye				gamedata uniequip_table.json · equipDict	char_402_tuye	PHY/X	X
+	自然的包容	uniequip_002_typhon				gamedata uniequip_table.json · equipDict	char_2012_typhon	SIE/X	X
+	基于咖啡的神经活性剂	uniequip_002_udflow				gamedata uniequip_table.json · equipDict	char_4137_udflow	SPT/X	X
+	乌尔比安的衣橱	uniequip_002_ulpia				gamedata uniequip_table.json · equipDict	char_4145_ulpia	CRU/X	X
+	翻盖手机	uniequip_002_utage				gamedata uniequip_table.json · equipDict	char_337_utage	SBL/X	X
+	回家的路	uniequip_002_varkis				gamedata uniequip_table.json · equipDict	char_4166_varkis	CEN/Y	Y
+	军械库	uniequip_002_veen				gamedata uniequip_table.json · equipDict	char_4226_veen	MSC/Y	Y
+	碎片	uniequip_002_vendla				gamedata uniequip_table.json · equipDict	char_494_vendla	INC/X	X
+	叙拉古式入门礼	uniequip_002_vigil				gamedata uniequip_table.json · equipDict	char_427_vigil	TAC/X	X
+	伟大的摇滚	uniequip_002_vigna				gamedata uniequip_table.json · equipDict	char_290_vigna	CHG/Y	Y
+	布艺苹果	uniequip_002_vodfox				gamedata uniequip_table.json · equipDict	char_254_vodfox	UMD/X	X
+	密林撷萃	uniequip_002_vrdant				gamedata uniequip_table.json · equipDict	char_4107_vrdant	PUM/Y	Y
+	杀手也有假期	uniequip_002_vulpis				gamedata uniequip_table.json · equipDict	char_4026_vulpis	SOL/X	X
+	目不能及之处	uniequip_002_vvana				gamedata uniequip_table.json · equipDict	char_4098_vvana	AFT/D	D
+	红眉咏春拳谱	uniequip_002_waaifu				gamedata uniequip_table.json · equipDict	char_243_waaifu	EXE/X	X
+	兽形棋盒	uniequip_002_wang				gamedata uniequip_table.json · equipDict	char_2027_wang	TRP/X	X
+	牵风	uniequip_002_wanqin				gamedata uniequip_table.json · equipDict	char_4119_wanqin	BEA/X	X
+	赠别之味	uniequip_002_warmy				gamedata uniequip_table.json · equipDict	char_4081_warmy	PRI/X	X
+	仿生海龙改型	uniequip_002_weedy				gamedata uniequip_table.json · equipDict	char_400_weedy	PUS/X	X
+	古朴的急救箱	uniequip_002_whispr				gamedata uniequip_table.json · equipDict	char_436_whispr	WAH/X	X
+	“幼狼的牙齿”	uniequip_002_whitew				gamedata uniequip_table.json · equipDict	char_140_whitew	LOR/X	X
+	狼时	uniequip_002_whitw2				gamedata uniequip_table.json · equipDict	char_1038_whitw2	FUN/X	X
+	长枪替补套装	uniequip_002_wildmn				gamedata uniequip_table.json · equipDict	char_496_wildmn	CHG/X	X
+	“灵机一动”	uniequip_002_windft				gamedata uniequip_table.json · equipDict	char_433_windft	CRA/X	X
+	缺角的权限	uniequip_002_wintim				gamedata uniequip_table.json · equipDict	char_4208_wintim	AGE/X	X
+	“祖宗发射器”	uniequip_002_wisdel				gamedata uniequip_table.json · equipDict	char_1035_wisdel	BOM/X	X
+	义	uniequip_002_wscoot				gamedata uniequip_table.json · equipDict	char_445_wscoot	LIB/X	X
+	矿石展览柜	uniequip_002_wulfen				gamedata uniequip_table.json · equipDict	char_4171_wulfen	TRP/Y	Y
+	别昔年	uniequip_002_xingzh				gamedata uniequip_table.json · equipDict	char_4172_xingzh	BLS/X	X
+	父亲的袍子	uniequip_002_yak				gamedata uniequip_table.json · equipDict	char_199_yak	PRO/Y	Y
+	训练用木桩	uniequip_002_yato2				gamedata uniequip_table.json · equipDict	char_1029_yato2	EXE/X	X
+	人间百味	uniequip_002_yu				gamedata uniequip_table.json · equipDict	char_2026_yu	PRP/X	X
+	命运的奖赏	uniequip_002_yukari				gamedata uniequip_table.json · equipDict	char_4219_yukari	RAN/X	X
+	手里剑	uniequip_002_yuki				gamedata uniequip_table.json · equipDict	char_118_yuki	ART/Y	Y
+	人气角色贴纸	uniequip_002_zebra				gamedata uniequip_table.json · equipDict	char_304_zebra	PRO/Y	Y
+	祖玛玛的工具箱	uniequip_002_zumama				gamedata uniequip_table.json · equipDict	char_416_zumama	HES/X	X
+	“岂苦夜长”	uniequip_002_zuole				gamedata uniequip_table.json · equipDict	char_4121_zuole	SBL/X	X
+	实验用反重力模块	uniequip_003_aglina				gamedata uniequip_table.json · equipDict	char_291_aglina	DEC/X	X
+	想要留下的生命	uniequip_003_agoat2				gamedata uniequip_table.json · equipDict	char_1016_agoat2	WDM/Y	Y
+	宠物大赛第一名	uniequip_003_amgoat				gamedata uniequip_table.json · equipDict	char_180_amgoat	CCR/Y	Y
+	欢迎光临，企鹅物流	uniequip_003_angel				gamedata uniequip_table.json · equipDict	char_103_angel	MAR/Y	Y
+	旧日重现	uniequip_003_archet				gamedata uniequip_table.json · equipDict	char_332_archet	MAR/X	X
+	“阿斯卡纶的眼睛”	uniequip_003_ascln				gamedata uniequip_table.json · equipDict	char_4132_ascln	AMB/Y	Y
+	刺针式合金爆破弹	uniequip_003_ash				gamedata uniequip_table.json · equipDict	char_456_ash	MAR/X	X
+	仪式感	uniequip_003_bgsnow				gamedata uniequip_table.json · equipDict	char_4055_bgsnow	ARC/X	X
+	乡音	uniequip_003_billro				gamedata uniequip_table.json · equipDict	char_426_billro	PLX/Y	Y
+	沟通小助手	uniequip_003_blaze2				gamedata uniequip_table.json · equipDict	char_1040_blaze2	PRI/Y	Y
+	“长骑”	uniequip_003_blemsh				gamedata uniequip_table.json · equipDict	char_423_blemsh	GUA/X	X
+	新合同	uniequip_003_blkkgt				gamedata uniequip_table.json · equipDict	char_4116_blkkgt	SWO/Y	Y
+	“棍棒与口袋”	uniequip_003_bpipe				gamedata uniequip_table.json · equipDict	char_222_bpipe	CHG/Y	Y
+	音乐家的旅程	uniequip_003_cello				gamedata uniequip_table.json · equipDict	char_245_cello	RIT/Y	Y
+	“我打的刀”	uniequip_003_cerber				gamedata uniequip_table.json · equipDict	char_2013_cerber	CCR/Y	Y
+	“莺歌”	uniequip_003_cgbird				gamedata uniequip_table.json · equipDict	char_179_cgbird	RIN/Y	Y
+	往昔时光	uniequip_003_chen				gamedata uniequip_table.json · equipDict	char_010_chen	SWO/Y	Y
+	假期的最后一天	uniequip_003_chen2				gamedata uniequip_table.json · equipDict	char_1013_chen2	RPR/Y	Y
+	“朔”	uniequip_003_chyue				gamedata uniequip_table.json · equipDict	char_2024_chyue	FGT/Y	Y
+	刺棱钝刃	uniequip_003_cqbw				gamedata uniequip_table.json · equipDict	char_113_cqbw	ART/Y	Y
+	木炭画	uniequip_003_crosly				gamedata uniequip_table.json · equipDict	char_1502_crosly	EXE/Y	Y
+	科技新星	uniequip_003_demkni				gamedata uniequip_table.json · equipDict	char_202_demkni	GUA/Y	Y
+	梦中人	uniequip_003_doroth				gamedata uniequip_table.json · equipDict	char_4048_doroth	TRP/X	X
+	“终夜无寐”	uniequip_003_dusk				gamedata uniequip_table.json · equipDict	char_2015_dusk	SPC/Y	Y
+	“乐理阐释者”	uniequip_003_ebnhlz				gamedata uniequip_table.json · equipDict	char_4046_ebnhlz	MSC/Y	Y
+	玫瑰色故事集	uniequip_003_etlchi				gamedata uniequip_table.json · equipDict	char_4010_etlchi	REA/Y	Y
+	已知悉	uniequip_003_excu2				gamedata uniequip_table.json · equipDict	char_1032_excu2	REA/Y	Y
+	“夜深人静”	uniequip_003_f12yin				gamedata uniequip_table.json · equipDict	char_264_f12yin	FGT/X	X
+	支持者来信	uniequip_003_fartth				gamedata uniequip_table.json · equipDict	char_430_fartth	DEA/Y	Y
+	她们的未来	uniequip_003_flamtl				gamedata uniequip_table.json · equipDict	char_420_flamtl	SOL/X	X
+	梦想终将实现	uniequip_003_gdglow				gamedata uniequip_table.json · equipDict	char_377_gdglow	FUN/Y	Y
+	未竟之美	uniequip_003_ghost2				gamedata uniequip_table.json · equipDict	char_1023_ghost2	PUM/Y	Y
+	淡金坠饰	uniequip_003_glady				gamedata uniequip_table.json · equipDict	char_474_glady	HOK/Y	Y
+	一号项目模型	uniequip_003_gnosis				gamedata uniequip_table.json · equipDict	char_206_gnosis	UMD/Y	Y
+	好锯多磨	uniequip_003_gvial2				gamedata uniequip_table.json · equipDict	char_1026_gvial2	CEN/Y	Y
+	毒医残章	uniequip_003_haak				gamedata uniequip_table.json · equipDict	char_225_haak	GEE/Y	Y
+	“热的雪”	uniequip_003_helage				gamedata uniequip_table.json · equipDict	char_188_helage	SBL/Y	Y
+	羽蛇的时间博物馆	uniequip_003_heyak				gamedata uniequip_table.json · equipDict	char_4027_heyak	CCR/Y	Y
+	笔迹	uniequip_003_hodrer				gamedata uniequip_table.json · equipDict	char_4088_hodrer	CRU/Y	Y
+	旧日新装	uniequip_003_horn				gamedata uniequip_table.json · equipDict	char_4039_horn	FOR/Y	Y
+	护身符	uniequip_003_hsguma				gamedata uniequip_table.json · equipDict	char_136_hsguma	PRO/X	X
+	“稍后回来”	uniequip_003_huang	煌的模组「稍后回来」：**天赋覆写名＝紧急除颤** —— 一次 **50% 生命上限治疗** + 锁定（阈值 50% 生命、8s；潜 2 为 9s），实测自 battle_equip_table 的 blackboard	03/29 §二·实例①	紧急除颤、稍后回来	gamedata uniequip_table.json · equipDict	char_017_huang	CEN/Y	Y
+	“热成形记忆”	uniequip_003_ifrit				gamedata uniequip_table.json · equipDict	char_134_ifrit	BLA/D	D
+	审判官口粮	uniequip_003_irene				gamedata uniequip_table.json · equipDict	char_4009_irene	SWO/X	X
+	海布里印记	uniequip_003_ironmn				gamedata uniequip_table.json · equipDict	char_4072_ironmn	CRA/Y	Y
+	未曾风化	uniequip_003_jesca2				gamedata uniequip_table.json · equipDict	char_1034_jesca2	SPT/Y	Y
+	“无罪”	uniequip_003_judge				gamedata uniequip_table.json · equipDict	char_4065_judge	UNY/Y	Y
+	医者	uniequip_003_kalts				gamedata uniequip_table.json · equipDict	char_003_kalts	PHY/Y	Y
+	苦修者的抗压训练	uniequip_003_lessng				gamedata uniequip_table.json · equipDict	char_4011_lessng	DRE/Y	Y
+	“情与义”	uniequip_003_lin				gamedata uniequip_table.json · equipDict	char_4080_lin	PLX/Y	Y
+	孩子们	uniequip_003_lisa				gamedata uniequip_table.json · equipDict	char_358_lisa	DEC/Y	Y
+	“但思善恶”	uniequip_003_lmlee				gamedata uniequip_table.json · equipDict	char_322_lmlee	MER/Y	Y
+	《语义范式百科》	uniequip_003_logos				gamedata uniequip_table.json · equipDict	char_4133_logos	CCR/Y	Y
+	“幸运”	uniequip_003_lumen				gamedata uniequip_table.json · equipDict	char_4042_lumen	WAH/Y	Y
+	教学用龙腾无人机	uniequip_003_mgllan				gamedata uniequip_table.json · equipDict	char_248_mgllan	SUM/Y	Y
+	深蓝之籽	uniequip_003_mizuki				gamedata uniequip_table.json · equipDict	char_437_mizuki	AMB/Y	Y
+	落叶四季	uniequip_003_mlyss				gamedata uniequip_table.json · equipDict	char_249_mlyss	TAC/Y	Y
+	资深万国信使定制斗篷	uniequip_003_mostma				gamedata uniequip_table.json · equipDict	char_213_mostma	SPC/X	X
+	沃土的愿景	uniequip_003_mudrok				gamedata uniequip_table.json · equipDict	char_311_mudrok	UNY/Y	Y
+	“致我们的老大”	uniequip_003_narant				gamedata uniequip_table.json · equipDict	char_4138_narant	LPS/Y	Y
+	“骑士家族”	uniequip_003_nearl2				gamedata uniequip_table.json · equipDict	char_1014_nearl2	DRE/Y	Y
+	“请勿叩门”	uniequip_003_nian				gamedata uniequip_table.json · equipDict	char_2014_nian	PRO/Y	Y
+	烦恼问诊匣	uniequip_003_nymph				gamedata uniequip_table.json · equipDict	char_4146_nymph	PRI/Y	Y
+	“赫里亚之辉”	uniequip_003_pallas				gamedata uniequip_table.json · equipDict	char_485_pallas	INS/Y	Y
+	王权金币	uniequip_003_pasngr				gamedata uniequip_table.json · equipDict	char_472_pasngr	CHA/Y	Y
+	佩佩特限证章	uniequip_003_pepe				gamedata uniequip_table.json · equipDict	char_4058_pepe	RA/A	A
+	“如影随形”	uniequip_003_phatom				gamedata uniequip_table.json · equipDict	char_250_phatom	EXE/Y	Y
+	漫长的旅途	uniequip_003_phenxi				gamedata uniequip_table.json · equipDict	char_300_phenxi	ART/X	X
+	“心”	uniequip_003_poca				gamedata uniequip_table.json · equipDict	char_197_poca	SIE/Y	Y
+	欲雪时	uniequip_003_qiubai				gamedata uniequip_table.json · equipDict	char_4082_qiubai	LOR/Y	Y
+	新起点	uniequip_003_radian				gamedata uniequip_table.json · equipDict	char_4195_radian	SO/B	B
+	证明什么？	uniequip_003_ray				gamedata uniequip_table.json · equipDict	char_4117_ray	HUN/Y	Y
+	“独属自己的一隅”	uniequip_003_reed2				gamedata uniequip_table.json · equipDict	char_1020_reed2	INC/Y	Y
+	“老朋友”	uniequip_003_rmixer				gamedata uniequip_table.json · equipDict	char_4194_rmixer	SPT/Y	Y
+	迷迭香特限证章	uniequip_003_rosmon				gamedata uniequip_table.json · equipDict	char_391_rosmon	ISW/A	A
+	何处寻驮？	uniequip_003_saga				gamedata uniequip_table.json · equipDict	char_362_saga	SOL/X	X
+	“使徒”	uniequip_003_shining				gamedata uniequip_table.json · equipDict	char_147_shining	PHY/X	X
+	老剃刀	uniequip_003_shwaz				gamedata uniequip_table.json · equipDict	char_340_shwaz	ARC/Y	Y
+	“初诺”	uniequip_003_siege				gamedata uniequip_table.json · equipDict	char_112_siege	SOL/Y	Y
+	秩序圣“球”	uniequip_003_siege2				gamedata uniequip_table.json · equipDict	char_1019_siege2	AFT/Y	Y
+	往日残梦	uniequip_003_skadi				gamedata uniequip_table.json · equipDict	char_263_skadi	DRE/X	X
+	新生代	uniequip_003_skadi2				gamedata uniequip_table.json · equipDict	char_1012_skadi2	BAR/Y	Y
+	“友谊万岁”	uniequip_003_sleach				gamedata uniequip_table.json · equipDict	char_479_sleach	BEA/Y	Y
+	可控动量	uniequip_003_slent2				gamedata uniequip_table.json · equipDict	char_1031_slent2	BLS/Y	Y
+	旅游必需品	uniequip_003_surtr				gamedata uniequip_table.json · equipDict	char_350_surtr	AFT/Y	Y
+	诗怀雅的龙门美食指南	uniequip_003_swire2				gamedata uniequip_table.json · equipDict	char_1033_swire2	MER/Y	Y
+	“新车和新生活”	uniequip_003_texas2				gamedata uniequip_table.json · equipDict	char_1028_texas2	EXE/X	X
+	沙蚀	uniequip_003_thorns				gamedata uniequip_table.json · equipDict	char_293_thorns	LOR/D	D
+	冰原的影子	uniequip_003_typhon				gamedata uniequip_table.json · equipDict	char_2012_typhon	SIE/Y	Y
+	时光不再	uniequip_003_vigil				gamedata uniequip_table.json · equipDict	char_427_vigil	TAC/Y	Y
+	剑舞	uniequip_003_vulpis				gamedata uniequip_table.json · equipDict	char_4026_vulpis	SOL/Y	Y
+	“最后一行”	uniequip_003_vvana				gamedata uniequip_table.json · equipDict	char_4098_vvana	AFT/Y	Y
+	新型仿生原型	uniequip_003_weedy				gamedata uniequip_table.json · equipDict	char_400_weedy	PUS/Y	Y
+	罗德岛制式双刀	uniequip_003_yato2				gamedata uniequip_table.json · equipDict	char_1029_yato2	EXE/Y	Y
+	“小小的丑东西”	uniequip_003_zumama				gamedata uniequip_table.json · equipDict	char_416_zumama	HES/Y	Y
+	秉烛人的记录	uniequip_003_zuole				gamedata uniequip_table.json · equipDict	char_4121_zuole	SBL/Y	Y
+	安洁莉娜特限证章	uniequip_004_aglina				gamedata uniequip_table.json · equipDict	char_291_aglina	ISW/A	A
+	空弦特限证章	uniequip_004_archet				gamedata uniequip_table.json · equipDict	char_332_archet	ISW/A	A
+	夕特限证章	uniequip_004_dusk				gamedata uniequip_table.json · equipDict	char_2015_dusk	ISW/A	A
+	朽坏传承	uniequip_004_ebnhlz				gamedata uniequip_table.json · equipDict	char_4046_ebnhlz	MSC/D	D
+	归溟幽灵鲨特限证章	uniequip_004_ghost2				gamedata uniequip_table.json · equipDict	char_1023_ghost2	ISW/A	A
+	灵知特限证章	uniequip_004_gnosis				gamedata uniequip_table.json · equipDict	char_206_gnosis	ISW/A	A
+	百炼嘉维尔特限证章	uniequip_004_gvial2				gamedata uniequip_table.json · equipDict	char_1026_gvial2	RA/A	A
+	霍尔海雅特限证章	uniequip_004_heyak				gamedata uniequip_table.json · equipDict	char_4027_heyak	ISW/A	A
+	艾丽妮特限证章	uniequip_004_irene				gamedata uniequip_table.json · equipDict	char_4009_irene	ISW/A	A
+	凯尔希特限证章	uniequip_004_kalts				gamedata uniequip_table.json · equipDict	char_003_kalts	ISW/A	A
+	水月特限证章	uniequip_004_mizuki				gamedata uniequip_table.json · equipDict	char_437_mizuki	ISW/A	A
+	异客特限证章	uniequip_004_pasngr				gamedata uniequip_table.json · equipDict	char_472_pasngr	RA/A	A
+	傀影特限证章	uniequip_004_phatom				gamedata uniequip_table.json · equipDict	char_250_phatom	ISW/A	A
+	菲亚梅塔特限证章	uniequip_004_phenxi				gamedata uniequip_table.json · equipDict	char_300_phenxi	ISW/A	A
+	琳琅诗怀雅特限证章	uniequip_004_swire2				gamedata uniequip_table.json · equipDict	char_1033_swire2	ISW/A	A
+	提丰特限证章	uniequip_004_typhon				gamedata uniequip_table.json · equipDict	char_2012_typhon	ISW/A	A
+	森蚺特限证章	uniequip_004_zumama				gamedata uniequip_table.json · equipDict	char_416_zumama	RA/A	A
+	光学折射配件	uniequip_002_mgllan@光学折射配件				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	挑灯问梦	uniequip_002_ling@挑灯问梦				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	工匠遗训	uniequip_002_lasher@工匠遗训				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	摄影小队	uniequip_002_folivo@摄影小队				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	机械水獭	uniequip_002_otter@机械水獭				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	召唤触手	uniequip_002_deepcl@召唤触手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	英雄的诞生	uniequip_002_pallas@英雄的诞生				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	比肩的愿景	uniequip_002_sophia@比肩的愿景				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不落人后	uniequip_002_swire@不落人后				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	实训义务	uniequip_002_doberm@实训义务				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	白恶魔的庇护	uniequip_002_cgbird@白恶魔的庇护				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	医疗班保护	uniequip_002_breeze@医疗班保护				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	技力光环	uniequip_002_plosis@技力光环				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	熏衣香	uniequip_002_flower@熏衣香				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	凝神	uniequip_002_fartth@凝神				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	暗杀者	uniequip_002_milu@暗杀者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	深海直觉	uniequip_002_cuttle@深海直觉				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精确打击	uniequip_002_glaze@精确打击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	虚影精通	uniequip_002_phatom@虚影精通				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	注意力误导	uniequip_002_kafka@注意力误导				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	刺骨	uniequip_002_red@刺骨				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	除害杂役	uniequip_002_waaifu@除害杂役				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战场附庸	uniequip_002_gravel@战场附庸				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	孤卒	uniequip_002_pasngr@孤卒				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	通流无阻	uniequip_002_leizi@通流无阻				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	电磁波	uniequip_002_pudd@电磁波				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	呵斥	uniequip_002_chen@呵斥				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	重火力	uniequip_002_tachak@重火力				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	摄魂	uniequip_002_bibeak@摄魂				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	光蚀刻痕	uniequip_002_cutter@光蚀刻痕				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	军事传统	uniequip_002_bpipe@军事传统				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	骑警	uniequip_002_grani@骑警				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	一致向前	uniequip_002_wildmn@一致向前				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	轻装上阵	uniequip_002_fang2@轻装上阵				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	枯法之血	uniequip_002_sddrag@枯法之血				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蛮力穿刺	uniequip_002_vigna@蛮力穿刺				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	破晓	uniequip_002_nearl2@破晓				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	深海掠食者	uniequip_002_skadi@深海掠食者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	血戮	uniequip_002_flameb@血戮				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	铝热剑	uniequip_002_franka@铝热剑				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	稳妥降落	uniequip_002_peacok@稳妥降落				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	恶鬼体质	uniequip_002_gyuki@恶鬼体质				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	出其不意	uniequip_002_nothin@出其不意				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	谨慎择客	uniequip_002_talr@谨慎择客				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	解剖高手	uniequip_002_strong@解剖高手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	有备无患	uniequip_002_lmlee@有备无患				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	落井下石	uniequip_002_cqbw@落井下石				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	宣告终局	uniequip_002_phenxi@宣告终局				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	爆破附着改装	uniequip_002_meteo@爆破附着改装				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	弱点拆解	uniequip_002_sesa@弱点拆解				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	风旭	uniequip_002_yuki@风旭				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	化境	uniequip_002_dusk@化境				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	主观缓时	uniequip_002_mostma@主观缓时				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	咒术阵线	uniequip_002_lava2@咒术阵线				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	法术狙击	uniequip_002_skfire@法术狙击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	破片杀伤	uniequip_002_lionhd@破片杀伤				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	占卜	uniequip_002_fmout@占卜				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	静电场	uniequip_002_greyy@静电场				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	交叉火力	uniequip_002_shwaz@交叉火力				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	狩猎箭头	uniequip_002_prove@狩猎箭头				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	滑射技巧	uniequip_002_acdrop@滑射技巧				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	技力光环·辅助	uniequip_002_lisa@技力光环·辅助				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	兼职工作	uniequip_002_aglina@兼职工作				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	反制装置	uniequip_002_glacus@反制装置				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	探知者	uniequip_002_glassb@探知者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	园丁	uniequip_002_podego@园丁				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	地质勘探	uniequip_002_skgoat@地质勘探				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	拥抱自我	uniequip_002_ghost2@拥抱自我				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	贝娜的量角器	uniequip_002_bena@贝娜的量角器				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	折纸生花	uniequip_002_kazema@折纸生花				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	凡人之愿	uniequip_002_lumen@凡人之愿				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	湖畔漫步者	uniequip_002_ceylon@湖畔漫步者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	生命塔台	uniequip_002_whispr@生命塔台				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	细水长流	uniequip_002_finlpp@细水长流				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	愈战愈勇	uniequip_002_zumama@愈战愈勇				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	低温休憩	uniequip_002_aurora@低温休憩				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	净化之剑	uniequip_002_irene@净化之剑				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	迅捷出击	uniequip_003_skadi@迅捷出击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	机理分析	uniequip_003_pasngr@机理分析				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精神回复	uniequip_002_demkni@精神回复				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	天马光环	uniequip_002_nearl@天马光环				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	平底锅专精	uniequip_002_sunbr@平底锅专精				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	剑盾骑士	uniequip_002_blemsh@剑盾骑士				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	百谷长青	uniequip_002_shu@百谷长青				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	门神	uniequip_002_hmau@门神				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	封印的宝盒	uniequip_002_iris@封印的宝盒				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	柔光缚目	uniequip_002_indigo@柔光缚目				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	强弱法	uniequip_002_ebnhlz@强弱法				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	快速弹匣	uniequip_002_jesica@快速弹匣				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	空射专精	uniequip_002_shotst@空射专精				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	猎人的经验	uniequip_002_clour@猎人的经验				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	维多利亚探员	uniequip_002_mm@维多利亚探员				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	神经毒素	uniequip_002_bluep@神经毒素				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蓄力攻击	uniequip_002_platnm@蓄力攻击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	顺风	uniequip_002_swllow@顺风				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	熟练猎手	uniequip_002_aprl@熟练猎手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	中的	uniequip_002_kroos2@中的				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	天使的祝福	uniequip_002_angel@天使的祝福				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	铁弦	uniequip_002_archet@铁弦				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	突击手	uniequip_002_ash@突击手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	女神的振奋	uniequip_003_pallas@女神的振奋				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	科研热忱	uniequip_002_halo@科研热忱				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	支援无人机·龙腾	uniequip_003_mgllan@支援无人机·龙腾				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	阿戈尔的波涛	uniequip_002_glady@阿戈尔的波涛				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	雪境猎手	uniequip_002_slchan@雪境猎手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	捕虫专家	uniequip_002_snsant@捕虫专家				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	听觉训练	uniequip_002_rope@听觉训练				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	创伤性癔症	uniequip_002_mizuki@创伤性癔症				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	隐匿的杀手·精英	uniequip_002_mantic@隐匿的杀手·精英				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	离群独守	uniequip_002_kirara@离群独守				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	缠绕	uniequip_002_ethan@缠绕				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	凝神	uniequip_003_fartth@凝神				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	阿戈尔的深邃	uniequip_003_ghost2@阿戈尔的深邃				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	自动打字机	uniequip_002_bgsnow@自动打字机				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	防御专精	uniequip_002_snakek@防御专精				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	雪原卫士	uniequip_002_yak@雪原卫士				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	尖刺盾	uniequip_002_bubble@尖刺盾				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	奇迹力场	uniequip_002_moeshd@奇迹力场				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	交叉掩护	uniequip_002_bison@交叉掩护				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	条纹迷彩	uniequip_002_zebra@条纹迷彩				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战术装甲	uniequip_002_hsguma@战术装甲				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	干明可鉴	uniequip_002_nian@干明可鉴				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	倚音	uniequip_003_ebnhlz@倚音				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	勇冠三军	uniequip_003_zumama@勇冠三军				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	卡西米尔法律专精	uniequip_002_provs@卡西米尔法律专精				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不毁重构	uniequip_002_kalts@不毁重构				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	黑恶魔的庇护	uniequip_002_shining@黑恶魔的庇护				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蓄水	uniequip_002_tuye@蓄水				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	药物阻断技巧	uniequip_002_folnic@药物阻断技巧				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	血液样本回收	uniequip_002_bldsk@血液样本回收				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	强化注射	uniequip_002_silent@强化注射				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	微创治疗	uniequip_002_susuro@微创治疗				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战地医师	uniequip_002_ccheal@战地医师				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	急救包	uniequip_002_myrrh@急救包				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	点睛	uniequip_003_dusk@点睛				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	加速力场	uniequip_003_aglina@加速力场				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	万兽之王	uniequip_002_siege@万兽之王				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	清明	uniequip_002_saga@清明				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	前锋剑术	uniequip_002_flamtl@前锋剑术				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战术快递	uniequip_002_texas@战术快递				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	技工专长	uniequip_002_chiave@技工专长				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	冲锋领袖	uniequip_002_headbr@冲锋领袖				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	雪境巡逻员	uniequip_002_blackd@雪境巡逻员				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	单独行动者	uniequip_002_scave@单独行动者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	破甲箭头	uniequip_003_shwaz@破甲箭头				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	特种作战策略	uniequip_003_hsguma@特种作战策略				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	荒野本能	uniequip_002_lunacu@荒野本能				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	德克萨斯传统	uniequip_002_texas2@德克萨斯传统				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	深入骨髓	uniequip_002_poca@深入骨髓				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	目光如炬	uniequip_002_totter@目光如炬				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	火热直觉	uniequip_002_toddi@火热直觉				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	琴音入梦	uniequip_002_erato@琴音入梦				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	月盈星亏	uniequip_002_helage@月盈星亏				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	信影流·逆风	uniequip_002_akafyu@信影流·逆风				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	冷血	uniequip_002_utage@冷血				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	兰登战术	uniequip_003_archet@兰登战术				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	反移情	uniequip_003_mizuki@反移情				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不期而至	uniequip_002_hamoni@不期而至				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	炎息	uniequip_002_amgoat@炎息				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	剥壳	uniequip_002_cerber@剥壳				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	执法者	uniequip_002_absin@执法者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	黑色迷雾	uniequip_002_nights@黑色迷雾				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	冰原生存	uniequip_002_qanik@冰原生存				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	表里人格	uniequip_002_nightm@表里人格				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	情绪吸收	uniequip_002_amiya@情绪吸收				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	荒野法术	uniequip_002_tomimi@荒野法术				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	应急处理	uniequip_003_lumen@应急处理				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	莱茵充能护服	uniequip_003_demkni@莱茵充能护服				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	初出荒野	uniequip_002_bdhkgt@初出荒野				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蓄水炮强化	uniequip_002_weedy@蓄水炮强化				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	技巧射击	uniequip_002_forcer@技巧射击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	功夫	uniequip_002_panda@功夫				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	防火护服	uniequip_002_sqrrel@防火护服				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	莱茵回路	uniequip_002_ifrit@莱茵回路				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战术性调整	uniequip_002_serum@战术性调整				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	鬼人强化状态	uniequip_002_yato2@鬼人强化状态				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	法典	uniequip_003_shining@法典				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	粉碎	uniequip_003_siege@粉碎				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	练气	uniequip_002_noirc2@练气				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	生命之餐	uniequip_002_billro@生命之餐				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	韬光	uniequip_002_lin@韬光				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	地质学者	uniequip_002_mint@地质学者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	沙原的庇护	uniequip_002_beewax@沙原的庇护				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	梦想家	uniequip_002_doroth@梦想家				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	进阶隐蔽	uniequip_002_robin@进阶隐蔽				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	迎宾踏垫	uniequip_002_rfrost@迎宾踏垫				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	探险家的从容	uniequip_002_wulfen@探险家的从容				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	图纸校正	uniequip_002_cement@图纸校正				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	沸血先锋	uniequip_002_morgan@沸血先锋				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	积甲成山	uniequip_003_nian@积甲成山				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	独行长路	uniequip_003_cerber@独行长路				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	坚冰	uniequip_002_gnosis@坚冰				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	双响	uniequip_002_slbell@双响				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	伴生恶兆	uniequip_002_vodfox@伴生恶兆				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	歼灭战装备	uniequip_002_rosmon@歼灭战装备				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	窃光链缚	uniequip_002_greyy2@窃光链缚				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	传承终焉	uniequip_002_heyak@传承终焉				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	参数校准	uniequip_002_melnte@参数校准				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	Mon3tr	uniequip_003_kalts@Mon3tr				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	设伏	uniequip_003_cqbw@设伏				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	节约经费	uniequip_002_ironmn@节约经费				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	共进	uniequip_002_windft@共进				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	造型仪调试	uniequip_002_robrta@造型仪调试				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	混合药物射击	uniequip_002_haak@混合药物射击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	装弹对比实验	uniequip_002_spuria@装弹对比实验				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	火力支援	uniequip_002_inside@火力支援				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	仁慈	uniequip_003_blemsh@仁慈				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	红松骑士团团长	uniequip_003_flamtl@红松骑士团团长				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不退之旗	uniequip_002_sleach@不退之旗				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	生于冰寒	uniequip_002_sntlla@生于冰寒				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	运筹帷幄	uniequip_003_helage@运筹帷幄				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	狙击支援	uniequip_002_elysm@狙击支援				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	浮光跃金	uniequip_002_myrtle@浮光跃金				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	镜中虚影	uniequip_003_phatom@镜中虚影				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	锐如兽牙	uniequip_002_typhon@锐如兽牙				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	严酷训练	uniequip_002_huang@严酷训练				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战地巨斧	uniequip_002_gvial2@战地巨斧				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	山谷	uniequip_002_savage@山谷				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	自愈能力	uniequip_002_estell@自愈能力				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	钻头强化	uniequip_002_broca@钻头强化				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	溶于血的经验	uniequip_002_ghost@溶于血的经验				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	大买家	uniequip_002_swire2@大买家				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	拆迁队守则	uniequip_002_buildr@拆迁队守则				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	量时度力	uniequip_002_bryota@量时度力				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	受选之人	uniequip_002_excu2@受选之人				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	渐入佳境	uniequip_002_crow@渐入佳境				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	收割，给养	uniequip_002_highmo@收割，给养				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	再回收	uniequip_002_humus@再回收				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	持刀格斗术	uniequip_003_chen@持刀格斗术				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	劝善	uniequip_003_saga@劝善				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	工程背包	uniequip_002_almond@工程背包				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	丰润羽翼	uniequip_002_slent2@丰润羽翼				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	祝	uniequip_002_tknogi@祝				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	飘渺彩云	uniequip_002_ncdeer@飘渺彩云				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	丛林的荫庇	uniequip_002_quercu@丛林的荫庇				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	军事要塞	uniequip_002_horn@军事要塞				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	进退自如	uniequip_002_firwhl@进退自如				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	炮术研习	uniequip_002_ashlok@炮术研习				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	濯洗剑锋	uniequip_002_delphn@濯洗剑锋				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	植物自愈力	uniequip_002_vrdant@植物自愈力				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	陈述苦难	uniequip_003_phenxi@陈述苦难				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	倚音	uniequip_004_ebnhlz@倚音				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	沃土予身	uniequip_002_mudrok@沃土予身				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	律法卫士	uniequip_002_judge@律法卫士				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	自我防护	uniequip_002_hpsts@自我防护				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	痛楚砺刃	uniequip_002_lessng@痛楚砺刃				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	威权教诲	uniequip_002_baslin@威权教诲				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精密填弹	uniequip_003_bpipe@精密填弹				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不畏苦暗	uniequip_003_nearl2@不畏苦暗				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	信标的愤怒	uniequip_002_gdglow@信标的愤怒				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	立于磐石	uniequip_002_rockr@立于磐石				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	低眉	uniequip_002_kjera@低眉				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	忽有所悟	uniequip_002_malist@忽有所悟				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	协调一致	uniequip_002_cammou@协调一致				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	映耀	uniequip_002_reed2@映耀				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	朝开夕落	uniequip_002_hbisc2@朝开夕落				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	土壤基肥改良	uniequip_002_vendla@土壤基肥改良				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	“天生的武者”	uniequip_002_blkkgt@“天生的武者”				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	和气生财	uniequip_003_lmlee@和气生财				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	画地为牢	uniequip_003_lisa@画地为牢				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	工程蓄水炮	uniequip_003_weedy@工程蓄水炮				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蓄势待发	uniequip_003_billro@蓄势待发				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	好好听话	uniequip_002_grabds@好好听话				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	秉烛照影	uniequip_002_zuole@秉烛照影				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	习惯使然	uniequip_002_rfalcn@习惯使然				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	看天时	uniequip_002_wanqin@看天时				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	万象为宾	uniequip_002_chyue@万象为宾				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	帮派精神	uniequip_002_dagda@帮派精神				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	极速闪避	uniequip_002_jaksel@极速闪避				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	巨力重拳	uniequip_002_f12yin@巨力重拳				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	虎拳迅击	uniequip_002_tiger@虎拳迅击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	身轻无痕	uniequip_002_flint@身轻无痕				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	竞技专注	uniequip_002_brownb@竞技专注				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	灵活应变	uniequip_002_jesca2@灵活应变				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战术防御	uniequip_002_liskam@战术防御				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	持盾射击	uniequip_002_blitz@持盾射击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	辅助装备	uniequip_003_ash@辅助装备				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	“正中靶心”	uniequip_002_ela@“正中靶心”				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	双子分身复制器	uniequip_002_iana@双子分身复制器				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	军医	uniequip_002_rdoc@军医				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	防弹护盾	uniequip_002_fuze@防弹护盾				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	死里求生	uniequip_002_luton@死里求生				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	死亡拘审	uniequip_002_ascln@死亡拘审				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	净水即生命	uniequip_002_mlyss@净水即生命				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	狼群领袖	uniequip_002_vigil@狼群领袖				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	曾有羽翼	uniequip_003_heyak@曾有羽翼				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	点梦	uniequip_002_blkngt@点梦				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	专业饲养员	uniequip_002_bstalk@专业饲养员				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	起泡性能测试	uniequip_002_aroma@起泡性能测试				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	好礼	uniequip_002_wisdel@好礼				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	语汇演化	uniequip_002_logos@语汇演化				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	领袖	uniequip_002_svrash@领袖				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	神经腐蚀	uniequip_002_thorns@神经腐蚀				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	入隙	uniequip_002_qiubai@入隙				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精神摧毁	uniequip_002_whitew@精神摧毁				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	快点快点！	uniequip_002_leto@快点快点！				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	索敌援助	uniequip_002_ayer@索敌援助				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	结构分解	uniequip_002_spikes@结构分解				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	掩护打击	uniequip_002_frostl@掩护打击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	见习执行者	uniequip_002_lolxh@见习执行者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	细胞活性抑制剂	uniequip_002_udflow@细胞活性抑制剂				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	测绘器材的奇用	uniequip_002_haini@测绘器材的奇用				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	巡哨伙伴	uniequip_002_ray@巡哨伙伴				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不甘示弱	uniequip_002_coldst@不甘示弱				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	弱肉强食	uniequip_003_glady@弱肉强食				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	荆棘环身	uniequip_003_judge@荆棘环身				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精神融解	uniequip_003_ifrit@精神融解				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	诚挚期许	uniequip_002_amiya3@诚挚期许				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	废品战车	uniequip_002_mitm@废品战车				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	节约风气	uniequip_002_chen2@节约风气				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	尖钉	uniequip_002_aosta@尖钉				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	终结改装	uniequip_002_excu@终结改装				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	便携电源	uniequip_002_pinecn@便携电源				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	技力光环·术师	uniequip_003_mostma@技力光环·术师				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	破财消灾	uniequip_003_swire2@破财消灾				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	Mon3tr	uniequip_004_kalts@Mon3tr				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	镜中虚影	uniequip_004_phatom@镜中虚影				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	火山灰疗愈	uniequip_002_agoat2@火山灰疗愈				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	我即军营	uniequip_002_harold@我即军营				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	助手	uniequip_002_mberry@助手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	集体意识	uniequip_002_glider@集体意识				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	脚踏实地	uniequip_002_chnut@脚踏实地				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	转瞬即逝的幻影	uniequip_003_cgbird@转瞬即逝的幻影				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	可靠的同伴	uniequip_002_marcil@可靠的同伴				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	敏锐的五感	uniequip_002_chilc@敏锐的五感				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	迷宫魔物专家	uniequip_002_laios@迷宫魔物专家				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	十年魔物餐经验	uniequip_002_sensi@十年魔物餐经验				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	余火之氅	uniequip_002_hodrer@余火之氅				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	本性的坚守	uniequip_002_ulpia@本性的坚守				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	走山路	uniequip_002_chimes@走山路				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	行于荒野	uniequip_002_quartz@行于荒野				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	审判之火	uniequip_003_irene@审判之火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	定向支援信号	uniequip_002_cathy@定向支援信号				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	远古血亲	uniequip_002_skadi2@远古血亲				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	过往尘埃	uniequip_002_cetsyr@过往尘埃				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	安可	uniequip_002_sora@安可				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	机敏的反抗者	uniequip_002_heidi@机敏的反抗者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	血战	uniequip_003_horn@血战				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战地工程师	uniequip_003_ironmn@战地工程师				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	叙拉古的荣幸	uniequip_002_whitw2@叙拉古的荣幸				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	吞咽苦厄	uniequip_002_crosly@吞咽苦厄				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	追凶	uniequip_002_vulpis@追凶				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精神逆构	uniequip_002_cello@精神逆构				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	隐居者	uniequip_002_threye@隐居者				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	焦点诱导	uniequip_002_bobb@焦点诱导				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	苦痛专注	uniequip_003_lessng@苦痛专注				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	感知稳定	uniequip_003_rosmon@感知稳定				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	加速力场	uniequip_004_aglina@加速力场				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	超脱	uniequip_002_acmedc@超脱				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	无垠之心	uniequip_002_acpion@无垠之心				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	“授我所授”	uniequip_002_accast@“授我所授”				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	隐匿刀刃	uniequip_002_acguad@隐匿刀刃				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	风坠	uniequip_002_acnipe@风坠				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	同调	uniequip_002_acsupo@同调				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	二象命末	uniequip_002_acspec@二象命末				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精研材料	uniequip_002_acfend@精研材料				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	最好的草药医生	uniequip_002_rosesa@最好的草药医生				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	熔火	uniequip_002_surtr@熔火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	燃烛施明	uniequip_002_vvana@燃烛施明				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	诸王的叹息	uniequip_002_siege2@诸王的叹息				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	青色怒火	uniequip_002_amiya2@青色怒火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	天体仪	uniequip_002_astesi@天体仪				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	佣兵之韧	uniequip_002_sidero@佣兵之韧				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	连击	uniequip_002_frncat@连击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	快速弹匣	uniequip_003_angel@快速弹匣				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精准配镜	uniequip_002_nowell@精准配镜				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	重盈	uniequip_002_etlchi@重盈				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	同路之谊	uniequip_002_xingzh@同路之谊				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	往昔传承	uniequip_002_pepe@往昔传承				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	落锤	uniequip_002_odda@落锤				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	计出万全	uniequip_003_lin@计出万全				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	守正自明	uniequip_003_zuole@守正自明				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	止戈	uniequip_003_chyue@止戈				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	点睛	uniequip_004_dusk@点睛				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	愈战愈勇	uniequip_004_zumama@愈战愈勇				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	殊途同归	uniequip_003_gnosis@殊途同归				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精神感召	uniequip_003_sleach@精神感召				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	狼群天性	uniequip_003_vigil@狼群天性				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	弱点速记	uniequip_003_bgsnow@弱点速记				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	心相	uniequip_002_thorn2@心相				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	凋敝魂灵	uniequip_002_tinman@凋敝魂灵				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	临时改装	uniequip_002_alanna@临时改装				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	影织	uniequip_002_ines@影织				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	万全	uniequip_002_ctable@万全				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	序列	uniequip_002_puzzle@序列				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	独自远走	uniequip_002_surfer@独自远走				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	手足相惜	uniequip_003_mudrok@手足相惜				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	语汇演化	uniequip_003_logos@语汇演化				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	火力电台	uniequip_002_angel2@火力电台				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	逃犯引渡手续	uniequip_002_lemuen@逃犯引渡手续				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	扫射迎宾仪礼	uniequip_002_rmixer@扫射迎宾仪礼				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	创伤性癔症	uniequip_004_mizuki@创伤性癔症				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	兰登战术	uniequip_004_archet@兰登战术				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	伺机而动	uniequip_002_takila@伺机而动				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	游侠	uniequip_002_mlynar@游侠				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	藏锋伺敌	uniequip_002_wscoot@藏锋伺敌				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	开源节流	uniequip_003_mlyss@开源节流				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	神经腐蚀	uniequip_003_thorns@神经腐蚀				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	丰润羽翼	uniequip_003_slent2@丰润羽翼				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	弑君者威名	uniequip_003_crosly@弑君者威名				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	堕梦	uniequip_002_phatm2@堕梦				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	复燃	uniequip_002_necras@复燃				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	即兴制偶	uniequip_002_tecno@即兴制偶				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	死亡拘审	uniequip_003_ascln@死亡拘审				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	共振装置	uniequip_003_doroth@共振装置				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	强壮肉体	uniequip_003_f12yin@强壮肉体				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	重如沼泥	uniequip_003_typhon@重如沼泥				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精准导流	uniequip_003_gdglow@精准导流				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	医学背景	uniequip_003_gvial2@医学背景				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	卡带里的灵感	uniequip_002_radian@卡带里的灵感				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	学成于聚	uniequip_002_reckpr@学成于聚				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	明断	uniequip_002_leizi2@明断				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	扶摇花火	uniequip_002_haruka@扶摇花火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	好运连击！	uniequip_002_kichi@好运连击！				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	大买家	uniequip_004_swire2@大买家				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	熔点引爆	uniequip_002_blaze2@熔点引爆				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	窥心钥	uniequip_002_nymph@窥心钥				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	诱人美馔	uniequip_002_christ@诱人美馔				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	预先告知	uniequip_002_kaitou@预先告知				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	难免会溢锅	uniequip_002_warmy@难免会溢锅				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	假日余韵	uniequip_003_chen2@假日余韵				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	弥漫莲香	uniequip_003_pepe@弥漫莲香				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	应召而至	uniequip_002_tmoris@应召而至				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	谎言的假面	uniequip_002_dolris@谎言的假面				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	另一个“她”	uniequip_002_mortis@另一个“她”				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	颂乐音符	uniequip_002_oblvns@颂乐音符				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	双利手	uniequip_002_amoris@双利手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	精神逆构	uniequip_003_cello@精神逆构				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	紧急除颤	uniequip_003_huang@紧急除颤				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	噤声限域	uniequip_002_mantra@噤声限域				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	简易包扎	uniequip_002_branch@简易包扎				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	疾笔撰录	uniequip_002_wintim@疾笔撰录				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	“我见，我得”	uniequip_002_narant@“我见，我得”				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	结绳老手	uniequip_002_brigid@结绳老手				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	戏耍随心	uniequip_002_caper@戏耍随心				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	乱火	uniequip_003_amgoat@乱火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	铳弹共感	uniequip_003_excu2@铳弹共感				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	卡带里的灵感	uniequip_003_radian@卡带里的灵感				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	律脉同构	uniequip_002_akkord@律脉同构				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	数据建模	uniequip_002_halo2@数据建模				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	裂云一击	uniequip_002_snhunt@裂云一击				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	无垠的雪景	uniequip_002_sbell2@无垠的雪景				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	无拘的锋芒	uniequip_003_siege2@无拘的锋芒				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	鬼之架势	uniequip_002_hsgma2@鬼之架势				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	回声	uniequip_002_pianst@回声				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	攻守兼备	uniequip_002_durnar@攻守兼备				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	湿润皮肤	uniequip_002_asbest@湿润皮肤				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	厄运宣告	uniequip_002_aprot2@厄运宣告				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	坚冰	uniequip_004_gnosis@坚冰				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	传承终焉	uniequip_004_heyak@传承终焉				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	无声之锋	uniequip_002_sharp2@无声之锋				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	迭代元素	uniequip_002_pithst@迭代元素				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	自我修复	uniequip_002_monstr@自我修复				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	博览古卷	uniequip_002_papyrs@博览古卷				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	重点关照	uniequip_002_peper@重点关照				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	入神	uniequip_003_ray@入神				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	前方施工	uniequip_002_nasti@前方施工				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	百里香	uniequip_002_flwr2@百里香				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	凝固的时光	uniequip_002_titi@凝固的时光				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	永志不忘	uniequip_002_varkis@永志不忘				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	萃血	uniequip_003_etlchi@萃血				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	及锋而试	uniequip_003_hodrer@及锋而试				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	学生楷模	uniequip_003_poca@学生楷模				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	散华	uniequip_003_vvana@散华				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	墨守	uniequip_002_ju@墨守				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	料敌机先	uniequip_002_wang@料敌机先				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	寒暑觉知	uniequip_002_chen3@寒暑觉知				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	审判之火	uniequip_004_irene@审判之火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	机理分析	uniequip_004_pasngr@机理分析				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	闲云隐市	uniequip_002_yu@闲云隐市				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	神河谕使	uniequip_002_philae@神河谕使				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	过饱和讲解	uniequip_002_cairn@过饱和讲解				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	氤氲	uniequip_003_agoat2@氤氲				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	药剂扩散	uniequip_003_haak@药剂扩散				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蓄能释放	uniequip_003_jesca2@蓄能释放				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	家族手段	uniequip_002_demetr@家族手段				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	执棒素养	uniequip_002_liesel@执棒素养				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	背弃沉默	uniequip_002_botany@背弃沉默				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	久病良医	uniequip_002_turdus@久病良医				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	汹涌怒火	uniequip_002_headb2@汹涌怒火				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	余烬	uniequip_003_surtr@余烬				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	捕食习性	uniequip_003_skadi2@捕食习性				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	失魂	uniequip_003_nymph@失魂				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	反暗影特殊压制兵装	uniequip_002_aigis@反暗影特殊压制兵装				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	不羁之力	uniequip_002_makoto@不羁之力				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	治愈之风	uniequip_002_yukari@治愈之风				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	劣质溶剂耐受	uniequip_002_tanya@劣质溶剂耐受				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	极限调度	uniequip_002_closur@极限调度				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战争技艺	uniequip_002_veen@战争技艺				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	活着的传奇	uniequip_003_blkkgt@活着的传奇				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	架盾送客仪礼	uniequip_003_rmixer@架盾送客仪礼				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	德克萨斯剑术	uniequip_003_texas2@德克萨斯剑术				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	重如沼泥	uniequip_004_typhon@重如沼泥				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	拥抱自我	uniequip_004_ghost2@拥抱自我				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	斧模式变形	uniequip_002_catap2@斧模式变形				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	翔虫机动	uniequip_002_orchd2@翔虫机动				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	婀娜虚影	uniequip_003_narant@婀娜虚影				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	蓄势	uniequip_003_vulpis@蓄势				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	双雷剑麒麟	uniequip_003_yato2@双雷剑麒麟				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	坚硬脚板	uniequip_002_thumpy@坚硬脚板				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	结构性原理	uniequip_002_mcnist@结构性原理				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	链路协议	uniequip_002_aphris@链路协议				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	绝处重燃	uniequip_003_blaze2@绝处重燃				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	灼痕	uniequip_003_reed2@灼痕				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	新产品测评	uniequip_002_tmslot@新产品测评				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	淑女风范	uniequip_002_jcinta@淑女风范				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	陈述苦难	uniequip_004_phenxi@陈述苦难				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	战地巨斧	uniequip_004_gvial2@战地巨斧				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	
+	落英	uniequip_003_qiubai@落英				gamedata battle_equip_table.json · addOrOverrideTalentDataBundle		天赋覆写	

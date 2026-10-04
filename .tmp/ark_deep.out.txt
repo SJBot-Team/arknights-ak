@@ -1,0 +1,2933 @@
+﻿
+========================= A. Assembly-CSharp.dll / firstpass - .NET metadata =========================
+
+### Assembly-CSharp.dll  size=1060352 md_version=v4.0.30319 streams={'#~': 243080, '#Strings': 68440, '#US': 20612, '#GUID': 16, '#Blob': 31860}
+cli dir (8200, 72) rowcounts {'0x0': 1, '0x1': 269, '0x2': 1623, '0x4': 6047, '0x6': 6684, '0x8': 2485, '0x9': 457, '0xa': 1470, '0xb': 401, '0xc': 974, '0xf': 1, '0x11': 775, '0x15': 231, '0x17': 287, '0x18': 306, '0x19': 147, '0x1b': 288, '0x1d': 2, '0x20': 1, '0x23': 22, '0x29': 381, '0x2a': 30, '0x2b': 379, '0x2c': 20}
+TypeDef count 1623
+namespaces: [('Buffs', 614), ('', 526), ('Skills', 267), ('Modifys', 76), ('Bullets', 38), ('MainUI', 30), ('BattleUI', 25), ('DungeonUI', 18), ('MapBuilderUI', 15), ('Units', 14)]
+--- ALL types (ns.name) ---
+   <Module>
+   script
+   AudioManager
+   Card
+   ICard
+   GameData
+   t
+   h
+   o
+   Team
+   BuffData
+   BulletData
+   CardData
+   ContractData
+   DungeonLevelData
+   EffectData
+   EventData
+   RewardDataEx
+   SkillDataEx
+   IConfig
+   ModifyData
+   RelicData
+   RewardData
+   SkillData
+   SystemData
+   UnitData
+   Battle
+   <>c
+   2
+   3
+   et
+   BattleInput
+   Buff
+   IElementShield
+   IHeal
+   ISelfAfterDamage
+   ISelfAfterFinalAbsorb
+   ISelfAfterWithoutDamage
+   ISelfHeal
+   IShield
+   IShieldCount
+   IPushBuff
+   Bullet
+   BulletManager
+   Construction
+   CountDown
+   DamageInfo
+   Effect
+   chen_skill_03_hit
+   enemy_snowball_rolling
+   pepe_skill_03_range
+   AttackModeEnum
+   DamageTypeEnum
+   DirectionEnum
+   DirectionHelper
+   PowerRecoverTypeEnum
+   SkillUseTypeEnum
+   SkillReadyEnum
+   SkillTargetFilterEnum
+   StateEnum
+   TriggerEnum
+   AttackTargetOrderEnum
+   AttackTargetOrder2Enum
+   UnitTypeEnum
+   FixedEffectScaleChange
+   Map
+   MapUnitInfo
+   Tile
+   Modify
+   ISelfDamageModify
+   IDamageModify
+   ITargetModify
+   IAfterDamageModify
+   IAfterAttackModify
+   IElementModify
+   ModifyManager
+   OneWave
+   Skill
+   ee
+   er
+   ea
+   es
+   eh
+   ei
+   ew
+   eo
+   e2
+   e3
+   rt
+   re
+   rr
+   ra
+   rs
+   rh
+   ri
+   rw
+   ro
+   r3
+   at
+   ae
+   ar
+   <>c
+   aa
+   as
+   SphereDrag
+   SystemConfig
+   TriggerData
+   Unit
+   ah
+   ai
+   aw
+   ao
+   <>c
+   BattleCamera
+   BattleManager
+   <StartBattle>d__9
+   <resetBattle>d__10
+   BulletModel
+   MapTile
+   NormalModel
+   a3
+   st
+   PitModel
+   PlayerUnitModel
+   <>c
+   PoolModel
+   PreDisplayModel
+   PullLineModel
+   SpecialPitModel
+   SpineModel
+   <>c
+   TrailManager
+   <ShowPath>d__2
+   UnitModeI
+   Database
+   <Init>d__5
+   <>c__DisplayClass8_0`1
+   <>c__DisplayClass9_0`1
+   <>c__10`1
+   <>c__DisplayClass12_0`1
+   <AddAsync>d__14`1
+   <>c
+   Dungeon
+   se
+   sr
+   <>c
+   sa
+   DungeonCard
+   DungeonRelic
+   DungeonReward
+   HopeHelper
+   ss
+   DungeonManager
+   <Finish>d__2
+   <StartDungeon>d__3
+   ArrayExtension
+   DataHelper
+   EffectRestoreHelper
+   ExcelHelper
+   FileHelper
+   JsonHelper
+   Log
+   PathHelper
+   PosHelper
+   ResHelper
+   <GetAssetAsync>d__1`1
+   <InstantiateAsyncImmediate>d__3
+   <Prepare>d__7
+   <PrepareSkill>d__9
+   <PrepareBuff>d__10
+   <PrepareEffect>d__11
+   <PrepareEffect>d__12
+   SaveHelper
+   TaskHelper
+   AsyncOperationAwaiter`1
+   <>c__DisplayClass4_0
+   sh
+   si
+   TimeHelper
+   sw
+   so
+   lnllt
+   <>c
+   <Start>d__2
+   BuildPathPoint
+   MapExUnit
+   MapGrid
+   MapInfo
+   GridInfo
+   UnitInfo
+   WaveInfo
+   PathInfo
+   OverwriteUnitInfo
+   MapManager
+   <>c
+   <SelectGrid>d__10
+   OnePath
+   PathManager
+   PathPoint
+   Pool`1
+   logdata
+   ShowDebugInPhone
+   Singleton`1
+   Test
+   <Start>d__3
+   ABExportTool
+   <>c
+   <LoadScene>d__5
+   EnemyInfoExcelTool
+   Data
+   EnemyInfo
+   EnemyValue
+   EnemyData
+   kv
+   EnemySpineDownloadTool
+   A
+   s2
+   s3
+   ht
+   HalfDownLoadTool
+   PrtsInfo
+   CharInfo
+   <>c__DisplayClass8_0
+   he
+   hr
+   ha
+   MapInfoExChangeTool
+   ResourcesExportTool
+   SpineBoneFindTool
+   SpineDownLoadTool
+   A
+   hs
+   hh
+   hi
+   StandPicDownLoadTool
+   PrtsInfo
+   CharInfo
+   <>c__DisplayClass8_0
+   hw
+   ho
+   h2
+   IconHelper
+   IGameUIView
+   TipManager
+   TipItem
+   UIManager
+   CS_Highlight
+   EffectManager
+   ImageEffect_GaussianBlur
+   h3
+   MapBuilderUI.MapBuilderUIBinder
+   MapBuilderUI.UI_ComboBox1_popup
+   MapBuilderUI.UI_ComboBox2_popup
+   MapBuilderUI.UI_ContractIcon
+   MapBuilderUI.UI_EnemyInfo
+   <>c
+   MapBuilderUI.UI_MapBuilder
+   <>c
+   <ShowCancelWindow>d__35
+   it
+   ie
+   <<Init>b__29_11>d
+   <<Init>b__29_14>d
+   MapBuilderUI.UI_MapInfo
+   MapBuilderUI.UI_MidInfo
+   <changeUnit>d__18
+   MapBuilderUI.UI_MidPage
+   <Choose>d__18
+   <>c
+   <addUnit>d__20
+   MapBuilderUI.UI_MidUnitInfo
+   MapBuilderUI.UI_PathInfo
+   MapBuilderUI.UI_PathPage
+   <AddPoint>d__22
+   <InsertPoint>d__23
+   MapBuilderUI.UI_PathPoint
+   <>c
+   MapBuilderUI.UI_WaveInfo
+   <<Init>b__16_10>d
+   MapBuilderUI.UI_WavePage
+   <>c
+   <Choose>d__27
+   ir
+   MainUI.MainUIBinder
+   MainUI.UI_AllowShowAttribute
+   MainUI.UI_AttackArea
+   MainUI.UI_Battle
+   ia
+   <doBattle>d__16
+   <>c
+   MainUI.UI_BattleInfo
+   MainUI.UI_Contract
+   <>c
+   is
+   ih
+   <WaitFinish>d__24
+   <doBattle>d__25
+   MainUI.UI_ContractIcon
+   MainUI.UI_ContractInfo
+   MainUI.UI_GoBattle
+   MainUI.UI_HalfUnit
+   MainUI.UI_LeftUnitInfo
+   <>c
+   MainUI.UI_LevelInfo
+   MainUI.UI_Loading
+   MainUI.UI_Main
+   <>c
+   <<Init>b__23_2>d
+   <<Init>b__23_16>d
+   MainUI.UI_MemberPage
+   <>c
+   <clickCard>d__29
+   MainUI.UI_Pro
+   MainUI.UI_QuickButtonSet
+   MainUI.UI_Recover
+   MainUI.UI_SkillInfo
+   MainUI.UI_sortBtn
+   MainUI.UI_Star
+   MainUI.UI_Team
+   ii
+   iw
+   <ChooseTeam>d__37
+   MainUI.UI_TeamSelect
+   <>c
+   MainUI.UI_TeamUnit
+   MainUI.UI_UnitInfo
+   <ShowUnit>d__34
+   <>c
+   MainUI.UI_UnitInfoHeadIcon
+   MainUI.UI_UnitInfoUpgrade
+   MainUI.UI_UnitSkillIcon
+   MainUI.UI_UseType
+   MainUI.UI_World1
+   DungeonUI.DungeonUIBinder
+   DungeonUI.UI_Battle
+   io
+   <<Init>b__1>d
+   <BuildTeam>d__26
+   DungeonUI.UI_BattleContract
+   DungeonUI.UI_Choice
+   DungeonUI.UI_Dialogue
+   i2
+   <StartDialogue>d__17
+   i3
+   <showDialogue>d__21
+   wt
+   <doReward>d__24
+   DungeonUI.UI_DungeonStart
+   <>c
+   <<Init>b__9_3>d
+   DungeonUI.UI_InitUnit
+   DungeonUI.UI_LeftUnitInfo
+   DungeonUI.UI_Map
+   <>c
+   <<Init>b__11_2>d
+   DungeonUI.UI_MissionInfo
+   DungeonUI.UI_Recruit
+   <Choose>d__14
+   DungeonUI.UI_RecruitUnit
+   DungeonUI.UI_Reward
+   DungeonUI.UI_SkillInfo
+   DungeonUI.UI_StartUnit
+   DungeonUI.UI_TeamSelect
+   <Select>d__14
+   <>c
+   DungeonUI.UI_TeamSkill
+   DungeonUI.UI_TeamUnit
+   BattleUI.BattleUIBinder
+   BattleUI.UI_Battle
+   <>c
+   <RestartBattle>d__99
+   we
+   wr
+   wa
+   BattleUI.UI_BattleLeft
+   <>c
+   BattleUI.UI_BattleUnit
+   BattleUI.UI_BattleUpSkill
+   BattleUI.UI_BuildSprite
+   BattleUI.UI_CostBar
+   BattleUI.UI_DamageInfo
+   BattleUI.UI_DragPanel
+   BattleUI.UI_ElementBar
+   BattleUI.UI_EnemyDetectBar
+   BattleUI.UI_EnemyElementBar
+   BattleUI.UI_EnemyEnergyBar
+   BattleUI.UI_ESK0
+   BattleUI.UI_FastSpeed
+   BattleUI.UI_Head
+   BattleUI.UI_Leave
+   BattleUI.UI_MainSkillInfo
+   BattleUI.UI_Pause
+   BattleUI.UI_PingJiaXingXing
+   BattleUI.UI_PlayerEnergyBar
+   BattleUI.UI_SetPanel
+   BattleUI.UI_ShowAttribute
+   BattleUI.UI_SK0
+   BattleUI.UI_SkillUsePanel
+   Units.中立单位
+   Units.乌尔比安船锚
+   Units.华法琳血浆
+   Units.干员
+   <>c
+   Units.战术点
+   Units.敌人
+   <>c
+   Units.普通单位
+   Units.沙漠晶块
+   Units.涤火杰西卡盾牌
+   Units.特殊战术点
+   Units.箱子类敌人
+   <>c
+   Units.箱子类花匠
+   <>c
+   Units.纯净晶块干员
+   Units.陷阱
+   Skills.W捆绑术师技能
+   <>c
+   ws
+   Skills.W裹骸刺客抽血
+   Skills.W裹骸死士闪现索敌
+   Skills.中心点召唤
+   Skills.中心点命中召唤
+   Skills.主技能再次释放
+   Skills.主技能替换
+   Skills.主技能获取单位
+   <>c
+   Skills.乌尔比安位移
+   <>c
+   Skills.乌尔比安返回
+   <>c
+   Skills.乌萨斯战吼
+   Skills.事件目标替换
+   Skills.交换位置
+   Skills.交换位置自杀
+   Skills.交换血量比例
+   Skills.伊内丝3摧毁影哨
+   Skills.伤害连发
+   Skills.余震
+   wh
+   Skills.佩佩夏活奠基者召唤
+   <>c
+   Skills.佩佩夏活蹬踏技能
+   Skills.佩佩夏活蹬踏技能后续
+   Skills.佩佩夏活领袖猫冷却时间重置
+   wi
+   ww
+   Skills.佩佩夏活领袖猫召唤
+   <>c
+   Skills.佩佩夏活领袖猫召唤2
+   <>c
+   Skills.佩佩追加Buff
+   wo
+   w2
+   Skills.修改Tag
+   Skills.修改回费速度
+   Skills.修改费用上限
+   Skills.修改部署上限
+   Skills.元素奶治疗
+   <>c
+   Skills.元素损伤清除
+   Skills.关卡伤害
+   Skills.关键词修改Tag
+   Skills.内卫类索敌
+   w3
+   Skills.再部署时间改变
+   Skills.冰锁类索敌
+   Skills.冷却时间重置
+   ot
+   oe
+   Skills.冷却时间重置近战
+   or
+   oa
+   Skills.凋亡伤害引爆
+   Skills.减少技力
+   Skills.减少技力近战
+   Skills.减少技能持续
+   Skills.凛视索敌
+   <>c
+   Skills.击中获得费用
+   Skills.动画重置
+   Skills.卡涅利安回血
+   Skills.原版干员W类召唤
+   Skills.友方射程召唤
+   Skills.友方附着召唤
+   Skills.受到控制仅打断
+   Skills.受到控制打断
+   Skills.召唤
+   Skills.召唤2
+   Skills.召唤影哨
+   Skills.召唤物主人击中
+   os
+   Skills.召唤物返还
+   <>c
+   Skills.召唤绑定
+   Skills.命中召唤
+   Skills.命中召唤2
+   Skills.命中召唤冷却时间重置
+   Skills.唤醒分摊持续
+   Skills.回复技力
+   oh
+   oi
+   Skills.回复技力1
+   Skills.回复技力2
+   Skills.回复技力自杀
+   Skills.回复额外技力
+   Skills.回收召唤物
+   Skills.回收召唤物2
+   ow
+   Skills.图耶索敌
+   Skills.圣约送葬人群攻
+   oo
+   o2
+   Skills.塑路者召唤
+   Skills.增加修饰器
+   o3
+   Skills.夜莺射程变化
+   Skills.夜莺获取单位储存
+   Skills.失衡位移改向索敌
+   Skills.奥达2近战
+   <>c
+   Skills.妮芙3额外叠层
+   Skills.妮芙追加Buff
+   2t
+   2e
+   Skills.娜仁图亚3攻击
+   Skills.起始点修正
+   Skills.子弹需求绑定
+   2r
+   Skills.学习主技能
+   Skills.寒灾驮兽天赋
+   Skills.对方Buff获取
+   Skills.射程刷新
+   Skills.射程召唤
+   Skills.左乐护盾转化
+   <>c
+   Skills.左乐获得护盾
+   <>c
+   Skills.巫王乐团索敌
+   Skills.干员类弩箭
+   Skills.异客延长持续
+   2a
+   2s
+   Skills.异客类召唤
+   Skills.异格棘刺1召唤
+   <>c
+   Skills.异格棘刺2召唤
+   <>c
+   Skills.异格棘刺天赋捆绑
+   <>c
+   Skills.异格棘刺天赋索敌
+   Skills.弑君者模组延长
+   2h
+   2i
+   Skills.引爆召唤
+   Skills.弩箭
+   Skills.弩箭2
+   Skills.强制撤退
+   Skills.战争幽灵呼叫援助
+   Skills.战争幽灵溅射分摊
+   2w
+   2o
+   Skills.战场四围属性变更
+   Skills.战场镜头转换
+   Skills.截云2召唤
+   Skills.扇形索敌
+   Skills.打断释放
+   Skills.技能冷却重置
+   Skills.技能升级
+   22
+   Skills.技能结束召唤物撤退
+   Skills.技能遗忘
+   Skills.技能限定索敌
+   Skills.技能限定索敌近战
+   Skills.抽血
+   Skills.拆地板
+   Skills.拉
+   Skills.持续施法
+   Skills.持续获得费用
+   Skills.掉落
+   Skills.控制索敌
+   <>c
+   Skills.推
+   Skills.推箱子盛怒索敌
+   Skills.提丰3重置天赋
+   Skills.撤退全场干员
+   Skills.收割者群攻
+   Skills.敌人呼叫援助
+   <>c
+   Skills.敌人子弹技能
+   Skills.敌人无视距离
+   <>c
+   Skills.敌人能量变化
+   Skills.敌人近战呼叫援助
+   <>c
+   Skills.敌人闪现
+   Skills.敌方射程召唤
+   <>c
+   Skills.敌方射程召唤2
+   <>c
+   Skills.敌方巫恋技能
+   Skills.敌方附着召唤
+   Skills.断崖2索敌
+   <>c
+   Skills.断崖类索敌
+   <>c
+   Skills.旋转子弹
+   23
+   3t
+   3e
+   3r
+   3a
+   3s
+   3h
+   3i
+   3w
+   Skills.无目标取消技能升级
+   3o
+   Skills.无目标索敌自身
+   Skills.普通技能
+   Skills.暴食之果技能
+   Skills.最近红门持续召唤
+   <>c
+   Skills.最近红门持续召唤2
+   <>c
+   Skills.末药获取干员
+   Skills.林雨霞普攻
+   32
+   33
+   Skills.梅妃鸟闪现索敌
+   Skills.概率回复技力
+   Skills.横竖限定索敌
+   Skills.次数限定技能
+   Skills.歌蕾蒂娅类召唤
+   Skills.死亡回技力
+   ett
+   Skills.水晶箭弩箭
+   Skills.水晶箭弩箭索敌
+   Skills.水晶箭萨克斯弩箭
+   Skills.水羊3元素奶治疗
+   <>c
+   Skills.水陈天赋索敌
+   Skills.沙漠晶块检查
+   <>c
+   ete
+   Skills.波卜技能
+   etr
+   Skills.波卜类召唤
+   Skills.波登可类召唤
+   Skills.活性源石风暴天赋
+   Skills.流明索敌
+   <>c
+   Skills.涤火杰西卡弩箭
+   Skills.添加临时路径点
+   Skills.溅射抽血
+   eta
+   Skills.溅射拉
+   Skills.溢出目标索敌
+   Skills.激活环境技能
+   ets
+   eth
+   Skills.激活环境装置
+   Skills.烛煌爆裂冷却缩短
+   eti
+   <>c
+   Skills.爆裂冷却缩短
+   <>c
+   Skills.特蕾西娅分配
+   Skills.玛露希尔3攻击
+   Skills.琉璃壁类索敌
+   etw
+   eto
+   Skills.琳琅诗怀雅3推动
+   <>c
+   Skills.琳琅诗怀雅类召唤
+   Skills.琳琅诗怀雅锁血治疗
+   <>c
+   Skills.目标学习技能
+   et2
+   Skills.禁止回费
+   Skills.禁用对地索敌
+   Skills.禁用对空索敌
+   Skills.秒杀全场敌人
+   Skills.秒杀指定敌人
+   Skills.秘术师攒球
+   <>c
+   Skills.秘术师攻击
+   et3
+   <>c
+   Skills.移除召唤物
+   Skills.空天赋技力回复
+   Skills.空想花庭获得费用
+   Skills.空想花庭近战获得费用
+   Skills.继承血量召唤
+   Skills.维什戴尔余震
+   eet
+   eee
+   eer
+   Skills.维什戴尔类召唤
+   Skills.缩短主技能持续
+   Skills.缩短主技能持续近战
+   Skills.群攻
+   Skills.群攻拉
+   Skills.群攻推
+   Skills.耀光类召唤
+   Skills.自动鉴定
+   Skills.自身Buff转移
+   Skills.荒芜拉普兰德1索敌
+   Skills.荒芜拉普兰德弩箭
+   Skills.莱伊天赋追击
+   Skills.莱伊天赋追击推
+   Skills.获取中立单位
+   <>c
+   Skills.获取单位
+   <>c
+   Skills.获取单位储存
+   Skills.获取单位继承主技能
+   <>c
+   Skills.获取干员
+   Skills.获取干员2
+   Skills.获取干员3
+   Skills.获取干员继承主技能
+   Skills.获取纯净结晶
+   Skills.获取阻流阀
+   Skills.获得费用
+   Skills.获得费用近战
+   Skills.获得返还费用
+   Skills.血量变化修改Tag
+   Skills.装置召唤干员
+   Skills.褐果元素奶治疗
+   <>c
+   Skills.见行者推
+   Skills.见行者近战推
+   Skills.解放者结束重置
+   <>c
+   Skills.调谐节点开启
+   Skills.跟随攻击冷却补正
+   eea
+   Skills.路径内限定
+   Skills.跳跃
+   Skills.轻沫阿罗玛推
+   Skills.过载
+   Skills.近战
+   <>c
+   Skills.近战中心点命中召唤
+   Skills.近战击中获得费用
+   Skills.近战命中召唤
+   Skills.近战推
+   Skills.远牙3攻击
+   Skills.远牙类弩箭
+   Skills.迷迭香类召唤
+   Skills.追迹日落以西召唤
+   <>c
+   Skills.追迹日落以西夺取
+   <>c
+   Skills.追迹日落以西精英夺取
+   ees
+   eeh
+   eei
+   eew
+   eeo
+   ee2
+   <>c
+   Skills.追迹日落以西补给技能
+   <>c
+   Skills.逻各斯1光环
+   Skills.逻各斯1追击
+   ee3
+   Skills.逻各斯消除
+   <>c
+   Skills.释放技能扣血
+   Skills.重寻路
+   Skills.链愈师索敌
+   Skills.锁血治疗
+   Skills.锁血治疗打断
+   Skills.防护背心切换
+   <>c
+   Skills.陈普攻
+   Skills.降低技能冷却
+   Skills.随机召唤
+   Skills.雪雉溅射拉
+   Skills.非指向技能
+   Skills.额外治疗
+   Skills.额外选中自身
+   Skills.风雪过境推动
+   Skills.飞行使徒召唤
+   Skills.驭械术师攻击
+   Skills.魂灵之影攻击
+   Skills.魂灵之影攻击2
+   Skills.黍3地块索敌
+   Skills.黍召唤
+   Skills.黍模组召唤
+   Modifys.伤害最终提升
+   Modifys.佩佩夏活领袖猫二阶段增伤
+   Modifys.倚音增伤
+   ert
+   Modifys.召唤物阻挡伤害
+   ere
+   Modifys.命中回血
+   Modifys.唤醒伤害平摊
+   Modifys.固定伤害追加
+   Modifys.对buff伤害
+   Modifys.对Buff回血
+   Modifys.对buff最终伤害
+   Modifys.对Buff穿甲
+   Modifys.对Buff赋予Buff
+   Modifys.对Buff追加类型伤害
+   Modifys.对Buff高于生命增伤
+   Modifys.对tag伤害
+   err
+   era
+   Modifys.对个数伤害
+   Modifys.对个数附加Buff
+   Modifys.对位置伤害
+   Modifys.对低于重量伤害
+   Modifys.对低血伤害
+   Modifys.对低血伤害2
+   Modifys.对低血加算加攻
+   Modifys.对低血附加Buff
+   Modifys.对射程增伤
+   Modifys.对干员治疗
+   Modifys.对控制伤害
+   <>c
+   Modifys.对空追加Buff
+   Modifys.对距离增伤
+   Modifys.对距离最终增伤
+   Modifys.对远程伤害
+   Modifys.对重量伤害
+   Modifys.对重量无视防御
+   Modifys.对阻挡穿甲
+   Modifys.对飞行伤害
+   Modifys.对飞行额外伤害
+   Modifys.对高于生命伤害
+   Modifys.对高血附加Buff
+   Modifys.射程内倍率最终提升
+   <>c
+   Modifys.射程内倍率额外提升
+   <>c
+   Modifys.射程内存在阶级增伤
+   <>c
+   Modifys.射程内抛光系数变化
+   <>c
+   Modifys.射程外倍率最终提升
+   <>c
+   Modifys.射程外倍率额外提升
+   <>c
+   Modifys.属性附加伤害
+   Modifys.引爆Buff追加伤害
+   Modifys.技能期间增伤
+   Modifys.技能概率加算加攻
+   Modifys.技能类对Buff赋予Buff
+   Modifys.无视闪避
+   <>c
+   Modifys.暴击
+   Modifys.最大生命伤害
+   Modifys.有Buff伤害
+   Modifys.有Buff伤害类型改变
+   Modifys.未阻挡伤害
+   Modifys.未阻挡时增伤
+   Modifys.根据周围单位增伤
+   Modifys.根据移速增伤
+   Modifys.概率加算加攻
+   Modifys.概率类型伤害
+   Modifys.目标阻挡数增伤
+   Modifys.穿甲
+   Modifys.耀光3类型变化
+   ers
+   Modifys.蓄力增伤
+   Modifys.血量低于增伤
+   Modifys.血量高于增伤
+   Modifys.被阻挡单位伤害
+   Modifys.近战以外伤害
+   Modifys.追加伤害倍率
+   Modifys.追加类型伤害
+   Modifys.逻各斯Z模组增伤
+   Modifys.阴阳增减伤害
+   Modifys.阻挡伤害
+   Modifys.额外伤害加
+   Modifys.额外目标
+   Modifys.额外目标与伤害
+   Modifys.高于血量不致死
+   Bullets.伊内丝3影哨弹道
+   Bullets.冲击波
+   Bullets.可空炸冲击波
+   Bullets.回环射手子弹
+   Bullets.垂直子弹
+   Bullets.夜刀3弹道
+   Bullets.大飞镖
+   erh
+   Bullets.娜仁图亚3子弹
+   Bullets.子弹
+   Bullets.安多恩冲击波
+   eri
+   Bullets.对单龙卷风弹道
+   Bullets.巫王乐团弹道
+   Bullets.干员捆绑弹道
+   Bullets.干员捆绑弹道2
+   Bullets.延迟打击
+   Bullets.延迟打击子弹
+   Bullets.引星棘刺1弹道
+   Bullets.引星棘刺2弹道
+   Bullets.引星棘刺2弹道2
+   Bullets.引星棘刺捆绑弹道
+   <>c
+   Bullets.弹射子弹
+   Bullets.弹射治疗子弹
+   Bullets.彩六医生冲击波
+   Bullets.截云2飞镖
+   erw
+   Bullets.持续施法子弹
+   Bullets.持续追踪子弹
+   Bullets.敌方激光弹道
+   Bullets.旋转子弹
+   ero
+   Bullets.无效果捆绑弹道
+   Bullets.水晶箭冲击波
+   Bullets.测试锁链弹道
+   Bullets.秘术师子弹
+   Bullets.羊之主弹道
+   <>c
+   Bullets.荒芜拉普兰德弹道
+   Bullets.远牙穿透弹道
+   Bullets.逻各斯1子弹
+   Bullets.钩子
+   Bullets.银心湖捆绑弹道
+   Buffs.m3融毁加攻
+   Buffs.V2治疗减益
+   Buffs.W渴血的子裔天赋
+   Buffs.W领袖敌方光环
+   Buffs.乌尔比安3位移
+   Buffs.乌尔比安3返回
+   Buffs.乌尔比安X模组受伤回血
+   Buffs.乌尔比安受伤回血
+   Buffs.乌尔比安深海光环
+   Buffs.乌尔比安船锚无敌
+   Buffs.乌有击中追加Buff
+   Buffs.云梯不可部署
+   Buffs.云梯标记
+   Buffs.亚叶天赋加成
+   Buffs.亚叶技能治疗
+   Buffs.令3最终增伤
+   <>c
+   Buffs.伊内丝3不可部署
+   Buffs.伊内丝天赋减攻
+   Buffs.佩佩夏活精英猫天赋
+   Buffs.佩佩夏活领袖猫护盾
+   Buffs.佩佩天赋技力回复
+   Buffs.使徒Buff
+   Buffs.修补工头护盾
+   <>c
+   Buffs.倚音增伤
+   er2
+   Buffs.傀儡师复活计时
+   Buffs.冬灵猎犬头领光环
+   Buffs.冲锋官辐能源石虫中毒
+   Buffs.凋亡减攻中毒
+   Buffs.凋亡凝滞
+   Buffs.刻俄柏天赋增伤
+   Buffs.剑豪Y模组技力回复
+   Buffs.剑豪伤害最终提升
+   Buffs.加减层数数值变化
+   Buffs.匪帮劫掠者天赋
+   Buffs.匪帮斧手护盾
+   Buffs.匪帮防御者护盾
+   Buffs.医生溢出护盾
+   Buffs.医生溢出治疗天赋
+   Buffs.华法琳天赋
+   er3
+   Buffs.卡涅利安数值变化
+   <>c
+   Buffs.卡涅利安特性
+   Buffs.原版W增伤
+   Buffs.原版干员W3延迟引爆
+   Buffs.厨师Buff
+   Buffs.双月技力流失
+   Buffs.变形者同步
+   Buffs.变形者死亡召唤
+   Buffs.叠叠乐Buff
+   Buffs.召唤物延迟死亡
+   Buffs.合约V2小夫闪避
+   Buffs.合约V2裂礁者
+   <>c
+   Buffs.吞噬者Buff
+   Buffs.哈洛德天赋减伤
+   Buffs.哨戒铁卫庇护
+   Buffs.嘉维尔天赋治愈
+   Buffs.图耶增伤
+   Buffs.圆岩巨像技力回复
+   Buffs.圣卫自动机天赋
+   <>c
+   Buffs.塑心3数值变化
+   Buffs.处决者X模组特性
+   Buffs.多萝西天赋加成
+   <>c
+   Buffs.夜莺鸟笼天赋
+   Buffs.大提琴家反伤
+   Buffs.大提琴家圣盾
+   Buffs.失衡位移改向
+   Buffs.失衡撞人推动
+   Buffs.失衡撞人眩晕
+   Buffs.失衡撞墙眩晕
+   Buffs.妮芙2中毒
+   Buffs.娜仁图亚天赋偷取
+   Buffs.子月隐身
+   Buffs.孤星吹风机Buff
+   Buffs.寒灾驮兽光环
+   Buffs.寒芒克洛丝增伤
+   Buffs.左乐天赋
+   <>c
+   Buffs.左乐护盾
+   Buffs.巫役模组迷彩
+   Buffs.巴别塔穿刺手加速
+   Buffs.巴别塔驮兽天赋
+   Buffs.干员凋亡损伤减攻
+   Buffs.年3分摊型护盾
+   Buffs.年代之刺光环
+   Buffs.异客天赋追加Buff
+   <>c
+   Buffs.异德1中毒
+   Buffs.异格棘刺加防
+   Buffs.异格棘刺回血
+   Buffs.异格棘刺天赋减益
+   <>c
+   Buffs.异葬天赋加成
+   Buffs.弑君者天赋减速
+   Buffs.弑君者天赋减速2
+   <>c
+   Buffs.引星棘刺1回血
+   Buffs.引星棘刺2中毒
+   Buffs.引星棘刺2回血
+   Buffs.忍冬数值变化
+   Buffs.怀黍离天桩回血
+   <>c
+   Buffs.怀黍离数值乘算变化叠加
+   Buffs.怀黍离术师复活吸收
+   <>c
+   Buffs.怀黍离水泵天赋
+   <>c
+   Buffs.怀黍离追加类型伤害
+   <>c
+   Buffs.我方冲击式施术单元
+   <>c
+   Buffs.战争幽灵光环
+   Buffs.战争幽灵激活全局计时
+   Buffs.推箱子规则
+   <>c
+   Buffs.推花匠规则
+   <>c
+   Buffs.提丰类技能增伤
+   Buffs.提丰类穿透增加
+   Buffs.提丰类范围Buff
+   Buffs.敌人复活状态组合A
+   Buffs.敌人天赋叠层
+   Buffs.敌人闪现屏蔽
+   Buffs.敌方冲击式施术单元
+   <>c
+   Buffs.敌方巫恋复活光环
+   Buffs.敌方未装配刀片
+   <>c
+   Buffs.敌方防护背心
+   <>c
+   Buffs.数值变化叠加入场移除
+   Buffs.断崖攻速加成
+   Buffs.早露天赋加成
+   Buffs.早露天赋增伤
+   Buffs.星熊天赋格挡
+   Buffs.普罗旺斯增伤
+   Buffs.极光天赋广播
+   Buffs.止颂阻挡减伤
+   Buffs.残党乐团管乐加成
+   Buffs.沙洲遗闻鼠鼠加成
+   Buffs.沙漠晶块Buff
+   Buffs.沙漠晶块传递
+   <>c
+   Buffs.波卜天赋中毒
+   Buffs.波卜天赋追加Buff
+   Buffs.泥岩圣盾
+   Buffs.洛洛浮游单元
+   Buffs.活性源石风暴天赋
+   Buffs.流明天赋计时
+   Buffs.测试扩散
+   Buffs.海霓脆弱
+   Buffs.涤火杰西卡盾牌计时
+   <>c
+   Buffs.源石风暴中毒
+   <>c
+   Buffs.澄闪浮游单元
+   Buffs.火山旅梦范围Buff转化
+   <>c
+   Buffs.烛煌复活
+   Buffs.焰影苇草X模组特性
+   Buffs.焰影苇草治疗自身
+   Buffs.焰苇天赋追加Buff
+   Buffs.煌2叠层
+   Buffs.爆裂叠加
+   Buffs.特蕾西娅天赋
+   <>c
+   Buffs.狼之主剧毒
+   Buffs.玉门高台增减伤
+   <>c
+   Buffs.玛利图斯复活
+   Buffs.玛利图斯数值变化
+   Buffs.玛恩纳X模组增减伤
+   <>c
+   Buffs.玛恩纳增减伤
+   Buffs.玛恩纳天赋反击
+   Buffs.玛恩纳天赋追击
+   Buffs.玛露希尔2吟唱
+   <>c
+   Buffs.玛露希尔3吟唱
+   <>c
+   Buffs.玛露希尔3覆盖动作
+   <>c
+   Buffs.玛露希尔天赋加成
+   <>c
+   Buffs.琉璃壁类护盾
+   <>c
+   Buffs.琳琅诗怀雅3技力显示
+   Buffs.琳琅诗怀雅周期扣费
+   <>c
+   Buffs.琴柳军旗变速
+   <>c
+   Buffs.瑰盐2减伤
+   Buffs.瑰盐2流失
+   Buffs.白金2叠层
+   Buffs.秘术师Y模组特性
+   Buffs.空想花庭中毒
+   Buffs.空援无人机撤退
+   Buffs.突击队士兵光环
+   Buffs.红云天赋叠层
+   Buffs.纯烬艾雅法拉天赋加成
+   Buffs.纯烬艾雅法拉治愈
+   Buffs.织咒者印痕天赋
+   <>c
+   Buffs.绮良天赋加成
+   <>c
+   Buffs.维什戴尔残影
+   Buffs.维什戴尔残影2
+   Buffs.维娜维多利亚天赋加攻
+   <>c
+   Buffs.维娜维多利亚天赋脆弱
+   Buffs.耀骑士临光2圣盾
+   Buffs.老鲤2延迟引爆
+   Buffs.老鲤3闪避
+   Buffs.老鲤周期扣费
+   Buffs.老鲤天赋减益
+   <>c
+   Buffs.艾拉1暴击
+   Buffs.艾拉天赋暴击
+   Buffs.英杰尖兵3加成
+   Buffs.英杰尖兵3扣费
+   Buffs.英杰尖兵回费
+   Buffs.范围死亡召唤装置
+   Buffs.荒芜拉普兰德3中毒
+   <>c
+   Buffs.荒芜拉普兰德3浮游单元
+   <>c
+   Buffs.荒芜拉普兰德浮游单元
+   <>c
+   Buffs.荒芜拉普兰德辅助计时显示
+   <>c
+   Buffs.莫斯提马减速
+   Buffs.莫斯提马模组减速
+   Buffs.莱伊沙地兽增伤
+   Buffs.莱塔尼亚叛兵光环
+   Buffs.莱欧斯1吟唱
+   Buffs.菲莱2数值变化
+   Buffs.菲莱天赋
+   Buffs.菲莱损伤屏障
+   Buffs.萨卡兹肉鸽爱国者减伤
+   Buffs.蒸汽骑士范围召唤装置
+   Buffs.薇薇安娜圣盾
+   <>c
+   Buffs.血魔血雾范围Buff
+   Buffs.行商回费速度最终增加
+   Buffs.裁度周期扣费
+   Buffs.裂礁者加成
+   Buffs.解放者特性
+   Buffs.调谐节点无敌
+   Buffs.车尔尼天赋反击
+   Buffs.远山天赋
+   Buffs.追迹日落以西活化
+   <>c
+   Buffs.追迹日落以西皮肤切换
+   Buffs.逻各斯1秒杀
+   <>c
+   Buffs.逻各斯2增伤
+   Buffs.逻各斯3减速
+   Buffs.部族巫术师光环
+   Buffs.重剑手加攻
+   Buffs.重剑手复活
+   Buffs.锁链Buff
+   Buffs.锏天赋一增伤
+   <>c
+   Buffs.长生军回血
+   Buffs.阴阳增减伤
+   Buffs.阵法术师特性双抗
+   Buffs.阵法术师特性增伤
+   Buffs.阿斯卡纶尸爆
+   <>c
+   Buffs.阿罗玛2伤害
+   Buffs.阿罗玛3失衡撞人推动
+   <>c
+   Buffs.陈天赋加成
+   Buffs.霍尔海雅天赋
+   <>c
+   Buffs.露托天赋回血
+   Buffs.魔神寒灾护盾
+   Buffs.黍3传送
+   Buffs.黍同职业加成
+   <>c
+   Buffs.黍四岁加成
+   <>c
+   Buffs.Tag限定减伤叠加
+   Buffs.Tag限定受击回血
+   Buffs.Tag限定检测单位少于追加Buff
+   Buffs.Tag限定阻挡加属性
+   Buffs.上方减伤
+   Buffs.下方减伤
+   Buffs.不占部署
+   Buffs.不可撤退
+   Buffs.不可阻挡
+   Buffs.个人损伤屏障
+   Buffs.中毒
+   Buffs.中毒特性追加
+   Buffs.主技能打断
+   Buffs.伤害分摊
+   Buffs.伤害分摊2
+   Buffs.伤害反弹
+   Buffs.伤害最终提升
+   Buffs.伤害类型减伤
+   Buffs.伤害类型吸收
+   Buffs.伤害类型吸收2
+   Buffs.伤害类型圣盾
+   Buffs.伤害类型改变
+   Buffs.伤害类型盾
+   Buffs.伤害类型闪避
+   Buffs.低于来源攻击回复
+   Buffs.低于生命秒杀
+   Buffs.修改敌对组
+   Buffs.修改部署位置
+   Buffs.停止移动
+   Buffs.停顿
+   Buffs.偷取属性
+   Buffs.偷取属性叠加
+   Buffs.元素损伤
+   Buffs.元素损伤易伤
+   Buffs.元素损伤治愈
+   Buffs.克里夫索敌
+   Buffs.免疫Buff
+   Buffs.免疫低于伤害
+   Buffs.免疫失衡
+   Buffs.免疫高于伤害
+   Buffs.全减伤
+   Buffs.全减伤攻击暂时失效
+   Buffs.共享型数值变化叠加
+   Buffs.共生Buff
+   Buffs.冻结
+   <>c
+   Buffs.减伤
+   Buffs.击中回费
+   Buffs.击中概率回复技力
+   Buffs.击中追加Buff
+   Buffs.击中附加抽血
+   Buffs.分摊型圣盾
+   Buffs.分摊型圣盾标记
+   <>c
+   Buffs.分摊型护盾
+   Buffs.分摊型护盾标记
+   <>c
+   Buffs.分摊型护盾特性
+   Buffs.剧毒
+   Buffs.加速
+   Buffs.升空
+   Buffs.升空落地
+   Buffs.单次最高受伤
+   Buffs.反伤
+   Buffs.反伤2
+   Buffs.反隐
+   Buffs.受伤回血
+   Buffs.受伤数值乘算变化叠加
+   Buffs.受伤数值变化叠加
+   Buffs.受伤数值变化自身附加
+   Buffs.受伤数值变化附加
+   Buffs.受伤缩短Buff持续
+   Buffs.受伤触发数值变化
+   Buffs.受击召唤
+   Buffs.受击回费
+   Buffs.受击附加伤害
+   Buffs.叠加中毒
+   Buffs.召唤师来源中毒
+   Buffs.右侧减伤
+   Buffs.同色可阻挡
+   eat
+   Buffs.启用鉴定
+   Buffs.吸收类单次最高受伤
+   Buffs.吸血
+   Buffs.吸血印记
+   Buffs.吹风机Buff
+   Buffs.周期回复技力
+   Buffs.周期扣费
+   Buffs.咒愈回血
+   Buffs.唤醒伤害分摊
+   Buffs.回费速度乘算变化
+   Buffs.回费速度变化
+   Buffs.回费速度变化取低
+   Buffs.回费速度变化取高
+   Buffs.固定值减伤
+   Buffs.固定值附加吸血
+   Buffs.圣盾
+   Buffs.地块不可部署
+   Buffs.地块部署变化
+   Buffs.场上干员少于数值乘算变化
+   Buffs.场上干员少于数值变化
+   Buffs.场上干员达到数值乘算变化
+   Buffs.场上干员达到数值变化
+   Buffs.塑心射程延伸
+   Buffs.增伤
+   Buffs.复仇光环
+   Buffs.复仇型数值变化取高
+   Buffs.失衡中毒
+   Buffs.孤立
+   Buffs.对Buff伤害
+   Buffs.对Tag伤害
+   Buffs.对Tag减伤
+   Buffs.对位置中毒
+   Buffs.对低血增伤
+   Buffs.对低血最终增伤
+   Buffs.对低血阶段式最终增伤
+   Buffs.对低血附加Buff
+   Buffs.对地面伤害
+   Buffs.对空追加Buff
+   Buffs.对距离增伤
+   Buffs.对距离最终增伤
+   Buffs.对飞行伤害
+   Buffs.对高血增伤
+   Buffs.对高血最终增伤
+   Buffs.对高血附加Buff
+   Buffs.射程内倍率额外提升
+   <>c
+   Buffs.射程内单位数加成
+   <>c
+   Buffs.射程内存在阶级减伤
+   <>c
+   Buffs.射程内存在阶级增伤
+   <>c
+   Buffs.射程内干员依赖
+   <>c
+   Buffs.射程内无视闪避
+   <>c
+   Buffs.射程内职业数加成
+   <>c
+   Buffs.射程限制
+   Buffs.尸爆
+   Buffs.尸爆治疗
+   Buffs.屏蔽影子
+   Buffs.屏蔽模型
+   Buffs.属性最终增伤
+   Buffs.属性附加伤害
+   Buffs.左侧减伤
+   Buffs.巴别塔刺客天赋
+   Buffs.巴别塔小兵闪避
+   Buffs.干员不可部署
+   Buffs.干员召唤物计时
+   Buffs.干员缴械
+   Buffs.干员被动转向
+   Buffs.干员部署减费
+   Buffs.延迟回血
+   Buffs.延迟引爆
+   Buffs.延迟流血
+   Buffs.延迟结算偷取数值变化
+   Buffs.延迟结算数值变化
+   Buffs.延迟追加Buff
+   Buffs.弑君者烟雾
+   Buffs.当前再部署延长
+   Buffs.当前再部署清空
+   Buffs.当前属性中毒
+   Buffs.恐惧
+   Buffs.恐惧备份
+   <>c
+   Buffs.战场四围属性变更
+   Buffs.战栗
+   Buffs.打断动作
+   Buffs.打断动作2
+   Buffs.打断攻击
+   Buffs.技力回满
+   Buffs.技力数减伤
+   Buffs.技力流失
+   Buffs.技能倍率型数值变化
+   Buffs.技能倍率型数值变化附加
+   Buffs.技能击中回血
+   Buffs.技能封印
+   Buffs.技能期间持续回费
+   Buffs.技能期间数值变化
+   Buffs.技能期间数值变化叠加
+   Buffs.技能期间穿甲
+   Buffs.技能未开启数值变化
+   Buffs.技能类击中追加Buff
+   Buffs.技能类叠层上限追加Buff
+   Buffs.技能类对空击中追加Buff
+   Buffs.技能类持续追加Buff
+   Buffs.技能类概率击中追加Buff
+   Buffs.技能类自身受伤反击追加Buff
+   Buffs.技能结束追加Buff
+   Buffs.护盾
+   Buffs.拉动
+   Buffs.持续获得费用
+   Buffs.指定伤害减伤
+   Buffs.指定伤害减伤叠乘
+   Buffs.指定伤害受击回技力
+   Buffs.指定伤害受击回血
+   Buffs.指定伤害增伤
+   Buffs.指定伤害追加Buff
+   Buffs.损伤屏障
+   Buffs.损伤屏障吸收
+   Buffs.损失生命广播
+   Buffs.控制效果反制
+   Buffs.推动
+   Buffs.撤退再部署返还
+   Buffs.攻击力反伤
+   Buffs.攻击回复技力
+   Buffs.攻击回技力
+   Buffs.攻击目标数变化
+   Buffs.敌人限定能量
+   Buffs.数值乘算变化
+   Buffs.数值乘算变化叠加
+   Buffs.数值变化
+   Buffs.数值变化2
+   Buffs.数值变化初始递增
+   Buffs.数值变化取低
+   Buffs.数值变化取低叠加
+   Buffs.数值变化取高
+   Buffs.数值变化取高叠加
+   Buffs.数值变化受击减层
+   Buffs.数值变化叠加
+   Buffs.数值变化叠加2
+   Buffs.数值变化叠加3
+   Buffs.数值变化叠加4
+   Buffs.数值变化叠加5
+   Buffs.数值变化护盾
+   Buffs.数值变化独立叠加
+   Buffs.鼓舞
+   Buffs.鼓舞加防
+   Buffs.数值变化自身附加
+   Buffs.数值变化衰减
+   Buffs.数值变化追击叠加
+   Buffs.数值变化造成伤害减层
+   Buffs.数值变化重获延时
+   Buffs.数值变化附加
+   Buffs.新版元素损伤
+   Buffs.新版护盾
+   Buffs.新版浮游单元
+   Buffs.无敌
+   Buffs.无视碰撞
+   Buffs.无视闪避
+   Buffs.无视防御
+   Buffs.普通Buff
+   Buffs.暴击
+   Buffs.最终增伤
+   Buffs.有Buff伤害类型改变
+   Buffs.有Buff停止计时
+   Buffs.有Buff生效数值乘算变化
+   Buffs.有Buff生效数值变化
+   Buffs.未受伤数值变化自身附加
+   Buffs.未受伤数值变化附加
+   Buffs.未被阻挡时减伤
+   Buffs.未阻挡伤害
+   Buffs.未阻挡单位回复技力
+   Buffs.未阻挡单位增伤
+   Buffs.未阻挡单位最终增伤
+   Buffs.未阻挡时增伤
+   Buffs.未阻挡时最终增伤
+   Buffs.束缚
+   Buffs.根据伤害类型扣血
+   Buffs.根据周围单位减伤
+   Buffs.根据周围单位回技力
+   Buffs.检测单位少于数值变化
+   <>c
+   Buffs.检测单位数值变化
+   <>c
+   Buffs.检测召唤物数值变化
+   <>c
+   Buffs.概率无效化
+   Buffs.概率眩晕
+   Buffs.次数生效减伤
+   Buffs.次数限定指定伤害减伤
+   Buffs.正向减伤
+   Buffs.死亡召唤
+   Buffs.死亡召唤装置
+   Buffs.死亡概率回收
+   eae
+   <>c
+   Buffs.残血加属性
+   Buffs.治愈
+   Buffs.治疗伤害变化
+   Buffs.治疗增加
+   Buffs.流血狗中毒
+   Buffs.浮游单元
+   Buffs.浮空
+   Buffs.消去伤害
+   Buffs.混乱
+   Buffs.游击队伤害固定降低
+   Buffs.游击队伤害降低
+   Buffs.游击队吸血光环
+   Buffs.游击队数值变化
+   Buffs.游击队数值变化自身附加
+   Buffs.溃灭
+   Buffs.溢出吸收护盾
+   Buffs.溢出治疗吸收
+   Buffs.满技力改变技力
+   Buffs.激活全局技能条
+   Buffs.激活全局计时条
+   Buffs.激活干员能量条
+   Buffs.灼燃
+   Buffs.爆裂
+   Buffs.爆裂增伤
+   Buffs.特殊倍率变化叠加
+   Buffs.环境伤害减免
+   Buffs.环境损伤减免
+   Buffs.琴柳军旗
+   Buffs.生命值增加
+   Buffs.生命未满中毒
+   Buffs.生命比例重设
+   Buffs.目标阻挡数增伤
+   Buffs.眩晕
+   <>c
+   Buffs.睡眠
+   <>c
+   Buffs.破坏
+   Buffs.禁止回费
+   Buffs.秒杀
+   Buffs.秒杀2
+   Buffs.秘术师特性
+   Buffs.秘术师特性强化
+   <>c
+   Buffs.移动中毒
+   Buffs.移除不可行动
+   Buffs.移除他人Buff
+   Buffs.线性剧毒
+   Buffs.线性剧毒2
+   Buffs.结束后回技力
+   Buffs.结束打断动作
+   Buffs.结束时引爆
+   Buffs.结束时秒杀
+   Buffs.结束赋予者回技力
+   Buffs.绝食
+   Buffs.缴械
+   <>c
+   Buffs.职业额外数值变化
+   Buffs.背向减伤
+   Buffs.自动开启技能
+   Buffs.自身受伤反击追加Buff
+   Buffs.自身受伤追加Buff
+   Buffs.自身阻挡单位减伤
+   Buffs.范围Buff
+   Buffs.范围Buff替换
+   ear
+   Buffs.范围Buff转化
+   eaa
+   Buffs.范围毒伤
+   Buffs.范围毒伤叠加
+   Buffs.获得随机数
+   Buffs.落地前不可阻挡
+   Buffs.落地前部署费用降低
+   Buffs.落地加属性
+   Buffs.血量变化追加Buff
+   Buffs.血量记录
+   Buffs.被击者回复技力
+   eas
+   eah
+   Buffs.被击追加Buff
+   Buffs.被阻挡单位增伤
+   Buffs.裂伤
+   Buffs.覆盖动作
+   Buffs.覆盖动作2
+   Buffs.角色复活Buff
+   Buffs.设置属性
+   Buffs.费用上限变化
+   Buffs.超出射程解除
+   Buffs.辅助计时显示
+   Buffs.辅助鼓舞
+   Buffs.运输车Buff
+   Buffs.近地悬浮
+   Buffs.近地悬浮叠加
+   Buffs.近战攻击力反伤
+   Buffs.远牙射程延伸
+   Buffs.远程攻击力反伤
+   Buffs.连发射程补正
+   eai
+   Buffs.迷彩
+   Buffs.追加Buff
+   Buffs.追加类型伤害
+   Buffs.退场返费
+   Buffs.部署数改变
+   Buffs.部署时召唤
+   Buffs.重寻路
+   Buffs.重装鼓舞
+   Buffs.鉴定
+   <>c
+   Buffs.锁定最高赋伤单位
+   <>c
+   Buffs.锁血
+   Buffs.闪避
+   Buffs.间隔递增毒
+   Buffs.阻挡加属性
+   Buffs.阻挡增伤
+   Buffs.阻挡时追加Buff
+   Buffs.隐身
+   Buffs.静默
+   <>c
+   Buffs.非伤害剧毒
+   Buffs.非指定伤害减伤
+   Buffs.非指定伤害反弹
+   Buffs.非指定伤害追加Buff
+   Buffs.非控制型眩晕
+   Buffs.面向多人移动
+   Buffs.高台可部署
+   <PrivateImplementationDetails>
+   __StaticArrayInitTypeSize=28
+   Buffs.精确移除Buff
+   Buffs.吞噬者Buff1
+   Buffs.干员不可部署1
+   Buffs.麻痹
+MethodDef count 6684
+--- first 60 method names ---
+    ['Start', 'Update', '.ctor', 'Awake', 'Update', 'eo2', 'eo3', 'e2t', 'e2e', 'e2r', 'e2a', '.ctor', 'get_UnitData', 'get_Id', 'get_UnitId', 'set_UnitId', 'get_Upgrade', 'set_Upgrade', 'get_Level', 'set_Level', '.ctor', 'get_UnitId', 'get_Upgrade', 'get_Level', 'get_Instance', 'e2o', '.ctor', '.ctor', 'e2s', '.ctor', 'e2h', 'e2i', '.ctor', 'e2w', '.ctor', 'get_Id', 'set_Id', '.ctor', 'get_Id', 'set_Id', '.ctor', 'get_Id', 'set_Id', '.ctor', 'get_Id', 'set_Id', '.ctor', 'get_Id', 'set_Id', '.ctor', 'get_Id', 'set_Id', '.ctor', 'get_Id', 'set_Id', '.ctor', 'e22', 'e23', 'get_Id', 'get_Id']
+userstring count 957
+--- Chinese user strings (230) ---
+    读取存档失败，错误信息:
+{0}
+    玩家名字
+    箱子
+     新获得了buff 
+    {0}的{1}全部目标不合法,强制打断抬手动作{2}
+    领袖
+    精英
+    普通
+    装置类箱子
+     表: 
+    的  
+      id重复
+    父目录不能拷贝到子目录！
+    自动设置地图信息完成
+    清理
+    显示log日志:
+    显示error日志:
+    显示warning日志:
+    开始爬取
+    {0}完成!耗时{1}
+    全部爬取完成！
+    文件:立绘_
+    立绘_
+    出怪指示线
+    挑战xxxx
+    地图名
+    中立单位
+    空物体
+    启用拖点
+    禁用拖点
+    敌人
+    箱子类敌人
+    箱子类花匠
+    导表结束
+    入口
+    选择获得了
+    a遮罩
+    评价星星
+    入场
+    干员朝向
+    离场
+    空气墙
+    W裹骸死士打断动作
+    W裹骸死士不可阻挡
+    W裹骸死士免疫
+    W裹骸死士停止移动
+    乌尔比安3方向
+    乌尔比安3位移
+    乌尔比安3返回
+    伊内丝影哨
+    伊内丝影哨弹道
+    沙漠晶块
+    佩佩夏活蹬踏护盾
+    测试扩散buff
+    无该Buff优先
+    浮空
+    娜仁图亚3追加攻击标记
+    绑定技能
+    引星棘刺1弹道
+    引星棘刺2弹道
+    支援单位
+    无视增伤
+    此次推力大小为{0}
+    返还费用
+    重置再部署
+    有子弹时赋予
+    溟痕
+    可扩散装置
+    火山旅梦蒸汽
+    洋红蒸汽标记
+    洋红自爆标记
+    纯白水汽标记
+    羊之主撞击标记
+    怀黍离田地
+    召唤间隔
+    单轮召唤数量
+    红门
+    蓝门
+    流明3
+    仅出场激活
+    玛露希尔3攻击溅射
+    琳琅诗怀雅Y模组属性补正
+    触发技能学习
+    强制击杀
+    魂灵之影
+    荒芜拉普兰德3后续A
+    荒芜拉普兰德3后续B
+    荒芜拉普兰德3后续C
+    荒芜拉普兰德3后续D
+    莱伊天赋加攻
+    调谐节点
+    追迹日落以西补给装置
+    我方未装配刀片
+    敌方未装配刀片
+    我方防护背心
+    敌方防护背心
+    我方冲击式施术单元标记
+    敌方冲击式施术单元
+    未装配刀片
+    防护背心
+    冲击式施术单元
+    逻各斯3攻击
+    感染生物
+    维什戴尔残影标记
+    维什戴尔残影标记2
+    近战
+    白垩攻击击中
+    引星棘刺1回血
+    引星棘刺2弹道2
+    引星棘刺2回血
+    引星棘刺2中毒
+    引星棘刺天赋防御
+    停顿
+    洋红蒸汽
+    乌尔比安2
+    环境单位
+    束缚
+    W哨兵组长修补工头解除控制
+    W哨兵组长修补工头升空冷却
+    W哨兵组长修补工头升空
+    不可分摊
+    彩六医生天赋护盾
+    原版干员WX模组属性补正
+    原版干员WY模组属性补正
+    炮手Y模组减防
+    变形者集群
+    眩晕
+    冻结
+    睡眠
+    静默
+    破坏
+    合约V2溟痕标记
+    哈洛德2
+    萨卡兹肉鸽圣卫坚盾标记
+    多萝西Y模组属性补正
+    玛恩纳反击命中
+    左乐3
+     没有 属性 
+    异客Y模组天赋减抗
+    异客天赋减抗
+    异客X模组属性补正
+    异客Y模组属性补正
+    引星棘刺天赋
+    引星棘刺回血
+    引星棘刺天赋索敌
+    延长持续
+    怀黍离污水Buff
+    怀黍离净水Buff
+    怀黍离污水扩散
+    怀黍离污水
+    怀黍离净水
+    战栗
+    破片
+    铁砧
+    魔神战争幽灵单体溅射攻击提示
+    提丰索敌
+    铣痕佣兵
+    追迹日落以西背向
+    沙漠晶块传递
+    沙漠晶块纯净模式标记
+    源石风暴食物
+    涤火杰西卡X模组属性补正
+    涤火杰西卡Y模组属性补正
+    澄闪2
+    自爆启动
+    纯白水汽
+    爆裂
+    叙拉古狼之主一阶段沉默
+    卡西米尔
+    玛露希尔3吟唱结束
+    玛露希尔3延迟追加
+    玛露希尔3追加攻击
+    玛露希尔3攻击
+    莱欧斯小队
+    林雨霞Y模组属性补正
+    琳琅诗怀雅X模组属性补正
+    琳琅诗怀雅天赋加攻
+    琳琅诗怀雅Y模组天赋加攻
+    琴柳X模组属性补正
+    纯烬艾雅法拉3
+    萨卡兹肉鸽织咒者技能动作
+    绮良2
+    维什戴尔3余震
+    老鲤X模组属性补正
+    控制效果反制
+    荒芜拉普兰德X模组属性补正
+    荒芜拉普兰德
+    荒芜拉普兰德3浮游单元A
+    荒芜拉普兰德3浮游单元B
+    荒芜拉普兰德3浮游单元C
+    荒芜拉普兰德3浮游单元D
+    荒芜拉普兰德3弹道
+    荒芜拉普兰德1
+    荒芜拉普兰德3
+    荒芜拉普兰德2
+    恐惧
+    莫斯提马3
+    凋亡损伤
+    干员凋亡损伤
+    裁度2
+--- non-Chinese user strings sample (727 total) ---
+    /data.sav
+    Units.
+    Bullets.
+    Buffs.
+    B_
+    F_
+    Modifys.
+    HitCount
+    Skills.
+    Start
+    Die
+    HighLight
+    BattleManager
+    ui://k4mja8t1it6gr51
+    Assets/Scenes/MapBuilder.unity
+    MapBuilder
+    battle
+    ui://vp312gabf1460
+    ExitBattleScene
+    main
+    Default
+    Hip
+    OnAttack
+    Idle
+    Attack
+    _Color
+    Trail
+    F0
+    CardData
+    UnitData
+    SkillData
+    BuffData
+    BulletData
+    ModifyData
+    EffectData
+    RelicData
+    ContractData
+    EventData
+    RewardData
+    DungeonLevelData
+    SystemData
+    cant find {0} ,id {1}
+    cant find 
+     ,id 
+    /Map/
+    .map
+    /Data/
+    .txt
+    load from address
+    
+ 
+    .meta
+    Dungeon
+    Assets/2/
+    /2/
+    *.xlsx
+    ":
+    }
+
+    Enum[]
+    Enum
+    []
+    {0},
+    int[]
+    int32[]
+    long[]
+    object[]
+    string[]
+    int
+    int32
+    int64
+    long
+    float
+    double
+    string
+    bool
+    Data
+    UnityEngine.Vector2
+    UnityEngine.Vector2Int
+    UnityEngine.Vector3
+    UnityEngine.Vector3Int
+    UnityEngine.Vector2[]
+    UnityEngine.Vector2Int[]
+    UnityEngine.Rect
+    ",
+    {"x":
+    ,"y":
+    ,"z":
+    [{0}]
+    ,"width":
+    ,"height":
+    Assets/Bundles/Data/
+    Assets/Bundles/UI/
+    Assets/Bundles/Image/
+    Assets/Bundles/Other/
+    Assets/Bundles/Units/
+    Assets/Bundles/Bullet/
+    Assets/Bundles/Effect/
+    Assets/Bundles/Audio/
+    Assets/Bundles/DungeonTile/
+    Assets/Bundles/Data/Maps/
+    /data
+    .sav
+    TimeHelper
+    ui://k4mja8t1kbte0
+    Assets/Bundles/Other/Tiles/high
+    Assets/Bundles/Other/Tiles/ground
+    Assets/Bundles/Other/Tiles/unmoveHigh
+    Assets/Bundles/Other/Tiles/unmove
+    Assets/Bundles/Other/Line
+    Assets/Bundles/Other/Sphere
+    S_playground
+    /outLog.txt
+    >>Open
+    ] (Singleton)
+    /Android/
+    torappu.ab
+    AssetBundleManifest
+    E:/111/1/
+    maxHp
+    atk
+    def
+
+### Assembly-CSharp-firstpass.dll  size=916480 md_version=v4.0.30319 streams={'#~': 232704, '#Strings': 108500, '#US': 47000, '#GUID': 16, '#Blob': 46312}
+cli dir (8200, 72) rowcounts {'0x0': 1, '0x1': 321, '0x2': 581, '0x4': 3695, '0x6': 5413, '0x8': 5090, '0x9': 151, '0xa': 2261, '0xb': 828, '0xc': 942, '0xf': 23, '0x11': 828, '0x12': 20, '0x14': 59, '0x15': 208, '0x17': 1198, '0x18': 2029, '0x19': 74, '0x1b': 382, '0x1d': 448, '0x20': 1, '0x23': 16, '0x29': 140, '0x2a': 35, '0x2b': 145, '0x2c': 8}
+TypeDef count 581
+namespaces: [('FairyGUI', 201), ('', 145), ('Spine', 83), ('Spine.Unity', 68), ('FairyGUI.Utils', 21), ('Newtonsoft.Json.UnityConverters.Math', 10), ('System.Diagnostics.CodeAnalysis', 9), ('Newtonsoft.Json.UnityConverters.Geometry', 6), ('Spine.Unity.AttachmentTools', 4), ('Newtonsoft.Json.UnityConverters', 4), ('Newtonsoft.Json.UnityConverters.Configuration', 4), ('Spine.Collections', 3), ('NPinyin', 3), ('Newtonsoft.Json.UnityConverters.Physics', 3), ('Newtonsoft.Json.UnityConverters.Helpers', 3), ('SharpJson', 2), ('Newtonsoft.Json.UnityConverters.Scripting', 2), ('Newtonsoft.Json.UnityConverters.Physics2D', 2), ('Newtonsoft.Json.UnityConverters.AI.NavMesh', 2), ('Spine.Unity.AnimationTools', 1), ('Spine.Unity.Deprecated', 1), ('Newtonsoft.Json.UnityConverters.Random', 1), ('Newtonsoft.Json.UnityConverters.NativeArray', 1), ('Newtonsoft.Json.UnityConverters.Hashing', 1), ('Newtonsoft.Json.UnityConverters.Camera', 1)]
+--- ALL types (ns.name) ---
+   <Module>
+   CurvedLinePoint
+   CurvedLineRenderer
+   LineSmoother
+   SharpJson.eaw
+   Token
+   SharpJson.JsonDecoder
+   Spine.BoneMatrix
+   Spine.SpineSkeletonExtensions
+   Spine.Animation
+   Spine.Timeline
+   Spine.MixBlend
+   Spine.MixDirection
+   Spine.eao
+   Spine.IBoneTimeline
+   Spine.ISlotTimeline
+   Spine.CurveTimeline
+   Spine.RotateTimeline
+   Spine.TranslateTimeline
+   Spine.ScaleTimeline
+   Spine.ShearTimeline
+   Spine.ColorTimeline
+   Spine.TwoColorTimeline
+   Spine.AttachmentTimeline
+   Spine.DeformTimeline
+   Spine.EventTimeline
+   Spine.DrawOrderTimeline
+   Spine.IkConstraintTimeline
+   Spine.TransformConstraintTimeline
+   Spine.PathConstraintPositionTimeline
+   Spine.PathConstraintSpacingTimeline
+   Spine.PathConstraintMixTimeline
+   Spine.AnimationState
+   TrackEntryDelegate
+   TrackEntryEventDelegate
+   Spine.TrackEntry
+   Spine.ea3
+   EventQueueEntry
+   ea2
+   Spine.Pool`1
+   IPoolable
+   Spine.AnimationStateData
+   AnimationPair
+   AnimationPairComparer
+   Spine.Atlas
+   Spine.Format
+   Spine.TextureFilter
+   Spine.TextureWrap
+   Spine.AtlasPage
+   Spine.AtlasRegion
+   Spine.TextureLoader
+   Spine.AtlasAttachmentLoader
+   Spine.Attachment
+   Spine.IHasRendererObject
+   Spine.AttachmentLoader
+   Spine.AttachmentType
+   Spine.BoundingBoxAttachment
+   Spine.ClippingAttachment
+   Spine.MeshAttachment
+   Spine.PathAttachment
+   Spine.PointAttachment
+   Spine.RegionAttachment
+   Spine.VertexAttachment
+   Spine.BlendMode
+   Spine.Bone
+   Spine.BoneData
+   Spine.TransformMode
+   Spine.ConstraintData
+   Spine.Event
+   Spine.EventData
+   Spine.ExposedList`1
+   Enumerator
+   Spine.IkConstraint
+   Spine.IkConstraintData
+   Spine.IUpdatable
+   Spine.Json
+   Spine.MathUtils
+   Spine.IInterpolation
+   Spine.Pow
+   Spine.PowOut
+   Spine.PathConstraint
+   Spine.PathConstraintData
+   Spine.PositionMode
+   Spine.SpacingMode
+   Spine.RotateMode
+   Spine.Skeleton
+   Spine.SkeletonBinary
+   est
+   ese
+   Spine.SkeletonBounds
+   Spine.Polygon
+   Spine.SkeletonClipping
+   Spine.SkeletonData
+   Spine.SkeletonJson
+   esr
+   Spine.Skin
+   SkinEntry
+   esa
+   Spine.Slot
+   Spine.SlotData
+   Spine.TransformConstraint
+   Spine.TransformConstraintData
+   Spine.Triangulator
+   Spine.Collections.OrderedDictionary`2
+   KeyCollection
+   ValueCollection
+   <GetEnumerator>d__34
+   Spine.Collections.OrderedDictionaryDebugView`2
+   Spine.Collections.CollectionExtensions
+   Spine.Unity.AnimationReferenceAsset
+   Spine.Unity.AtlasAssetBase
+   Spine.Unity.BlendModeMaterials
+   ReplacementMaterial
+   Spine.Unity.EventDataReferenceAsset
+   Spine.Unity.RegionlessAttachmentLoader
+   Spine.Unity.SkeletonDataAsset
+   Spine.Unity.SkeletonDataCompatibility
+   SourceType
+   VersionInfo
+   CompatibilityProblemInfo
+   Spine.Unity.SkeletonDataModifierAsset
+   Spine.Unity.SpineAtlasAsset
+   Spine.Unity.MaterialsTextureLoader
+   Spine.Unity.SpineSpriteAtlasAsset
+   SavedRegionInfo
+   Spine.Unity.BoneFollower
+   AxisOrientation
+   Spine.Unity.BoneFollowerGraphic
+   Spine.Unity.BoundingBoxFollower
+   Spine.Unity.BoundingBoxFollowerGraphic
+   Spine.Unity.PointFollower
+   Spine.Unity.SkeletonMecanimRootMotion
+   Spine.Unity.SkeletonRootMotion
+   Spine.Unity.SkeletonRootMotionBase
+   RootMotionInfo
+   Spine.Unity.SkeletonAnimation
+   Spine.Unity.SkeletonGraphic
+   SkeletonRendererDelegate
+   Spine.Unity.SkeletonMecanim
+   MecanimTranslator
+   OnClipAppliedDelegate
+   MixMode
+   ess
+   esh
+   esi
+   Spine.Unity.SkeletonRenderer
+   SpriteMaskInteractionMaterials
+   InstructionDelegate
+   SkeletonRendererDelegate
+   esw
+   Spine.Unity.SkeletonGraphicCustomMaterials
+   AtlasMaterialOverride
+   AtlasTextureOverride
+   Spine.Unity.SkeletonRendererCustomMaterials
+   SlotMaterialOverride
+   AtlasMaterialOverride
+   Spine.Unity.SkeletonPartsRenderer
+   SkeletonPartsRendererDelegate
+   Spine.Unity.SkeletonRenderSeparator
+   Spine.Unity.ActivateBasedOnFlipDirection
+   Spine.Unity.FollowLocationRigidbody
+   Spine.Unity.FollowLocationRigidbody2D
+   Spine.Unity.FollowSkeletonUtilityRootRotation
+   Spine.Unity.SkeletonUtility
+   SkeletonUtilityDelegate
+   Spine.Unity.SkeletonUtilityBone
+   Mode
+   UpdatePhase
+   Spine.Unity.SkeletonUtilityConstraint
+   Spine.Unity.UpdateMode
+   Spine.Unity.UpdateBonesDelegate
+   Spine.Unity.ISkeletonAnimation
+   Spine.Unity.IHasSkeletonDataAsset
+   Spine.Unity.ISkeletonComponent
+   Spine.Unity.IAnimationStateComponent
+   Spine.Unity.IHasSkeletonRenderer
+   Spine.Unity.IHasSkeletonComponent
+   Spine.Unity.DoubleBuffered`1
+   Spine.Unity.MeshGeneratorDelegate
+   Spine.Unity.MeshGeneratorBuffers
+   Spine.Unity.MeshGenerator
+   Settings
+   Spine.Unity.MeshRendererBuffers
+   SmartMesh
+   Spine.Unity.SkeletonRendererInstruction
+   Spine.Unity.SpineMesh
+   Spine.Unity.SubmeshInstruction
+   Spine.Unity.BlendModeMaterialsAsset
+   eso
+   Spine.Unity.SpineAttributeBase
+   Spine.Unity.SpineBone
+   Spine.Unity.SpineSlot
+   Spine.Unity.SpineAnimation
+   Spine.Unity.SpineEvent
+   Spine.Unity.SpineIkConstraint
+   Spine.Unity.SpineTransformConstraint
+   Spine.Unity.SpinePathConstraint
+   Spine.Unity.SpineSkin
+   Spine.Unity.SpineAttachment
+   Hierarchy
+   Spine.Unity.SpineAtlasRegion
+   Spine.Unity.SkeletonExtensions
+   Spine.Unity.WaitForSpineAnimation
+   AnimationEventTypes
+   Spine.Unity.WaitForSpineAnimationComplete
+   Spine.Unity.WaitForSpineAnimationEnd
+   Spine.Unity.WaitForSpineEvent
+   Spine.Unity.WaitForSpineTrackEntryEnd
+   Spine.Unity.AnimationTools.TimelineExtensions
+   Spine.Unity.AttachmentTools.AtlasUtilities
+   IntAndAtlasRegionKey
+   Spine.Unity.AttachmentTools.AttachmentCloneExtensions
+   Spine.Unity.AttachmentTools.AttachmentRegionExtensions
+   Spine.Unity.AttachmentTools.SkinUtilities
+   Spine.Unity.Deprecated.SlotBlendModes
+   MaterialTexturePair
+   es2
+   SlotMaterialTextureTuple
+   NPinyin.Pinyin
+   NPinyin.es3
+   NPinyin.eht
+   System.Diagnostics.CodeAnalysis.AllowNullAttribute
+   System.Diagnostics.CodeAnalysis.DisallowNullAttribute
+   System.Diagnostics.CodeAnalysis.MaybeNullAttribute
+   System.Diagnostics.CodeAnalysis.NotNullAttribute
+   System.Diagnostics.CodeAnalysis.MaybeNullWhenAttribute
+   System.Diagnostics.CodeAnalysis.NotNullWhenAttribute
+   System.Diagnostics.CodeAnalysis.NotNullIfNotNullAttribute
+   System.Diagnostics.CodeAnalysis.DoesNotReturnAttribute
+   System.Diagnostics.CodeAnalysis.DoesNotReturnIfAttribute
+   Newtonsoft.Json.UnityConverters.PartialConverter`1
+   Newtonsoft.Json.UnityConverters.UnityConverterInitializer
+   <>c
+   Newtonsoft.Json.UnityConverters.UnityTypeContractResolver
+   <>c__DisplayClass3_0
+   <>c__DisplayClass4_0
+   Newtonsoft.Json.UnityConverters.ValuesArray`1
+   Newtonsoft.Json.UnityConverters.Scripting.LayerMaskConverter
+   Newtonsoft.Json.UnityConverters.Scripting.RangeIntConverter
+   Newtonsoft.Json.UnityConverters.Random.RandomStateConverter
+   Newtonsoft.Json.UnityConverters.Physics2D.ColliderDistance2DConverter
+   Newtonsoft.Json.UnityConverters.Physics2D.ContactFilter2DConverter
+   Newtonsoft.Json.UnityConverters.Physics.JointDriveConverter
+   Newtonsoft.Json.UnityConverters.Physics.JointLimitsConverter
+   Newtonsoft.Json.UnityConverters.Physics.SoftJointLimitConverter
+   Newtonsoft.Json.UnityConverters.NativeArray.NativeArrayConverter
+   Newtonsoft.Json.UnityConverters.Math.Color32Converter
+   Newtonsoft.Json.UnityConverters.Math.ColorConverter
+   Newtonsoft.Json.UnityConverters.Math.Matrix4x4Converter
+   <>c__DisplayClass2_0
+   <>c__DisplayClass2_1
+   Newtonsoft.Json.UnityConverters.Math.QuaternionConverter
+   Newtonsoft.Json.UnityConverters.Math.SphericalHarmonicsL2Converter
+   Newtonsoft.Json.UnityConverters.Math.Vector2Converter
+   Newtonsoft.Json.UnityConverters.Math.Vector2IntConverter
+   Newtonsoft.Json.UnityConverters.Math.Vector3Converter
+   Newtonsoft.Json.UnityConverters.Math.Vector3IntConverter
+   Newtonsoft.Json.UnityConverters.Math.Vector4Converter
+   Newtonsoft.Json.UnityConverters.Helpers.EnumerableExtensions
+   <WhereNotNullRef>d__0`1
+   <WhereNotNullValue>d__1`1
+   Newtonsoft.Json.UnityConverters.Helpers.JsonHelperExtensions
+   Newtonsoft.Json.UnityConverters.Helpers.TypeExtensions
+   <>c
+   Newtonsoft.Json.UnityConverters.Hashing.Hash128Converter
+   Newtonsoft.Json.UnityConverters.Geometry.BoundsConverter
+   Newtonsoft.Json.UnityConverters.Geometry.BoundsIntConverter
+   Newtonsoft.Json.UnityConverters.Geometry.PlaneConverter
+   Newtonsoft.Json.UnityConverters.Geometry.RectConverter
+   Newtonsoft.Json.UnityConverters.Geometry.RectIntConverter
+   Newtonsoft.Json.UnityConverters.Geometry.RectOffsetConverter
+   Newtonsoft.Json.UnityConverters.Camera.CullingGroupEventConverter
+   Newtonsoft.Json.UnityConverters.AI.NavMesh.NavMeshQueryFilterConverter
+   Newtonsoft.Json.UnityConverters.AI.NavMesh.NavMeshTriangulationConverter
+   Newtonsoft.Json.UnityConverters.Configuration.ConfigType
+   Newtonsoft.Json.UnityConverters.Configuration.ConverterConfig
+   Newtonsoft.Json.UnityConverters.Configuration.KeyedConfig
+   Newtonsoft.Json.UnityConverters.Configuration.UnityConvertersConfig
+   FairyGUI.BlendMode
+   FairyGUI.BlendModeUtils
+   BlendFactor
+   FairyGUI.CaptureCamera
+   FairyGUI.Container
+   DescendantsEnumerator
+   FairyGUI.DisplayObject
+   ehe
+   ehr
+   FairyGUI.DisplayObjectInfo
+   FairyGUI.GoWrapper
+   RendererInfo
+   <>c
+   FairyGUI.ColliderHitTest
+   FairyGUI.HitTestContext
+   FairyGUI.HitTestMode
+   FairyGUI.IHitTest
+   FairyGUI.MeshColliderHitTest
+   FairyGUI.PixelHitTestData
+   FairyGUI.PixelHitTest
+   FairyGUI.RectHitTest
+   FairyGUI.ShapeHitTest
+   FairyGUI.Image
+   FairyGUI.MaterialFlags
+   FairyGUI.MaterialManager
+   eha
+   FairyGUI.CompositeMesh
+   FairyGUI.EllipseMesh
+   FairyGUI.FillMesh
+   FairyGUI.LineMesh
+   FairyGUI.IMeshFactory
+   FairyGUI.PlaneMesh
+   FairyGUI.PolygonMesh
+   FairyGUI.RectMesh
+   FairyGUI.RegularPolygonMesh
+   FairyGUI.RoundedRectMesh
+   FairyGUI.StraightLineMesh
+   FairyGUI.VertexBuffer
+   FairyGUI.MovieClip
+   Frame
+   FairyGUI.NAudioClip
+   FairyGUI.NGraphics
+   VertexMatrix
+   ehs
+   FairyGUI.DestroyMethod
+   FairyGUI.NTexture
+   FairyGUI.ShaderConfig
+   GetFunction
+   FairyGUI.Shape
+   FairyGUI.Stage
+   ehh
+   <>c
+   FairyGUI.ehi
+   FairyGUI.StageCamera
+   FairyGUI.StageEngine
+   FairyGUI.Stats
+   FairyGUI.BaseFont
+   FairyGUI.BitmapFont
+   BMGlyph
+   FairyGUI.DynamicFont
+   FairyGUI.Emoji
+   FairyGUI.FontManager
+   FairyGUI.IKeyboard
+   FairyGUI.InputTextField
+   FairyGUI.ehw
+   FairyGUI.RichTextField
+   FairyGUI.RTLSupport
+   eho
+   DirectionType
+   FairyGUI.SelectionShape
+   FairyGUI.TextField
+   LineInfo
+   LineCharInfo
+   CharPosition
+   FairyGUI.TextFormat
+   SpecialStyle
+   FairyGUI.TouchScreenKeyboard
+   FairyGUI.TypingEffect
+   eh2
+   FairyGUI.UpdateContext
+   ClipInfo
+   FairyGUI.eh3
+   FairyGUI.EventContext
+   FairyGUI.EventCallback0
+   FairyGUI.EventCallback1
+   FairyGUI.EventDispatcher
+   FairyGUI.EventListener
+   FairyGUI.IEventDispatcher
+   FairyGUI.InputEvent
+   FairyGUI.BlurFilter
+   FairyGUI.ColorFilter
+   FairyGUI.IFilter
+   FairyGUI.LongPressGesture
+   FairyGUI.PinchGesture
+   FairyGUI.RotationGesture
+   FairyGUI.SwipeGesture
+   FairyGUI.eie
+   eit
+   FairyGUI.EaseType
+   FairyGUI.GPathPoint
+   CurveType
+   FairyGUI.GPath
+   Segment
+   FairyGUI.GTween
+   FairyGUI.GTweenCallback
+   FairyGUI.GTweenCallback1
+   FairyGUI.ITweenListener
+   FairyGUI.GTweener
+   FairyGUI.eir
+   TweenEngine
+   FairyGUI.TweenPropType
+   FairyGUI.eia
+   FairyGUI.TweenValue
+   FairyGUI.ChangePageAction
+   FairyGUI.ControllerAction
+   ActionType
+   FairyGUI.PlayTransitionAction
+   FairyGUI.AsyncCreationHelper
+   eis
+   eih
+   FairyGUI.Controller
+   FairyGUI.DragDropManager
+   FairyGUI.EMRenderTarget
+   FairyGUI.EMRenderSupport
+   FairyGUI.PackageItemType
+   FairyGUI.ObjectType
+   FairyGUI.AlignType
+   FairyGUI.VertAlignType
+   FairyGUI.OverflowType
+   FairyGUI.FillType
+   FairyGUI.AutoSizeType
+   FairyGUI.ScrollType
+   FairyGUI.ScrollBarDisplayType
+   FairyGUI.RelationType
+   FairyGUI.ListLayoutType
+   FairyGUI.ListSelectionMode
+   FairyGUI.ProgressTitleType
+   FairyGUI.ButtonMode
+   FairyGUI.TransitionActionType
+   FairyGUI.GroupLayoutType
+   FairyGUI.ChildrenRenderOrder
+   FairyGUI.PopupDirection
+   FairyGUI.FlipType
+   FairyGUI.FillMethod
+   FairyGUI.OriginHorizontal
+   FairyGUI.OriginVertical
+   FairyGUI.Origin90
+   FairyGUI.Origin180
+   FairyGUI.Origin360
+   FairyGUI.FocusRule
+   FairyGUI.GButton
+   eii
+   FairyGUI.GComboBox
+   FairyGUI.GComponent
+   FairyGUI.eiw
+   FairyGUI.GearAnimation
+   FairyGUI.GearBase
+   FairyGUI.GearTweenConfig
+   FairyGUI.eio
+   FairyGUI.GearColor
+   FairyGUI.GearDisplay
+   FairyGUI.GearDisplay2
+   FairyGUI.GearFontSize
+   FairyGUI.GearIcon
+   FairyGUI.ei2
+   FairyGUI.GearLook
+   FairyGUI.ei3
+   FairyGUI.GearSize
+   FairyGUI.GearText
+   FairyGUI.ewt
+   FairyGUI.GearXY
+   FairyGUI.IAnimationGear
+   FairyGUI.IColorGear
+   FairyGUI.ITextColorGear
+   FairyGUI.GGraph
+   FairyGUI.GGroup
+   FairyGUI.GImage
+   FairyGUI.GLabel
+   FairyGUI.ListItemRenderer
+   FairyGUI.ListItemProvider
+   FairyGUI.GList
+   ewe
+   FairyGUI.GLoader
+   FairyGUI.GLoader3D
+   FairyGUI.GMovieClip
+   FairyGUI.GObject
+   FairyGUI.GObjectPool
+   InitCallbackDelegate
+   FairyGUI.GProgressBar
+   FairyGUI.GRichTextField
+   FairyGUI.GRoot
+   FairyGUI.GScrollBar
+   FairyGUI.GSlider
+   FairyGUI.GTextField
+   FairyGUI.GTextInput
+   FairyGUI.GTree
+   TreeNodeRenderDelegate
+   TreeNodeWillExpandDelegate
+   FairyGUI.GTreeNode
+   FairyGUI.UILoadCallback
+   FairyGUI.IUISource
+   FairyGUI.Margin
+   FairyGUI.PackageItem
+   FairyGUI.PopupMenu
+   FairyGUI.ewr
+   FairyGUI.ewa
+   FairyGUI.Relations
+   FairyGUI.ScrollPane
+   FairyGUI.PlayCompleteCallback
+   FairyGUI.TransitionHook
+   FairyGUI.Transition
+   ews
+   FairyGUI.ewh
+   FairyGUI.ewi
+   FairyGUI.eww
+   FairyGUI.ewo
+   FairyGUI.ew2
+   FairyGUI.ew3
+   FairyGUI.eot
+   FairyGUI.eoe
+   FairyGUI.eor
+   FairyGUI.TranslationHelper
+   FairyGUI.TreeNode
+   FairyGUI.TreeView
+   TreeNodeCreateCellDelegate
+   TreeNodeRenderDelegate
+   TreeNodeWillExpandDelegate
+   FairyGUI.UIConfig
+   ConfigKey
+   ConfigValue
+   SoundLoader
+   FairyGUI.UIContentScaler
+   ScaleMode
+   ScreenMatchMode
+   FairyGUI.UIObjectFactory
+   GComponentCreator
+   GLoaderCreator
+   eoa
+   eos
+   FairyGUI.UIPackage
+   LoadResource
+   LoadResourceAsync
+   CreateObjectCallback
+   eoh
+   <>c
+   FairyGUI.UIPainter
+   FairyGUI.FitScreen
+   FairyGUI.UIPanel
+   FairyGUI.Window
+   FairyGUI.TimerCallback
+   FairyGUI.Timers
+   FairyGUI.eoi
+   FairyGUI.TimersEngine
+   FairyGUI.Utils.ByteBuffer
+   FairyGUI.Utils.HtmlButton
+   FairyGUI.Utils.HtmlElementType
+   FairyGUI.Utils.HtmlElement
+   FairyGUI.Utils.HtmlImage
+   FairyGUI.Utils.HtmlInput
+   FairyGUI.Utils.HtmlLink
+   FairyGUI.Utils.HtmlPageContext
+   FairyGUI.Utils.HtmlParseOptions
+   FairyGUI.Utils.HtmlParser
+   eow
+   FairyGUI.Utils.HtmlSelect
+   FairyGUI.Utils.IHtmlObject
+   FairyGUI.Utils.IHtmlPageContext
+   FairyGUI.Utils.ToolSet
+   FairyGUI.Utils.UBBParser
+   TagHandler
+   FairyGUI.Utils.XML
+   FairyGUI.Utils.XMLTagType
+   FairyGUI.Utils.XMLIterator
+   FairyGUI.Utils.XMLList
+   Enumerator
+   eoo
+   FairyGUI.Utils.XMLUtils
+   FairyGUI.Utils.ZipReader
+   ZipEntry
+   <PrivateImplementationDetails>
+   __StaticArrayInitTypeSize=14
+   __StaticArrayInitTypeSize=16
+   __StaticArrayInitTypeSize=18
+   __StaticArrayInitTypeSize=20
+   __StaticArrayInitTypeSize=22
+   __StaticArrayInitTypeSize=24
+   __StaticArrayInitTypeSize=26
+   __StaticArrayInitTypeSize=28
+   __StaticArrayInitTypeSize=30
+   __StaticArrayInitTypeSize=32
+   __StaticArrayInitTypeSize=34
+   __StaticArrayInitTypeSize=36
+   __StaticArrayInitTypeSize=38
+   __StaticArrayInitTypeSize=40
+   __StaticArrayInitTypeSize=42
+   __StaticArrayInitTypeSize=44
+   __StaticArrayInitTypeSize=46
+   __StaticArrayInitTypeSize=48
+   __StaticArrayInitTypeSize=52
+   __StaticArrayInitTypeSize=64
+   __StaticArrayInitTypeSize=80
+   __StaticArrayInitTypeSize=96
+   __StaticArrayInitTypeSize=216
+MethodDef count 5413
+--- first 60 method names ---
+    ['OnDrawGizmos', 'OnDrawGizmosSelected', '.ctor', 'Update', 'eiwi', 'eiww', 'OnDrawGizmosSelected', 'OnDrawGizmos', '.ctor', 'eiwo', '.ctor', 'get_hasError', 'get_lineNumber', 'set_lineNumber', 'get_parseNumbersAsFloat', 'set_parseNumbersAsFloat', '.ctor', 'eiw2', 'eiw3', 'eiot', 'eioe', 'eior', 'eioa', 'eios', 'eioh', 'eioi', 'eiow', 'get_errorMessage', 'set_errorMessage', 'get_parseNumbersAsFloat', 'set_parseNumbersAsFloat', '.ctor', 'eioo', 'eio2', 'eio3', 'ei2t', 'ei2e', 'ei2r', 'ei2a', 'ei2s', 'ei2h', '.ctor', '.ctor', 'ei2i', 'ei2w', 'ei2o', 'ei22', 'ei23', 'ei3t', 'ei3e', 'ei3r', 'ei3a', 'ei3s', 'ei3h', 'ei3i', 'ei3w', '.ctor', 'get_Timelines', 'set_Timelines', 'get_Duration']
+userstring count 1074
+--- Chinese user strings (399) ---
+    a     :阿啊吖嗄腌锕
+    ai    :爱埃碍矮挨唉哎哀皑癌蔼艾隘捱嗳嗌嫒瑷暧砹锿霭
+    an    :安按暗岸案俺氨胺鞍谙埯揞犴庵桉铵鹌黯
+    ang   :昂肮盎
+    ao    :凹奥敖熬翱袄傲懊澳坳拗嗷岙廒遨媪骜獒聱螯鏊鳌鏖
+    ba    :把八吧巴拔霸罢爸坝芭捌扒叭笆疤跋靶耙茇菝岜灞钯粑鲅魃
+    bai   :百白败摆柏佰拜稗捭掰
+    ban   :办半板班般版拌搬斑扳伴颁扮瓣绊阪坂钣瘢癍舨
+    bang  :帮棒邦榜梆膀绑磅蚌镑傍谤蒡浜
+    bao   :报保包剥薄胞暴宝饱抱爆堡苞褒雹豹鲍葆孢煲鸨褓趵龅
+    bei   :北被倍备背辈贝杯卑悲碑钡狈惫焙孛陂邶埤萆蓓呗悖碚鹎褙鐾鞴
+    ben   :本奔苯笨畚坌贲锛
+    beng  :泵崩绷甭蹦迸嘣甏
+    bi    :比必避闭辟笔壁臂毕彼逼币鼻蔽鄙碧蓖毙毖庇痹敝弊陛匕俾荜荸薜吡哔狴庳愎滗濞弼妣婢嬖璧畀铋秕裨筚箅篦舭襞跸髀
+    bian  :变边便编遍辩扁辨鞭贬卞辫匾弁苄忭汴缏飚煸砭碥窆褊蝙笾鳊
+    biao  :表标彪膘婊骠杓飑飙镖镳瘭裱鳔髟
+    bie   :别鳖憋瘪蹩
+    bin   :宾彬斌濒滨摈傧豳缤玢槟殡膑镔髌鬓
+    bing  :并病兵柄冰丙饼秉炳禀邴摒
+    bo    :波播伯拨博勃驳玻泊菠钵搏铂箔帛舶脖膊渤亳啵饽檗擘礴钹鹁簸跛踣
+    bu    :不部步布补捕卜哺埠簿怖卟逋瓿晡钚钸醭
+    ca    :擦嚓礤
+    cai   :采才材菜财裁彩猜睬踩蔡
+    can   :参残蚕灿餐惭惨孱骖璨粲黪
+    cang  :藏仓苍舱沧
+    cao   :草槽操糙曹嘈漕螬艚
+    ce    :测策侧册厕恻
+    cen   :岑涔
+    ceng  :层蹭
+    cha   :查差插察茶叉茬碴搽岔诧猹馇汊姹杈楂槎檫锸镲衩
+    chai  :柴拆豺侪钗瘥虿
+    chan  :产铲阐搀掺蝉馋谗缠颤冁谄蒇廛忏潺澶羼婵骣觇禅镡蟾躔
+    chang :长常场厂唱肠昌倡偿畅猖尝敞伥鬯苌菖徜怅惝阊娼嫦昶氅鲳
+    chao  :朝超潮巢抄钞嘲吵炒怊晁耖
+    che   :车彻撤扯掣澈坼砗
+    chen  :陈沉称衬尘臣晨郴辰忱趁伧谌谶抻嗔宸琛榇碜龀
+    cheng :成程称城承乘呈撑诚橙惩澄逞骋秤丞埕噌枨柽塍瞠铖铛裎蛏酲
+    chi   :持尺齿吃赤池迟翅斥耻痴匙弛驰侈炽傺坻墀茌叱哧啻嗤彳饬媸敕眵鸱瘛褫蚩螭笞篪豉踟魑
+    chong :虫充冲崇宠茺忡憧铳舂艟
+    chou  :抽仇臭酬畴踌稠愁筹绸瞅丑俦帱惆瘳雠
+    chu   :出处除初础触楚锄储橱厨躇雏滁矗搐亍刍怵憷绌杵楮樗褚蜍蹰黜
+    chuai :揣搋啜膪踹
+    chuan :传船穿串川椽喘舛遄巛氚钏舡
+    chuang:床创窗闯疮幢怆
+    chui  :吹垂锤炊捶陲棰槌
+    chun  :春纯醇椿唇淳蠢莼鹑蝽
+    chuo  :戳绰辍踔龊
+    ci    :此次刺磁雌词茨疵辞慈瓷赐茈呲祠鹚糍
+    cong  :从丛聪葱囱匆苁淙骢琮璁
+    cou   :凑楱辏腠
+    cu    :粗促醋簇蔟徂猝殂酢蹙蹴
+    cuan  :篡蹿窜汆撺爨镩
+    cui   :催脆淬粹摧崔瘁翠萃啐悴璀榱毳隹
+    cun   :存村寸忖皴
+    cuo   :错措撮磋搓挫厝嵯脞锉矬痤鹾蹉
+    da    :大打达答搭瘩耷哒嗒怛妲疸褡笪靼鞑
+    dai   :代带待袋戴呆歹傣殆贷逮怠埭甙呔岱迨骀绐玳黛
+    dan   :单但弹担蛋淡胆氮丹旦耽郸掸惮诞儋萏啖殚赕眈疸瘅聃箪
+    dang  :党当档挡荡谠凼菪宕砀裆
+    dao   :到道导刀倒稻岛捣盗蹈祷悼叨忉氘纛
+    de    :的得德锝
+    deng  :等灯登邓蹬瞪凳噔嶝戥磴镫簦
+    di    :地第低敌底帝抵滴弟递堤迪笛狄涤翟嫡蒂缔氐籴诋谛邸荻嘀娣绨柢棣觌砥碲睇镝羝骶
+    dia   :嗲
+    dian  :电点垫典店颠淀掂滇碘靛佃甸惦奠殿阽坫巅玷钿癜癫簟踮
+    diao  :调掉吊碉叼雕凋刁钓铞铫貂鲷
+    die   :迭跌爹碟蝶谍叠垤堞揲喋牒瓞耋蹀鲽
+    ding  :定顶钉丁订盯叮鼎锭仃啶玎腚碇町疔耵酊
+    diu   :丢铥
+    dong  :动东冬懂洞冻董栋侗恫垌咚岽峒氡胨胴硐鸫
+    dou   :斗豆兜抖陡逗痘蔸窦蚪篼
+    du    :度都毒独读渡杜堵镀顿督犊睹赌肚妒芏嘟渎椟牍蠹笃髑黩
+    duan  :断端段短锻缎椴煅簖
+    dui   :对队堆兑怼憝碓
+    dun   :盾吨顿蹲敦墩囤钝遁沌炖砘礅盹镦趸
+    duo   :多夺朵掇哆垛躲跺舵剁惰堕咄哚沲缍柁铎裰踱
+    e     :而二尔儿恶额恩俄耳饵蛾饿峨鹅讹娥厄扼遏鄂噩谔垩苊莪萼呃愕屙婀轭腭锇锷鹗颚鳄
+    ei    :诶
+    en    :恩蒽摁
+    er    :而二尔儿耳饵洱贰佴迩珥铒鸸鲕
+    fa    :发法阀乏伐罚筏珐垡砝
+    fan   :反翻范犯饭繁泛番凡烦返藩帆樊矾钒贩蕃蘩幡梵燔畈蹯
+    fang  :方放防访房纺仿妨芳肪坊邡枋钫舫鲂
+    fei   :非肥飞费废肺沸菲匪啡诽吠芾狒悱淝妃绯榧腓斐扉镄痱蜚篚翡霏鲱
+    fen   :分粉奋份粪纷芬愤酚吩氛坟焚汾忿偾瀵棼鲼鼢
+    feng  :风封蜂丰缝峰锋疯奉枫烽逢冯讽凤俸酆葑唪沣砜
+    fou   :否缶
+    fu    :复服副府夫负富附福伏符幅腐浮辅付腹妇孵覆扶辐傅佛缚父弗甫肤氟敷拂俘涪袱抚俯釜斧脯腑赴赋阜讣咐匐凫郛芙苻茯莩菔拊呋幞怫滏艴孚驸绂绋桴赙祓砩黻黼罘稃馥蚨蜉蝠蝮麸趺跗鲋鳆
+    ga    :噶嘎尬尕尜旮钆
+    gai   :改该盖概钙溉丐陔垓戤赅
+    gan   :干杆感敢赶甘肝秆柑竿赣坩苷尴擀泔淦澉绀橄旰矸疳酐
+    gang  :刚钢缸纲岗港杠冈肛戆罡筻
+    gao   :高搞告稿膏篙皋羔糕镐睾诰郜藁缟槔槁杲锆
+    ge    :个各革格割歌隔哥铬阁戈葛搁鸽胳疙蛤鬲仡哿圪塥嗝搿膈硌镉袼虼舸骼
+    gen   :根跟亘茛哏艮
+    geng  :更耕颈庚羹埂耿梗哽赓绠鲠
+    gong  :工公共供功攻巩贡汞宫恭龚躬弓拱珙肱蚣觥
+    gou   :够构沟狗钩勾购苟垢佝诟岣遘媾缑枸觏彀笱篝鞲
+    gu    :鼓固古骨故顾股谷估雇孤姑辜菇咕箍沽蛊嘏诂菰崮汩梏轱牯牿臌毂瞽罟钴锢鸪痼蛄酤觚鲴鹘
+    gua   :挂刮瓜剐寡褂卦诖呱栝胍鸹
+    guai  :怪乖拐
+    guan  :关管观官灌贯惯冠馆罐棺倌莞掼涫盥鹳矜鳏
+    guang :光广逛咣犷桄胱
+    gui   :规贵归硅鬼轨龟桂瑰圭闺诡癸柜跪刽匦刿庋宄妫桧炅晷皈簋鲑鳜
+    gun   :滚辊棍衮绲磙鲧
+    guo   :国过果锅郭裹馘埚掴呙帼崞猓椁虢聒蜾蝈
+    ha    :哈铪
+    hai   :还海害孩骸氦亥骇嗨胲醢
+    han   :含焊旱喊汉寒汗函韩酣憨邯涵罕翰撼捍憾悍邗菡撖阚瀚晗焓顸颔蚶鼾
+    hang  :航夯杭沆绗珩颃
+    hao   :好号毫耗豪郝浩壕嚎蒿薅嗥嚆濠灏昊皓颢蚝
+    he    :和合河何核赫荷褐喝贺呵禾盒菏貉阂涸鹤诃劾壑嗬阖纥曷盍颌蚵翮
+    hei   :黑嘿
+    hen   :很狠痕恨
+    heng  :横衡恒哼亨蘅桁
+    hong  :红洪轰烘哄虹鸿宏弘黉訇讧荭蕻薨闳泓
+    hou   :后候厚侯喉猴吼堠後逅瘊篌糇鲎骺
+    hu    :护互湖呼户弧乎胡糊虎忽瑚壶葫蝴狐唬沪冱唿囫岵猢怙惚浒滹琥槲轷觳烀煳戽扈祜瓠鹄鹕鹱笏醐斛
+    hua   :化花话划滑华画哗猾骅桦砉铧
+    huai  :坏怀淮槐徊踝
+    huan  :环换欢缓患幻焕桓唤痪豢涣宦郇奂萑擐圜獾洹浣漶寰逭缳锾鲩鬟
+    huang :黄簧荒皇慌蝗磺凰惶煌晃幌恍谎隍徨湟潢遑璜肓癀蟥篁鳇
+    hui   :会回灰挥辉汇毁慧恢绘惠徽蛔悔卉晦贿秽烩讳诲诙茴荟蕙咴哕喙隳洄浍彗缋珲晖恚虺蟪麾
+    hun   :混浑荤昏婚魂诨馄阍溷
+    huo   :活或火货获伙霍豁惑祸劐藿攉嚯夥钬锪镬耠蠖
+    ji    :级及机极几积给基记己计集即际季激济技击继急剂既纪寄挤鸡迹绩吉脊辑籍疾肌棘畸圾稽箕饥讥姬缉汲嫉蓟冀伎祭悸寂忌妓藉丌亟乩剞佶偈诘墼芨芰荠蒺蕺掎叽咭哜唧岌嵴洎屐骥畿玑楫殛戟戢赍觊犄齑矶羁嵇稷瘠虮笈笄暨跻跽霁鲚鲫髻麂
+    jia   :加家架价甲夹假钾贾稼驾嘉枷佳荚颊嫁伽郏葭岬浃迦珈戛胛恝铗镓痂瘕袷蛱笳袈跏
+    jian  :间件见建坚减检践尖简碱剪艰渐肩键健柬鉴剑歼监兼奸箭茧舰俭笺煎缄硷拣捡荐槛贱饯溅涧僭谏谫菅蒹搛湔蹇謇缣枧楗戋戬牮犍毽腱睑锏鹣裥笕翦趼踺鲣鞯
+    jiang :将降讲江浆蒋奖疆僵姜桨匠酱茳洚绛缰犟礓耩糨豇
+    jiao  :较教交角叫脚胶浇焦搅酵郊铰窖椒礁骄娇嚼矫侥狡饺缴绞剿轿佼僬艽茭挢噍峤徼姣敫皎鹪蛟醮跤鲛
+    jie   :结阶解接节界截介借届街揭洁杰竭皆秸劫桔捷睫姐戒藉芥疥诫讦拮喈嗟婕孑桀碣疖颉蚧羯鲒骱
+    jin   :进金近紧斤今尽仅劲浸禁津筋锦晋巾襟谨靳烬卺荩堇噤馑廑妗缙瑾槿赆觐衿
+    jing  :经精京径井静竟晶净境镜景警茎敬惊睛竞荆兢鲸粳痉靖刭儆阱菁獍憬泾迳弪婧肼胫腈旌
+    jiong :炯窘迥扃
+    jiu   :就九旧究久救酒纠揪玖韭灸厩臼舅咎疚僦啾阄柩桕鸠鹫赳鬏
+    ju    :具据局举句聚距巨居锯剧矩拒鞠拘狙疽驹菊咀沮踞俱惧炬倨讵苣苴莒掬遽屦琚椐榘榉橘犋飓钜锔窭裾趄醵踽龃雎鞫
+    juan  :卷捐鹃娟倦眷绢鄄狷涓桊蠲锩镌隽
+    jue   :决觉绝掘撅攫抉倔爵诀厥劂谲矍蕨噘噱崛獗孓珏桷橛爝镢蹶觖
+    jun   :军均菌君钧峻俊竣浚郡骏捃皲筠麇
+    ka    :卡喀咖咯佧咔胩
+    kai   :开凯揩楷慨剀垲蒈忾恺铠锎锴
+    kan   :看刊坎堪勘砍侃莰戡龛瞰
+    kang  :抗康炕慷糠扛亢伉闶钪
+    kao   :考靠拷烤尻栲犒铐
+    ke    :可克科刻客壳颗棵柯坷苛磕咳渴课嗑岢恪溘骒缂珂轲氪瞌钶锞稞疴窠颏蝌髁
+    ken   :肯啃垦恳裉
+    keng  :坑吭铿
+    kong  :孔空控恐倥崆箜
+    kou   :口扣抠寇芤蔻叩眍筘
+    ku    :苦库枯酷哭窟裤刳堀喾绔骷
+    kua   :跨夸垮挎胯侉
+    kuai  :快块筷侩蒯郐哙狯脍
+    kuan  :宽款髋
+    kuang :况矿狂框匡筐眶旷诓诳邝圹夼哐纩贶
+    kui   :奎溃馈亏盔岿窥葵魁傀愧馗匮夔隗蒉揆喹喟悝愦逵暌睽聩蝰篑跬
+    kun   :困昆坤捆悃阃琨锟醌鲲髡
+    kuo   :扩括阔廓蛞
+    la    :拉啦蜡腊蓝垃喇辣剌邋旯砬瘌
+    lai   :来赖莱崃徕涞濑赉睐铼癞籁
+    lan   :兰烂蓝览栏婪拦篮阑澜谰揽懒缆滥岚漤榄斓罱镧褴
+    lang  :浪朗郎狼琅榔廊莨蒗啷阆锒稂螂
+    lao   :老劳牢涝捞佬姥酪烙唠崂栳铑铹痨耢醪
+    le    :了乐勒肋仂叻泐鳓
+    lei   :类雷累垒泪镭蕾磊儡擂肋羸诔嘞嫘缧檑耒酹
+    leng  :冷棱楞塄愣
+    li    :理里利力立离例历粒厘礼李隶黎璃励犁梨丽厉篱狸漓鲤莉荔吏栗砾傈俐痢沥哩俪俚郦坜苈莅蓠藜呖唳喱猁溧澧逦娌嫠骊缡枥栎轹戾砺詈罹锂鹂疠疬蛎蜊蠡笠篥粝醴跞雳鲡鳢黧
+    lia   :俩
+    lian  :连联练炼脸链莲镰廉怜涟帘敛恋蔹奁潋濂琏楝殓臁裢裣蠊鲢
+    liang :量两粮良亮梁凉辆粱晾谅墚椋踉靓魉
+    liao  :料疗辽僚撩聊燎寥潦撂镣廖蓼尥嘹獠寮缭钌鹩
+    lie   :列裂烈劣猎冽埒捩咧洌趔躐鬣
+    lin   :林磷临邻淋麟琳霖鳞凛赁吝蔺啉嶙廪懔遴檩辚膦瞵粼躏
+    ling  :领另零令灵岭铃龄凌陵拎玲菱伶羚酃苓呤囹泠绫柃棂瓴聆蛉翎鲮
+    liu   :流六留刘硫柳馏瘤溜琉榴浏遛骝绺旒熘锍镏鹨鎏
+    long  :龙垄笼隆聋咙窿拢陇垅茏泷珑栊胧砻癃
+    lou   :漏楼娄搂篓陋偻蒌喽嵝镂瘘耧蝼髅
+    lu    :路率露绿炉律虑滤陆氯鲁铝录旅卢吕芦颅庐掳卤虏麓碌赂鹿潞禄戮驴侣履屡缕垆撸噜闾泸渌漉逯璐栌榈橹轳辂辘氇胪膂镥稆鸬鹭褛簏舻鲈
+    luan  :卵乱峦挛孪滦脔娈栾鸾銮
+    lue   :略掠锊
+    lun   :论轮伦抡仑沦纶囵
+    luo   :落罗螺洛络逻萝锣箩骡裸骆倮蠃荦捋摞猡泺漯珞椤脶镙瘰雒
+    m     :呒
+    ma    :马麻吗妈骂嘛码玛蚂唛犸嬷杩蟆
+    mai   :麦脉卖买埋迈劢荬霾
+    man   :满慢曼漫蔓瞒馒蛮谩墁幔缦熳镘颟螨鳗鞔
+    mang  :忙芒盲茫氓莽邙漭硭蟒
+    mao   :毛矛冒貌贸帽猫茅锚铆卯茂袤茆峁泖瑁昴牦耄旄懋瞀蟊髦
+    me    :么麽
+    mei   :没每美煤霉酶梅妹眉玫枚媒镁昧寐媚莓嵋猸浼湄楣镅鹛袂魅
+    men   :们门闷扪焖懑钔
+    meng  :孟猛蒙盟梦萌锰檬勐甍瞢懵朦礞虻蜢蠓艋艨
+    mi    :米密迷蜜秘眯醚靡糜谜弥觅泌幂芈谧蘼咪嘧猕汨宓弭脒祢敉糸縻麋
+    mian  :面棉免绵眠冕勉娩缅沔渑湎腼眄
+    miao  :苗秒描庙妙瞄藐渺喵邈缈缪杪淼眇鹋
+    mie   :灭蔑咩蠛篾
+    min   :民敏抿皿悯闽苠岷闵泯缗玟珉愍黾鳘
+    ming  :命明名鸣螟铭冥茗溟暝瞑酩
+    miu   :谬
+    mo    :磨末模膜摸墨摩莫抹默摹蘑魔沫漠寞陌谟茉蓦馍嫫殁镆秣瘼耱貊貘
+    mou   :某谋牟侔哞眸蛑蝥鍪
+--- non-Chinese user strings sample (675 total) ---
+    Invalid token
+    Invalid token; expected ':'
+    Unable to parse value
+    Error: '{0}' at line {1}
+    Lexical error ocurred
+    name
+    name cannot be null.
+    timelines
+    timelines cannot be null.
+    skeleton
+    skeleton cannot be null.
+    frameCount must be > 0: 
+    index must be >= 0.
+    data
+    data cannot be null.
+    Animation not found: 
+    animationName
+    animation
+    animation cannot be null.
+    , 
+    <none>
+    <empty>
+    obj
+    obj cannot be null
+    skeletonData cannot be null.
+    skeletonData
+    fromName
+    toName
+    from
+    from cannot be null.
+    to
+    to cannot be null.
+    ->
+    textureLoader
+    textureLoader cannot be null.
+    xy
+    true
+    false
+    Invalid line: 
+    atlas array cannot be null.
+    Region not found in atlas: {0} (region attachment: {1})
+    name cannot be null
+    index must be >= 0
+    index
+    capacity
+    count
+    index and count exceed length of list
+    converter
+    match
+    action
+    collection
+    index is negative
+    count is negative
+    count is too large
+    List is empty. Nothing to pop.
+    Collection was modified; enumeration operation may not execute.
+    constraint cannot be null.
+    boneName
+    boneName cannot be null.
+    slotName
+    slotName cannot be null.
+    Skin not found: 
+    skinName
+    attachmentName
+    attachmentName cannot be null.
+    Attachment not found: 
+    , for slot: 
+    Slot not found: 
+    constraintName
+    constraintName cannot be null.
+    attachmentLoader
+    file
+    Parent mesh not found: 
+    default
+    Stream does not contain a valid binary Skeleton Data.
+    input
+    Stream does not contain a valid binary Skeleton Data.
+
+    skinName cannot be null.
+    eventDataName
+    eventDataName cannot be null.
+    animationName cannot be null.
+    pathConstraintName
+    pathConstraintName cannot be null.
+    attachmentLoader cannot be null.
+    reader
+    reader cannot be null.
+    Invalid JSON.
+    hash
+    spine
+    3.8.75
+    Unsupported skeleton data, please export with a newer version of Spine.
+    width
+    height
+    fps
+    images
+    audio
+    bones
+    parent
+    Parent bone not found: 
+    length
+    rotation
+    scaleX
+    scaleY
+    shearX
+    shearY
+    transform
+    skin
+    slots
+    bone
+    Slot bone not found: 
+    color
+    dark
+    attachment
+    blend
+    ik
+    order
+    IK bone not found: 
+    target
+    IK target bone not found: 
+    mix
+
+========================= B. Addressable bundle content sampling =========================
+dirs sampled: 14
+
+-- 012089ea9499218e6de1a8c40e47d2f0_unitybuiltinshaders_e486bb725e5c7102a85efa7da398f51e.bundle  (177.1KB)
+   objs: {'Shader': 14, 'AssetBundle': 1}
+   names: [('AssetBundle', '012089ea9499218e6de1a8c40e47d2f0_unitybuiltinshaders.bundle')]
+
+-- defaultlocalgroup_assets_assets\bundles\audio\battle_635d632026caa49409bcc611ba422d59.bundle  (2713.8KB)
+   objs: {'AudioClip': 1, 'AssetBundle': 1}
+   names: [('AudioClip', 'battle'), ('AssetBundle', 'b086c16e805be706408d2784f2107fc6.bundle')]
+
+-- defaultlocalgroup_assets_assets\bundles\bullet\testbullet_0994677f9117698b21eef1b5ab0ab38e.bundle  (4.8KB)
+   objs: {'Transform': 1, 'MeshFilter': 1, 'AssetBundle': 1, 'MonoScript': 1, 'MeshRenderer': 1, 'SphereCollider': 1, 'GameObject': 1, 'Material': 1, 'MonoBehaviour': 1}
+   names: [('AssetBundle', 'd158db6acd1798032973f67ebf4ad425.bundle'), ('MonoScript', 'BulletModel'), ('GameObject', 'testBullet'), ('Material', 'bulletMat')]
+
+-- defaultlocalgroup_assets_assets\bundles\data\buffdata_b280d244257e7c147301361fd609c0df.bundle  (76.3KB)
+   objs: {'AssetBundle': 1, 'TextAsset': 1}
+   names: [('AssetBundle', 'a015e5b11d321758cb52cfea5f2ec9ef.bundle'), ('TextAsset', 'BuffData')]
+
+-- defaultlocalgroup_assets_assets\bundles\data\maps\1-11_0d989f9ad027ae521ce0c59678c3dbed.bundle  (2.1KB)
+   objs: {'AssetBundle': 1, 'TextAsset': 1}
+   names: [('AssetBundle', '7adb41f21178e801c837293eabd698e6.bundle'), ('TextAsset', '1-11')]
+
+-- defaultlocalgroup_assets_assets\bundles\dungeontile\battle_91fc6d5375dfa653986a266ff316da48.bundle  (21.3KB)
+   objs: {'BoxCollider': 1, 'Texture2D': 2, 'Material': 2, 'MeshFilter': 1, 'MonoBehaviour': 1, 'Transform': 3, 'MeshRenderer': 1, 'SpriteRenderer': 1, 'AssetBundle': 1, 'GameObject': 3, 'Mesh': 1, 'Sprite': 1}
+   names: [('Texture2D', 'monster'), ('Material', 'Sprites-Default'), ('Material', 'stone0'), ('AssetBundle', 'f7c3b4515ae6e6bdd295b08e7f77e98f.bundle'), ('GameObject', 'Battle'), ('Texture2D', 'stone_000'), ('Mesh', 'MapCubeMesh'), ('GameObject', 'monster'), ('GameObject', 'stone0'), ('Sprite', 'monster')]
+
+-- defaultlocalgroup_assets_assets\bundles\effect\abanana_skill_range_967fb16e315f66422ea3c32505274e03.bundle  (55.7KB)
+   objs: {'ParticleSystem': 5, 'Transform': 8, 'Mesh': 3, 'Material': 4, 'MonoBehaviour': 1, 'GameObject': 8, 'MeshFilter': 1, 'MeshRenderer': 1, 'ParticleSystemRenderer': 5, 'Texture2D': 4, 'AssetBundle': 1, 'MonoScript': 1}
+   names: [('Mesh', 'Cone001'), ('Material', 'yingfu_01_ab (Instance)'), ('GameObject', 'huan'), ('GameObject', 'fanweiquan_05'), ('GameObject', 'abanana_skill_range'), ('Material', 'slbell_skill_02_range (Instance)'), ('Texture2D', 'yingfu_01'), ('Material', 'star_02_ab (Instance)'), ('GameObject', 'yingfu'), ('AssetBundle', 'c43efa0e55cc8544faacb2101b690e26.bundle'), ('Mesh', 'Plane002'), ('GameObject', 'huaheng_02'), ('Texture2D', 'mask_06'), ('GameObject', 'static_offset')]
+
+-- defaultlocalgroup_assets_assets\bundles\effect\char_bobb_skill_range_01_f00102ce32e694196d97a330c2e2e520.bundle  (203.5KB)
+   objs: {'Material': 5, 'GameObject': 21, 'ParticleSystem': 13, 'ParticleSystemRenderer': 13, 'Transform': 21, 'MeshRenderer': 3, 'MeshFilter': 3, 'Texture2D': 5, 'AssetBundle': 1, 'Mesh': 2, 'MonoBehaviour': 1, 'MonoScript': 1}
+   names: [('Material', 'Boss_Rathalos_01_dikuai (Instance)'), ('GameObject', 'xingdian'), ('Material', 'star_56_add (Instance)'), ('GameObject', 'huoyan'), ('GameObject', 'huoyan'), ('GameObject', 'static_offset'), ('GameObject', 'xingdian'), ('GameObject', 'huoxing'), ('GameObject', 'andi'), ('Texture2D', 'fire_29'), ('GameObject', 'huoyan'), ('GameObject', 'andi'), ('Texture2D', 'enemy_mandra_15'), ('Material', 'fire_29_add_ZT (Instance)')]
+
+-- defaultlocalgroup_assets_assets\bundles\effect\common_enemy_die_01_f42cf7619151f6cd349088407f30e4db.bundle  (34.8KB)
+   objs: {'ParticleSystem': 2, 'GameObject': 4, 'Transform': 4, 'Mesh': 1, 'Texture2D': 1, 'ParticleSystemRenderer': 2, 'AssetBundle': 1, 'MonoBehaviour': 1, 'Material': 1, 'MonoScript': 1}
+   names: [('GameObject', 'static_offset'), ('Mesh', 'Plane003'), ('Texture2D', 'star_35'), ('AssetBundle', '1fad6bcc861e17c0b9a393e25bb10685.bundle'), ('GameObject', 'common_enemy_die_01'), ('GameObject', 'fixed'), ('GameObject', 'lizi_01'), ('Material', 'common_enemy_die_01 (Instance)'), ('MonoScript', 'Effect')]
+
+-- defaultlocalgroup_assets_assets\bundles\data\buffdata_b280d244257e7c147301361fd609c0df.bundle  (76.3KB)
+   objs: {'AssetBundle': 1, 'TextAsset': 1}
+   names: [('AssetBundle', 'a015e5b11d321758cb52cfea5f2ec9ef.bundle'), ('TextAsset', 'BuffData')]
+
+-- defaultlocalgroup_assets_assets\bundles\data\skilldata_5dc9abb460f27b7be27f5e7e4185d061.bundle  (345.7KB)
+   objs: {'AssetBundle': 1, 'TextAsset': 1}
+   names: [('AssetBundle', 'f4a755f0833eca2989ddf27d87ce6e99.bundle'), ('TextAsset', 'SkillData')]
+
+-- defaultlocalgroup_assets_assets\bundles\data\unitdata_6753a54a33666e72444adef6fd9d55b1.bundle  (247.8KB)
+   objs: {'TextAsset': 1, 'AssetBundle': 1}
+   names: [('TextAsset', 'UnitData'), ('AssetBundle', '70bbaed49d10bd8ad48fbc9f8d2e2410.bundle')]
+
+-- defaultlocalgroup_assets_assets\bundles\audio\battle_635d632026caa49409bcc611ba422d59.bundle  (2713.8KB)
+   objs: {'AudioClip': 1, 'AssetBundle': 1}
+   names: [('AudioClip', 'battle'), ('AssetBundle', 'b086c16e805be706408d2784f2107fc6.bundle')]
+
+-- defaultlocalgroup_assets_assets\bundles\audio\main_ec0532b44a92c1b1704d5c30b301fed1.bundle  (2228.8KB)
+   objs: {'AudioClip': 1, 'AssetBundle': 1}
+   names: [('AudioClip', 'main'), ('AssetBundle', '712d16831be7b28fd8f062da6e3f836b.bundle')]

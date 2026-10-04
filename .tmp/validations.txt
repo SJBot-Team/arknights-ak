@@ -1,0 +1,20 @@
+sqref=B2:B1048576    type=whole    f1=0                        f2=999    prompt=0-999之间的整数
+sqref=C2:C1048576    type=whole    f1=0                        f2=120    prompt=0至(每费帧数-1)之间的整数
+sqref=E2:E1048576    type=list     f1="部署, 技能, 撤退"             f2=       prompt=
+sqref=G2:G1048576    type=         f1=                         f2=       prompt=map上的坐标 例如B3
+sqref=H2:H1048576    type=list     f1="上, 下, 左, 右, 无"          f2=       prompt=
+sqref=I2:I1048576    type=         f1=                         f2=       prompt=命名当前单位 方便未来引用
+sqref=K26:K1048576   type=         f1=                         f2=       prompt=绿色：操作成功_x000a_黄色：操作延迟_x000a_红色：操作失败
+sqref=N2             type=         f1=                         f2=       prompt=如果关卡有代号 输入代号即可_x000a_例如1-7, H8-4, SN-EX-8
+sqref=N3             type=         f1=                         f2=       prompt=如果没有代号 也可以输入全名_x000a_例如：淤浊沼泽
+sqref=N4             type=list     f1="30, 40, 60, 120"        f2=       prompt=默认为30 可根据减回费修改
+sqref=N5             type=         f1=                         f2=       prompt=务必输入完整路径_x000a_例如：C:\Users\UserName\Downloads\prts+\prts+.exe_x000a_若为空 则默认脚本与该文件位于同一文件夹下
+sqref=N9             type=decimal  f1=0                        f2=10     prompt=部署时两次暂停之间的间隔时间_x000a_单位：秒_x000a_默认：0.02
+sqref=N11            type=decimal  f1=0                        f2=10     prompt=等待模拟器反应操作的时间_x000a_单位：秒_x000a_默认：0.3
+sqref=N12            type=whole    f1=0                        f2=100    prompt=尝试进入子弹时间时，距离目标帧的帧数_x000a_单位：帧_x000a_默认：15
+sqref=J2:J1048576    type=         f1=                         f2=       prompt=本条操作的备注 不影响操作执行
+sqref=N10            type=decimal  f1=0                        f2=10     prompt=子弹时间下逐帧前进的两次暂停间隔_x000a_单位：秒_x000a_默认：0.1
+sqref=N13            type=whole    f1=0                        f2=100    prompt=尝试进入逐帧定位时，距离目标帧的帧数_x000a_单位：帧_x000a_默认：2
+sqref=F2:F1048576    type=list     f1=F$2:F2                   f2=       prompt=干员全名或简称
+sqref=D2:D1048576    type=whole    f1=0                        f2=10000  prompt=表示费用条一共满过几次的非负整数
+sqref=N6             type=whole    f1=0                        f2=10000  prompt=运行前费用条曾满过多少次 默认为0

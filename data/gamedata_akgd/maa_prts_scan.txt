@@ -1,0 +1,69 @@
+=== prts+ _internal/resource ===
+[.] 5 文件, 2 子目录
+   avatar_26_1_27.zip  (83972750 B)
+   battle_data.json  (396998 B)
+   level_code_mapping.json  (129377 B)
+   level_name_mapping.json  (181541 B)
+   operator_mapping.json  (53192 B)
+[avatar] 1645 文件, 0 子目录
+[map] 3480 文件, 0 子目录
+
+=== resource.zip (170730461 B) 内容 ===
+共 5132 项
+   resource/ (0 B)
+   resource/avatar/ (0 B)
+   resource/avatar/avatar_avg_1502.png (59961 B)
+   resource/avatar/avatar_avg_4139.png (61770 B)
+   resource/avatar/avg_npc_012.png (40696 B)
+   resource/avatar/avg_npc_1005.png (55420 B)
+   resource/avatar/avg_npc_1329.png (23600 B)
+   resource/avatar/avg_npc_380_1.png (55414 B)
+   resource/avatar/avg_npc_397.png (46933 B)
+   resource/avatar/avg_npc_407.png (70758 B)
+   resource/avatar/avg_npc_651.png (48235 B)
+   resource/avatar/bavg_enemy_common.png (15897 B)
+   resource/avatar/bavg_npc_001.png (67865 B)
+   resource/avatar/bavg_npc_002.png (44662 B)
+   resource/avatar/bavg_npc_003.png (62073 B)
+   resource/avatar/bavg_rift_1.png (59489 B)
+   resource/avatar/char_002_amiya.png (56957 B)
+   resource/avatar/char_002_amiya_1+.png (64019 B)
+   resource/avatar/char_002_amiya_2.png (62709 B)
+   resource/avatar/char_002_amiya_epoque#4.png (55816 B)
+   resource/avatar/char_002_amiya_test#1.png (63036 B)
+   resource/avatar/char_002_amiya_winter#1.png (62521 B)
+   resource/avatar/char_003_kalts.png (56617 B)
+   resource/avatar/char_003_kalts_2.png (65529 B)
+   resource/avatar/char_003_kalts_boc#6.png (61075 B)
+   resource/avatar/char_004_mon3tr.png (40210 B)
+   resource/avatar/char_007_closre_1.png (53889 B)
+   resource/avatar/char_009_12fce.png (49308 B)
+   resource/avatar/char_010_chen.png (55550 B)
+   resource/avatar/char_010_chen2.png (51264 B)
+   resource/avatar/char_010_chen_2.png (60227 B)
+   resource/avatar/char_010_chen_nian#2.png (64702 B)
+   resource/avatar/char_010_chen_sale#10.png (49101 B)
+   resource/avatar/char_017_huang.png (65100 B)
+   resource/avatar/char_017_huang2.png (59130 B)
+   resource/avatar/char_017_huang_2.png (66272 B)
+   resource/avatar/char_017_huang_as#1.png (67015 B)
+   resource/avatar/char_017_huang_witch#5.png (73147 B)
+   resource/avatar/char_1001_amiya2.png (64210 B)
+   resource/avatar/char_1001_amiya2_2.png (64210 B)
+
+=== MAA resource 各子目录用途快速识别 ===
+  tasks/: 7 项, 样例: ['Copilot', 'MiniGame', 'RA', 'Roguelike', 'Stages']
+  template/: 25 项, 样例: ['Award', 'Battle', 'Credit', 'Depot', 'DialogueLog.png']
+  roguelike/: 5 项, 样例: ['JieGarden', 'Mizuki', 'Phantom', 'Sami', 'Sarkaz']
+  copilot/: 6 项, 样例: ['OF-1_credit_fight.json', 'old', '塔山农业实验平台_Tower_Mountains_Agricultural_Experimental_Platform', '施佩尔山脚_Spier_Foothills', '阿尔斯特甜品制作平台_Alsterii_Manufacture_Platform']
+  Arknights-Tile-Pos/: 4177 项, 样例: ['a001_01-activities-a001-level_a001_01.json', 'a001_02-activities-a001-level_a001_02.json', 'a001_03-activities-a001-level_a001_03.json', 'a001_04-activities-a001-level_a001_04.json', 'a001_05-activities-a001-level_a001_05.json']
+  onnx/: 3 项, 样例: ['deploy_direction_cls.onnx', 'operators_det.onnx', 'skill_ready_cls.onnx']
+  global/: 4 项, 样例: ['txwy', 'YoStarEN', 'YoStarJP', 'YoStarKR']
+  battle_data.json (682824 B)
+  config.json (9909 B)
+  infrast.json (194312 B)
+  item_index.json (211607 B)
+  ocr_config.json (34 B)
+  recruitment.json (31880 B)
+  stages.json (808151 B)
+  version.json (224 B)

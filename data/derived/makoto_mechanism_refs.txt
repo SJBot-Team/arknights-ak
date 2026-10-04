@@ -1,0 +1,74 @@
+makoto_allout_attack_damage:
+    buff: makoto_talent_2
+makoto_allout_attack_effect:
+    effect: makoto_talent_finish_01
+makoto_assign_standing_time:
+    buff: makoto_standin
+makoto_change_01_effect:
+    effect: makoto_change_01
+makoto_default_mode:
+makoto_delayed_switchend:
+    buff: makoto_switchend
+makoto_forbid_idle:
+makoto_on_enter_normal:
+    buff: empty,makoto_allout_attack_allow_effect,makoto_allout_attack_damage,makoto_allout_attack_effect
+makoto_s1_trigger:
+    buff: empty,makoto_tr_undead
+    ability: makoto[switch2stand_s1]
+makoto_s2_fear_aura_inst_kill:
+    effect: makoto_skill_02_hit_01_finish
+makoto_s2_fear_damage:
+    effect: makoto_skill_02_hit_01
+makoto_s2_fear_impl:
+    buff: empty,fear
+makoto_s2_fear_possibility:
+    buff: makoto_s2_fear_impl
+makoto_s2_trigger:
+    buff: empty,makoto_tr_undead
+    ability: makoto[switch2stand_s2]
+makoto_s3_1_allow_cast_skill:
+makoto_s3_1_attack_weak_effect:
+    effect: makoto_skill_03_p1_weak_01
+makoto_s3_1_create_allow_cast_skill:
+    buff: makoto_s3_1_allow_cast_skill
+makoto_s3_1_standin:
+    buff: common_weak_damage
+makoto_s3_2_aura:
+    buff: evade,makoto_s3_2_evade
+makoto_s3_2_be_healed:
+makoto_s3_2_forbid_turn:
+makoto_s3_2_heal_others:
+    ability: makoto[s3_heal_others]
+makoto_s3_2_mod_block_cnt:
+    buff: empty,makoto_stand[block_dec],makoto_stand[block_zero],makoto_stand[s3_2_block]
+makoto_s3_trigger:
+    buff: empty,makoto_standin,makoto_tr_undead
+    ability: makoto[switch2stand_s3_1],makoto[switch2stand_s3_2]
+makoto_skill_03_1_magical:
+    buff: evade,makoto_s3_2_evade
+makoto_skill_03_heal_hit:
+    effect: makoto_skill_03_p2_heal_01
+makoto_standin:
+    effect: makoto_change_01
+makoto_standin_t1_max_hp:
+makoto_switchbegin:
+    buff: empty,makoto_assign_standing_time,makoto_talent_1,sluggish
+makoto_switchend:
+    mode→1,2,3,4
+    skill→0,1,2
+    buff: makoto_assign_standing_time,makoto_standin
+makoto_switchend2normal:
+    mode→0
+makoto_switchend2normal_blockcheck:
+    buff: makoto_switchend2normal
+makoto_switchend2normal_endcheck:
+    ability: Allout_LoopEnd
+makoto_switchend2normal_talent_2_effect:
+    effect: makoto_change_01,makoto_talent_chance_01
+makoto_talent_2:
+    buff: makoto_allout_attack_allow_effect,makoto_allout_attack_damage,makoto_allout_attack_effect
+    ability: makoto[switch2normal_allout]
+makoto_tr:
+    skill→0,1,2
+    buff: empty,makoto_standin,makoto_tr_undead
+    ability: makoto[switch2stand_s1],makoto[switch2stand_s2],makoto[switch2stand_s3_1],makoto[switch2stand_s3_2]

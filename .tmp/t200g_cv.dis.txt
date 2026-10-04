@@ -1,0 +1,196 @@
+=== <module>  argcount=2 nlocals=21 co_code=718B
+    0 LOAD_GLOBAL            27136   !!越界[27136]
+   12 LOAD_CLOSURE           25600
+   14 LOAD_CONST              6402   !!越界[6402]
+   16 BINARY_FLOOR_DIVIDE
+   18 LOAD_CLOSURE           25600
+   20 LOAD_CONST              6403   !!越界[6403]
+   22 BINARY_FLOOR_DIVIDE
+   24 ROT_TWO
+   26 LOAD_DEREF             32003   !!越界[32003]
+   28 LOAD_DEREF             31748   !!越界[31748]
+   30 LOAD_CLOSURE           25600
+   32 LOAD_CONST              6404   !!越界[6404]
+   34 BINARY_FLOOR_DIVIDE
+   36 LOAD_CLOSURE           29185
+   38 POP_JUMP_IF_FALSE      25644
+   40 LOAD_CONST             28165   !!越界[28165]
+   42 JUMP_FORWARD           25602
+   44 LOAD_CONST              6406   !!越界[6406]
+   46 BINARY_FLOOR_DIVIDE
+   48 UNPACK_SEQUENCE        32003
+   52 LOAD_DEREF             32006   !!越界[32006]
+   54 LOAD_DEREF             22279   !!越界[22279]
+   56 ASYNC_GEN_WRAP
+   58 JUMP_FORWARD            1090
+   60 DUP_TOP
+   62 LOAD_GLOBAL            30978   !!越界[30978]
+   74 LOAD_GLOBAL            40963   !!越界[40963]
+   86 CALL_METHOD              257   !!越界[257]
+   96 FORMAT_VALUE           40192
+   98 BUILD_STRING           33538
+  100 CALL_FUNCTION          33281
+  110 LOAD_DEREF             32264   !!越界[32264]
+  112 STORE_DEREF            28168   !!越界[28168]
+  114 JUMP_FORWARD           25610
+  116 LOAD_CONST             32008   !!越界[32008]
+  118 LOAD_DEREF             32264   !!越界[32264]
+  120 STORE_DEREF            12296   !!越界[12296]
+  122 <op48>
+  124 <op48>
+  126 LOAD_GLOBAL            40965   !!越界[40965]
+  138 UNARY_NEGATIVE
+  140 BUILD_LIST             25604
+  142 LOAD_CONST             25606   !!越界[25606]
+  144 LOAD_CONST             25605   !!越界[25605]
+  146 LOAD_CONST             31750   !!越界[31750]
+  148 LOAD_CLOSURE            2822
+  150 UNARY_NEGATIVE
+  152 BUILD_LIST             25604
+  154 LOAD_CONST             25606   !!越界[25606]
+  156 LOAD_CONST             25606   !!越界[25606]
+  158 LOAD_CONST             31749   !!越界[31749]
+  160 LOAD_CLOSURE            2823
+  162 UNARY_NEGATIVE
+  164 BUILD_LIST             26372
+  166 BUILD_LIST             25600
+  168 LOAD_CONST             41481   !!越界[41481]
+  170 LIST_EXTEND            26369
+  172 BUILD_LIST             41220
+  174 CALL_METHOD            32001   !!越界[32001]
+  184 LOAD_ATTR              29704   !!越界[29704]
+  194 BINARY_MULTIPLY
+  196 CALL_METHOD             6913   !!越界[6913]
+  206 BUILD_LIST             25604
+  208 LOAD_CONST             25606   !!越界[25606]
+  210 LOAD_CONST             29701   !!越界[29701]
+  212 LOAD_GLOBAL            40960   !!越界[40960]
+  224 BINARY_TRUE_DIVIDE
+  226 LOAD_CONST             25606   !!越界[25606]
+  228 LOAD_CONST             26374   !!越界[26374]
+  230 BUILD_LIST             25604
+  232 LOAD_CONST             25606   !!越界[25606]
+  234 LOAD_CONST             29702   !!越界[29702]
+  236 LOAD_GLOBAL            27143   !!越界[27143]
+  248 LOAD_GLOBAL            27143   !!越界[27143]
+  260 LOAD_GLOBAL            27143   !!越界[27143]
+  272 BINARY_MULTIPLY
+  274 UNARY_NEGATIVE
+  276 LOAD_GLOBAL            27143   !!越界[27143]
+  288 BUILD_LIST             26372
+  290 BUILD_LIST             25600
+  292 LOAD_CONST             41484   !!越界[41484]
+  294 LIST_EXTEND            26369
+  296 BUILD_LIST             41220
+  298 CALL_METHOD            32001   !!越界[32001]
+  308 LOAD_CONST             41485   !!越界[41485]
+  310 LIST_EXTEND            25601
+  312 LOAD_CONST             29702   !!越界[29702]
+  314 LOAD_GLOBAL            40960   !!越界[40960]
+  326 LOAD_GLOBAL            40960   !!越界[40960]
+  338 UNARY_NEGATIVE
+  340 LOAD_CONST             26374   !!越界[26374]
+  342 BUILD_LIST             25604
+  344 LOAD_CONST             29702   !!越界[29702]
+  346 LOAD_GLOBAL            40960   !!越界[40960]
+  358 UNARY_NEGATIVE
+  360 LOAD_GLOBAL            40960   !!越界[40960]
+  372 UNARY_NEGATIVE
+  374 LOAD_CONST             26374   !!越界[26374]
+  376 BUILD_LIST             26372
+  378 BUILD_LIST             25600
+  380 LOAD_CONST             41481   !!越界[41481]
+  382 LIST_EXTEND            26369
+  384 BUILD_LIST             41220
+  386 CALL_METHOD            32001   !!越界[32001]
+  396 LOAD_METHOD            25612   !!越界[25612]
+  406 LOAD_CONST             29702   !!越界[29702]
+  408 LOAD_GLOBAL            40960   !!越界[40960]
+  420 LOAD_CONST             26374   !!越界[26374]
+  422 BUILD_LIST             26372
+  424 BUILD_LIST             25600
+  426 LOAD_CONST             41488   !!越界[41488]
+  428 LIST_EXTEND            29697
+  430 LOAD_GLOBAL            40960   !!越界[40960]
+  442 UNARY_NEGATIVE
+  444 LOAD_CONST             29702   !!越界[29702]
+  446 LOAD_GLOBAL            40960   !!越界[40960]
+  458 LOAD_CONST             26374   !!越界[26374]
+  460 BUILD_LIST             26372
+  462 BUILD_LIST             25600
+  464 LOAD_CONST             41481   !!越界[41481]
+  466 LIST_EXTEND            26369
+  468 BUILD_LIST             41220
+  470 CALL_METHOD            32001   !!越界[32001]
+  480 LOAD_CLOSURE           31754
+  482 LOAD_CLOSURE            4107
+  484 BINARY_MATRIX_MULTIPLY
+  486 LOAD_CLOSURE            4108
+  488 BINARY_MATRIX_MULTIPLY
+  490 LOAD_CLOSURE           40969
+  492 LOAD_METHOD            41230   !!越界[41230]
+  502 LOAD_CLOSURE           31754
+  504 LOAD_CLOSURE            4107
+  506 BINARY_MATRIX_MULTIPLY
+  508 LOAD_CLOSURE           40969
+  510 LOAD_METHOD            41230   !!越界[41230]
+  520 LOAD_DEREF             29710   !!越界[29710]
+  522 LOAD_GLOBAL            31759   !!越界[31759]
+  534 BUILD_LIST             32000
+  536 LOAD_DEREF             29712   !!越界[29712]
+  538 LOAD_GLOBAL            31759   !!越界[31759]
+  550 LOAD_CLOSURE           25600
+  552 LOAD_CONST              6417   !!越界[6417]
+  554 BINARY_FLOOR_DIVIDE
+  556 LOAD_CLOSURE            6415
+  558 BINARY_FLOOR_DIVIDE
+  560 LOAD_CLOSURE            6417
+  562 BINARY_FLOOR_DIVIDE
+  564 LOAD_DEREF             29714   !!越界[29714]
+  566 LOAD_GLOBAL            40965   !!越界[40965]
+  578 LOAD_CONST              6930   !!越界[6930]
+  580 BINARY_TRUE_DIVIDE
+  582 BINARY_SUBSCR
+  584 LOAD_CLOSURE           25603
+  586 LOAD_CONST              6149   !!越界[6149]
+  588 BINARY_SUBSCR
+  590 LOAD_CONST              6930   !!越界[6930]
+  592 BINARY_TRUE_DIVIDE
+  594 LOAD_CLOSURE            6159
+  596 BINARY_SUBSCR
+  598 LOAD_CLOSURE           25618
+  600 LOAD_CONST              6419   !!越界[6419]
+  602 BINARY_FLOOR_DIVIDE
+  604 LOAD_CONST              5140   !!越界[5140]
+  606 BINARY_MULTIPLY
+  608 LOAD_CONST             26373   !!越界[26373]
+  610 BUILD_LIST             41220
+  612 CALL_METHOD            32001   !!越界[32001]
+  622 LOAD_DEREF             31764   !!越界[31764]
+  624 LOAD_CLOSURE           31764
+  626 LOAD_CLOSURE           25620
+  628 LOAD_CONST              6421   !!越界[6421]
+  630 BINARY_FLOOR_DIVIDE
+  632 BINARY_TRUE_DIVIDE
+  634 LOAD_DEREF             31764   !!越界[31764]
+  636 LOAD_CLOSURE           25620
+  638 LOAD_CONST              5893   !!越界[5893]
+  640 BINARY_SUBTRACT
+  642 LOAD_CONST              6923   !!越界[6923]
+  644 BINARY_TRUE_DIVIDE
+  646 LOAD_DEREF             31764   !!越界[31764]
+  648 LOAD_CLOSURE           40976
+  650 LOAD_METHOD            31760   !!越界[31760]
+  660 LOAD_CLOSURE           25620
+  662 LOAD_CONST              6405   !!越界[6405]
+  664 BINARY_FLOOR_DIVIDE
+  666 BINARY_SUBSCR
+  668 BUILD_TUPLE            41218
+  670 CALL_METHOD              257   !!越界[257]
+  680 LOAD_METHOD            31760   !!越界[31760]
+  690 JUMP_ABSOLUTE          29714
+  692 LOAD_GLOBAL            40963   !!越界[40963]
+  704 LOAD_CLOSURE           39684
+  706 FORMAT_VALUE           40192
+  708 BUILD_STRING           41220
+  710 CALL_METHOD              257   !!越界[257]

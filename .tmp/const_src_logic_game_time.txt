@@ -1,0 +1,96 @@
+CODE <module> argcount=0 flags=0x40 names=['dataclasses', 'dataclass', 'typing', 'ClassVar', 'Optional', 'src.config', 'GameTimeConfig', b'\x00\x02\x14\x01\x18\x03\x14\x01\x18\x03', 'GameTime', b'\x00\x01', 'cls', 'time1', 'time2', 'print', 'abs_time1', 'abs_time2', 'mixed_time1', 'mixed_time2']
+  const 0
+  const ('dataclass',)
+  const ('ClassVar', 'Optional')
+  const ('GameTimeConfig',)
+  const True
+  const ('frozen',)
+  CODE <module>.GameTime argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', '__doc__', 'cost', 'Optional', 'int', '__annotations__', 'tick', 'time', 'config', 'TICK_MAX_DEFAULT', 'TICK_MAX', 'ClassVar', '__post_init__', 'classmethod', 'cls', ('TICK_MAX',), 'total_tick', <code __add__ consts=2 names=5>, 'bool', 'GameTime.__sub__', ('self', <code get_tick_max consts=1 names=1>), 'GameTime.__lt__', <code __gt__ consts=1 names=0>, <code __le__ consts=1 names=0>]
+    const 'GameTime'
+    const '\n    Represents game time in Arknights.\n\n    Attributes:\n        cost (Optional[int]): The in-game cost (relative time).\n        time (Optional[int]): The absolute time since game start \n        (how many times the cost bar has been fully filled).\n        tick (int): The current tick count.\n        At least one of cost or time must be provided.\n\n    Class Attributes:\n        TICK_MAX (int): The maximum value of ticks. Can be set globally.\n    '
+    const None
+    const 'cost'
+    const 0
+    const 'tick'
+    const 'time'
+    const 'TICK_MAX'
+    CODE <module>.GameTime.__post_init__ argcount=1 flags=0x43 names=['cost', 'time', 'ValueError', 'tick', 'TICK_MAX', 'object', '__setattr__']
+      const None
+      const 'At least one of cost or time must be provided'
+      const 'cost'
+      const 'time'
+      const 'tick'
+    const 'GameTime.__post_init__'
+    const ('max_value',)
+    CODE <module>.GameTime.set_tick_max argcount=2 flags=0x43 names=['ValueError', 'TICK_MAX']
+      const 'Set the global maximum tick value.'
+      const 0
+      const 'TICK_MAX must be a positive integer.'
+      const None
+    const 'GameTime.set_tick_max'
+    const ('return',)
+    CODE <module>.GameTime.get_tick_max argcount=1 flags=0x43 names=['TICK_MAX']
+      const 'Get the global maximum tick value.'
+    const 'GameTime.get_tick_max'
+    const ('other', 'GameTime.set_tick_max')
+    CODE <module>.GameTime.__add__ argcount=2 flags=0x43 names=['tick', 'TICK_MAX', 'time', 'cost', 'GameTime']
+      const None
+      const ('cost', 'tick', 'time')
+    const 'GameTime.__add__'
+    CODE <module>.GameTime.__sub__ argcount=2 flags=0x43 names=['o', 't', 'h', 'e', 'r']
+      const None
+      const ('other', 'GameTime.set_tick_max')
+    const 'GameTime.__sub__'
+    CODE <module>.GameTime.__lt__ argcount=2 flags=0x43 names=['time', 'tick', 'cost', 'ValueError']
+      const None
+      const 'Cannot compare time with cost'
+    const 'GameTime.__lt__'
+    CODE <module>.GameTime.__gt__ argcount=2 flags=0x43 names=[]
+      const None
+    const 'GameTime.__gt__'
+    CODE <module>.GameTime.__le__ argcount=2 flags=0x43 names=[]
+      const None
+    const 'GameTime.__le__'
+    CODE <module>.GameTime.__ge__ argcount=2 flags=0x43 names=[]
+      const None
+    const 'GameTime.__ge__'
+    CODE <module>.GameTime.__eq__ argcount=2 flags=0x43 names=['time', 'tick', 'cost']
+      const None
+      const False
+    const 'GameTime.__eq__'
+  const 'GameTime'
+  const '__main__'
+  const 30
+  const 50
+  const 10
+  const ('cost', 'tick')
+  const 20
+  const 25
+  const 'Testing relative time operations:'
+  const 'time1: '
+  const 'time2: '
+  const 'time1 + time2 = '
+  const 'time1 - time2 = '
+  const 'time1 < time2 = '
+  const 'time1 == time2 = '
+  const 'time1 > time2 = '
+  const '\nTesting absolute time operations:'
+  const ('time', 'tick')
+  const 'abs_time1: '
+  const 'abs_time2: '
+  const 'abs_time1 + abs_time2 = '
+  const 'abs_time1 - abs_time2 = '
+  const 'abs_time1 < abs_time2 = '
+  const 'abs_time1 == abs_time2 = '
+  const 'abs_time1 > abs_time2 = '
+  const ('time', 'cost', 'tick')
+  const 49
+  const 12
+  const 'mixed_time1: '
+  const 'mixed_time2: '
+  const 'mixed_time1 + mixed_time2 = '
+  const 'mixed_time1 - mixed_time2 = '
+  const 'mixed_time1 < mixed_time2 = '
+  const 'mixed_time1 == mixed_time2 = '
+  const 'mixed_time1 > mixed_time2 = '
+  const None

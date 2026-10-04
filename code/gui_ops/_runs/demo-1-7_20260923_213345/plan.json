@@ -1,0 +1,110 @@
+{
+  "plan_id": "demo-1-7",
+  "stage": "1-7",
+  "steps": [
+    {
+      "id": "s1_home",
+      "backend": "maa",
+      "phase": "outgame",
+      "desc": "回到主界面（StartUp 的窄化版：只判主界面，不做登录/唤醒）",
+      "payload": {
+        "task": "StartUp",
+        "client_type": "Official",
+        "start_game_enabled": false
+      },
+      "expect": {
+        "ui_state_in": [
+          "home",
+          "terminal"
+        ]
+      },
+      "retry": 2,
+      "timeout": 90.0,
+      "optional": false
+    },
+    {
+      "id": "s2_terminal",
+      "backend": "maa",
+      "phase": "outgame",
+      "desc": "主界面 → 终端（Fight 链的前段；UiTheme/Terminal.json 里有多主题候选）",
+      "payload": {
+        "task": "Fight",
+        "stage": "1-7",
+        "medicine": 0,
+        "stone": 0,
+        "times": 1,
+        "report_to_penguin": false,
+        "DrGrandet": false
+      },
+      "expect": {
+        "subtask_seen": [
+          "Terminal-Entry"
+        ]
+      },
+      "retry": 1,
+      "timeout": 120.0,
+      "optional": false
+    },
+    {
+      "id": "s3_entered",
+      "backend": "vision",
+      "phase": "outgame",
+      "desc": "★ MAA 无「进关后立刻暂停」的任务：用既有 AutoEnter + paused_protocol 进关并暂停",
+      "payload": {
+        "enter": "drill",
+        "pause_after_start": true,
+        "axis": "configs/axis_1_7.json"
+      },
+      "expect": {
+        "ui_state": "battle"
+      },
+      "retry": 2,
+      "timeout": 90.0,
+      "optional": false
+    },
+    {
+      "id": "s4_prts_run",
+      "backend": "prts",
+      "phase": "ingame",
+      "desc": "局内：prts+ 按轴表部署/放技能（--debug 输出 tick 与 action）",
+      "payload": {
+        "xlsm": "C:/Users/23922/Documents/ds_harness/ak/data/axis/1-7.xlsm",
+        "debug": true,
+        "autoenter": false,
+        "watch_stall": true,
+        "stall_seconds": 20,
+        "cost_cap": null
+      },
+      "expect": {
+        "exit_code": 0
+      },
+      "retry": 0,
+      "timeout": 600.0,
+      "optional": false
+    },
+    {
+      "id": "s5_settle",
+      "backend": "maa",
+      "phase": "ingame",
+      "desc": "战斗结算识别（行动结束/掉落）",
+      "payload": {
+        "task": "Fight",
+        "stage": "1-7",
+        "times": 1
+      },
+      "expect": {
+        "max_score_min": 0.85
+      },
+      "retry": 1,
+      "timeout": 300.0,
+      "optional": true
+    }
+  ],
+  "notes": [
+    "第 1~4 步 = 局外（MAA）：确保在主界面且在终端页",
+    "第 5 步 = 进关并在战斗开始后立刻暂停（MAA 无对应任务⇒用 vision 侧既有 AutoEnter+暂停）",
+    "第 6 步 = 局内（prts+）：按轴表自动部署；带封顶监控",
+    "第 7 步 = 结果判定（MAA 战斗结算识别）"
+  ],
+  "rev": 1
+}

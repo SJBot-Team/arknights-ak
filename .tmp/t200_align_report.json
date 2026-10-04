@@ -1,0 +1,669 @@
+{
+ "time_mode": "frame_ceil",
+ "deploys": [
+  [
+   10,
+   "char_123_fang",
+   [
+    3,
+    5
+   ],
+   "左",
+   true,
+   2.0
+  ],
+  [
+   411,
+   "char_283_midn",
+   [
+    3,
+    3
+   ],
+   "上",
+   true,
+   1.0
+  ]
+ ],
+ "events": [
+  {
+   "frame": 10,
+   "t": 0.333,
+   "type": "cost_spend",
+   "delta": -8.0,
+   "cost": 2.0
+  },
+  {
+   "frame": 10,
+   "t": 0.333,
+   "type": "deploy",
+   "detail": {
+    "char": "char_123_fang",
+    "name": "芬",
+    "row": 3,
+    "col": 5,
+    "dir": "左",
+    "cost": 8,
+    "cost_after": 2.0
+   }
+  },
+  {
+   "frame": 10,
+   "t": 0.333,
+   "type": "spawn",
+   "uid": 1,
+   "key": "char_123_fang",
+   "name": "芬",
+   "hp": 1325,
+   "x": 5.5,
+   "y": 3.5
+  },
+  {
+   "frame": 29,
+   "t": 0.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 3.0
+  },
+  {
+   "frame": 59,
+   "t": 1.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 4.0
+  },
+  {
+   "frame": 89,
+   "t": 2.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 5.0
+  },
+  {
+   "frame": 94,
+   "t": 3.133,
+   "type": "spawn",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro",
+   "hp": 1700,
+   "x": 0.5084,
+   "y": 3.5
+  },
+  {
+   "frame": 119,
+   "t": 3.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 6.0
+  },
+  {
+   "frame": 149,
+   "t": 4.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 7.0
+  },
+  {
+   "frame": 179,
+   "t": 5.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 8.0
+  },
+  {
+   "frame": 204,
+   "t": 6.8,
+   "type": "windup",
+   "name": "芬",
+   "src": "芬",
+   "detail": {
+    "unit": "芬",
+    "target": "猎狗pro",
+    "judge": "hit_volume",
+    "hit_radius": 0.1
+   }
+  },
+  {
+   "frame": 209,
+   "t": 6.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 9.0
+  },
+  {
+   "frame": 222,
+   "t": 7.4,
+   "type": "damage_first",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro",
+   "src": "芬",
+   "dmg": 325,
+   "hp": 1375,
+   "hp_before": 1700
+  },
+  {
+   "frame": 233,
+   "t": 7.767,
+   "type": "block",
+   "name": "猎狗pro",
+   "src": "芬",
+   "detail": {
+    "enemy": "猎狗pro",
+    "by": "芬"
+   }
+  },
+  {
+   "frame": 233,
+   "t": 7.767,
+   "type": "windup",
+   "name": "猎狗pro",
+   "src": "猎狗pro",
+   "detail": {
+    "side": "ENEMY",
+    "unit": "猎狗pro",
+    "target": "芬",
+    "judge": "blocked",
+    "range_radius": 0.0,
+    "reach": 0.0,
+    "ally_hit_radius": 0.25
+   }
+  },
+  {
+   "frame": 239,
+   "t": 7.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 10.0
+  },
+  {
+   "frame": 254,
+   "t": 8.467,
+   "type": "damage",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro",
+   "src": "芬",
+   "dmg": 325,
+   "hp": 1050,
+   "hp_before": 1375
+  },
+  {
+   "frame": 255,
+   "t": 8.5,
+   "type": "damage_first",
+   "uid": 1,
+   "key": "char_123_fang",
+   "name": "芬",
+   "src": "猎狗pro",
+   "dmg": 13,
+   "hp": 1312,
+   "hp_before": 1325
+  },
+  {
+   "frame": 269,
+   "t": 8.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 11.0
+  },
+  {
+   "frame": 286,
+   "t": 9.533,
+   "type": "damage",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro",
+   "src": "芬",
+   "dmg": 325,
+   "hp": 725,
+   "hp_before": 1050
+  },
+  {
+   "frame": 297,
+   "t": 9.9,
+   "type": "damage",
+   "uid": 1,
+   "key": "char_123_fang",
+   "name": "芬",
+   "src": "猎狗pro",
+   "dmg": 13,
+   "hp": 1299,
+   "hp_before": 1312
+  },
+  {
+   "frame": 299,
+   "t": 9.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 12.0
+  },
+  {
+   "frame": 318,
+   "t": 10.6,
+   "type": "damage",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro",
+   "src": "芬",
+   "dmg": 325,
+   "hp": 400,
+   "hp_before": 725
+  },
+  {
+   "frame": 329,
+   "t": 10.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 13.0
+  },
+  {
+   "frame": 339,
+   "t": 11.3,
+   "type": "damage",
+   "uid": 1,
+   "key": "char_123_fang",
+   "name": "芬",
+   "src": "猎狗pro",
+   "dmg": 13,
+   "hp": 1286,
+   "hp_before": 1299
+  },
+  {
+   "frame": 350,
+   "t": 11.667,
+   "type": "damage",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro",
+   "src": "芬",
+   "dmg": 325,
+   "hp": 75,
+   "hp_before": 400
+  },
+  {
+   "frame": 359,
+   "t": 11.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 14.0
+  },
+  {
+   "frame": 364,
+   "t": 12.133,
+   "type": "spawn",
+   "uid": 3,
+   "key": "enemy_1000_gopro",
+   "name": "猎狗",
+   "hp": 820,
+   "x": 4.5014,
+   "y": 6.4917
+  },
+  {
+   "frame": 381,
+   "t": 12.7,
+   "type": "damage",
+   "uid": 1,
+   "key": "char_123_fang",
+   "name": "芬",
+   "src": "猎狗pro",
+   "dmg": 13,
+   "hp": 1273,
+   "hp_before": 1286
+  },
+  {
+   "frame": 382,
+   "t": 12.733,
+   "type": "despawn",
+   "uid": 2,
+   "key": "enemy_1000_gopro_2",
+   "name": "猎狗pro"
+  },
+  {
+   "frame": 382,
+   "t": 12.733,
+   "type": "kill",
+   "detail": {
+    "tgt": "猎狗pro",
+    "by": "芬"
+   }
+  },
+  {
+   "frame": 389,
+   "t": 12.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 15.0
+  },
+  {
+   "frame": 411,
+   "t": 13.7,
+   "type": "cost_spend",
+   "delta": -14.0,
+   "cost": 1.0
+  },
+  {
+   "frame": 411,
+   "t": 13.7,
+   "type": "deploy",
+   "detail": {
+    "char": "char_283_midn",
+    "name": "月见夜",
+    "row": 3,
+    "col": 3,
+    "dir": "上",
+    "cost": 14,
+    "cost_after": 1.0
+   }
+  },
+  {
+   "frame": 411,
+   "t": 13.7,
+   "type": "spawn",
+   "uid": 4,
+   "key": "char_283_midn",
+   "name": "月见夜",
+   "hp": 1653,
+   "x": 3.5,
+   "y": 3.5
+  },
+  {
+   "frame": 411,
+   "t": 13.7,
+   "type": "windup",
+   "name": "月见夜",
+   "src": "月见夜",
+   "detail": {
+    "unit": "月见夜",
+    "target": "猎狗",
+    "judge": "hit_volume",
+    "hit_radius": 0.1
+   }
+  },
+  {
+   "frame": 419,
+   "t": 13.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 2.0
+  },
+  {
+   "frame": 439,
+   "t": 14.633,
+   "type": "damage_first",
+   "uid": 3,
+   "key": "enemy_1000_gopro",
+   "name": "猎狗",
+   "src": "月见夜",
+   "dmg": 455,
+   "hp": 365,
+   "hp_before": 820
+  },
+  {
+   "frame": 443,
+   "t": 14.767,
+   "type": "windup",
+   "name": "芬",
+   "src": "芬",
+   "detail": {
+    "unit": "芬",
+    "target": "猎狗",
+    "judge": "hit_volume",
+    "hit_radius": 0.1
+   }
+  },
+  {
+   "frame": 449,
+   "t": 14.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 3.0
+  },
+  {
+   "frame": 452,
+   "t": 15.067,
+   "type": "block",
+   "name": "猎狗",
+   "src": "芬",
+   "detail": {
+    "enemy": "猎狗",
+    "by": "芬"
+   }
+  },
+  {
+   "frame": 452,
+   "t": 15.067,
+   "type": "windup",
+   "name": "猎狗",
+   "src": "猎狗",
+   "detail": {
+    "side": "ENEMY",
+    "unit": "猎狗",
+    "target": "芬",
+    "judge": "blocked",
+    "range_radius": 0.0,
+    "reach": 0.0,
+    "ally_hit_radius": 0.25
+   }
+  },
+  {
+   "frame": 461,
+   "t": 15.367,
+   "type": "damage",
+   "uid": 3,
+   "key": "enemy_1000_gopro",
+   "name": "猎狗",
+   "src": "芬",
+   "dmg": 325,
+   "hp": 40,
+   "hp_before": 365
+  },
+  {
+   "frame": 474,
+   "t": 15.8,
+   "type": "damage",
+   "uid": 1,
+   "key": "char_123_fang",
+   "name": "芬",
+   "src": "猎狗",
+   "dmg": 9,
+   "hp": 1264,
+   "hp_before": 1273
+  },
+  {
+   "frame": 478,
+   "t": 15.933,
+   "type": "damage",
+   "uid": 3,
+   "key": "enemy_1000_gopro",
+   "name": "猎狗",
+   "src": "月见夜",
+   "dmg": 40,
+   "hp": 0,
+   "hp_before": 40
+  },
+  {
+   "frame": 478,
+   "t": 15.933,
+   "type": "kill",
+   "detail": {
+    "tgt": "猎狗",
+    "by": "月见夜"
+   }
+  },
+  {
+   "frame": 479,
+   "t": 15.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 4.0
+  },
+  {
+   "frame": 479,
+   "t": 15.967,
+   "type": "despawn",
+   "uid": 3,
+   "key": "enemy_1000_gopro",
+   "name": "猎狗"
+  },
+  {
+   "frame": 509,
+   "t": 16.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 5.0
+  },
+  {
+   "frame": 539,
+   "t": 17.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 6.0
+  },
+  {
+   "frame": 569,
+   "t": 18.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 7.0
+  },
+  {
+   "frame": 579,
+   "t": 19.3,
+   "type": "cost_up",
+   "delta": 6.0,
+   "cost": 13.0
+  },
+  {
+   "frame": 579,
+   "t": 19.3,
+   "type": "skill",
+   "detail": {
+    "unit": "芬",
+    "skill": "冲锋号令·α型",
+    "until": null,
+    "ammo": null
+   }
+  },
+  {
+   "frame": 599,
+   "t": 19.967,
+   "type": "cost_up",
+   "delta": 1.0,
+   "cost": 14.0
+  }
+ ],
+ "calib": [
+  [
+   94,
+   "猎狗pro 1",
+   "出现影子"
+  ],
+  [
+   207,
+   "芬",
+   "进入攻击前摇"
+  ],
+  [
+   221,
+   "猎狗pro 1",
+   "芬 命中"
+  ],
+  [
+   236,
+   "猎狗pro 1",
+   "芬 阻挡"
+  ],
+  [
+   253,
+   "猎狗pro 1",
+   "芬命中"
+  ],
+  [
+   255,
+   "芬",
+   "猎狗pro 1 命中"
+  ],
+  [
+   285,
+   "猎狗pro 1",
+   "芬 命中"
+  ],
+  [
+   298,
+   "芬",
+   "猎狗pro 1 命中"
+  ],
+  [
+   317,
+   "猎狗pro 1",
+   "芬 命中"
+  ],
+  [
+   340,
+   "芬",
+   "猎狗pro 1 命中"
+  ],
+  [
+   349,
+   "猎狗pro 1",
+   "芬 命中"
+  ],
+  [
+   367,
+   "猎狗pro 2",
+   "出现影子"
+  ],
+  [
+   381,
+   "猎狗pro 1",
+   "芬 击杀"
+  ],
+  [
+   432,
+   "猎狗pro 2",
+   "芬 命中"
+  ],
+  [
+   438,
+   "猎狗pro 2",
+   "月见夜 远程命中"
+  ],
+  [
+   443,
+   "猎狗pro 2",
+   "芬 阻挡"
+  ],
+  [
+   461,
+   "芬",
+   "猎狗pro 2 命中"
+  ],
+  [
+   464,
+   "猎狗pro 2",
+   "芬 击杀"
+  ]
+ ],
+ "deltas": [
+  0,
+  3,
+  1,
+  3,
+  1,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  3,
+  1,
+  29,
+  1,
+  9,
+  13,
+  82
+ ],
+ "misses": []
+}

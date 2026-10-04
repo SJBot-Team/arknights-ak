@@ -1,0 +1,57 @@
+{
+  "name": "arknights_demo",
+  "description": "示例流水线：主界面识别开始按钮 → 进入作战后循环检测（DRY-RUN 友好）。模板名需按你的客户端截图替换。",
+  "start": "wait_main_menu",
+  "nodes": [
+    {
+      "id": "wait_main_menu",
+      "labels": "在主界面找「开始行动」按钮（ROI 限定在右下区域，匹配仅 ~0.9ms）",
+      "roi": [0.55, 0.62, 0.98, 0.95],
+      "interval_ms": 100,
+      "timeout_ms": 180000,
+      "on_timeout_goto": "wait_main_menu",
+      "recognize": {
+        "type": "template",
+        "name": "maa/StartUp",
+        "threshold": 0.82,
+        "scales": [1.0]
+      },
+      "on_found": [
+        { "kind": "click", "params": { "target": "wait_main_menu" } }
+      ],
+      "next": "wait_loading_done"
+    },
+    {
+      "id": "wait_loading_done",
+      "labels": "等待加载完成（通用加载图标消失/作战 UI 出现）",
+      "interval_ms": 200,
+      "timeout_ms": 60000,
+      "on_timeout_goto": "wait_main_menu",
+      "recognize": {
+        "type": "color",
+        "rgb": [235, 235, 235],
+        "tol": 20,
+        "point": { "rel_x": 0.5, "rel_y": 0.03 },
+        "grid": 3,
+        "mode": "any"
+      },
+      "on_found": [],
+      "next": "battle_loop"
+    },
+    {
+      "id": "battle_loop",
+      "labels": "作战中：检测暂停按钮存在（说明还在战斗），否则认为已结束",
+      "roi": [0.0, 0.0, 0.25, 0.15],
+      "interval_ms": 100,
+      "recognize": {
+        "type": "template",
+        "name": "maa/Pause",
+        "threshold": 0.80
+      },
+      "on_found": [
+        { "kind": "sleep", "params": { "seconds": 0.5 } }
+      ],
+      "loop": true
+    }
+  ]
+}

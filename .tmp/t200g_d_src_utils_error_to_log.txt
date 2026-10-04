@@ -1,0 +1,25 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_utils_error_to_log.pyc len=595 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=20
+  names=['Exception', 'ErrorToLog']
+  varnames=[]
+  CODE <module>.ErrorToLog argcount=0 nlocals=0 flags=0x40 co_code=38
+    names=['__name__', '__module__', '__qualname__', 'str', 'bool', '__init__', '__str__']
+    varnames=[]
+    consts[0] = 'ErrorToLog'
+    consts[1] = True
+    consts[2] = ('message', 'isError')
+    CODE <module>.ErrorToLog.__init__ argcount=3 nlocals=3 flags=0x43 co_code=26
+      names=['message']
+      varnames=['self', 'message', 'isError']
+      consts[0] = None
+      consts[1] = '错误：'
+    consts[4] = 'ErrorToLog.__init__'
+    CODE <module>.ErrorToLog.__str__ argcount=1 nlocals=1 flags=0x43 co_code=6
+      names=['message']
+      varnames=['self']
+      consts[0] = None
+    consts[6] = 'ErrorToLog.__str__'
+    consts[7] = None
+    consts[8] = (True,)
+  consts[1] = 'ErrorToLog'
+  consts[2] = None

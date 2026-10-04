@@ -1,0 +1,40 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_locate_avatar.pyc len=1855 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=198
+  names=['cv2', 'src.cache', 'get_avatars', 'replace_avatar', 'src.logic.action', 'Action', 'src.mumu.mumu_vision', 'capture_game_window', 'src.logger', 'logger', 'src.config', 'GameRatioConfig', 'ratioconfig', 'ImageProcessingConfig', 'imgconfig', 'src.utils.error_to_log', 'ErrorToLog', 'locate_avatar', '__name__', 'time', 'start_time', 'action', 'end_time', 'info', 'avatar_pos']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = None
+  consts[2] = ('get_avatars', 'replace_avatar')
+  consts[3] = ('Action',)
+  consts[4] = ('capture_game_window',)
+  consts[5] = ('logger',)
+  consts[6] = ('GameRatioConfig',)
+  consts[7] = ('ImageProcessingConfig',)
+  consts[8] = ('ErrorToLog',)
+  consts[9] = ('action', 'return')
+  CODE <module>.locate_avatar argcount=1 nlocals=13 flags=0x43 co_code=320
+    names=['get_avatars', 'oper', 'capture_game_window', 'ratioconfig', 'OPERATOR_AREA_RATIO', 'cv2', 'matchTemplate', 'TM_CCOEFF_NORMED', 'minMaxLoc', 'imgconfig', 'TEMPLATE_MATCH_THRESHOLD', 'logger', 'error', 'ErrorToLog', 'len', 'info', 'replace_avatar', 'shape', 'SCREEN_STANDARD_SIZE', 'avatar_pos']
+    varnames=['action', 'avatars', 'oper_area_img', 'max_val', 'max_pos', 'max_avatar', 'avatar', 'matched', '_', 'val', 'pos', 'avatar_ratio_x', 'avatar_ratio_y']
+    consts[0] = '\n    Locate the exact location of the avatar on game screen. Modify the action object in place.\n    '
+    consts[1] = (0, None, None)
+    consts[2] = 'Could not find a good matching avatar for '
+    consts[3] = ', with max_val: '
+    consts[4] = '未在待部署区找到干员'
+    consts[5] = '。'
+    consts[6] = 1
+    consts[7] = 'Found best matching avatar for '
+    consts[8] = 0
+    consts[9] = 2
+    consts[10] = 'Avatar position of '
+    consts[11] = ' found at: '
+    consts[12] = ', max_val: '
+    consts[13] = None
+  consts[11] = 'locate_avatar'
+  consts[12] = '__main__'
+  consts[13] = ('time',)
+  consts[14] = '令'
+  consts[15] = ('oper',)
+  consts[16] = 'Avatar position found at: '
+  consts[17] = ', time taken: '
+  consts[18] = '.4f'
+  consts[19] = ' seconds'

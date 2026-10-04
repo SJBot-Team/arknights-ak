@@ -1,0 +1,5 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_mumu.pyc len=76 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=4
+  names=[]
+  varnames=[]
+  consts[0] = None

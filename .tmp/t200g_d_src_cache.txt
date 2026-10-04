@@ -1,0 +1,139 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_cache.pyc len=6135 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=602
+  names=['cv2', 'json', 'os', 'glob', 'numpy', 'np', 'typing', 'List', 'Dict', 'Any', 'Callable', 'src.logger', 'logger', 'src.config', 'ImageProcessingConfig', 'imgconfig', '__all__', 'path', 'join', 'dirname', '__file__', 'RESOURCE_PATH', 'str', 'load_mapping', 'load_resource', 'get_resource', 'OPERATOR_MAPPING', '__annotations__', 'LEVEL_CODE_MAPPING', 'LEVEL_NAME_MAPPING', 'avatars', 'ndarray', 'maps', 'process_avatar', 'load_avatars', 'load_map_by_code', 'load_map_by_name', 'get_avatars', 'get_map_by_code', 'get_map_by_name', 'replace_avatar', '__name__', 'avatar', 'imshow', 'waitKey', 'destroyAllWindows', 'map', 'print', 'map2']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = None
+  consts[2] = ('List', 'Dict', 'Any', 'Callable')
+  consts[3] = ('logger',)
+  consts[4] = ('ImageProcessingConfig',)
+  consts[5] = ('load_avatars', 'get_avatars', 'replace_avatar', 'load_map_by_code', 'get_map_by_code', 'load_map_by_name', 'get_map_by_name')
+  consts[6] = '..'
+  consts[7] = 'resource'
+  consts[8] = ('mapping_file', 'return')
+  CODE <module>.load_mapping argcount=1 nlocals=2 flags=0x43 co_code=126
+    names=['open', 'os', 'path', 'join', 'RESOURCE_PATH', 'json', 'load', 'FileNotFoundError', 'logger', 'error']
+    varnames=['mapping_file', 'file']
+    consts[0] = '\n    Load a mapping from a JSON file.\n\n    Args:\n        mapping_file: The name of the mapping file.\n\n    Returns:\n        The loaded mapping.\n\n    Raises:\n        FileNotFoundError: If the mapping file is not found.\n    '
+    consts[1] = 'r'
+    consts[2] = 'utf-8'
+    consts[3] = ('encoding',)
+    consts[4] = None
+    consts[5] = ' not found'
+  consts[10] = 'load_mapping'
+  consts[11] = ('resource_name', 'resource_mapping', 'resource_path', 'load_func', 'return')
+  CODE <module>.load_resource argcount=4 nlocals=8 flags=0x43 co_code=212
+    names=['logger', 'error', 'ValueError', 'isinstance', 'str', 'extend', 'glob', 'FileNotFoundError', 'Exception']
+    varnames=['resource_name', 'resource_mapping', 'resource_path', 'load_func', 'resource_filename', 'filepaths', 'filename', 'e']
+    consts[0] = '\n    Load a resource given its name, mapping, path, and a function to load the resource.\n\n    Args:\n        resource_name: The name of the resource.\n        resource_mapping: The mapping from resource names to filenames.\n        resource_path: The path where the resource is stored.\n        load_func: The function to load the resource.\n\n    Returns:\n        The loaded resource.\n\n    Raises:\n        ValueError: If the resource name is not in the mapping.\n        FileNotFoundError: If the resource file is not found.\n    '
+    consts[1] = 'No resource found for name: '
+    consts[2] = ', please check if the name is valid'
+    consts[3] = '/*'
+    consts[4] = '*'
+    consts[5] = 'Error occurred when loading resource: '
+    consts[6] = None
+  consts[13] = 'load_resource'
+  consts[14] = ('resource_name', 'resource_dict', 'return')
+  CODE <module>.get_resource argcount=3 nlocals=3 flags=0x43 co_code=24
+    names=[]
+    varnames=['resource_name', 'resource_dict', 'load_func']
+    consts[0] = '\n    Get a resource from a dictionary. If the resource is not in the dictionary, load it using a function.\n\n    Args:\n        resource_name: The name of the resource.\n        resource_dict: The dictionary where the resource is stored.\n        load_func: The function to load the resource.\n\n    Returns:\n        The resource.\n    '
+  consts[16] = 'get_resource'
+  consts[17] = 'operator_mapping.json'
+  consts[18] = 'OPERATOR_MAPPING'
+  consts[19] = 'level_code_mapping.json'
+  consts[20] = 'LEVEL_CODE_MAPPING'
+  consts[21] = 'level_name_mapping.json'
+  consts[22] = 'LEVEL_NAME_MAPPING'
+  consts[23] = 'avatars'
+  consts[24] = 'maps'
+  consts[25] = ('path', 'return')
+  CODE <module>.process_avatar argcount=1 nlocals=8 flags=0x43 co_code=132
+    names=['cv2', 'imread', 'IMREAD_GRAYSCALE', 'FileNotFoundError', 'resize', 'imgconfig', 'AVATAR_STANDARD_SIZE', 'shape', 'AVATAR_CROP_SIZE']
+    varnames=['path', 'avatar', 'y', 'x', 'cropx', 'cropy', 'startx', 'starty']
+    consts[0] = None
+    consts[1] = 'Image file '
+    consts[2] = ' could not be loaded'
+    consts[3] = 2
+  consts[27] = 'process_avatar'
+  consts[28] = ('oper_name', 'return')
+  CODE <module>.load_avatars argcount=1 nlocals=2 flags=0x43 co_code=74
+    names=['List', 'str', 'np', 'ndarray', 'load_resource', 'OPERATOR_MAPPING', 'os', 'path', 'join', 'RESOURCE_PATH', 'avatars', 'logger', 'info']
+    varnames=['oper_name', 'load_func']
+    consts[0] = None
+    consts[1] = ('paths', 'return')
+    CODE <module>.load_avatars.load_func argcount=1 nlocals=1 flags=0x53 co_code=14
+      names=[]
+      varnames=['paths']
+      consts[0] = None
+      CODE <module>.load_avatars.load_func.<listcomp> argcount=1 nlocals=2 flags=0x53 co_code=20
+        names=['process_avatar']
+        varnames=['.0', 'path']
+      consts[2] = 'load_avatars.<locals>.load_func.<locals>.<listcomp>'
+    consts[3] = 'load_avatars.<locals>.load_func'
+    consts[4] = 'avatar'
+    consts[5] = 'Loaded avatars for '
+  consts[30] = 'load_avatars'
+  consts[31] = ('map_code', 'return')
+  CODE <module>.load_map_by_code argcount=1 nlocals=2 flags=0x43 co_code=76
+    names=['List', 'str', 'Dict', 'Any', 'load_resource', 'LEVEL_CODE_MAPPING', 'os', 'path', 'join', 'RESOURCE_PATH', 'maps', 'logger', 'info']
+    varnames=['map_code', 'load_func']
+    consts[0] = None
+    consts[1] = ('paths', 'return')
+    CODE <module>.load_map_by_code.load_func argcount=1 nlocals=2 flags=0x53 co_code=64
+      names=['open', 'json', 'load']
+      varnames=['paths', 'file']
+      consts[0] = None
+      consts[1] = 0
+      consts[2] = 'r'
+      consts[3] = 'utf-8'
+      consts[4] = ('encoding',)
+    consts[3] = 'load_map_by_code.<locals>.load_func'
+    consts[4] = 'map'
+    consts[5] = 'Loaded map data for '
+  consts[33] = 'load_map_by_code'
+  consts[34] = ('map_name', 'return')
+  CODE <module>.load_map_by_name argcount=1 nlocals=2 flags=0x43 co_code=76
+    names=['List', 'str', 'Dict', 'Any', 'load_resource', 'LEVEL_NAME_MAPPING', 'os', 'path', 'join', 'RESOURCE_PATH', 'maps', 'logger', 'info']
+    varnames=['map_name', 'load_func']
+    consts[0] = None
+    consts[1] = ('paths', 'return')
+    CODE <module>.load_map_by_name.load_func argcount=1 nlocals=2 flags=0x53 co_code=64
+      names=['open', 'json', 'load']
+      varnames=['paths', 'file']
+      consts[0] = None
+      consts[1] = 0
+      consts[2] = 'r'
+      consts[3] = 'utf-8'
+      consts[4] = ('encoding',)
+    consts[3] = 'load_map_by_name.<locals>.load_func'
+    consts[4] = 'map'
+    consts[5] = 'Loaded map data for '
+  consts[36] = 'load_map_by_name'
+  CODE <module>.get_avatars argcount=1 nlocals=1 flags=0x43 co_code=12
+    names=['get_resource', 'avatars', 'load_avatars']
+    varnames=['oper_name']
+    consts[0] = None
+  consts[38] = 'get_avatars'
+  CODE <module>.get_map_by_code argcount=1 nlocals=1 flags=0x43 co_code=12
+    names=['get_resource', 'maps', 'load_map_by_code']
+    varnames=['map_code']
+    consts[0] = None
+  consts[40] = 'get_map_by_code'
+  CODE <module>.get_map_by_name argcount=1 nlocals=1 flags=0x43 co_code=12
+    names=['get_resource', 'maps', 'load_map_by_name']
+    varnames=['map_name']
+    consts[0] = None
+  consts[42] = 'get_map_by_name'
+  consts[43] = ('oper_name', 'avatar', 'return')
+  CODE <module>.replace_avatar argcount=2 nlocals=2 flags=0x43 co_code=14
+    names=['avatars']
+    varnames=['oper_name', 'avatar']
+    consts[0] = None
+  consts[45] = 'replace_avatar'
+  consts[46] = '__main__'
+  consts[47] = '弦惊'
+  consts[48] = 'avatar'
+  consts[49] = 'LS-5'
+  consts[50] = 'view'
+  consts[51] = '淤浊沼泽'

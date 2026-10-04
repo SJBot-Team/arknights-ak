@@ -1,0 +1,291 @@
+<templatestyles src="关卡一览/styles.css" />
+{{#Widget:Collapsible-block/lazyload/head}}
+{{Ads|normal}}{{Ads/mobile}}
+==限时活动关卡==
+{{#lst:愚人节活动|愚人节活动}}
+{{#vardefine:eventtable|{{#ask:[[分类:有活动信息的页面]][[!分类:集成战略]]|?名称缩短|?活动开始时间#ISO|?活动结束时间#ISO|sort=活动开始时间|order=DESC|format=template|template=活动关卡/show|searchlabel=}}}}{{参阅|关卡一览/活动关卡|全部活动关卡}}
+{{#ifexpr:{{#len:{{#var:eventtable}}}}>23|{{#var:eventtable}}|<span class="nomobile">[[文件:头像 system 100 mys.png|70px|link=]]<span style="background: #414141; color: #b0b0b0; padding: 2px 5px; border-left: #208BB9 5px solid; box-shadow: 0 2px 5px 0px #00000091;">//stay tuned :) something novel is coming</span></span><table class="nodesktop" style="width:100%;text-align:center;display:inline-table;"><tr><td>[[文件:头像 system 100 mys.png|70px|link=]]</td></tr><tr><td><span style="background: #414141; color: #b0b0b0; padding: 2px 5px; border-left: #208BB9 5px solid; box-shadow: 0 2px 5px 0px #00000091;">//stay tuned :) something novel is coming</span></td></tr></table>}}
+
+==曲谱==
+自主题曲第十五章实装起，原【主题曲】【插曲】【别传】及【故事集】合并为曲谱。
+* 取消按活动形式的“主题曲”“插曲”“别传”“故事集”分类，改为按故事线分类的【乐章】。
+* 不再区分“主题曲章节”与“活动”，统一表述为【章节】。
+调整后，若干个直接相关的【章节】将一并收录至对应的【乐章】，【乐章】之间会以导入/导出分支的方式互相关联。
+
+玩家可以通过曲谱右上角的【乐章收录】按钮进入章节总览页面。
+* 进入后，可通过右上角开关切换章节的分类方式（按乐章分类/按开启时间分类）。
+* 点击上方进度显示切换，可快速查看各章节的完成进度或奖励获取进度。
+当玩家进入某个章节后，底部将显示章节切换标签，点击后可快速切换至其它章节。
+
+{{Cbox2|mdi=true|icon=bookshelf|text='''为保持数据分类清晰度，本站保留【主题曲】【插曲】【别传】的分类查询。'''其中：
+*【主题曲】对应曲谱乐章【Main Story/主题曲 为了明日】；
+*【插曲】将改为'''记录与【主题曲】乐章 ''直接'' 相连的曲谱乐章及其章节'''；
+*【别传】将改为'''记录与【主题曲】乐章 ''不直接'' 相连的曲谱乐章及其章节'''。
+曲谱将仅用于时间线排序展示，点击曲谱的内容将跳转到对应的收录页面/小节。<br>如需了解曲谱内容，您也可以查阅[[关卡一览/曲谱]]页面。
+{{mdi|information}} 该标准为测试阶段，在未来可能会出现变更。
+}}
+
+==主题曲==
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;background:#747577;"| [[文件:图标_主题曲.png|link=]] 
+| <span style="padding-left:10px">主线故事的关卡。</span>
+|}
+{{参阅|关卡一览/主题曲|主题曲章节、关卡、记录点奖励及收藏、主线特殊系统等内容}}
+
+==插曲==
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_插曲.png|link=]] 
+| <span style="padding-left:10px">和主线有紧密联系的SideStory活动关卡。
+* 活动首次开放结束后立刻收录至此处。复刻活动期间，【曲谱】中的活动入口变更为复刻活动入口，活动结束后还原。
+* 删除了活动配套的商店、任务、限定奖励和代币掉落，部分材料掉落相较于原活动有更改。非活动期间不可获得蚀刻章，活动复刻结束后永久无法获得蚀刻章。
+* 如未曾体验过某个插曲的关卡，则需要消耗1个[[事相结晶|{{color|orange|事相结晶}}]]以解锁该插曲。</span>
+* 对于开放了“记录修复”功能的插曲，完成该插曲系列关卡（不含剧情、教程关卡）积累评价星数（2星/3星，突袭/遭遇战记为4星）可获取该活动的限定奖励，详情请查阅该插曲的“记录修复奖励”。
+|}
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|bookmark-multiple}} 展开 插曲|title2={{mdi|bookmark-outline}} 收起 插曲|pageName=关卡一览/插曲}}
+
+==别传==
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_别传.png|link=]] 
+| <span style="padding-left:10px">其它的SideStory活动关卡。
+* 仅在复刻结束后收录至此处。
+* 删除了活动配套的商店、任务、限定奖励和代币掉落，部分材料掉落和理智消耗相较于原活动有更改。不可通过相关关卡获得蚀刻章。
+* 如未曾体验过某个别传的关卡，则需要消耗1个[[事相结晶|{{color|orange|事相结晶}}]]以解锁该别传。</span>
+* 对于开放了“记录修复”功能的别传，完成该别传系列关卡（不含剧情、教程关卡）积累评价星数（2星/3星，突袭/遭遇战记为4星）可获取该活动的限定奖励，详情请查阅该别传的“记录修复奖励”。
+|}
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|file-multiple}} 展开 别传|title2={{mdi|file}} 收起 别传|pageName=关卡一览/别传}}
+==资源收集==
+原“物资筹备”和“芯片搜索”合并至此处。
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|package-variant-closed}} 展开 资源收集|title2={{mdi|package-variant}} 收起 资源收集|pageName=关卡一览/资源收集}}
+==常态事务==
+{{:关卡一览/常态事务}}
+
+==长期探索==
+===集成战略===
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_集成战略.png|link=]]
+| <span style="padding-left:10px">采用充满随机性的Roguelike玩法，分主题且一段时间内每月更新的探索型常驻活动。
+* 详情请查阅[[集成战略|{{color|orange|集成战略}}]]专题页面。</span>
+|}
+
+{| class="wikitable" style="text-align:center;width:850px;display:table;"
+!colspan="4" style="background-color:#373737;color:white;"|<big><big>集成战略</big></big>
+|-
+!<big>{{mdi|autorenew|spin=1}} 最新主题</big>
+|-
+|<div style="display:flex;flex-direction: row;flex-wrap: wrap;align-items: center;justify-content: space-evenly;">
+<div style="box-shadow: 0 0 10px 0px #5f5f5f; display: inline-block;">[[文件:集成战略 入口 7.png|250px|link=沉沦者的黑流树海]]</div>
+<div><div><big>'''[[沉沦者的黑流树海]]'''</big><br><!--{{mdi|checkbox-marked}} -->2026/07/17 正式上线<br><span style="font-size:smaller;">黑流之下，树海之中，埋藏着不止一个秘密。<br>阴谋家和探险者恣意出入，侵扰此地，沉沦其中。<br>保持清醒，否则你也将永远成为其中一员。<hr></span></div><div>{{mdi|bookmark}} 常驻奖励：[[沉沦者的黑流树海#源流堆栈|源流堆栈]]<br>{{mdi|clock}} 限时奖励：[[沉沦者的黑流树海#本月委托栏|本月委托栏（源流样本）]]、[[沉沦者的黑流树海#实践者列表|实践者列表（源流样本）]]</div></div>
+</div>
+|-
+|style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed mw-collapsible-title-center" style="width:100%;margin:0;display:table;text-align:center;table-layout:fixed;"
+!style="text-align:center;background-color:#bdbdbd;color:#424242;"|<big>{{mdi|checkbox-marked}} 已完结 {{popup|颜色=#424242|内容=除“刻俄柏的灰蕈迷境”外，已完结的主题依旧能够游玩，其中的一些奖励仍会常驻，另一部分则会消失。}}</big>
+|-style="background:#2f2f2f;"
+| style="border:none;"|<div style="display: grid;grid-template-columns: repeat(3, 1fr);justify-items: center;align-items: center;">
+<div style="box-shadow: 0 0 10px 0px #5f5f5f;">[[文件:集成战略 入口 6.png|190px|link=岁的界园志异]]</div>
+<div style="box-shadow: 0 0 10px 0px #5f5f5f;">[[文件:集成战略 入口 5.png|190px|link=萨卡兹的无终奇语]]</div>
+<div style="box-shadow: 0 0 10px 0px #5f5f5f;">[[文件:集成战略 入口 4.png|190px|link=探索者的银凇止境]]</div>
+<div style="box-shadow: 0 0 10px 0px #5f5f5f;">[[文件:集成战略 入口 3.png|190px|link=水月与深蓝之树]]</div>
+<div style="box-shadow: 0 0 10px 0px #5f5f5f;">[[文件:集成战略 入口 2.png|190px|link=傀影与猩红孤钻]]</div>
+<div style="margin: 5px;">[[文件:活动图标 刻俄柏的灰蕈迷境.png|200px|link=刻俄柏的灰蕈迷境]]</div>
+</div>
+|}
+|}
+
+===生息演算===
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_生息演算.png|link=]] 
+| <span style="padding-left:10px">采用强调决策性的回合制经营玩法，分主题且一段时间内每月更新的探索型常驻活动。
+* 详情请查阅[[生息演算|{{color|orange|生息演算}}]]专题页面。</span>
+|}
+
+{| class="wikitable" style="text-align:center;width:850px;display:table;"
+!colspan="4" style="background-color:#373737;color:white;"|<big><big>生息演算</big></big>
+|-
+!<big>{{mdi|autorenew|spin=1}} 最新主题</big>
+|-
+|<div style="display:flex;flex-direction: row;flex-wrap: wrap;align-items: center;justify-content: space-evenly;">
+<div style="display: inline-block; position: relative;">[[文件:活动名称 重启锚点.png|300px|link=重启锚点]]</div>
+<div><div><big>'''[[重启锚点]]'''</big><br><!--{{mdi|checkbox-marked}}<-（更新完成后添加）--> 2026/5/15 正式上线<br><span style="font-size:smaller;">维多利亚的东南边境，从一个最基础的移动地块开始。<br>你相信，大家能搭建起一个新的家园，拥抱充满希望的明日。<hr></span></div><div>{{mdi|bookmark}} 常驻奖励：[[重启锚点#罗德岛采购平台|采购平台]]</div></div>
+</div>
+|-
+|style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed mw-collapsible-title-center" style="width:100%;margin:0;display:table;text-align:center;table-layout:fixed;"
+!style="text-align:center;background-color:#bdbdbd;color:#424242;"|<big>{{mdi|checkbox-marked}} 已完结 {{popup|颜色=#424242|内容=除“沙中之火”外，已完结的主题依旧能够游玩，其中的一些奖励仍会常驻，另一部分则会消失。}}</big>
+|-style="background:#2f2f2f;"
+|style="border:none;"|<div style="display: grid;grid-template-columns: repeat(3, 1fr);justify-items: center;align-items: center;">
+<div style="margin: 5px;">[[文件:活动名称 沙洲遗闻.png|200px|link=沙洲遗闻]]</div>
+<div style="margin: 5px;">[[文件:活动名称 沙中之火.png|200px|link=沙中之火]]</div>
+</div>
+|}
+|}
+
+==周期挑战==
+===全息作战矩阵===
+<noinclude>{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_全息作战矩阵.png|link=]] 
+| <span style="padding-left:10px">以危机合约为蓝本，重构往期关卡的突破型自我挑战常驻活动。详情请查阅[[全息作战矩阵|{{color|orange|全息作战矩阵}}]]专题页面。</span>
+|}</noinclude>
+{| class="wikitable" style="text-align:center;width:850px;display:table;"
+!colspan=5 style="text-align:center;color:#fff;background:linear-gradient(90deg, #0000 35%, #3f4953 35% 65%, #0000 65%), linear-gradient(90deg, #0000 28%, #5990b7 35% 65%, #0000 72%), linear-gradient(180deg, #dee0e2, #a1a6ab 80%, #dee0e2 80%, #cad3d9);position:relative;"|<big><big>全息作战矩阵</big></big>
+|-
+|colspan=5 style="padding:0"|
+{| class="wikitable" style="text-align:center;width:100%;display:table;margin:0;table-layout:fixed;"
+!colspan=4 style="text-align:left;"|<big>最新批次 #2</big>
+|-
+|[[全息M8-8|全息M8-8<br>#苏醒，浮出梦乡]]
+|[[全息11-6|全息11-6<br>#演绎文明]]
+|[[全息H6-3|全息H6-3<br>#冰狱行动-3]]
+|[[全息H11-1|全息H11-1<br>#尘霾行动-1]]
+|-style="background:#8c621c;color:#fff;"
+|'''批次大奖'''
+|colspan=3|{{mdi|hexagon}} 蚀刻章×3 = {{家具|饰牌《尘环》|px=40}} {{!}} {{mdi|hexagon|color=#888ec1}} 镀层×3 = [[文件:场景 覆尘 道具.png|40px|link=首页场景一览#覆尘]]
+|}
+|-
+|colspan=5 style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;width:100%;display:table;margin:0;table-layout:fixed;"
+!colspan=4 style="text-align:left;background: linear-gradient(45deg, #6b151e, #eaebee 10em);color: #fff;"|重构批次 #1
+|-
+|[[全息7-18|全息7-18<br>#爱国者之死]]
+|[[全息LS-4|全息LS-4<br>#特种战演习]]
+|[[全息H5-1|全息H5-1<br>#炼狱行动-1]]
+|[[全息H9-2|全息H9-2<br>#暴风行动-2]]
+|-style="background:#6b151e;color:#fff;"
+|'''批次大奖'''
+|colspan=3|{{mdi|hexagon}} 蚀刻章×3 = {{家具|饰牌《利刃》|px=40}} {{!}} {{mdi|hexagon|color=#888ec1}} 镀层×3 = [[文件:场景 密约 道具.png|40px|link=首页场景一览#密约]]
+|}
+|}
+
+===危机合约===
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_危机合约_3.png|link=]] 
+| <span style="padding-left:10px">以赛季模式定时开放的突破型自我挑战常驻活动。详情请查阅[[危机合约|{{color|orange|危机合约}}]]专题页面。</span>
+|}
+* 本部分记录的是'''历次危机合约曾出现过的行动地图'''。若要查阅'''各个赛季的行动地点'''，请转到[[关卡一览/活动关卡]]或[[危机合约]]页面查阅各赛季详情。
+{| class="wikitable" style="text-align:center;width:850px;display:table;;"
+!colspan="4" style="background-color:#494949;color:white;"|<big><big>危机合约</big></big> 作战赛季记录
+|-
+|width=25%|[[玻利瓦尔 翻修中沙滩|玻利瓦尔<br>翻修中沙滩]]
+|width=25%|[[维多利亚 淤浊沼泽|维多利亚<br>淤浊沼泽]]
+|width=25%|[[切尔诺伯格 13区废墟|切尔诺伯格<br>13区废墟]]
+|width=25%|[[哥伦比亚 实验基地封锁区|哥伦比亚<br>实验基地封锁区]]
+|-
+|[[大炎 设防关隘|大炎<br>设防关隘]]
+|[[哥伦比亚 联邦监狱|哥伦比亚<br>联邦监狱]]
+|[[维多利亚 灰烬泽地|维多利亚<br>灰烬泽地]]
+|[[伊比利亚 不朽厅堂|伊比利亚<br>不朽厅堂]]
+|-
+|[[莱塔尼亚 月落环巷|莱塔尼亚<br>月落环巷]]
+|[[维多利亚 枯苇泥淖|维多利亚<br>枯苇泥淖]]
+|[[维多利亚 浸血焦土|维多利亚<br>浸血焦土]]
+|[[谢拉格 蚀裂冰湖|谢拉格<br>蚀裂冰湖]]
+|-
+|[[莱塔尼亚 落尘狭路|莱塔尼亚<br>落尘狭路]]
+|[[哥伦比亚 滞空焦点|哥伦比亚<br>滞空焦点]]
+|[[卡兹戴尔 熔炉检修口|卡兹戴尔<br>熔炉检修口]]
+|[[维多利亚 巫诅骸地|维多利亚<br>巫诅骸地]]
+|-
+|[[大炎 墨染书阁|大炎<br>墨染书阁]]
+|[[哥伦比亚 阴郁影棚|哥伦比亚<br>阴郁影棚]]
+|[[乌萨斯 血刺坑道|乌萨斯<br>血刺坑道]]
+|
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed mw-collapsible-title-center" style="text-align:center;width:850px;display:table;;"
+|-
+!width=25% style="background-color:#987040;color:white;"|[[文件:图标_危机合约_2.png|link=|x45px]]
+!colspan="4" style="background-color:#987040;color:white;"|<big>危机合约</big> 经典行动记录
+|-
+|[[龙门外环 荒芜广场|龙门外环<br>荒芜广场]]
+|width=25%|[[龙门外环 无人危楼|龙门外环<br>无人危楼]]
+|width=25%|[[切尔诺伯格 59区废墟|切尔诺伯格<br>59区废墟]]
+|width=25%|[[未知沙漠 荒漠|未知沙漠<br>荒漠]]
+|-
+|[[龙门 新街|龙门<br>新街]]
+|[[龙门 中转站|龙门<br>中转站]]
+|[[龙门外环 霜冻废墟|龙门外环<br>霜冻废墟]]
+|[[切尔诺伯格 破碎大道|切尔诺伯格<br>破碎大道]]
+|-
+|[[荒野 黄铁峡谷|荒野<br>黄铁峡谷]]
+|[[龙门 军械库东|龙门<br>军械库东]]
+|[[切尔诺伯格 荒废工厂|切尔诺伯格<br>荒废工厂]]
+|[[切尔诺伯格 6区废墟|切尔诺伯格<br>6区废墟]]
+|-
+|[[荒野 风蚀高地|荒野<br>风蚀高地]]
+|[[哥伦比亚 闭锁监狱|哥伦比亚<br>闭锁监狱]]
+|[[荒野 无序矿区|荒野<br>无序矿区]]
+|[[卡西米尔 八号竞技场|卡西米尔<br>八号竞技场]]
+|-
+|[[切尔诺伯格 遗弃地块|切尔诺伯格<br/>遗弃地块]]
+|[[荒野 狂嚎沙原|荒野<br/>狂嚎沙原]]
+|[[荒野 炽热溶洞|荒野<br/>炽热溶洞]]
+|[[炎国 灰齐山麓|炎国<br/>灰齐山麓]]
+|-
+|[[萨尔贡 沙海遗迹|萨尔贡<br/>沙海遗迹]]
+|[[卡西米尔 大骑士领酒吧街|卡西米尔<br/>大骑士领酒吧街]]
+|[[炎国 尚蜀山道|炎国<br>尚蜀山道]]
+|[[伊比利亚 盐风溶洞|伊比利亚<br>盐风溶洞]]
+|-
+|[[维多利亚 小丘郡物流站|维多利亚<br>小丘郡物流站]]
+|[[维多利亚 伦蒂尼姆边缘区块|维多利亚<br>伦蒂尼姆边缘区块]]
+|[[乌萨斯 冻原矿场|乌萨斯<br/>冻原矿场]]
+|[[玻利瓦尔 在建沙滩|玻利瓦尔<br/>在建沙滩]]
+|-
+|[[维多利亚 迷雾战区|维多利亚<br/>迷雾战区]]
+|[[荒野 无名庇护所|荒野<br/>无名庇护所]]
+|
+|
+|}
+
+===矢量突破===
+{| class="wikitable" style="width:100%;max-width:800px;white-space:normal;display:table;background:#343434;color:white;"
+|-
+! style="width:40px;vertical-align:top;background:#747577;"| [[文件:图标_矢量突破_终端.png|link=]] 
+| <span style="padding-left:10px">以赛季模式定时开放的驻防型自我挑战常驻活动。详情请查阅[[矢量突破|{{color|orange|矢量突破}}]]专题页面。</span>
+|}
+
+==悖论模拟==
+* 获得对应干员并达成一定条件之后即可解锁的专属关卡，需通过对应干员的档案页面进入。
+* 可在干员列表右上角的自定义排序中选择“悖论模拟”排序快速查询所有干员的悖论模拟关卡的解锁和通关状态。存在已解锁但未通关的关卡时会带有数字提醒。
+{{#Widget:Collapsible-block/lazyload|title1={{mdi|rhombus}} 展开 悖论模拟|title2={{mdi|rhombus-outline}} 收起 悖论模拟|pageName=关卡一览/悖论模拟}}
+==训练场==
+* 关于部分常见进阶机制的训练关卡。
+: 各训练场关卡首次通关时可获得{{道具图标|合成玉|200|40px}}。
+* 通关主题曲[[3-8]]解锁，通过【档案 - 训练场】以访问。
+{| class="wikitable" style="text-align:center;width:850px;display:table;"
+!colspan="4" style="background-color:#0086be;color:white;"|<big><big>训练场</big></big>
+|-
+|width=25%|{{关卡链接|CH-1}}
+|width=25%|{{关卡链接|CH-2}}
+|width=25%|{{关卡链接|CH-3}}
+|width=25%|{{关卡链接|CH-4}}
+|-
+|{{关卡链接|CH-5}}
+|{{关卡链接|CH-6}}
+|{{关卡链接|CH-7}}
+|
+|}<!--
+==全部关卡==
+{{#dpl:
+|category = 剿灭关卡
+|ordermethod = titlewithoutnamespace
+|order = ascending
+}}
+{{#dpl:
+|category = 普通难度关卡
+|ordermethod = titlewithoutnamespace
+|order = ascending
+}}
+-->{{#seo:
+|title=关卡一览 - PRTS - 玩家共同构筑的明日方舟中文Wiki
+|titlemode=append
+|keywords=PRTS,明日方舟,明日方舟Arknights,Arknights,明日方舟wiki,明日方舟百科,明日方舟攻略,明日方舟图鉴,明日方舟,明日方舟资料站
+|description=PRTS是一个非营利性质的明日方舟资料Wiki网站
+}}

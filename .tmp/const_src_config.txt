@@ -1,0 +1,79 @@
+CODE <module> argcount=0 flags=0x40 names=['MuMuEmulatorConfig', b'e\x00Z\x01d\x00Z\x02d\x01Z\x03d\x02Z\x04d\x03Z\x05d\x04Z\x06d\x05Z\x07d\x06Z\x08d\x07Z\td\x08Z\nd\tZ\x0bd\nZ\x0cd\x0bZ\rd\x0cZ\x0ed\rZ\x0fd\x0eS\x00', <code b'e\x00Z\x01d\x00Z\x02d\x01Z\x03d\x02Z\x04d\x03Z\x05d\x04Z\x06d\x05Z\x07d\x06Z\x08d\x07Z\td\x08Z\nd\tZ\x0bd\nZ\x0cd\x0bZ\rd\x0cZ\x0ed\rZ\x0fd\x0eS\x00' consts=15 names=16>, b'\x08\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01', 'FAR', ('__name__', '__module__', '__qualname__', 'TICK_MAX_DEFAULT')]
+  CODE <module>.MuMuEmulatorConfig argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'DEFAULT_COORDINATES', 'WINDOW_NAME', 'SUB_WINDOW_NAME', 'WM_XBUTTONDOWN', 'WM_XBUTTONUP', 'XBUTTON1', 'XBUTTON2']
+    const 'MuMuEmulatorConfig'
+    const 6553700
+    const 'MuMu模拟器12'
+    const 'MuMuPlayer'
+    const 523
+    const 524
+    const 65536
+    const 131072
+    const None
+  const 'MuMuEmulatorConfig'
+  CODE <module>.b'e\x00Z\x01d\x00Z\x02d\x01Z\x03d\x02Z\x04d\x03Z\x05d\x04Z\x06d\x05Z\x07d\x06Z\x08d\x07Z\td\x08Z\nd\tZ\x0bd\nZ\x0cd\x0bZ\rd\x0cZ\x0ed\rZ\x0fd\x0eS\x00' argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'COST_AREA_RATIO', 'COST_NUMBER_AREA_RATIO', 'OPERATOR_AREA_RATIO', 'LAST_OPER_RATIO', 'RETREAT_RATIO', 'SKILL_RATIO', 'START_BUTTON_RATIO', 'SPEED_BUTTON_RATIO', 'PAUSE_BUTTON_RATIO', 'DIRECTION_RATIO', 'DEPLOY_DRAG_RATIO', 'DEPLOY_DELTA_RATIO', 'OPERATOR_SELECTED_RATIO']
+    const 'GameRatioConfig'
+    const (0.906, 0.685, 1, 0.755)
+    const (0.33, 0, (0.906, 0.685, 1, 0.755), 0.9)
+    const ((0.33, 0, (0.906, 0.685, 1, 0.755), 0.9), 0.8, (0.906, 0.685, 1, 0.755), (0.906, 0.685, 1, 0.755))
+    const (0.95, 0)
+    const (0.4569, 0.3352)
+    const (0.6412, 0.5857)
+    const (0.87, 0.74)
+    const (0.86, 0.07)
+    const (0.94, (0.86, 0.07))
+    const 0.2
+    const 0.03
+    const 0.02
+    const 0
+    const None
+  const b'e\x00Z\x01d\x00Z\x02d\x01Z\x03d\x02Z\x04d\x03Z\x05d\x04Z\x06d\x05Z\x07d\x06Z\x08d\x07Z\td\x08Z\nd\tZ\x0bd\nZ\x0cd\x0bZ\rd\x0cZ\x0ed\rZ\x0fd\x0eS\x00'
+  CODE <module>.<code b'e\x00Z\x01d\x00Z\x02d\x01Z\x03d\x02Z\x04d\x03Z\x05d\x04Z\x06d\x05Z\x07d\x06Z\x08d\x07Z\td\x08Z\nd\tZ\x0bd\nZ\x0cd\x0bZ\rd\x0cZ\x0ed\rZ\x0fd\x0eS\x00' consts=15 names=16> argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'WHITE_THRESHOLD', 'SCREEN_STANDARD_SIZE', 'AVATAR_STANDARD_SIZE', 'AVATAR_CROP_SIZE', 'OCR_CONFIDENCE_THRESHOLD', 'TEMPLATE_MATCH_THRESHOLD', 'DARK_THRESHOLD', 'BRIGHT_THRESHOLD']
+    const 'ImageProcessingConfig'
+    const 160
+    const (1280, 720)
+    const (120, (1280, 720))
+    const (60, 120)
+    const 120
+    const ((0.33, 0, (0.906, 0.685, 1, 0.755), 0.9), 0.8, (0.906, 0.685, 1, 0.755), (0.906, 0.685, 1, 0.755))
+    const 30
+    const 67
+    const None
+  CODE <module>.b'e\x00Z\x01d\x00Z\x02d\x01Z\x03d\x02Z\x04d\x03Z\x05d\x04Z\x06d\x05Z\x07d\x06Z\x08d\x07Z\td\x08Z\nd\tZ\x0bd\nZ\x0cd\x0bZ\rd\x0cZ\x0ed\rZ\x0fd\x0eS\x00' argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'COST_AREA_RATIO', 'COST_NUMBER_AREA_RATIO', 'OPERATOR_AREA_RATIO', 'LAST_OPER_RATIO', 'RETREAT_RATIO', 'SKILL_RATIO', 'START_BUTTON_RATIO', 'SPEED_BUTTON_RATIO', 'PAUSE_BUTTON_RATIO', 'DIRECTION_RATIO', 'DEPLOY_DRAG_RATIO', 'DEPLOY_DELTA_RATIO', 'OPERATOR_SELECTED_RATIO']
+    const 'GameRatioConfig'
+    const (0.906, 0.685, 1, 0.755)
+    const (0.33, 0, (0.906, 0.685, 1, 0.755), 0.9)
+    const ((0.33, 0, (0.906, 0.685, 1, 0.755), 0.9), 0.8, (0.906, 0.685, 1, 0.755), (0.906, 0.685, 1, 0.755))
+    const (0.95, 0)
+    const (0.4569, 0.3352)
+    const (0.6412, 0.5857)
+    const (0.87, 0.74)
+    const (0.86, 0.07)
+    const (0.94, (0.86, 0.07))
+    const 0.2
+    const 0.03
+    const 0.02
+    const 0
+    const None
+  CODE <module>.b'\x08\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01' argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'FROM_RATIO', 'TO_RATIO', 'NEAR', 'FAR']
+    const 'ViewCalculationConfig'
+    const 0.5625
+    const 0.75
+    const 0.3
+    const 1000
+    const None
+  const b'\x08\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01\x04\x01'
+  CODE <module>.FAR argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'TICK_MAX_DEFAULT']
+    const 'GameTimeConfig'
+    const (60, 120)
+    const None
+  const 'FAR'
+  CODE <module>.('__name__', '__module__', '__qualname__', 'TICK_MAX_DEFAULT') argcount=0 flags=0x40 names=['__name__', '__module__', '__qualname__', 'BULLET_THRESHOLD', 'FRAME_THRESHOLD', 'MINIMUM_WAITTIME', 'FRAME_WAITTIME', 'GENERAL_WAITTIME']
+    const 'PerformActionConfig'
+    const 15
+    const 2
+    const 0.03
+    const 0.1
+    const 'ViewCalculationConfig'
+    const None
+  const ('__name__', '__module__', '__qualname__', 'TICK_MAX_DEFAULT')
+  const None

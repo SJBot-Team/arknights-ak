@@ -1,0 +1,916 @@
+汉语拼音	官方汉语命名	代码层ID	一句话说明	知识库地址	玩家俗称	来源	英文名	日文名	韩文名	繁中名	职业	分支	位置	星级	攻击范围ID	排序号	备注
+yiliaotanji	医疗探机	token_10000_silent_healrb				MAA resource/battle_data.json · chars	Medic Drone	医療ドローン	메딕프로브	醫療探機	TOKEN	notchar1	ALL	5	x-4/x-4/x-4	1178	
+chushou	触手	token_10001_deepcl_tentac				MAA resource/battle_data.json · chars	Tentacle	触手	촉수	觸手	TOKEN	notchar1	MELEE	4	0-1/0-1/0-1	164	
+mon3tr	Mon3tr	token_10002_kalts_mon3tr				MAA resource/battle_data.json · chars	Mon3tr	Mon3tr	Mon3tr	Mon3tr	TOKEN	notchar1	MELEE	6	1-1/1-1/1-1	707	非中文名（拼音列填小写原名，只为统一检索）
+huanying	幻影	token_10003_cgbird_bird				MAA resource/battle_data.json · chars	Mirage	幻影	환영	幻影	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	403	
+jixieshuita	机械水獭	token_10004_otter_motter				MAA resource/battle_data.json · chars	Robotter	メカ・カワウソ	기계수달	機械水獺	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	523	
+longtengf	龙腾.F	token_10005_mgllan_drone1				MAA resource/battle_data.json · chars	Soaring Dragon F	DDF・F	드래곤플라이.F	龍騰.F	TOKEN	notchar1	ALL	6	x-4/x-4/x-4	641	
+longtengl	龙腾.L	token_10005_mgllan_drone2				MAA resource/battle_data.json · chars	Soaring Dragon L	DDF・L	드래곤플라이.L	龍騰.L	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	642	
+longtenga	龙腾.A	token_10005_mgllan_drone3				MAA resource/battle_data.json · chars	Soaring Dragon A	DDF・A	드래곤플라이.A	龍騰.A	TOKEN	notchar1	RANGED	6	3-6/3-6/3-6	640	
+zuzhouwawa	诅咒娃娃	token_10006_vodfox_doll				MAA resource/battle_data.json · chars	Cursed Doll	呪いの人形	저주인형	詛咒娃娃	TOKEN	notchar1	ALL	5	x-4/x-4/x-4	1372	
+jingzhongxuying	镜中虚影	token_10007_phatom_twin				MAA resource/battle_data.json · chars	Phantom in the Mirror	鏡映虚影	거울 속의 환영	鏡中虛影	TOKEN	executor	MELEE	6	1-1/1-1/1-1	508	
+cimianxiangdi	此面向敌	token_10008_cqbw_box				MAA resource/battle_data.json · chars	Front Toward Enemy	サプライズ！	적 방향	此面向敵	TOKEN	notchar1	ALL	6	0-1/0-1/0-1	167	
+gongchengxushuipao	工程蓄水炮	token_10009_weedy_cannon				MAA resource/battle_data.json · chars	Industrial Water Cannon	工事用蓄水砲	공학용 저수포	工程蓄水炮	TOKEN	notchar1	ALL	6	3-2/3-2/3-2	329	
+yidongsheyingqi	移动摄影器	token_10010_folivo_car				MAA resource/battle_data.json · chars	Mobile Buggy Cam	撮影ロボット	이동촬영기	移動攝影器	TOKEN	notchar1	MELEE	5	1-1/1-1/1-1	1171	
+shazhibei	沙之碑	token_10011_beewax_oblisk				MAA resource/battle_data.json · chars	Sand Obelisk	砂の碑	사막의 오벨리스크	沙之碑	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	846	
+midiexiangdezhanshuzhuangbei	迷迭香的战术装备	token_10012_rosmon_shield				MAA resource/battle_data.json · chars	Rosmontis's Tactical Equipment	ロスモンティスの戦術装備	로즈몬티스의 전술 장비	迷迭香的戰術裝備	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	685	
+jiazi	“夹子”	token_10013_robin_mine				MAA resource/battle_data.json · chars	'Clip'	「クリップ」	'클립'	“夾子”	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	459	
+panxiehuweidui	磐蟹护卫队	token_10014_bstalk_crab				MAA resource/battle_data.json · chars	Metal Crab Guard Team	ハガネガニ守備隊	메탈 크랩 호위대	磐蟹護衛隊	TOKEN	notchar1	MELEE	4	0-1/0-1/0-1	752	
+xiaozizai	“小自在”	token_10015_dusk_drgn				MAA resource/battle_data.json · chars	'Freeling'	「小自在」	'작은 즈자이'	“小自在”	TOKEN	notchar1	MELEE	6	x-5/x-5/x-5	1065	
+yingbintadian	迎宾踏垫	token_10016_rfrost_mine				MAA resource/battle_data.json · chars	Welcome Mat	ウェルカムマット	전술 함정	迎賓踏墊	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	1185	
+sikadidehaisi	斯卡蒂的海嗣	token_10017_skadi2_dedant				MAA resource/battle_data.json · chars	Skadi's Seaborn	スカジのシーボーン	스카디의 시본	斯卡蒂的海嗣	TOKEN	notchar1	ALL	6	x-4/x-4/x-4	925	
+quanzidongzaoxingyi	全自动造型仪	token_10018_robrta_mach				MAA resource/battle_data.json · chars	Full Auto Modeler	メイクアップマシン	전자동 스타일러	全自動造型儀	TOKEN	notchar1	ALL	4	1-1/1-1/1-1	804	
+yaoyang	“耀阳”	token_10019_nearl2_sword				MAA resource/battle_data.json · chars	'Blazing Sun'	「ブレイジング・サン」	'눈 부신 태양'	“耀陽”	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	1151	
+qingping	“清平”	token_10020_ling_soul1				MAA resource/battle_data.json · chars	'Tranquility'	「清平」	'칭핑'	“清平”	TOKEN	notchar1	MELEE	6	1-1/1-1/1-1	781	
+xiaoyao	“逍遥”	token_10020_ling_soul2				MAA resource/battle_data.json · chars	'Peripateticism'	「逍遥」	'샤오야오'	“逍遙”	TOKEN	notchar1	RANGED	6	3-1/3-1/3-1	1064	
+xianjing	“弦惊”	token_10020_ling_soul3	**令的召唤物**；案例里首个落地单位（38.83 s）	04/41e §7.121	弦惊	MAA resource/battle_data.json · chars	'Thunderer'	「弦驚」	'시엔징'	“弦驚”	TOKEN	notchar1	MELEE	6	1-1/1-1/1-1	1054	
+mianshou	眠兽	token_10021_blkngt_hypnos				MAA resource/battle_data.json · chars	Slumberfoot	眠獣	슬럼버풋	眠獸	TOKEN	notchar1	MELEE	5	x-5/x-5/x-5	681	
+zhiou	纸偶	token_10022_kazema_shadow				MAA resource/battle_data.json · chars	Kaminingyo	紙人形	종이 인형	紙偶	TOKEN	notchar1	MELEE	5	x-4/x-4/x-4	1331	
+kekaodianchi	可靠电池	token_10023_windft_wrench				MAA resource/battle_data.json · chars	Reliable Battery	高信頼性バッテリー	안정적인 배터리	可靠電池	TOKEN	notchar1	ALL	5	1-1/1-1/1-1	559	
+jiuricanying	旧日残影	token_10024_ebnhlz_rcube				MAA resource/battle_data.json · chars	Remnants of Days Past	過去の残像	지난날의 잔상	舊日殘影	TOKEN	notchar1	ALL	6	0-1/0-1/0-1	518	
+gongzhenzhuangzhi	共振装置	token_10025_doroth_recttp				MAA resource/battle_data.json · chars	Resonator	共振装置	공진 장치	共振裝置	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	334	
+daziji	“打字机”	token_10026_bgsnow_subbow				MAA resource/battle_data.json · chars	'Typewriter'	「タイプライター」	'타자기'	“打字機”	TOKEN	notchar1	RANGED	6	3-2/3-2/3-2	202	
+baitieduogongnengpingtai	白铁™多功能平台	token_10027_ironmn_pile1				MAA resource/battle_data.json · chars	Stainless™ Multifunctional Platform	ステインレス™多機能プラットフォーム	스테인리스™ 멀티 플랫폼	白鐵™多功能平台	TOKEN	notchar1	ALL	6	1-1/1-1/1-1	41	
+baitieduogongnengpingtai	白铁™多功能平台	token_10027_ironmn_pile2				MAA resource/battle_data.json · chars	Stainless™ Multifunctional Platform	ステインレス™多機能プラットフォーム	스테인리스™ 멀티 플랫폼	白鐵™多功能平台	TOKEN	notchar1	ALL	6	1-1/1-1/1-1	40	
+tieqianhaoyuanxingji	铁钳号·原型机	token_10027_ironmn_pile3				MAA resource/battle_data.json · chars	Prototype of Feist's Metal Crab	鉄鉗号･プロトタイプ	글룸핀서호 - 프로토타입	鐵鉗號·原型機	TOKEN	notchar1	MELEE	6	3-13/3-13/3-13	981	
+langqun	狼群	token_10028_vigil_wolf				MAA resource/battle_data.json · chars	Wolfpack	狼の群れ	늑대 무리	狼群	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	587	
+yedeng	夜灯	token_10029_slent2_protrb				MAA resource/battle_data.json · chars	Night Banisher	夜の灯火	밤의 등불	夜燈	TOKEN	notchar1	ALL	6	x-4/x-4/x-4	1157	
+liuxing	流形	token_10030_mlyss_wtrman				MAA resource/battle_data.json · chars	Flowing Shape	うつろう水影	유동체	流形	TOKEN	notchar1	ALL	6	0-1/0-1/0-1	634	
+xiangbinzhadan	香槟炸弹	token_10031_swire2_gdtrap				MAA resource/battle_data.json · chars	Champagne Bomb	シャンパン爆弾	샴페인 폭탄	香檳炸彈	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	1047	
+jidongdunpai	机动盾牌	token_10032_jesca2_jckshd				MAA resource/battle_data.json · chars	Mobile Riot Shield	機動防盾	기동 방패	機動盾牌	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	469	
+leimingdilei	雷鸣地雷	token_10033_ela_grzmot				MAA resource/battle_data.json · chars	Grzmot Mine	GRZMOTマイン	GRZMOT 지뢰	雷電地雷	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	595	
+shadishou	沙地兽	token_10034_ray_sndbst				MAA resource/battle_data.json · chars	Sandbeast	サンドビースト	샌드비스트	沙地獸	TOKEN	notchar1	ALL	6	x-4/x-4/x-4	832	
+hunlingzhiying	魂灵之影	token_10035_wisdel_wward				MAA resource/battle_data.json · chars	Revenant's Shadow	レヴァナントの影	레버넌트의 그림자	魂靈之影	TOKEN	notchar1	ALL	6	0-1/0-1/0-1	412	
+fatiaoyushou	发条羽兽	token_10036_lasher_mcbird				MAA resource/battle_data.json · chars	Clockwork Fowlbeast	カラクリ羽獣	태엽 파울비스트	發條羽獸	TOKEN	notchar1	RANGED	5	3-6/3-6/3-6	267	
+yingtaosanhao	樱桃三号	token_10037_mitm_trshrb				MAA resource/battle_data.json · chars	Cherry-3	チェリー3号	체리 3호	櫻桃三號	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	1195	
+congbuhunxiaodefangxiang	从不混淆的方向	token_10039_ulpia_block				MAA resource/battle_data.json · chars	Undeviating Course	混同せぬ方向	헷갈리지 않는 방향	從不混淆的方向	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	169	
+huangjinmengshi	黄金盟誓	token_10040_siege2_vlion				MAA resource/battle_data.json · chars	Golden Vows	黄金の誓い	황금의 맹세	黃金盟誓	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	398	
+paxinghaofanghudanyuan	爬行号·防护单元	token_10041_cathy_catsld				MAA resource/battle_data.json · chars	Crawler Protection Unit	クローラー・防護ユニット	크롤러호 - 방호 유닛	爬行號·防護單元	TOKEN	notchar1	ALL	5	1-1/1-1/1-1	758	
+muouwuzhe	木偶舞者	token_10042_tecno_puppet				MAA resource/battle_data.json · chars	Puppet Dancer	パペットダンサー	인형 댄서	木偶舞者	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	721	
+beitandepuyi	悲叹的仆役	token_10043_necras_skeltn				MAA resource/battle_data.json · chars	Servant of Lamentation	悲嘆する下僕	비탄의 하인	悲歎的僕役	TOKEN	notchar1	MELEE	6	x-5/x-5/x-5	64	
+kuangshishashou	矿石“杀手”	token_10044_wulfen_mine				MAA resource/battle_data.json · chars	Ore 'Killer'	鉱石「キラー」	광석 '킬러'	礦石“殺手”	TOKEN	notchar1	MELEE	5	0-1/0-1/0-1	575	
+xiaoluomao	小螺帽	token_10045_alanna_crane				MAA resource/battle_data.json · chars	Nutty	ナットちゃん	너티	小螺帽	TOKEN	notchar1	ALL	5	1-1/1-1/1-1	1060	
+chonggouti	重构体	token_10050_monstr_prosts				MAA resource/battle_data.json · chars	Reconstruction	再構成核	재구성체	重構體	TOKEN	notchar1	MELEE	6	x-4/x-4/x-4	1336	
+daiwu	戴乌	token_10051_radian_tower1				MAA resource/battle_data.json · chars	Dive	ダイウ	다이브	戴烏	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	183	
+saike	赛柯	token_10052_radian_tower2				MAA resource/battle_data.json · chars	Cycle	サイガ	사이클	賽柯	TOKEN	notchar1	MELEE	6	3-2/3-2/3-2	821	
+sangtela	桑特拉	token_10053_radian_tower3				MAA resource/battle_data.json · chars	Center	サントラ	센터	桑特拉	TOKEN	notchar1	RANGED	6	3-1/3-1/3-1	826	
+bennengdezhaohuan	本能的召唤	token_10054_phatm2_encdool				MAA resource/battle_data.json · chars	Blood's Whisper	本能の召喚	본능의 부름	本能的召喚	TOKEN	notchar1	MELEE	6	x-1/x-1/x-1	69	
+mikuanglaolong	迷狂牢笼	token_10055_phatm2_mndclv				MAA resource/battle_data.json · chars	Cage of Chaos	彷徨の檻	광란의 감옥	迷狂牢籠	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	688	
+toudizuobiao	投递坐标	token_10056_angel2_target				MAA resource/battle_data.json · chars	Delivery Coordinates	配達先座標	배달 좌표	投遞座標	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	989	
+fengxuezhiyan	风雪之眼	token_10057_svash2_eagle1				MAA resource/battle_data.json · chars	Eye of the Blizzard	風雪の眼	눈보라의 눈	風雪之眼	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	284	
+fengxuezhiyan	风雪之眼	token_10057_svash2_eagle2				MAA resource/battle_data.json · chars	Eye of the Blizzard	風雪の眼	눈보라의 눈	風雪之眼	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	285	
+fengxuezhiyan	风雪之眼	token_10057_svash2_eagle3				MAA resource/battle_data.json · chars	Eye of the Blizzard	風雪の眼	눈보라의 눈	風雪之眼	TOKEN	notchar1	MELEE	6	3-1/3-1/3-1	286	
+baohumubiaodongjiezhuangtai	保护目标（冻结状态）	token_10058_sbell2_icetgt				MAA resource/battle_data.json · chars	Protection Objective (Frozen)	防衛ライン(凍結状態)	방어 포인트 (빙결 상태)	保護目標（凍結狀態）	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	48	
+zhijianzhuanyuan	“质检专员”	token_10059_nasti_nstdef				MAA resource/battle_data.json · chars	'Quality Inspector'	「品質検査員」	'품질검사 담당'	“品保專員”	TOKEN	notchar1	ALL	6	1-1/1-1/1-1	1323	
+jiangongzhuanyuan	“监工专员”	token_10060_nasti_nstchr				MAA resource/battle_data.json · chars	'Overseer'	「現場監督」	'공사감독 담당'	“監工專員”	TOKEN	notchar1	ALL	6	1-1/1-1/1-1	433	
+yingjichengzhongxiaozu	“应急承重小组”	token_10061_nasti_nstbld				MAA resource/battle_data.json · chars	'Emergency Load-Bearing Squad'	「緊急建設チーム」	'응급하중팀'	“緊急承重小組”	TOKEN	notchar1	ALL	6	1-1/1-1/1-1	1192	
+yaliequan	牙猎犬	token_10063_buddy_bddg				MAA resource/battle_data.json · chars	牙猎犬	牙猎犬	牙猎犬	牙猎犬	TOKEN	notchar1	MELEE	1	0-1/0-1/0-1	1123	
+qizi	棋子	token_10064_wang_stone1				MAA resource/battle_data.json · chars	Stone	碁石	바둑돌	棋子	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	796	
+qianban	牵绊	token_10065_demetr_dmtpos				MAA resource/battle_data.json · chars	Bond	絆	결속	牵绊	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	772	
+zhihuizhongxin	指挥中心	token_10066_closur_ourbase				MAA resource/battle_data.json · chars	指挥中心	指挥中心	指挥中心	指挥中心	TOKEN	notchar1	ALL	6	0-1/0-1/0-1	1321	
+zhanshumaodian	战术锚点	token_10068_kalts2_mtship				MAA resource/battle_data.json · chars	战术锚点	战术锚点	战术锚点	战术锚点	TOKEN	notchar1	RANGED	6	y-2/y-6/y-6	1296	
+jiegouxingyuanli	结构性原理	token_10069_mcnist_mcgraf				MAA resource/battle_data.json · chars	结构性原理	结构性原理	结构性原理	结构性原理	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	473	
+zhongjiqi	中继器	token_10070_aphris_pc				MAA resource/battle_data.json · chars	中继器	中继器	中继器	中继器	TOKEN	notchar1	ALL	6	0-1/0-1/0-1	1337	
+yihuierjian	“一会儿见！”	token_10071_aglna2_agairp				MAA resource/battle_data.json · chars	“一会儿见！”	“一会儿见！”	“一会儿见！”	“一会儿见！”	TOKEN	notchar1	MELEE	6	0-1/0-1/0-1	1174	
+zhangaiwu	障碍物	trap_001_crate				MAA resource/battle_data.json · chars	Roadblock	障害物	장애물	障礙物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1292	
+zhenhanzhuangzhi	震撼装置	trap_002_emp				MAA resource/battle_data.json · chars	Stun Generator	EMP発生装置	충격장치	震撼裝置	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1314	
+zhamen	闸门	trap_003_gate				MAA resource/battle_data.json · chars	Gate	シャッター	게이트	閘門	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1280	
+zhenceqi	侦测器	trap_005_sensor				MAA resource/battle_data.json · chars	Detector	探知機	탐지기	偵測器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1307	
+ganraozhuangzhi	干扰装置	trap_006_antidr				MAA resource/battle_data.json · chars	Jammer	妨害装置	방해장치	干擾裝置	TRAP	notchar2	NONE	1	x-3/x-3/x-3	309	
+nupao	弩炮	trap_007_ballis				MAA resource/battle_data.json · chars	Turret	バリスタ	발리스타	弩炮	TRAP	notchar2	NONE	1	0-1/0-1/0-1	747	
+zhihuizhongduan	指挥终端	trap_008_farm				MAA resource/battle_data.json · chars	Command Terminal	コマンドシステム	지휘 단말기	指揮終端	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1320	
+bianxieshibujizhan	便携式补给站	trap_009_battery				MAA resource/battle_data.json · chars	Portable Supply Station	簡易補給所	휴대용 보급기	可攜式補給站	TRAP	notchar2	NONE	1	1-1/1-1/1-1	78	
+yuanshibingjing	源石冰晶	trap_010_frosts				MAA resource/battle_data.json · chars	Originium Ice Crystal	源石氷晶	오리지늄 얼음 결정	源石冰晶	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1225	
+yuanshijitan	源石祭坛	trap_011_ore				MAA resource/battle_data.json · chars	Originium Altar	源石祭壇	오리지늄 제단	源石祭壇	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1231	
+ganraodilei	干扰地雷	trap_012_mine				MAA resource/battle_data.json · chars	Interference Mine	妨害地雷	방해지뢰	干擾地雷	TRAP	notchar2	NONE	1	0-1/0-1/0-1	308	
+yuanshiliufashengzhuangzhi	源石流发生装置	trap_013_blower				MAA resource/battle_data.json · chars	Originium Flow Generator	源石気流発生装置	오리지늄 기류 발생 장치	源石流發生裝置	TRAP	notchar2	NONE	1	3-2/3-2/3-2	1235	
+l44liushengji	L-44"留声机"	trap_014_tower				MAA resource/battle_data.json · chars	L-44 'Gramophone'	L-44「蓄音機」	L-44 '축음기'	L-44"留聲機"	TRAP	notchar2	NONE	1	x-2/x-2/x-2	637	
+juxun	巨蕈	trap_015_tree				MAA resource/battle_data.json · chars	Giant Mushroom	おばけ茸	거대 버섯	巨蕈	TRAP	notchar2	NONE	1	x-5/x-5/x-5	538	
+luodedaolinshiguyuan	罗德岛临时雇员	trap_016_peon				MAA resource/battle_data.json · chars	Temporary Rhodes Island Employee	伐採作業員	로도스 아일랜드 임시 직원	羅德島臨時雇員	TRAP	notchar2	NONE	1	1-1/1-1/1-1	648	
+honglonglongxiansheng	轰隆隆先生	trap_018_bomb				MAA resource/battle_data.json · chars	Mr. Boom	ミスターランブル	미스터 럼블	轟隆隆先生	TRAP	notchar2	NONE	1	x-5/x-5/x-5	384	
+meishenkexianquan	梅什科线圈	trap_019_electric				MAA resource/battle_data.json · chars	Mieszko Coil	ミェシュココイル	미에슈코 코일	梅什科線圈	TRAP	notchar2	NONE	1	x-2/x-2/x-2	675	
+daoluzhangaiwu	道路障碍物	trap_020_roadblock				MAA resource/battle_data.json · chars	Static Roadblock	道路障害物	도로 장애물	道路障礙物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	196	
+nengliangjuheti	能量聚合体	trap_021_flame				MAA resource/battle_data.json · chars	Energy Aggregate	エネルギークリスタル	에너지 중합체	能量聚合體	TRAP	notchar2	NONE	1	0-1/0-1/0-1	727	
+shuangxingdeyuanshibingjing	霜星的源石冰晶	trap_022_frosts_friend				MAA resource/battle_data.json · chars	FrostNova's Originium Ice Crystal	フロストノヴァの源石氷晶	프로스트노바의 오리지늄 얼음 결정	霜星的源石冰晶	TRAP	notchar2	NONE	1	x-1/x-1/x-1	911	
+aiguozhedeyuanshijitan	爱国者的源石祭坛	trap_023_ore_friend				MAA resource/battle_data.json · chars	Patriot's Originium Altar	パトリオットの源石祭壇	패트리어트의 오리지늄 제단	愛國者的源石祭壇	TRAP	notchar2	NONE	1	x-1/x-1/x-1	6	
+dunwei	盾卫	trap_024_npcsld				MAA resource/battle_data.json · chars	Shieldguard	盾兵	방패병	盾衛	TRAP	notchar2	NONE	1	0-1/0-1/0-1	230	
+jinguzhuangzhi	禁锢装置	trap_025_prison				MAA resource/battle_data.json · chars	Imprisonment Device	禁固装置	구속 장치	禁錮裝置	TRAP	notchar2	NONE	1	3-15/3-15/3-15	503	
+gailiangxingertijiao	改良型二踢脚	trap_026_inverter				MAA resource/battle_data.json · chars	Two-Step Firecracker mk2	改良型爆竹	개량형 양자폭죽	改良型二踢腳	TRAP	notchar2	NONE	1	x-5/x-5/x-5	302	
+suishi	碎石	trap_027_stone				MAA resource/battle_data.json · chars	Rubble	礫岩	돌무더기	碎石	TRAP	notchar2	NONE	1	0-1/0-1/0-1	941	
+maichongfangyumozu	脉冲防御模组	trap_028_cannon				MAA resource/battle_data.json · chars	Pulse Defense Module	衝撃防御モジュール	펄스 방어 모듈	脈衝防禦模組	TRAP	notchar2	NONE	1	x-3/x-3/x-3	659	
+cuileiwasikongzhifa	催泪瓦斯控制阀	trap_029_poison				MAA resource/battle_data.json · chars	Teargas Control Valve	催涙ガス制御弁	최루 가스 제어 밸브	催淚瓦斯控制閥	TRAP	notchar2	NONE	1	0-1/0-1/0-1	172	
+wurenjigongchang	无人机工厂	trap_030_factory				MAA resource/battle_data.json · chars	Drone Factory	ドローン工場	드론 공장	無人機工廠	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1029	
+xuezhideanquanqizhongji	雪雉的安全起重机	trap_031_sleep				MAA resource/battle_data.json · chars	Snowsant's Safe Escape Crane	スノーズントの安全クレーン	스노우상트의 안전한 크레인	雪雉的安全起重機	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1109	
+tushijiegou	土石结构	trap_032_mound				MAA resource/battle_data.json · chars	Dirt Mound	土石構造	토석 구조물	土石結構	TRAP	notchar2	NONE	1	0-1/0-1/0-1	994	
+gaonengyuanshizhadan	高能源石炸弹	trap_033_sbomb				MAA resource/battle_data.json · chars	High-Energy Originium Bomb	高威力源石爆弾	고에너지 오리지늄 폭탄	高能源石炸彈	TRAP	notchar2	NONE	1	x-6/x-6/x-6	314	
+jiaguzhuangzhi	加固装置	trap_034_machst				MAA resource/battle_data.json · chars	Reinforcement Device	補強装置	강화재	加固裝置	TRAP	notchar2	NONE	1	1-1/1-1/1-1	423	
+dadi	大帝	trap_035_emperor				MAA resource/battle_data.json · chars	Emperor	エンペラー	엠퍼러	大帝	TRAP	notchar2	NONE	1	0-1/0-1/0-1	176	
+shachenbao	沙尘暴	trap_036_storm				MAA resource/battle_data.json · chars	Sandstorm	砂嵐	모래 폭풍	沙塵暴	TRAP	notchar2	NONE	1	0-1/0-1/0-1	831	
+keyidongzhanshujiku	可移动战术机库	trap_037_airsup				MAA resource/battle_data.json · chars	Mobile Tactical Hangar	可動式戦術格納庫	이동식 전술 격납고	可移動戰術機庫	TRAP	notchar2	NONE	1	0-1/0-1/0-1	564	
+yingjijiuzhisheshi	应急救治设施	trap_038_dsbell				MAA resource/battle_data.json · chars	Emergency Aid Building	応急治療施設	응급처치 시설	應急救治設施	TRAP	notchar2	NONE	1	x-2/x-2/x-2	1193	
+zidai	子代	trap_039_dstnta				MAA resource/battle_data.json · chars	Offspring	生まれしもの	즈다이	子代	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1354	
+tezhishuishangpingtai	特制水上平台	trap_040_canoe				MAA resource/battle_data.json · chars	Custom Floating Platform	特設ボート	특제 수상 플랫폼	特製水上平台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	961	
+fengzheng	风筝	trap_041_fcanon				MAA resource/battle_data.json · chars	Kite	カイト	연	風箏	TRAP	notchar2	NONE	1	0-1/0-1/0-1	291	
+zhangchaokongzhi	涨潮控制	trap_042_tidectrl				MAA resource/battle_data.json · chars	Tide Controller	潮高制御装置	밀물 제어 장치	漲潮控制	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1293	
+posuizhizhu	破碎支柱	trap_043_dupilr				MAA resource/battle_data.json · chars	Tattered Pillar	脆い石柱	망가진 기둥	破碎支柱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	770	
+zhanchangfeixu	战场废墟	trap_044_duruin				MAA resource/battle_data.json · chars	Battlefield Ruins	瓦礫	전장의 폐허	戰場廢墟	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1283	
+baopozhuangzhi	爆破装置	trap_045_dublst				MAA resource/battle_data.json · chars	Demolition Device	爆破装置	폭파 장치	爆破裝置	TRAP	notchar2	NONE	1	1-1/1-1/1-1	51	
+fangshuishidumozhuangzhi	防水蚀镀膜装置	trap_046_oxygen				MAA resource/battle_data.json · chars	Erosion-Resistant Coating Application Device	耐水蝕コーティング装置	수식 방지 코팅 장치	防水蝕鍍膜裝置	TRAP	notchar2	NONE	1	1-1/1-1/1-1	240	
+chengshinihong	城市霓虹	trap_048_neonlamp				MAA resource/battle_data.json · chars	City Neon	都市のネオン	네온사인	城市霓虹	TRAP	notchar2	NONE	1	x-5/x-5/x-5	147	
+qishizhihui	骑士之徽	trap_049_candle				MAA resource/battle_data.json · chars	Knight Crest	騎士の紋章	기사 훈장	騎士之徽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	789	
+baofengxue	暴风雪	trap_050_blizzard				MAA resource/battle_data.json · chars	Blizzard	猛吹雪	눈보라	暴風雪	TRAP	notchar2	NONE	1	0-1/0-1/0-1	46	
+wuzhudecaifu	无主的财富	trap_051_vultres				MAA resource/battle_data.json · chars	Unowned Treasure	主なき財宝	주인 없는 재화	無主的財富	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1034	
+shixiuwutaiwuji	失修舞台雾机	trap_052_slowfd				MAA resource/battle_data.json · chars	Broken Fog Machine	壊れたスモークマシン	고장난 포그머신	失修舞台霧機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	901	
+bianxieqiguan	便携气罐	trap_053_airbomb				MAA resource/battle_data.json · chars	Gas Tank P.	ガスボンベ	휴대용 가스통	便攜氣罐	TRAP	notchar2	NONE	1	x-4/x-4/x-4	77	
+baomuzhushou	“报幕助手”	trap_054_dancdol				MAA resource/battle_data.json · chars	'Host's Assistant'	「司会アシスタント」	'호스트 어시스턴트'	“報幕助手”	TRAP	notchar2	NONE	1	x-4/x-4/x-4	50	
+fengyindedimian	封印的地面	trap_055_tileblock				MAA resource/battle_data.json · chars	Sealed Floor	封じられた地面	봉인된 지면	封印的地面	TRAP	notchar2	NONE	1	0-1/0-1/0-1	289	
+dantian	丹田	trap_056_sfsuifire				MAA resource/battle_data.json · chars	Dantian	丹田	단전	丹田	TRAP	notchar2	NONE	1	0-1/0-1/0-1	187	
+bingqilinji	“冰淇淋机”	trap_057_wpnsts				MAA resource/battle_data.json · chars	'Gelato Stop'	「ジェラート供給所」	'젤라토 머신'	“冰淇淋機”	TRAP	notchar2	NONE	1	x-1/x-1/x-1	91	
+lundinimuchengfangfupao	伦蒂尼姆城防副炮	trap_058_gunctrl				MAA resource/battle_data.json · chars	Londinium Secondary Defense Artillery	ロンディニウム都市防衛副砲	런디니움 수성 부포	倫蒂尼姆城防副炮	TRAP	notchar2	NONE	1	0-1/0-1/0-1	643	
+duanzuizhe	断罪者	trap_059_peacokfool				MAA resource/battle_data.json · chars	Conviction	コンビクション	컨빅션	斷罪者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	225	
+shengtuzhishou	圣徒之手	trap_060_bouncy				MAA resource/battle_data.json · chars	Hand of the Saint	聖徒の御手	성도의 손	聖徒之手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	859	
+minghen	溟痕	trap_061_creep				MAA resource/battle_data.json · chars	Nethersea Brand	溟痕	명흔	溟痕	TRAP	notchar2	NONE	1	0-1/0-1/0-1	694	
+diyinhao	“低音号”	trap_062_magicstart				MAA resource/battle_data.json · chars	'Tuba'	「チューバ」	'튜바'	“低音號”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	216	
+l7huiyinbi	L-7 “回音壁”	trap_063_magicturn				MAA resource/battle_data.json · chars	L-7 'Whisperer'	L-7「ウィスパラー」	L-7 '반향벽'	L-7 “回音壁”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	599	
+xiezhenqi	“谐振器”	trap_064_magiccircle				MAA resource/battle_data.json · chars	'Resonator'	「レゾネーター」	'공명기'	“諧振器”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1075	
+baoxiang	宝箱	trap_065_normbox				MAA resource/battle_data.json · chars	Treasure Chest	宝箱	보물 상자	寶箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	53	
+jiancibaoxiang	尖刺宝箱	trap_066_rarebox				MAA resource/battle_data.json · chars	Spiked Treasure Chest	トゲトゲ宝箱	가시 돋은 보물 상자	尖刺寶箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	428	
+touzi	骰子	trap_067_dice				MAA resource/battle_data.json · chars	Dice	ダイス	주사위	骰子	TRAP	notchar2	NONE	1	0-1/0-1/0-1	990	
+xiangxingkongyu	箱形恐鱼	trap_068_badbox				MAA resource/battle_data.json · chars	Chest Seaborn	宝箱形恐魚	상자 시테러	箱形恐魚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1053	
+zhanbeijihuofa	战备激活阀	trap_069_buffcard				MAA resource/battle_data.json · chars	Equipment Activation Valve	装備起動用バルブ	장비 활성화 밸브	戰備啟動閥	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1282	
+yubeiqufaxunqi	预备区发讯器	trap_070_supplycard				MAA resource/battle_data.json · chars	Preparation Area Transmitter	準備エリア送信機	준비 구역 송신기	預備區發訊器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1255	
+jinjizhaohuiqingbaoxiang	紧急召回情报箱	trap_071_recyclecard				MAA resource/battle_data.json · chars	Emergency Recall Box	緊急召還情報ボックス	긴급 리콜 박스	緊急召回情報箱	TRAP	notchar2	NONE	1	1-1/1-1/1-1	513	
+xiuzhengqufaxunqi	休整区发讯器	trap_072_revivecard				MAA resource/battle_data.json · chars	Recuperation Area Transmitter	休憩エリア送信機	정비 구역 송신기	休整區發訊器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1097	
+wuranjingshi	污染晶石	trap_073_btauntcard				MAA resource/battle_data.json · chars	Contaminated Mineral	汚染晶石	오염된 광물	污染晶石	TRAP	notchar2	NONE	1	x-6/x-6/x-6	1028	
+jurejingcu	聚热晶簇	trap_074_bbombcard				MAA resource/battle_data.json · chars	Heat Cluster	集熱晶洞	열 클러스터	聚熱晶簇	TRAP	notchar2	NONE	1	0-1/0-1/0-1	537	
+r31zhongxingdonglizhuangjia	R-31重型动力装甲	trap_075_bgarmn				MAA resource/battle_data.json · chars	R-31 Heavy Power Armor	R-31大型パワードスーツ	R-31 중형 기동 장갑	R-31重型動力裝甲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	818	
+r31azhongxingdonglizhuangjia	R-31a重型动力装甲	trap_076_bgarms				MAA resource/battle_data.json · chars	R-31a Heavy Power Armor	R-31a大型パワードスーツ	R-31a 중형 기동 장갑	R-31a重型動力裝甲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	808	
+r11tujidonglizhuangjia	R-11突击动力装甲	trap_077_rmtarmn				MAA resource/battle_data.json · chars	R-11 Assault Power Armor	R-11突撃型パワードスーツ	R-11 돌격 기동 장갑	R-11突擊動力裝甲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	814	
+r11atujidonglizhuangjia	R-11a突击动力装甲	trap_078_rmtarms				MAA resource/battle_data.json · chars	R-11a Assault Power Armor	R-11a突撃型パワードスーツ	R-11a 돌격 기동 장갑	R-11a突擊動力裝甲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	807	
+liechaodeqishi	猎潮的骑士	trap_079_allydonq				MAA resource/battle_data.json · chars	Tide-Hunt Knight	猟潮の騎士	파도 사냥의 기사	獵潮的騎士	TOKEN	pioneer	MELEE	1	1-1/1-1/1-1	603	
+zizouchechufadian	自走车出发点	trap_080_garage				MAA resource/battle_data.json · chars	Self-Driving Cart Launchpoint	セルカースターター	자율차 출발점	自走車出發點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1361	
+zizouchedanxingdao	自走车单行道	trap_081_turngear				MAA resource/battle_data.json · chars	Self-Driving Cart One-Way Road	ターンテーブル	자율차 트랙	自走車單行道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1362	
+gaipaifaxunqi	改派发讯器	trap_082_salecard				MAA resource/battle_data.json · chars	Reassignment Transmitter	再配置送信機	재파견 송신기	改派發訊器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	303	
+yanti	掩体	trap_083_bunker				MAA resource/battle_data.json · chars	Barrier	掩体	엄폐물	掩體	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1140	
+jijiubao	急救包	trap_084_aidkit				MAA resource/battle_data.json · chars	First-aid Kit	救急バッグ	구급키트	急救包	TRAP	notchar2	NONE	1	1-1/1-1/1-1	487	
+yingguangbaozi	荧光孢子	trap_085_paras				MAA resource/battle_data.json · chars	Fluorescent Spores	蛍光胞子	형광 포자	螢光孢子	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1191	
+jiyingkuzhi	“汲营枯枝”	trap_086_larva				MAA resource/battle_data.json · chars	'Twigs That Crave'	「渇欲の枯枝」	'부식된 고목'	“汲營枯枝”	TRAP	notchar2	NONE	1	x-5/x-5/x-5	527	
+aleidaideweihu	阿勒黛的卫护	trap_087_allady				MAA resource/battle_data.json · chars	Allerdale's Guard	アラデルの衛護	알레데일의 가호	阿勒黛的衛護	TRAP	notchar2	NONE	1	1-1/1-1/1-1	14	
+8miantouzi	8面骰子	trap_088_dice2				MAA resource/battle_data.json · chars	8-Sided Dice	8面ダイス	8면 주사위	8面骰子	TRAP	notchar2	NONE	1	0-1/0-1/0-1	683	
+12miantouzi	12面骰子	trap_089_dice3				MAA resource/battle_data.json · chars	12-Sided Dice	12面ダイス	12면 주사위	12面骰子	TRAP	notchar2	NONE	1	0-1/0-1/0-1	682	
+shitichengshi	实体程式	trap_090_recodr				MAA resource/battle_data.json · chars	Entitative Program	実体プログラム	실체화 모듈	實體程式	TRAP	notchar2	NONE	1	0-1/0-1/0-1	894	
+shitichengshikongzhi	实体程式控制	trap_091_brctrl				MAA resource/battle_data.json · chars	Entitative Program Controller	実体プログラム制御	실체화 모듈 제어	實體程式控制	TRAP	notchar2	NONE	1	0-1/0-1/0-1	895	
+fuchouheishou	复仇黑手	trap_092_vgctrl				MAA resource/battle_data.json · chars	Vengeful Mafioso	報復の爪痕	벤데타	復仇黑手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	295	
+qianshoukefen	钳兽壳粉	trap_093_tbattbc				MAA resource/battle_data.json · chars	Gloompincer Shell Meal	鉗獣殻パウダー	글룸핀서 파우더	鉗獸殼粉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	774	
+gaoxiaopaodafen	高效泡打粉	trap_094_tbpsnc				MAA resource/battle_data.json · chars	High-Efficiency Baking Powder	ベーキングパウダー	고효율 베이킹 파우더	高效泡打粉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	321	
+fangxiangjingyou	芳香精油	trap_095_tbsmmc				MAA resource/battle_data.json · chars	Fragrant Essential Oil	エッセンシャルオイル	향긋한 아로마 오일	芳香精油	TRAP	notchar2	NONE	1	0-1/0-1/0-1	243	
+shanhaimiyuyi	山海密语仪	trap_096_gflag				MAA resource/battle_data.json · chars	Shanhaizhong Cipher Machine	山海密令柱	산해중 송신기	山海密語儀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	837	
+chengfangluzhang	城防路障	trap_097_hstone				MAA resource/battle_data.json · chars	Roadblocks	都市防衛柵	방호벽 바리케이드	城防路障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	140	
+zhaozekongzhi	沼泽控制	trap_098_mire				MAA resource/battle_data.json · chars	Mire Control	沼地制御	늪지대 제어	沼澤控制	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1301	
+xuanguangshoulei	眩光手雷	trap_099_mhflsb				MAA resource/battle_data.json · chars	Flash Grenade	閃光爆弾	섬광 폭탄	眩光手榴彈	TRAP	notchar2	NONE	1	2-7/2-7/2-7	1102	
+xiaodun	小盾	trap_1000_acarm000				MAA resource/battle_data.json · chars	Small Shield	小盾	소형 방패	小盾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1057	
+duanjian	短剑	trap_1001_acarm001				MAA resource/battle_data.json · chars	Dirk	短剣	단검	短劍	TRAP	notchar2	NONE	1	0-1/0-1/0-1	222	
+xingyunbi	幸运币	trap_1002_acarm002				MAA resource/battle_data.json · chars	Lucky Coin	ラッキーコイン	럭키코인	幸運幣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1086	
+bingkuai	冰块	trap_1003_acarm003				MAA resource/battle_data.json · chars	Chunk of Ice	氷	얼음 조각	冰塊	TRAP	notchar2	NONE	1	0-1/0-1/0-1	87	
+yasuobinggan	压缩饼干	trap_1004_acarm004				MAA resource/battle_data.json · chars	Hardtack	レーション	건빵	壓縮餅乾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1152	
+xinbiao	信标	trap_1005_acarm005				MAA resource/battle_data.json · chars	Transmitter	ビーコン	비콘	信標	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1077	
+yuanyanbishou	源岩匕首	trap_1006_acarm006				MAA resource/battle_data.json · chars	Orirock Dagger	源岩ナイフ	원암 비수	源岩匕首	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1240	
+yuanshirongji	源石溶剂	trap_1007_acarm007				MAA resource/battle_data.json · chars	Originium Solvent	源石溶剤	원암 용제	源石溶劑	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1236	
+jiguangfasheqi	激光发射器	trap_1008_acarm008				MAA resource/battle_data.json · chars	Laser Sighter	レーザー発射機	레이저 발사기	鐳射發射器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	482	
+kalanmaoyiwendang	喀兰贸易文档	trap_1009_acarm009				MAA resource/battle_data.json · chars	Karlan Trade File	カランド貿易ファイル	카란 무역회사 서류	喀蘭貿易文件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	545	
+gaonengyuanshibaotong	高能源石爆桶	trap_100_mhlbmb				MAA resource/battle_data.json · chars	High-Energy Originium Barrel Bomb	源石タル爆弾	오리지늄 폭약통	高能源石爆桶	TRAP	notchar2	NONE	1	x-4/x-4/x-4	313	
+kaximierwendang	卡西米尔文档	trap_1010_acarm010				MAA resource/battle_data.json · chars	Kazimierz File	カジミエーシュファイル	카시미어 서류	卡西米爾文件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	553	
+shenhailierenwendang	深海猎人文档	trap_1011_acarm011				MAA resource/battle_data.json · chars	Abyssal Hunter File	アビサルハンターファイル	어비설 헌터스 서류	深海獵人文件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	864	
+nongcha	浓茶	trap_1012_acarm012				MAA resource/battle_data.json · chars	Strong Tea	渋茶	농차	濃茶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	743	
+fengmingqi	蜂鸣器	trap_1013_acarm013				MAA resource/battle_data.json · chars	Buzzer	警報器	버저	蜂鳴器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	279	
+jingdaxisuanwanou	精打细算玩偶	trap_1014_acarm014				MAA resource/battle_data.json · chars	Budget-Savvy Doll	倹約家の人形	알뜰살뜰 인형	精打細算玩偶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	491	
+jianqianyankaiwanou	见钱眼开玩偶	trap_1015_acarm015				MAA resource/battle_data.json · chars	Money-Grubbing Doll	守銭奴の人形	돈독 오른 인형	見錢眼開玩偶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	440	
+yubeijinjiexuke	预备进阶许可	trap_1016_acarm016				MAA resource/battle_data.json · chars	Promotion Permit	予備隊員昇進許可	예비 승진 허가증	預備進階許可	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1254	
+zhanchangfenxiyi	战场分析仪	trap_1017_acarm017				MAA resource/battle_data.json · chars	Battlefield Analyzer	戦場分析装置	전장 분석기	戰場分析儀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1284	
+zhenhandan	震撼弹	trap_1018_acarm018				MAA resource/battle_data.json · chars	Stun Grenade	スタングレネード	진동탄	震撼彈	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1313	
+zhishizhongzhuangdun	制式重装盾	trap_1019_acarm019				MAA resource/battle_data.json · chars	Standard Defender Shield	制式重装シールド	제식 중형 방패	制式重裝盾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1334	
+gaoyamaichongguilei	高压脉冲诡雷	trap_101_mhshok				MAA resource/battle_data.json · chars	High-Voltage Shock Trap	高電圧シビレ罠	고압 펄스 트랩	高壓脈衝詭雷	TRAP	notchar2	NONE	1	0-1/0-1/0-1	322	
+zhishijujijing	制式狙击镜	trap_1020_acarm020				MAA resource/battle_data.json · chars	Standard Sniper Scope	制式狙撃ゴーグル	제식 조준경	制式狙擊鏡	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1332	
+zhishishushizhang	制式术师杖	trap_1021_acarm021				MAA resource/battle_data.json · chars	Standard Caster Wand	制式術師ロッド	제식 스태프	制式術師杖	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1333	
+koudaifazhen	口袋法阵	trap_1022_acarm022				MAA resource/battle_data.json · chars	Pocket Arts Circle	携帯式アーツバリア	주머니 마법진	口袋法陣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	571	
+jingjitoubiji	竞技投币机	trap_1023_acarm023				MAA resource/battle_data.json · chars	Coin-Operated Machine	競技アーケードマシン	경기용 동전 투입기	競技投幣機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	501	
+gongjiangchui	工匠锤	trap_1024_acarm024				MAA resource/battle_data.json · chars	Engineer's Hammer	職人のハンマー	장인의 망치	工匠錘	TRAP	notchar2	NONE	1	0-1/0-1/0-1	330	
+xiumianziyi	休眠子裔	trap_1025_acarm025				MAA resource/battle_data.json · chars	Dormant Heir	眠れる眷属	잠자는 후예	休眠子裔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1093	
+shushiwurenji	术师无人机	trap_1026_acarm026				MAA resource/battle_data.json · chars	Caster Drone	術師ドローン	캐스터 드론	術師無人機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	923	
+kaximiermoxing	卡西米尔模型	trap_1027_acarm027				MAA resource/battle_data.json · chars	Kazimierz Model	カジミエーシュのオブジェ	카시미어 모형	卡西米爾模型	TRAP	notchar2	NONE	1	0-1/0-1/0-1	552	
+kalanmaoyimoxing	喀兰贸易模型	trap_1028_acarm028				MAA resource/battle_data.json · chars	Karlan Trade Model	カランド貿易のオブジェ	카란 무역회사 모형	喀蘭貿易模型	TRAP	notchar2	NONE	1	0-1/0-1/0-1	544	
+shenhailierenmoxing	深海猎人模型	trap_1029_acarm029				MAA resource/battle_data.json · chars	Abyssal Hunter Model	アビサルハンターのオブジェ	어비설 헌터스 모형	深海獵人模型	TRAP	notchar2	NONE	1	0-1/0-1/0-1	863	
+zhikongqianyinwurenji	滞空牵引无人机	trap_102_mhwrbg				MAA resource/battle_data.json · chars	Wiredrone	滞空牽引ドローン	공중 견인 드론	滯空牽引無人機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1325	
+jingyingzhongzhuangtaozu	精英重装套组	trap_1030_acarm030				MAA resource/battle_data.json · chars	Elite Defender Set	エリート重装セット	정예 디펜더 세트	精英重裝套組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	506	
+jingyingjujitaozu	精英狙击套组	trap_1031_acarm031				MAA resource/battle_data.json · chars	Elite Sniper Set	エリート狙撃セット	정예 스나이퍼 세트	精英狙擊套組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	504	
+jingyingshushitaozu	精英术师套组	trap_1032_acarm032				MAA resource/battle_data.json · chars	Elite Caster Set	エリート術師セット	정예 캐스터 세트	精英術師套組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	505	
+geliyatoukui	歌利亚头盔	trap_1033_acarm033				MAA resource/battle_data.json · chars	Goliath Helmet	ゴリアテの兜	골리앗 투구	歌利亞頭盔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	327	
+m3hujia	M3护甲	trap_1034_acarm034				MAA resource/battle_data.json · chars	M3 Armor	M3アーマー	M3 갑옷	M3護甲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	680	
+m3lizhua	M3利爪	trap_1035_acarm035				MAA resource/battle_data.json · chars	M3 Claw	M3クロー	M3 발톱	M3利爪	TRAP	notchar2	NONE	1	0-1/0-1/0-1	704	
+bianxietansheqi	便携弹射器	trap_1036_acarm036				MAA resource/battle_data.json · chars	Portable Launcher	携帯式射出装置	휴대용 사출기	便攜彈射器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	75	
+youxianjiasuqi	有限加速器	trap_1037_acarm037				MAA resource/battle_data.json · chars	Miniature Accelerator	有限加速マシン	제한 가속기	有限加速器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1218	
+quannengjixiebi	全能机械臂	trap_1038_acarm038				MAA resource/battle_data.json · chars	Multi-Purpose Robotic Arm	万能ロボットアーム	만능 기계팔	全能機械臂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	798	
+boshitouying	博士投影	trap_1039_acarm039				MAA resource/battle_data.json · chars	Doctor Hologram	ドクターのホログラム	박사의 홀로그램	博士投影	TRAP	notchar2	NONE	1	0-1/0-1/0-1	100	
+dixingzengshangkongzhi	地形增伤控制	trap_103_ymdgct				MAA resource/battle_data.json · chars	Mire Controller	地形ダメージ制御	지형 대미지 제어	地形增傷控制	TRAP	notchar2	NONE	1	0-1/0-1/0-1	215	
+yanguoduandao	炎国短刀	trap_1040_acarm040				MAA resource/battle_data.json · chars	Yanese Dagger	炎国の短刀	염국 단검	炎國短刀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1134	
+weishizhongchui	维式重锤	trap_1041_acarm041				MAA resource/battle_data.json · chars	Victorian Hammer	ヴィクトリアの鉄鎚	빅토리아 해머	維式重鎚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1011	
+zhuoranweishizhongchui	灼燃维式重锤	trap_1042_acarm042				MAA resource/battle_data.json · chars	Burning Victorian Hammer	ヴィクトリアの鉄鎚・灼熱	불타는 빅토리아 해머	灼燃維式重鎚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1350	
+jianguweishizhongchui	坚固维式重锤	trap_1043_acarm043				MAA resource/battle_data.json · chars	Durable Victorian Hammer	ヴィクトリアの鉄鎚・堅牢	견고한 빅토리아 해머	堅固維式重鎚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	434	
+jiasuweishizhongchui	加速维式重锤	trap_1044_acarm044				MAA resource/battle_data.json · chars	Speedy Victorian Hammer	ヴィクトリアの鉄鎚・加速	가속의 빅토리아 해머	加速維式重鎚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	455	
+zhanliweishizhongchui	战栗维式重锤	trap_1045_acarm045				MAA resource/battle_data.json · chars	Frightening Victorian Hammer	ヴィクトリアの鉄鎚・戦慄	전율의 빅토리아 해머	戰慄維式重鎚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1295	
+ageerzhongren	阿戈尔重刃	trap_1046_acarm046				MAA resource/battle_data.json · chars	Ægirian Blade	エーギルのいかり	에기르 칼날	阿戈爾重刃	TRAP	notchar2	NONE	1	0-1/0-1/0-1	4	
+jianshoudunpai	坚守盾牌	trap_1047_acarm047				MAA resource/battle_data.json · chars	Durable Shield	堅守の盾	고수 방패	堅守盾牌	TRAP	notchar2	NONE	1	0-1/0-1/0-1	442	
+aoshufazhen	奥术法阵	trap_1048_acarm048				MAA resource/battle_data.json · chars	Arcane Arts Circle	秘術法陣	아케인 마법진	口袋法陣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	26	
+geliyatoukui	歌利亚头盔	trap_1049_acarm049				MAA resource/battle_data.json · chars	Goliath Helmet	ゴリアテの兜	골리앗 투구	歌利亞頭盔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	328	
+gaixingzhiwujisu	改性植物激素	trap_104_dplant				MAA resource/battle_data.json · chars	Modified Phytohormone	改良型植物ホルモン	개질 식물호르몬	改性植物激素	TRAP	notchar2	NONE	1	x-5/x-5/x-5	304	
+saergongnongcha	萨尔贡浓茶	trap_1050_acarm050				MAA resource/battle_data.json · chars	Sargonian Teaspresso	サルゴンの渋茶	사르곤 농차	薩爾貢濃茶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	819	
+xunjiezuozhanliang	迅捷作战粮	trap_1051_acarm051				MAA resource/battle_data.json · chars	Quick Combat Rations	速攻用レーション	신속 전투식량	迅捷作戰糧	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1115	
+youxianjiasuqi	有限加速器	trap_1052_acarm052				MAA resource/battle_data.json · chars	Miniature Accelerator	有限加速マシン	제한 가속기	有限加速器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1217	
+jiguangfasheqi	激光发射器	trap_1053_acarm053				MAA resource/battle_data.json · chars	Laser Sighter	レーザー発射機	레이저 발사기	鐳射發射器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	483	
+fengmingqi	蜂鸣器	trap_1054_acarm054				MAA resource/battle_data.json · chars	Buzzer	警報器	버저	蜂鳴器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	278	
+weizhuangfu	伪装服	trap_1055_acarm055				MAA resource/battle_data.json · chars	Disguise Outfit	迷彩ヘルメット	위장복	偽裝服	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1016	
+buqutansheqi	不屈弹射器	trap_1056_acarm056				MAA resource/battle_data.json · chars	Tough Launcher	不屈の射出装置	불굴의 사출기	不屈彈射器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	119	
+latelanqiaojia	拉特兰桥夹	trap_1057_acarm057				MAA resource/battle_data.json · chars	Lateran Clip	ラテラーノのクリップ	라테라노 클립	拉特蘭橋夾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	593	
+cuileiwasi	催泪瓦斯	trap_1058_acarm058				MAA resource/battle_data.json · chars	Teargas Can	催涙ガス	최루가스	催淚瓦斯	TRAP	notchar2	NONE	1	0-1/0-1/0-1	171	
+nongsuoxiuyan	浓缩嗅盐	trap_1059_acarm059				MAA resource/battle_data.json · chars	Concentrated Smelling Salts	濃縮気付け薬	농축 스멜링 솔트	濃縮嗅鹽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	744	
+zhikongqianyinwurenji	滞空牵引无人机	trap_105_mhwrct				MAA resource/battle_data.json · chars	Wiredrone	滞空牽引ドローン	공중 견인 드론	滯空牽引無人機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1324	
+fangbaodun	防暴盾	trap_1060_acarm060				MAA resource/battle_data.json · chars	Riot Shield	ライオットシールド	진압 방패	防暴盾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	239	
+hudunwurenji	护盾无人机	trap_1061_acarm061				MAA resource/battle_data.json · chars	Protection Drone	シールドドローン	실드 드론	護盾無人機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	404	
+xielageburongbing	谢拉格不融冰	trap_1062_acarm062				MAA resource/battle_data.json · chars	Kjeragi Nevermeltice	イェラグの不融氷	쉐라그 만년빙	謝拉格不融冰	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1066	
+jingzhunjujijing	精准狙击镜	trap_1063_acarm063				MAA resource/battle_data.json · chars	Precision Scope	精密な狙撃スコープ	정밀 조준경	精準狙擊鏡	TRAP	notchar2	NONE	1	0-1/0-1/0-1	509	
+tuxishoulei	突袭手雷	trap_1064_acarm064				MAA resource/battle_data.json · chars	Raid Grenade	強襲用グレネード	기습 수류탄	突襲手榴彈	TRAP	notchar2	NONE	1	0-1/0-1/0-1	995	
+xiumianziyi	休眠子裔	trap_1065_acarm065				MAA resource/battle_data.json · chars	Dormant Heir	眠れる眷属	잠자는 후예	休眠子裔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1094	
+mengyuezhibi	盟约之币	trap_1066_acarm066				MAA resource/battle_data.json · chars	Alliance Coin	盟約のコイン	맹약코인	幸運硬幣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	679	
+shuangmojixiebi	双模机械臂	trap_1067_acarm067				MAA resource/battle_data.json · chars	Bimodule Robotic Arm	デュアルロボットアーム	듀얼 모드 기계팔	雙模機械臂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	910	
+m3jianjia	M3茧甲	trap_1068_acarm068				MAA resource/battle_data.json · chars	M3 Cocoon Shell	M3コクーンアーマー	M3 고치 갑옷	M3繭甲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	703	
+nitaiwuzhi	拟态物质	trap_1069_acarm069				MAA resource/battle_data.json · chars	Mimic Matter	擬態物質	의태 물질	擬態物質	TRAP	notchar2	NONE	1	0-1/0-1/0-1	740	
+jixueyinsong	积雪银凇	trap_106_smtree				MAA resource/battle_data.json · chars	Silvernwhite Bulwark	積雪の銀樹	은백의 적설	積雪銀淞	TRAP	notchar2	NONE	1	0-1/0-1/0-1	526	
+renshibuwendang	人事部文档	trap_1070_acarm070				MAA resource/battle_data.json · chars	HR File	人事部の書類	인사부 파일	人事部文件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	811	
+boshitouying	博士投影	trap_1071_acarm071				MAA resource/battle_data.json · chars	Doctor Hologram	ドクターのホログラム	박사의 홀로그램	博士投影	TRAP	notchar2	NONE	1	0-1/0-1/0-1	99	
+tubianxibao	突变细胞	trap_1072_acarm072				MAA resource/battle_data.json · chars	Mutated Cells	変異細胞	돌연변이 세포	突變細胞	TRAP	notchar2	NONE	1	0-1/0-1/0-1	991	
+bianxingtonggouti	变形同构体	trap_1073_acarm073				MAA resource/battle_data.json · chars	Damazti Isomorph	変形同位体	변형 구조체	變形同構體	TRAP	notchar2	NONE	1	0-1/0-1/0-1	83	
+shangyebaozhuangfangan	商业包装方案	trap_1074_acarm074				MAA resource/battle_data.json · chars	Commercial Packaging Plan	プロデュース戦略	상업 포장 계획	商業包裝方案	TRAP	notchar2	NONE	1	0-1/0-1/0-1	836	
+xunhumokuai	寻呼模块	trap_1075_acarm075				MAA resource/battle_data.json · chars	Dispatch Module	呼出モジュール	호출 모듈	傳呼模組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1114	
+chongqizhiwei	铳骑之威	trap_1076_acarm076				MAA resource/battle_data.json · chars	Gun-Knight's Might	銃騎士の威光	총기사의 위엄	銃騎之威	TRAP	notchar2	NONE	1	0-1/0-1/0-1	157	
+tianshiguding	天师古鼎	trap_1077_acarm077				MAA resource/battle_data.json · chars	Tianshi's Cauldron	天師の祭器	천사의 고정	天師古鼎	TRAP	notchar2	NONE	1	0-1/0-1/0-1	973	
+haigoushiyanti	海沟实验体	trap_1078_acarm078				MAA resource/battle_data.json · chars	Trench Test Subject	海溝の実験体	해구 실험체	海溝實驗體	TRAP	notchar2	NONE	1	0-1/0-1/0-1	353	
+zhengqizhixin	蒸汽之心	trap_1079_acarm079				MAA resource/battle_data.json · chars	Steam Heart	スチームハート	증기의 마음	蒸汽之心	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1311	
+kongjianwendingsheshi	空间稳定设施	trap_107_smpow				MAA resource/battle_data.json · chars	Dimensional Anchoring Pylon	空間安定化設備	공간 안정 시설	空間穩定設施	TRAP	notchar2	NONE	1	x-2/x-2/x-2	568	
+fashuhuifu	法术：恢复	trap_1080_acspell001				MAA resource/battle_data.json · chars	Arts: Recovery	アーツ：治療	아츠: 회복	法術：恢復	TRAP	notchar2	NONE	1	0-1/0-1/0-1	256	
+fashuliliang	法术：力量	trap_1081_acspell002				MAA resource/battle_data.json · chars	Arts: Strength	アーツ：剛力	아츠: 파워	法術：力量	TRAP	notchar2	NONE	1	0-1/0-1/0-1	257	
+fashuchuandong	法术：传动	trap_1082_acspell003				MAA resource/battle_data.json · chars	Arts: Transmission	アーツ：伝動	아츠: 구동	法術：傳動	TRAP	notchar2	NONE	1	0-1/0-1/0-1	251	
+fashutanlan	法术：贪婪	trap_1083_acspell004				MAA resource/battle_data.json · chars	Arts: Greed	アーツ：貪欲	아츠: 탐욕	法術：貪婪	TRAP	notchar2	NONE	1	0-1/0-1/0-1	263	
+fashumanzu	法术：满足	trap_1084_acspell005				MAA resource/battle_data.json · chars	Arts: Satisfaction	アーツ：充足	아츠: 만족	法術：滿足	TRAP	notchar2	NONE	1	x-4/x-4/x-4	258	
+fashuhudun	法术：护盾	trap_1085_acspell006				MAA resource/battle_data.json · chars	Arts: Shield	アーツ：防壁	아츠: 실드	法術：護盾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	255	
+fashubangyang	法术：榜样	trap_1086_acspell007				MAA resource/battle_data.json · chars	Arts: Role Model	アーツ：昇進	아츠: 귀감	法術：榜樣	TRAP	notchar2	NONE	1	1-1/1-1/1-1	249	
+fashupingzhang	法术：屏障	trap_1087_acspell008				MAA resource/battle_data.json · chars	Arts: Barrier	アーツ：護身	아츠: 보호막	法術：屏障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	259	
+fashushuren	法术：熟人	trap_1088_acspell009				MAA resource/battle_data.json · chars	Arts: Familiar Face	アーツ：伝心	아츠: 지인	法術：熟人	TRAP	notchar2	NONE	1	0-1/0-1/0-1	262	
+	法术：同行	trap_1089_acspell010				MAA resource/battle_data.json · chars	Arts: Peer	アーツ：同行	아츠: 동행	法術：同行	TRAP	notchar2	NONE	1	0-1/0-1/0-1	265	拼音待核
+baoxiang	宝箱	trap_108_smbox				MAA resource/battle_data.json · chars	Treasure Chest	宝箱	보물 상자	寶箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	57	
+fashutisheng	法术：提升	trap_1090_acspell011				MAA resource/battle_data.json · chars	Arts: Boost	アーツ：向上	아츠: 향상	法術：提升	TRAP	notchar2	NONE	1	0-1/0-1/0-1	264	
+fashuchihuan	法术：迟缓	trap_1091_acspell012				MAA resource/battle_data.json · chars	Arts: Slow	アーツ：緩速	아츠: 지연	法術：遲緩	TRAP	notchar2	NONE	1	x-4/x-4/x-4	250	
+fashuquanli	法术：全力	trap_1093_acspell014				MAA resource/battle_data.json · chars	Arts: All-Out	アーツ：全力	아츠: 전력	法術：全力	TRAP	notchar2	NONE	1	0-1/0-1/0-1	261	
+fashuxueshui	法术：血税	trap_1094_acspell015				MAA resource/battle_data.json · chars	Arts: Blood Tax	アーツ：血税	아츠: 혈세	法術：血稅	TRAP	notchar2	NONE	1	0-1/0-1/0-1	266	
+fashupoxi	法术：破袭	trap_1095_acspell016				MAA resource/battle_data.json · chars	Arts: Infiltration	アーツ：奇兵	아츠: 습격	法術：破襲	TRAP	notchar2	NONE	1	1-1/1-1/1-1	260	
+bochuancaozuoyuan	驳船操作员	trap_1096_acshopup				MAA resource/battle_data.json · chars	Barge Captain	補給船操舵手	보급선 담당자	駁船操作員	TRAP	notchar2	NONE	1	0-1/0-1/0-1	95	
+bujidiaopeiqi	补给调配器	trap_1097_acshopre				MAA resource/battle_data.json · chars	Supply Distributor	物資調達器	보급 관리기	補給調配器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	114	
+bujiliucunqi	补给留存器	trap_1098_acshopfr				MAA resource/battle_data.json · chars	Supply Retainer	物資保管器	보급 저장기	補給留存器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	115	
+jinshengdiaopeitexu	晋升调配特许	trap_1099_acspell017				MAA resource/battle_data.json · chars	Advanced Deployment Permit	昇進配分許可証	승진 모집 허가증	晉升調配特許	TRAP	notchar2	NONE	1	0-1/0-1/0-1	514	
+jiancibaoxiang	尖刺宝箱	trap_109_smrbox				MAA resource/battle_data.json · chars	Spiked Treasure Chest	トゲトゲ宝箱	가시 돋은 보물 상자	尖刺寶箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	429	
+direnrukou	敌人入口	trap_1100_acreddoor				MAA resource/battle_data.json · chars	Enemy Entrance	敵の入口	침입 포인트	敵人入口	TRAP	notchar2	NONE	1	0-1/0-1/0-1	213	
+bujibochuan	补给驳船	trap_1101_acplane				MAA resource/battle_data.json · chars	Supply Barge	補給船	보급선	補給駁船	TRAP	notchar2	NONE	1	0-1/0-1/0-1	103	
+yelagangdezhilei	耶拉冈德之泪	trap_1102_acarm102				MAA resource/battle_data.json · chars	Kjeragandr's Tears	イェラガンドの涙	쉐라간드의 눈물	耶拉岡德之淚	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1159	
+huangshaluopan	黄沙罗盘	trap_1103_acarm103				MAA resource/battle_data.json · chars	Desert Compass	黄砂のコンパス	사막 나침반	黃沙羅盤	TRAP	notchar2	NONE	1	0-1/0-1/0-1	399	
+shuangyanpi	“双眼皮”	trap_1104_aclasert				MAA resource/battle_data.json · chars	'Double Lids'	「ダブルリッズ」	'쌍꺼풀'	“雙眼皮”	TRAP	notchar2	NONE	1	3-10/3-10/3-10	912	
+zugegongshi	阻隔工事	trap_1105_accrate				MAA resource/battle_data.json · chars	Barricade	バリケード	차단 공사	阻隔工事	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1365	
+shejitai	射击台	trap_1106_achplat				MAA resource/battle_data.json · chars	Ranged Tile	射撃台	사격대	射擊台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	848	
+fengyindedimian	封印的地面	trap_1107_acblock				MAA resource/battle_data.json · chars	Sealed Floor	封じられた地面	봉인된 지면	封印的地面	TRAP	notchar2	NONE	1	0-1/0-1/0-1	288	
+shenmiguke	“神秘顾客”	trap_1108_acdisney				MAA resource/battle_data.json · chars	'Mystery Customer'	「謎の客人」	'신비한 고객'	“神秘顧客”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	869	
+xinbiao	信标	trap_1109_acarm109				MAA resource/battle_data.json · chars	Transmitter	ビーコン	비콘	信標	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1078	
+juketengwan	巨壳藤蔓	trap_110_smbbox				MAA resource/battle_data.json · chars	Testaceous Vinecreeps	巨殻のツル	상자 넝쿨	巨殼藤蔓	TRAP	notchar2	NONE	1	0-1/0-1/0-1	536	
+huajuan	画卷	trap_1110_accopy				MAA resource/battle_data.json · chars	Dusk's Scroll	絵巻	두루마리	畫卷	TRAP	notchar2	NONE	1	1-1/1-1/1-1	394	
+jiaobian	教鞭	trap_1111_acchal				MAA resource/battle_data.json · chars	Pointing Stick	教鞭	교편	教鞭	TRAP	notchar2	NONE	1	0-1/0-1/0-1	450	
+mengyuehanfeng	盟约寒风	trap_1112_acblzd				MAA resource/battle_data.json · chars	Alliance Chill Gust	盟約吹雪	맹약의 한풍	盟約寒風	TRAP	notchar2	NONE	1	0-1/0-1/0-1	678	
+jingdaxisuanwanou	精打细算玩偶	trap_1113_acarm113				MAA resource/battle_data.json · chars	Budget-Savvy Doll	倹約家の人形	알뜰살뜰 인형	精打细算玩偶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	492	
+jianyitongxunji	简易通讯机	trap_1114_acarm114				MAA resource/battle_data.json · chars	Simple Communicator	簡易通信機	간이 통신기	简易通讯机	TRAP	notchar2	NONE	1	0-1/0-1/0-1	446	
+jinjidiaoduquan	紧急调度券	trap_1115_acarm115				MAA resource/battle_data.json · chars	Emergency Dispatch Ticket	緊急派遣券	긴급 차출권	紧急调度券	TRAP	notchar2	NONE	1	0-1/0-1/0-1	511	
+jianqianyankaiwanou	见钱眼开玩偶	trap_1116_acarm116				MAA resource/battle_data.json · chars	Money-Grubbing Doll	守銭奴の人形	돈독 오른 인형	见钱眼开玩偶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	439	
+tianmazhiqiang	天马之枪	trap_1117_acarm117				MAA resource/battle_data.json · chars	Pegasian Lance	ペガサスの槍	페가수스의 랜스	天马之枪	TRAP	notchar2	NONE	1	0-1/0-1/0-1	970	
+tianmazhikui	天马之盔	trap_1118_acarm118				MAA resource/battle_data.json · chars	Pegasian Helm	ペガサスの兜	페가수스의 투구	天马之盔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	969	
+kaximierjingjiqi	卡西米尔竞技旗	trap_1119_acarm119				MAA resource/battle_data.json · chars	Kazimierz Knightclub Pennant	カジミエーシュの競技旗	카시미어 스포츠 깃발	卡西米尔竞技旗	TRAP	notchar2	NONE	1	0-1/0-1/0-1	551	
+jietouyingjichubei	街头应急储备	trap_111_wdfarm				MAA resource/battle_data.json · chars	Roadside Emergency Reserves	街の緊急用備蓄	길거리 보급품	街頭應急儲備	TRAP	notchar2	NONE	1	0-1/0-1/0-1	478	
+qishijielv	骑士戒律	trap_1120_acarm120				MAA resource/battle_data.json · chars	Chivalric Commandments	騎士の戒律	기사 계율	骑士戒律	TRAP	notchar2	NONE	1	0-1/0-1/0-1	788	
+xulaguzhengzhuang	叙拉古正装	trap_1121_acarm121				MAA resource/battle_data.json · chars	Siracusan Formalwear	シラクーザの正装	시라쿠사 정장	叙拉古正装	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1110	
+jiazuhuizhang	家族徽章	trap_1122_acarm122				MAA resource/battle_data.json · chars	Famiglia Insignia	ファミリーのバッジ	패밀리 배지	家族徽章	TRAP	notchar2	NONE	1	0-1/0-1/0-1	460	
+qishichuxuguan	骑士储蓄罐	trap_1123_acarm123				MAA resource/battle_data.json · chars	Knightly Savings	騎士の貯金箱	기사 저금통	骑士储蓄罐	TRAP	notchar2	NONE	1	0-1/0-1/0-1	787	
+suishenshenfenpai	随身身份牌	trap_1124_acarm124				MAA resource/battle_data.json · chars	Identification Device	ネームタグ	신분인식표	随身身份牌	TRAP	notchar2	NONE	1	0-1/0-1/0-1	940	
+yuanshirongji	源石溶剂	trap_1125_acarm125				MAA resource/battle_data.json · chars	Originium Solvent	源石溶剤	원암 용제	源石溶剂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1237	
+jieguzheqingzhaichengxu	解雇者清债程序	trap_112_crsbow				MAA resource/battle_data.json · chars	Post-Firing Debt Relief Program	解雇者清算プログラム	해고자 채무 탕감 프로그램	解雇者清債程式	TRAP	notchar2	NONE	1	0-1/0-1/0-1	474	
+quanzidonghuazhangqi	全自动划账器	trap_113_snflwr				MAA resource/battle_data.json · chars	Full-Auto Debit Machine	全自動送金機	자동 계좌 이체기	全自動劃帳器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	801	
+baolieduqiguan	爆裂毒气罐	trap_114_smkbmb				MAA resource/battle_data.json · chars	Rupturing Canister	毒ガスタンク	독가스 탱크	爆裂毒氣罐	TRAP	notchar2	NONE	1	0-1/0-1/0-1	49	
+duwutakongzhi	毒雾塔控制	trap_115_gasctrl				MAA resource/battle_data.json · chars	Gas Controller	毒霧タワー制御装置	독가스 컨트롤러	毒霧塔控制	TRAP	notchar2	NONE	1	0-1/0-1/0-1	235	
+guoqudewo	“过去的我”	trap_116_stdurk				MAA resource/battle_data.json · chars	'My Past Self'	「過去の自分」	'과거의 나'	“過去的我”	TRAP	notchar2	RANGED	1	3-6/3-6/3-6	350	
+shengxiang	圣像	trap_117_ltstat				MAA resource/battle_data.json · chars	Holy Statue	聖像	성상	聖像	TRAP	notchar2	NONE	1	x-4/x-4/x-4	861	
+taluodeqiangyuan	塌落的墙垣	trap_118_rockfl				MAA resource/battle_data.json · chars	Crumbling Masonry	崩れた壁	무너진 담장	塌落的牆垣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	953	
+beiyongmucai	备用木材	trap_119_rdrepair				MAA resource/battle_data.json · chars	Spare Timber	予備木材	비상용 목재	備用木材	TRAP	notchar2	NONE	1	0-1/0-1/0-1	66	
+pojiudemuli	破旧的木篱	trap_120_rdblock				MAA resource/battle_data.json · chars	Shabby Fence	朽ちた木の柵	낡은 울타리	破舊的木籬	TRAP	notchar2	NONE	1	0-1/0-1/0-1	769	
+zhongli	重力	trap_121_gractrl				MAA resource/battle_data.json · chars	Gravity	重力	중력	重力	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1338	
+jingguanpenquan	景观喷泉	trap_122_stmpq				MAA resource/battle_data.json · chars	Decorative Geyser	景観噴水	분수대	景觀噴泉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	495	
+shuiqiqishuiping	水汽汽水瓶	trap_123_stmbot				MAA resource/battle_data.json · chars	Steam Soda Bottle	スチームサイダー	증기 사이다	水汽汽水瓶	TRAP	notchar2	NONE	1	x-5/x-5/x-5	921	
+feirepenkou	废热喷口	trap_124_eradio				MAA resource/battle_data.json · chars	Waste Heat Vent	廃熱噴出口	폐열 분출구	廢熱噴口	TRAP	notchar2	NONE	1	5-1/5-1/5-1	271	
+huanxuejitan	唤血祭坛	trap_125_bonore				MAA resource/battle_data.json · chars	Bloodcalling Altar	血の祭壇	피의 부름 제단	喚血祭壇	TRAP	notchar2	NONE	1	0-1/0-1/0-1	402	
+zhadanzaihedian	炸弹载荷点	trap_126_outset				MAA resource/battle_data.json · chars	Bomb Loading Point	爆弾積込み地点	폭탄 적재 지점	炸彈載荷點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1279	
+lixuewangzuo	沥血王座	trap_127_bldore				MAA resource/battle_data.json · chars	Throne of Blood	血誓の王座	생귀나르의 왕좌	瀝血王座	TRAP	notchar2	NONE	1	0-1/0-1/0-1	635	
+jitanshileida	祭坛式雷达	trap_128_toolore				MAA resource/battle_data.json · chars	Altar-type Radar	祭壇式レーダー	제단식 레이더	祭壇式雷達	TRAP	notchar2	NONE	1	x-1/x-1/x-1	517	
+r45bianxieshiliushengji	R-45便携式“留声机”	trap_129_tooltower				MAA resource/battle_data.json · chars	R-45 Portable 'Gramophone'	R-45ポータブル「蓄音機」	R-45 휴대용 '축음기'	R-45便攜式“留聲機”	TRAP	notchar2	NONE	1	x-2/x-2/x-2	809	
+jingguanjuxun	景观巨蕈	trap_130_tooltree				MAA resource/battle_data.json · chars	Ornamental Giant Mushroom	鑑賞用おばけ茸	관상용 거대버섯	景觀巨蕈	TRAP	notchar2	NONE	1	x-5/x-5/x-5	494	
+zhanchangzhuangzhilud99x	战场装置LUD-99X	trap_131_toolgun				MAA resource/battle_data.json · chars	Field Device LUD-99X	フィールドデバイスLUD-99X	전투 장치 LUD-99X	戰場裝置LUD-99X	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1285	
+ertijiaoxingshujushoujizhuangzhi	“二踢脚”型数据收集装置	trap_132_toolinvert				MAA resource/battle_data.json · chars	Two-step Firecracker and Data-collector	爆竹型データ収集装置	'양자폭죽' 데이터 수집 장치	“二踢腳”型數據收集裝置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	237	
+kanchayongzizouche	勘察用自走车	trap_133_toolgarage				MAA resource/battle_data.json · chars	Self-Driving Recon Cart	自走式探査車	탐사용 자율차	勘察用自走車	TRAP	notchar2	NONE	1	0-1/0-1/0-1	546	
+tiaoxiejiedian	调谐节点	trap_134_condtr				MAA resource/battle_data.json · chars	Tuning Node	調律器	조화 장치	調諧節點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	209	
+yanmiezhixiang	湮灭之相	trap_135_portlent				MAA resource/battle_data.json · chars	Aspect of Annihilation	湮滅の相	파멸의 상	湮滅之相	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1202	
+chuangshengzhixiang	创生之相	trap_136_portlexi				MAA resource/battle_data.json · chars	Aspect of Creation	創生の相	창조의 상	創生之相	TRAP	notchar2	NONE	1	0-1/0-1/0-1	160	
+jinjigongnuanqi	紧急供暖器	trap_137_winfire				MAA resource/battle_data.json · chars	Emergency Heater	非常用ストーブ	비상 난방기	緊急供暖器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	512	
+dianhuoshi	点火石	trap_138_winstone				MAA resource/battle_data.json · chars	Flint	火打ち石	부싯돌	點火石	TRAP	notchar2	NONE	1	0-1/0-1/0-1	206	
+zuliufa	阻流阀	trap_139_dhtl				MAA resource/battle_data.json · chars	Throttle Valve	水門	차단 밸브	阻流閥	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1366	
+bengzhan	泵站	trap_140_dhsb				MAA resource/battle_data.json · chars	Pumping Station	給水ポンプ	양수기	泵站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	68	
+fengzuwu	封阻物	trap_141_sheltr				MAA resource/battle_data.json · chars	Barricade	バリケード	바리케이드	封阻物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	293	
+yuanshibaozhawu	源石爆炸物	trap_142_barrel				MAA resource/battle_data.json · chars	Originium Explosive	源石爆弾	오리지늄 폭발물	源石爆炸物	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1224	
+fengzujiaguzhuangzhi	封阻加固装置	trap_143_rnfcar				MAA resource/battle_data.json · chars	Block Reinforcement Device	バリケード補強装置	바리케이드 보강 장치	封阻加固裝置	TRAP	notchar2	NONE	1	1-1/1-1/1-1	292	
+linshiyanhuzhuangzhi	临时掩护装置	trap_144_ads				MAA resource/battle_data.json · chars	Temporary Cover	仮設掩体装置	임시 엄호 장치	臨時掩護裝置	TRAP	notchar2	NONE	1	x-4/x-4/x-4	628	
+guileibushezhuangzhi	诡雷布设装置	trap_145_edd				MAA resource/battle_data.json · chars	Mine Deployer	トラップ設置装置	폭탄 매설 장치	詭雷布設裝置	TRAP	notchar2	NONE	1	1-1/1-1/1-1	345	
+tianzhuang	天桩	trap_146_dhdcr				MAA resource/battle_data.json · chars	Sky Pole	天杭	천주	天樁	TRAP	notchar2	NONE	1	0-1/0-1/0-1	974	
+wushunupao	巫术弩炮	trap_147_spblls				MAA resource/battle_data.json · chars	Witchcraft Ballista	巫術バリスタ	주술 발리스타	巫術弩炮	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1032	
+youyingmenfei	幽影门扉	trap_148_amblls				MAA resource/battle_data.json · chars	Umbral Door	幽影の扉	그림자 균열	幽影門扉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1219	
+caocong	草丛	trap_1500_lhgras				MAA resource/battle_data.json · chars	Bush	草むら	수풀	草叢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	126	
+huacong	花丛	trap_1501_lhpark				MAA resource/battle_data.json · chars	Flower Bush	花咲く草むら	꽃밭	花叢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	390	
+yanshi	岩石	trap_1502_lhrock				MAA resource/battle_data.json · chars	Rock	岩石	암석	岩石	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1139	
+shanmai	山脉	trap_1503_lhshan				MAA resource/battle_data.json · chars	Mountain	山脈	산맥	山脈	TRAP	notchar2	NONE	1	0-1/0-1/0-1	842	
+lindi	林地	trap_1504_lhtree				MAA resource/battle_data.json · chars	Woods	森林	숲지	林地	TRAP	notchar2	NONE	1	0-1/0-1/0-1	612	
+milin	密林	trap_1505_lhfrst				MAA resource/battle_data.json · chars	Forest	密林	정글	密林	TRAP	notchar2	NONE	1	b-2/b-2/b-2	690	
+heliu	河流	trap_1506_lhhe				MAA resource/battle_data.json · chars	River	河川	수로	河流	TRAP	notchar2	NONE	1	0-1/0-1/0-1	372	
+fujikuangqu	富集矿区	trap_1507_lhukmi				MAA resource/battle_data.json · chars	Rich Vein	豊かな鉱山	광맥 지대	富集礦區	TRAP	notchar2	NONE	1	x-5/x-5/x-5	296	
+yuanshikuangchang	源石矿场	trap_1508_lhmine				MAA resource/battle_data.json · chars	Originium Mine	源石採掘場	오리지늄 광산	源石礦場	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1234	
+kantanqi	勘探器	trap_1509_lhbot				MAA resource/battle_data.json · chars	Surveyor	探査装置	탐사기	勘探器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	549	
+yuanshijingcu	源石晶簇	trap_1510_lhplt				MAA resource/battle_data.json · chars	Originium Formation	源石クラスター	오리지늄 결정 군집	源石晶簇	TRAP	notchar2	NONE	1	x-5/x-5/x-5	1230	
+jingcuwendingqi	晶簇稳定器	trap_1511_lhfac				MAA resource/battle_data.json · chars	Formation Stabilizer	クラスター安定化装置	결정 군집 안정기	晶簇穩定器	TRAP	notchar2	NONE	1	x-1/x-1/x-1	490	
+yuanshihuishoulu	源石回收炉	trap_1512_lhfarm				MAA resource/battle_data.json · chars	Originium Recycler	源石回収炉	오리지늄 회수로	源石回收爐	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1229	
+yezhuche	冶铸车	trap_1513_lhshop				MAA resource/battle_data.json · chars	Foundry Car	鍛冶車	주조차	冶鑄車	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1168	
+tiandi	田地	trap_1514_lhpad				MAA resource/battle_data.json · chars	Farmland	農地	논밭	田地	TRAP	notchar2	NONE	1	0-1/0-1/0-1	965	
+beiwurandehuishoulu	被污染的回收炉	trap_1515_lhfacp				MAA resource/battle_data.json · chars	Polluted Recycler	汚染された回収炉	오염된 회수로	被汙染的回收爐	TRAP	notchar2	NONE	1	x-1/x-1/x-1	65	
+gongnengjizhan	供能基站	trap_1516_lhnat				MAA resource/battle_data.json · chars	Power Station	動力供給地点	에너지 공급소	供能基站	TRAP	notchar2	NONE	1	x-2/x-2/x-2	333	
+cangshuguan	藏书馆	trap_1517_lhcol				MAA resource/battle_data.json · chars	Archive	書物庫	서고	藏書館	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1277	
+gailiangwushujitan	改良巫术祭坛	trap_1518_lhdoor				MAA resource/battle_data.json · chars	Improved Witchcraft Altar	改良型巫術祭壇	개량형 주술 제단	改良巫術祭壇	TRAP	notchar2	NONE	1	0-1/0-1/0-1	301	
+wushucunluo	巫术村落	trap_1519_lhrift				MAA resource/battle_data.json · chars	Witchcraft Village	巫術の集落	주술 마을	巫術村落	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1031	
+zhedieshibaoleimokuai	折叠式堡垒模块	trap_151_muruinw				MAA resource/battle_data.json · chars	Foldable Bastion	競技用格納式高台	접이식 요새 모듈	折疊式堡壘模組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1302	
+datushuguan	大图书馆	trap_1520_lhcolb				MAA resource/battle_data.json · chars	Great Library	大図書館	도서관	大圖書館	TRAP	notchar2	NONE	1	0-1/0-1/0-1	197	
+shufagangshao	术法岗哨	trap_1521_lhmagd				MAA resource/battle_data.json · chars	Arts Outpost	アーツ哨所	아츠 초소	術法崗哨	TRAP	notchar2	NONE	1	0-1/0-1/0-1	917	
+xianqianzhenceqi	先遣侦测器	trap_1522_lhvlg				MAA resource/battle_data.json · chars	Advance Detector	先遣偵察機	선발 탐지기	先遣偵測器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1055	
+zhencezhongxin	侦测中心	trap_1523_lhtown				MAA resource/battle_data.json · chars	Sensor Hub	偵察センター	탐지 센터	偵測中心	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1308	
+zhuangxieji	装卸机	trap_1524_lhport				MAA resource/battle_data.json · chars	Loader	クレーン	하역기	裝卸機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1343	
+shuichancunluo	水产村落	trap_1525_lhswer				MAA resource/battle_data.json · chars	Waterside Village	漁師の集落	수산 마을	水產村落	TRAP	notchar2	NONE	1	1-1/1-1/1-1	919	
+chongtuweilan	冲突围栏	trap_1526_lharen				MAA resource/battle_data.json · chars	Impact Fence	衝突ケージ	황야의 결투장	衝突圍欄	TRAP	notchar2	NONE	1	0-1/0-1/0-1	158	
+jingjiegangshao	警戒岗哨	trap_1527_lhtwer				MAA resource/battle_data.json · chars	Warning Outpost	偵察哨所	경계 초소	警戒崗哨	TRAP	notchar2	NONE	1	0-1/0-1/0-1	496	
+feixu	废墟	trap_1528_lhruin				MAA resource/battle_data.json · chars	Ruins	廃墟	폐허	廢墟	TRAP	notchar2	NONE	1	0-1/0-1/0-1	272	
+gangshao	岗哨	trap_1529_lhsht				MAA resource/battle_data.json · chars	Outpost	哨所	초소	崗哨	TRAP	notchar2	NONE	1	0-1/0-1/0-1	306	
+zhedieshifuzhuqixie	折叠式辅助器械	trap_152_muruino				MAA resource/battle_data.json · chars	Foldable Auxiliary Apparatus	競技用格納式防壁	접이식 보조 장치	折疊式輔助器械	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1303	
+huangyecunluo	荒野村落	trap_1530_lhcamp				MAA resource/battle_data.json · chars	Wilderness Village	荒野の集落	황야 마을	荒野村落	TRAP	notchar2	NONE	1	1-1/1-1/1-1	401	
+liehucunluo	猎户村落	trap_1531_lhcampa				MAA resource/battle_data.json · chars	Hunting Village	狩人の集落	사냥꾼 마을	獵戶村落	TRAP	notchar2	NONE	1	1-1/1-1/1-1	605	
+shandicunluo	山地村落	trap_1532_lhcampb				MAA resource/battle_data.json · chars	Hill Village	山奥の集落	산지 마을	山地村落	TRAP	notchar2	NONE	1	1-1/1-1/1-1	835	
+muchangcunluo	牧场村落	trap_1533_lhcampc				MAA resource/battle_data.json · chars	Pasture Village	牧場の集落	목장 마을	牧場村落	TRAP	notchar2	NONE	1	1-1/1-1/1-1	717	
+chajianbujidian	插件补给点	trap_1534_lheqp				MAA resource/battle_data.json · chars	Plug-in Supply Depot	プラグイン補給地点	플러그인 보급소	擴充補給點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	130	
+chajianqianghuadian	插件强化点	trap_1535_lhupgd				MAA resource/battle_data.json · chars	Plug-in Upgrade Depot	プラグイン強化地点	플러그인 강화소	擴充強化點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	131	
+shixuezudi	噬血诅地	trap_1536_lhbat				MAA resource/battle_data.json · chars	Cursed Bloodground	吸血の悪地	핏빛 저주의 땅	噬血詛地	TRAP	notchar2	NONE	1	x-4/x-4/x-4	902	
+xinhaojizhan	信号基站	trap_1537_lhside				MAA resource/battle_data.json · chars	Base Station	基地局	기지국	訊號基站	TRAP	notchar2	NONE	1	x-2/x-2/x-2	1088	
+xueyibaoti	血裔胞体	trap_1538_lhblod				MAA resource/battle_data.json · chars	Bloodborn Cytoplasm	血裔の胞体	혈족 배아	血裔胞體	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1107	
+jingguaishiyanshi	精怪实验室	trap_1539_lhflwr				MAA resource/battle_data.json · chars	Fae Lab	精霊実験室	페이 실험실	精怪實驗室	TRAP	notchar2	NONE	1	x-5/x-5/x-5	493	
+wenshigongpeng	温室拱棚	trap_1540_lhpad2				MAA resource/battle_data.json · chars	Greenhouse Shed	温室	비닐하우스	溫室棚架	TRAP	notchar2	NONE	1	b-2/b-2/b-2	1023	
+zhendipingzhang	阵地屏障	trap_154_mugtps				MAA resource/battle_data.json · chars	Positional Barrier	陣地障壁	진지 방호벽	陣地屏障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1309	
+hangdaoxinbiao	航道信标	trap_155_aegiret				MAA resource/battle_data.json · chars	Waterway Beacon	航路ビーコン	항로 비콘	航道信標	TRAP	notchar2	NONE	1	x-2/x-2/x-2	357	
+zhuishengjiaqiao	赘生甲壳	trap_156_dsshell				MAA resource/battle_data.json · chars	Excrescent Carapace	増殖甲羅	증식 갑각	贅生甲殼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1348	
+xiaobangshou	小帮手	trap_157_bounc2				MAA resource/battle_data.json · chars	'Little Handy'	リトル・ハンディ	조력자	小幫手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1056	
+chaersilinqi	查尔斯·林奇	trap_158_lrsteam				MAA resource/battle_data.json · chars	Charles Lynch	チャールズ・リンチ	찰스 린치	查爾斯·林奇	TRAP	notchar2	NONE	1	1-1/1-1/1-1	129	
+hexinzengfuqi	核心增幅器	trap_159_lrcore				MAA resource/battle_data.json · chars	Core Amplifier	コア増幅器	코어 증폭기	核心增幅器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	378	
+xingshurongrong	星术绒绒	trap_1601_akshept				MAA resource/battle_data.json · chars	星术绒绒	星术绒绒	星术绒绒	星术绒绒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1083	
+aoshurongrong	奥术绒绒	trap_1602_akspspt				MAA resource/battle_data.json · chars	奥术绒绒	奥术绒绒	奥术绒绒	奥术绒绒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	27	
+dagezirongrong	大个子绒绒	trap_1603_akbudyt				MAA resource/battle_data.json · chars	大个子绒绒	大个子绒绒	大个子绒绒	大个子绒绒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	178	
+huoporongrong	活泼绒绒	trap_1605_akplspt				MAA resource/battle_data.json · chars	活泼绒绒	活泼绒绒	活泼绒绒	活泼绒绒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	417	
+guhaizaoshizhe	固海凿石者	trap_1606_aksnilt				MAA resource/battle_data.json · chars	固海凿石者	固海凿石者	固海凿石者	固海凿石者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	344	
+ayao	阿咬	trap_1607_akplbtt				MAA resource/battle_data.json · chars	阿咬	阿咬	阿咬	阿咬	TRAP	notchar2	NONE	1	0-1/0-1/0-1	31	
+gaopunike	高普尼克	trap_1608_akplbrt				MAA resource/battle_data.json · chars	高普尼克	高普尼克	高普尼克	高普尼克	TRAP	notchar2	NONE	1	0-1/0-1/0-1	315	
+shibeiyankexie	石背岩壳蟹	trap_1609_akcrabt				MAA resource/battle_data.json · chars	石背岩壳蟹	石背岩壳蟹	石背岩壳蟹	石背岩壳蟹	TRAP	notchar2	NONE	1	0-1/0-1/0-1	875	
+hongliushujifaqi	洪流束激发器	trap_160_lrlgun				MAA resource/battle_data.json · chars	Torrent Beam Activator	奔流発生装置	토렌트 격발기	洪流束激發器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	383	
+zhilixiaoxueguai	直立小雪怪	trap_1610_akplsnt				MAA resource/battle_data.json · chars	直立小雪怪	直立小雪怪	直立小雪怪	直立小雪怪	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1326	
+huaguanyuanding	花冠园丁	trap_1611_akdogt				MAA resource/battle_data.json · chars	花冠园丁	花冠园丁	花冠园丁	花冠园丁	TRAP	notchar2	NONE	1	0-1/0-1/0-1	392	
+heimaohuaguanyuanding	黑毛花冠园丁	trap_1612_akdgspt				MAA resource/battle_data.json · chars	黑毛花冠园丁	黑毛花冠园丁	黑毛花冠园丁	黑毛花冠园丁	TRAP	notchar2	NONE	1	0-1/0-1/0-1	370	
+guodongqingdaofu	果冻清道夫	trap_1613_akslmt				MAA resource/battle_data.json · chars	果冻清道夫	果冻清道夫	果冻清道夫	果冻清道夫	TRAP	notchar2	NONE	1	0-1/0-1/0-1	349	
+dazuibushicao	大嘴捕食草	trap_1615_akftrt				MAA resource/battle_data.json · chars	大嘴捕食草	大嘴捕食草	大嘴捕食草	大嘴捕食草	TRAP	notchar2	NONE	1	0-1/0-1/0-1	203	
+paxingguisan	爬行鬼伞	trap_1616_akmaget				MAA resource/battle_data.json · chars	爬行鬼伞	爬行鬼伞	爬行鬼伞	爬行鬼伞	TRAP	notchar2	NONE	1	0-1/0-1/0-1	757	
+hongbaoshitoushichong	红宝石投石虫	trap_1617_akrangt				MAA resource/battle_data.json · chars	红宝石投石虫	红宝石投石虫	红宝石投石虫	红宝石投石虫	TRAP	notchar2	NONE	1	0-1/0-1/0-1	381	
+kunkunsunrong	困困荪茸	trap_1618_akshdt				MAA resource/battle_data.json · chars	困困荪茸	困困荪茸	困困荪茸	困困荪茸	TRAP	notchar2	NONE	1	0-1/0-1/0-1	579	
+shiliunushou	石榴弩手	trap_1619_akbowt				MAA resource/battle_data.json · chars	石榴弩手	石榴弩手	石榴弩手	石榴弩手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	887	
+kuxiujitan	枯朽祭坛	trap_161_lrcage				MAA resource/battle_data.json · chars	Withered Altar	枯朽の祭壇	부패의 제단	枯朽祭壇	TRAP	notchar2	NONE	1	0-1/0-1/0-1	580	
+yekexie	椰壳蟹	trap_1620_akdeft				MAA resource/battle_data.json · chars	椰壳蟹	椰壳蟹	椰壳蟹	椰壳蟹	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1161	
+zhuoretiaotiaoxi	灼热跳跳蜥	trap_1624_akfiret				MAA resource/battle_data.json · chars	灼热跳跳蜥	灼热跳跳蜥	灼热跳跳蜥	灼热跳跳蜥	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1351	
+languanyubiaoke	蓝冠羽镖客	trap_1626_aktelet				MAA resource/battle_data.json · chars	蓝冠羽镖客	蓝冠羽镖客	蓝冠羽镖客	蓝冠羽镖客	TRAP	notchar2	NONE	1	0-1/0-1/0-1	588	
+chengguanyubiaoke	橙冠羽镖客	trap_1627_aktespt				MAA resource/battle_data.json · chars	橙冠羽镖客	橙冠羽镖客	橙冠羽镖客	橙冠羽镖客	TRAP	notchar2	NONE	1	0-1/0-1/0-1	142	
+shisizhangjizhikongzhiqi	十四章机制控制器	trap_162_lrctrl				MAA resource/battle_data.json · chars	EP14 Mechanics Controller	第十四章ギミックコントローラー	14장 시스템 컨트롤러	十四章機制控制器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	893	
+milinfengjilieshou	密林锋脊裂兽	trap_1631_akraget				MAA resource/battle_data.json · chars	密林锋脊裂兽	密林锋脊裂兽	密林锋脊裂兽	密林锋脊裂兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	691	
+kujiaofengjilieshou	枯焦锋脊裂兽	trap_1632_akrgspt				MAA resource/battle_data.json · chars	枯焦锋脊裂兽	枯焦锋脊裂兽	枯焦锋脊裂兽	枯焦锋脊裂兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	578	
+shenlinweixingshou	深林伪形兽	trap_1633_akrbt				MAA resource/battle_data.json · chars	深林伪形兽	深林伪形兽	深林伪形兽	深林伪形兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	867	
+chiheiweixingshou	赤黑伪形兽	trap_1634_akrbsp				MAA resource/battle_data.json · chars	赤黑伪形兽	赤黑伪形兽	赤黑伪形兽	赤黑伪形兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	153	
+langhuaxiaokexie	浪花小壳蟹	trap_1635_akblcr				MAA resource/battle_data.json · chars	浪花小壳蟹	浪花小壳蟹	浪花小壳蟹	浪花小壳蟹	TRAP	notchar2	NONE	1	0-1/0-1/0-1	586	
+ronghuoxiaokexie	熔火小壳蟹	trap_1636_akrdcr				MAA resource/battle_data.json · chars	熔火小壳蟹	熔火小壳蟹	熔火小壳蟹	熔火小壳蟹	TRAP	notchar2	NONE	1	0-1/0-1/0-1	812	
+hanshandajiaotuoshou	寒山大角驮兽	trap_1637_akickb				MAA resource/battle_data.json · chars	寒山大角驮兽	寒山大角驮兽	寒山大角驮兽	寒山大角驮兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	359	
+ruizhaojuyishou	锐爪巨翼兽	trap_1638_akdrgn				MAA resource/battle_data.json · chars	锐爪巨翼兽	锐爪巨翼兽	锐爪巨翼兽	锐爪巨翼兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	815	
+wenhetuoshou	温和驮兽	trap_1639_akkabi				MAA resource/battle_data.json · chars	温和驮兽	温和驮兽	温和驮兽	温和驮兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1021	
+zhangaiwu	障碍物	trap_163_foolcrate				MAA resource/battle_data.json · chars	Roadblock	障害物	장애물	障礙物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1291	
+zhangaiwu	障碍物	trap_1640_akbtst				MAA resource/battle_data.json · chars	障碍物	障碍物	障碍物	障碍物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1290	
+meishenkexianquan	梅什科线圈	trap_1641_akbtel				MAA resource/battle_data.json · chars	梅什科线圈	梅什科线圈	梅什科线圈	梅什科线圈	TRAP	notchar2	NONE	1	0-1/0-1/0-1	673	
+yuanshijitan	源石祭坛	trap_1642_akbtjt				MAA resource/battle_data.json · chars	源石祭坛	源石祭坛	源石祭坛	源石祭坛	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1233	
+yuanshibingjing	源石冰晶	trap_1643_akbtbd				MAA resource/battle_data.json · chars	源石冰晶	源石冰晶	源石冰晶	源石冰晶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1226	
+nupao	弩炮	trap_1644_akbowf				MAA resource/battle_data.json · chars	弩炮	弩炮	弩炮	弩炮	TRAP	notchar2	NONE	1	0-1/0-1/0-1	749	
+weidingyishishou	未定义石兽	trap_1645_akmndx				MAA resource/battle_data.json · chars	未定义石兽	未定义石兽	未定义石兽	未定义石兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1006	
+qinghua	青花	trap_1646_akqhc				MAA resource/battle_data.json · chars	青花	青花	青花	青花	TRAP	notchar2	NONE	1	0-1/0-1/0-1	779	
+chixia	赤霞	trap_1647_akqhsp				MAA resource/battle_data.json · chars	赤霞	赤霞	赤霞	赤霞	TRAP	notchar2	NONE	1	0-1/0-1/0-1	155	
+buzhizutunshizhe	不知足吞噬者	trap_1648_akpeat				MAA resource/battle_data.json · chars	不知足吞噬者	不知足吞噬者	不知足吞噬者	不知足吞噬者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	121	
+bohaishougezhe	钵海收割者	trap_1649_akflwr				MAA resource/battle_data.json · chars	钵海收割者	钵海收割者	钵海收割者	钵海收割者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	97	
+zhenfenrongguang	振奋荣光	trap_164_lrsiege				MAA resource/battle_data.json · chars	Light of Glory	奮い立つ栄光	고양된 영광	振奮榮光	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1310	
+gududejuxiang	孤独的巨像	trap_1650_aktstn				MAA resource/battle_data.json · chars	孤独的巨像	孤独的巨像	孤独的巨像	孤独的巨像	TRAP	notchar2	NONE	1	0-1/0-1/0-1	343	
+mingding	“酩酊”	trap_1651_akmdbf				MAA resource/battle_data.json · chars	“酩酊”	“酩酊”	“酩酊”	“酩酊”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	693	
+zuqiu	足球	trap_165_muftbl				MAA resource/battle_data.json · chars	Football	サッカーボール	축구공	足球	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1371	
+sheshijianzhugong	设施建筑工	trap_166_muwork				MAA resource/battle_data.json · chars	Facility Builder	施設建設作業員	시설 건축공	設施建築工	TRAP	notchar2	NONE	1	1-1/1-1/1-1	872	
+zhedieshiweihuche	折叠式维护车	trap_167_muruinf				MAA resource/battle_data.json · chars	Foldable Maintenance Vehicle	競技用格納式整備車	접이식 수리차	折疊式維護車	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1305	
+zhedieshihouqinzhan	折叠式后勤站	trap_169_muruinb				MAA resource/battle_data.json · chars	Foldable Logistics Hub	競技用格納式支援所	접이식 보급소	折疊式後勤站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1304	
+hendadeguo	很大的锅	trap_171_trpot				MAA resource/battle_data.json · chars	Really Big Pot	大鍋	커다란 냄비	很大的鍋	TRAP	notchar2	NONE	1	0-1/0-1/0-1	374	
+baoxiang	“宝箱”	trap_172_trbox				MAA resource/battle_data.json · chars	'Treasure Chest'	「宝箱」	'보물상자'	“寶箱”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	54	
+shanliangguoshi	闪亮果实	trap_173_slfrut				MAA resource/battle_data.json · chars	Shiny Berries	ピカピカフルーツ	반짝 열매	閃亮果實	TRAP	notchar2	NONE	1	0-1/0-1/0-1	840	
+qiyiheiguangguoshi	奇异黑光果实	trap_174_smfrut				MAA resource/battle_data.json · chars	Glooming Berry	変な黒いフルーツ	검은 빛 열매	奇異黑光果實	TRAP	notchar2	NONE	1	0-1/0-1/0-1	792	
+xiangtiankaoguozi	香甜烤果子	trap_175_frfrut				MAA resource/battle_data.json · chars	Roast Berry	あま焼きフルーツ	열매 구이	香甜烤果子	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1051	
+binfenguojiu	缤纷果酒	trap_176_frutwn				MAA resource/battle_data.json · chars	Shiny Brew	フルーツのお酒	영롱 과일주	繽紛果酒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	85	
+baoxiangderou	宝箱的肉？	trap_177_tentcl				MAA resource/battle_data.json · chars	Chest Limb?	宝箱のお肉？	상자 고기?	寶箱的肉？	TRAP	notchar2	NONE	1	0-1/0-1/0-1	58	
+baoxiang	“宝箱”	trap_178_trrbox				MAA resource/battle_data.json · chars	'Treasure Chest'	「宝箱」	'보물상자'	“寶箱”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	56	
+curonggongjingkongzhi	促融共竞控制	trap_179_muctrl				MAA resource/battle_data.json · chars	Icebreaker Games Control	協心競技制御装置	협동 경기 통제	促融共競控制	TRAP	notchar2	NONE	1	0-1/0-1/0-1	175	
+fengyindedimian	封印的地面	trap_180_dsblock				MAA resource/battle_data.json · chars	Sealed Floor	封じられた地面	봉인된 지면	封印的地面	TRAP	notchar2	NONE	1	0-1/0-1/0-1	290	
+jiejingxiaochuzhuang	结晶消除桩	trap_181_sgray				MAA resource/battle_data.json · chars	Decrystallizing Totem	結晶除去装置	결정 제거기	結晶消除樁	TRAP	notchar2	NONE	1	0-1/0-1/0-1	476	
+chunjingjiejing	纯净结晶	trap_182_sglink				MAA resource/battle_data.json · chars	Pure Crystal	純粋結晶	순수 결정	純淨結晶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	163	
+zuozhanzhuanyongyanti	作战专用掩体	trap_183_sheltk				MAA resource/battle_data.json · chars	Combat Special Barricade	作戦用掩体	작전용 엄폐물	作戰專用掩體	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1370	
+jungongchangzhilingpingtai	军工厂指令平台	trap_184_vtarsn				MAA resource/battle_data.json · chars	Munitions Factory Command Center	軍事工場指令基地	군수공장 지령 플랫폼	軍工廠指令平台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	534	
+huangjinhuixiang	黄金回响	trap_185_vtlntw				MAA resource/battle_data.json · chars	Golden Echo	黄金の反響	황금 메아리	黃金迴響	TRAP	notchar2	NONE	1	x-1/x-1/x-1	397	
+yanhuafasheqi	烟花发射器	trap_186_cnvfwks				MAA resource/battle_data.json · chars	Firework Launcher	花火打上装置	불꽃 발사기	煙火發射器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1135	
+niudanji	扭蛋机	trap_187_arcgacha				MAA resource/battle_data.json · chars	Gacha Machine	カプセルマシン	가챠머신	扭蛋機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	741	
+jiebiandianhuating	街边电话亭	trap_188_arcsum1				MAA resource/battle_data.json · chars	Street Telephone Booth	道端の電話ボックス	길가의 전화부스	街邊電話亭	TRAP	notchar2	NONE	1	0-1/0-1/0-1	471	
+junyingdianhuating	军营电话亭	trap_189_arcsum2				MAA resource/battle_data.json · chars	Camp Telephone Booth	軍営の電話ボックス	군부대 전화부스	軍營電話亭	TRAP	notchar2	NONE	1	0-1/0-1/0-1	535	
+chaoshikongdianhuating	超时空电话亭	trap_190_arcsum3				MAA resource/battle_data.json · chars	Timey-Wimey Telephone Booth	次元超越電話ボックス	초시공 전화부스	超時空電話亭	TRAP	notchar2	NONE	1	0-1/0-1/0-1	133	
+caidandianhuaji	菜单电话机	trap_191_arcexpd				MAA resource/battle_data.json · chars	Menu Telephone	注文用電話機	다이얼 전화기	復古電話機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	122	
+gouzhao	勾爪	trap_192_archook				MAA resource/battle_data.json · chars	Hook	アーム	갈고리	鉤爪	TRAP	notchar2	NONE	1	0-1/0-1/0-1	335	
+dazhanjifenzhan	大战记分站	trap_193_arctoll				MAA resource/battle_data.json · chars	Scoring Station	得点集計所	점수 기록판	大戰記分站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	201	
+koukelele	口渴乐乐	trap_194_arcsoda				MAA resource/battle_data.json · chars	Quenchy Cola	コカ・ラーラ	크크콜라	口渴樂樂	TRAP	notchar2	NONE	1	x-5/x-5/x-5	572	
+daliquantao	大力拳套	trap_195_arcpw				MAA resource/battle_data.json · chars	Power Gauntlet	怪力グローブ	파워 글러브	大力拳套	TRAP	notchar2	NONE	1	1-1/1-1/1-1	185	
+yantuozipao	盐坨子炮	trap_196_cnnon				MAA resource/battle_data.json · chars	Saltheap Cannon	ソルトキャノン	염괴포	鹽坨子炮	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1141	
+hujufenfayuan	护具分发员	trap_197_muulwr				MAA resource/battle_data.json · chars	Protective Gear Giver	防具支給員	보호구 배급원	護具分發員	TRAP	notchar2	NONE	1	0-1/0-1/0-1	410	
+hunluanyanhuaxiang	混乱烟花箱	trap_198_muulas				MAA resource/battle_data.json · chars	Chaotic Fireworks	花火セット	혼란의 폭죽상자	混亂煙火箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	413	
+mengshounengliangyinliao	猛兽能量饮料	trap_199_muulrg				MAA resource/battle_data.json · chars	Beastmode Energy Drink	ニャンスターエナジー	맹수 에너지음료	猛獸能量飲料	TRAP	notchar2	NONE	1	0-1/0-1/0-1	676	
+pensheqishuiji	喷射汽水机	trap_200_muulcl				MAA resource/battle_data.json · chars	Soda Dispenser	サイダー噴射機	사이다 분사기	噴射汽水機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	764	
+saichanglaladui	赛场啦啦队	trap_201_muulco				MAA resource/battle_data.json · chars	Cheerleader	競技応援団	경기장 응원단	賽場啦啦隊	TRAP	notchar2	NONE	1	0-1/0-1/0-1	820	
+gaojisheshijianzhugong	高级设施建筑工	trap_202_muworkg				MAA resource/battle_data.json · chars	Expert Facility Builder	上級施設建設作業員	고급 시설 건축공	高級設施建築工	TRAP	notchar2	NONE	1	1-1/1-1/1-1	312	
+tantadezawudui	坍塌的杂物堆	trap_203_mufrprn				MAA resource/battle_data.json · chars	Collapsed Junk Pile	ガラクタのなだれ	무너진 잔해	坍塌的雜物堆	TRAP	notchar2	NONE	1	0-1/0-1/0-1	954	
+jianzhugongjujian	建筑工具间	trap_205_mufrfm				MAA resource/battle_data.json · chars	Construction Workshop	作業員倉庫	건축 공구실	建築工具間	TRAP	notchar2	NONE	1	0-1/0-1/0-1	449	
+linshixiuxicang	临时休息舱	trap_206_mufrbk				MAA resource/battle_data.json · chars	Recuperation Pod	仮設休憩室	임시 휴게실	臨時休息艙	TRAP	notchar2	NONE	1	0-1/0-1/0-1	627	
+yeyashigaotai	液压式高台	trap_207_mufrwl				MAA resource/battle_data.json · chars	Hydraulic Platform	油圧式高台	유압식 플랫폼	液壓式高台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1166	
+hunningtuluzhang	混凝土路障	trap_208_mufrst				MAA resource/battle_data.json · chars	Concrete Roadblock	コンクリ防壁	콘크리트 바리케이드	混凝土路障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	414	
+bianxiejianshenjia	便携健身架	trap_209_mufrbs				MAA resource/battle_data.json · chars	Portable Exercise Rack	携帯式健康器	휴대용 운동기구	便攜健身架	TRAP	notchar2	NONE	1	0-1/0-1/0-1	76	
+liangqimatou	两栖码头	trap_210_arcgrg				MAA resource/battle_data.json · chars	Amphibious Dock	水陸両用埠頭	수륙 양용 런처	兩棲碼頭	TRAP	notchar2	NONE	1	0-1/0-1/0-1	601	
+huozao	火灶	trap_211_cjgtow				MAA resource/battle_data.json · chars	Stove	竈台	화로	火灶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	421	
+feiqihuozao	废弃火灶	trap_212_cjbtow				MAA resource/battle_data.json · chars	Derelict Stove	破棄された竈台	버려진 화로	廢棄火灶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	269	
+yuanshijitan	源石祭坛	trap_213_dqore				MAA resource/battle_data.json · chars	Originium Altar	源石祭壇	오리지늄 제단	源石祭壇	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1232	
+nupao	弩炮	trap_214_dqballis				MAA resource/battle_data.json · chars	Turret	バリスタ	발리스타	弩炮	TRAP	notchar2	NONE	1	0-1/0-1/0-1	748	
+jieguzheqingzhaichengxu	解雇者清债程序	trap_215_dqcrsbow				MAA resource/battle_data.json · chars	Post-Firing Debt Relief Program	解雇者清算プログラム	해고자 채무 탕감 프로그램	解雇者清債程式	TRAP	notchar2	NONE	1	0-1/0-1/0-1	475	
+meishenkexianquan	梅什科线圈	trap_216_dqelec				MAA resource/battle_data.json · chars	Mieszko Coil	ミェシュココイル	미에슈코 코일	梅什科線圈	TRAP	notchar2	NONE	1	x-2/x-2/x-2	674	
+shucong	树丛	trap_218_fttree				MAA resource/battle_data.json · chars	Thicket	茂み	수풀	樹叢	TRAP	notchar2	NONE	1	x-5/x-5/x-5	915	
+dunyuqiang	盾与墙	trap_219_fttreant				MAA resource/battle_data.json · chars	Shield and Wall	盾と壁	방패와 벽	盾與牆	TRAP	notchar2	NONE	1	x-5/x-5/x-5	231	
+jiurizhihuo	旧日之火	trap_220_ftbone				MAA resource/battle_data.json · chars	Fires of Days Past	昔日の火	과거의 불꽃	舊日之火	TRAP	notchar2	NONE	1	x-4/x-4/x-4	519	
+kongke	空壳	trap_221_ftshad				MAA resource/battle_data.json · chars	Empty Shell	抜け殻	빈 껍데기	空殼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	569	
+diaochang	雕伥	trap_222_rgdysm				MAA resource/battle_data.json · chars	Statuegeist	彫鬼	디오창	雕倀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	207	
+baohulu	宝葫芦	trap_223_dynbox				MAA resource/battle_data.json · chars	Magic Gourd	お宝ひょうたん	보물 호리병	寶葫蘆	TRAP	notchar2	NONE	1	0-1/0-1/0-1	47	
+tiehulu	铁葫芦	trap_224_dyrbox				MAA resource/battle_data.json · chars	Iron Gourd	鉄のひょうたん	철제 호리병	鐵葫蘆	TRAP	notchar2	NONE	1	0-1/0-1/0-1	976	
+guaihulu	怪葫芦	trap_225_dysbox				MAA resource/battle_data.json · chars	Strange Gourd	奇妙なひょうたん	괴상한 호리병	怪葫蘆	TRAP	notchar2	NONE	1	0-1/0-1/0-1	336	
+xia	瑕	trap_226_dychss				MAA resource/battle_data.json · chars	Flaw	瑕	흠	瑕	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1038	
+ruohuajiedian	弱化节点	trap_227_mpweak				MAA resource/battle_data.json · chars	Weakening Node	弱体化ノード	약화 패널	弱化節點	TRAP	notchar2	NONE	1	x-4/x-4/x-4	816	
+teleixisi	特雷西斯	trap_228_mptxs				MAA resource/battle_data.json · chars	Theresis	テレシス	테레시스	特雷西斯	TRAP	notchar2	NONE	1	0-1/0-1/0-1	958	
+bingzhenyinliaoji	冰镇饮料机	trap_229_mpcata				MAA resource/battle_data.json · chars	Cold Drink Machine	アイスドリンクマシン	음료 냉각기	冰鎮飲料機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	92	
+jiareyinliaoji	加热饮料机	trap_230_mpcatab				MAA resource/battle_data.json · chars	Hot Drink Machine	ホットドリンクマシン	음료 가열기	加熱飲料機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	452	
+hanzaihuixiang	“寒灾回响”	trap_231_mpgrou				MAA resource/battle_data.json · chars	'Frozen Monstrosity's Echo'	「寒災の残響」	'프로스트 디재스터의 울림'	“寒災迴響”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	361	
+fengxuezhongdeyingzi	“风雪中的影子”	trap_232_mpgroub				MAA resource/battle_data.json · chars	'Shadow in the Snow'	「風雪の中の影」	'눈보라 속의 그림자'	“風雪中的影子”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	287	
+wendingtaisakazishushijiejing	稳定态萨卡兹术师结晶	trap_233_mpmage				MAA resource/battle_data.json · chars	Stable Sarkaz Caster Crystal	定常状態サルカズ術師結晶	안정 상태의 살카즈 캐스터 결정	穩定態薩卡茲術師結晶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1020	
+huoxingtaisakazishushijiejing	活性态萨卡兹术师结晶	trap_234_mpmageb				MAA resource/battle_data.json · chars	Active Sarkaz Caster Crystal	活性状態サルカズ術師結晶	활성 상태의 살카즈 캐스터 결정	活性態薩卡茲術師結晶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	420	
+shengtuxiangbanyanzhe	圣徒像扮演者	trap_235_hlnpcm				MAA resource/battle_data.json · chars	Saint Statue Cosplayer	聖徒像ごっこ	성도 조각상 연기자	聖徒像扮演者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	858	
+shengtangsheshoubanyanzhe	圣堂射手扮演者	trap_236_hlnpcs				MAA resource/battle_data.json · chars	Shrine Marksman Cosplayer	聖堂射手ごっこ	성당 저격수 연기자	聖堂射手扮演者	TRAP	notchar2	NONE	1	3-3/3-3/3-3	857	
+shengtangbaoyuyuanbanyanzhe	圣堂保育员扮演者	trap_237_hlnpcb				MAA resource/battle_data.json · chars	Shrine Nurturer Cosplayer	聖堂保育士ごっこ	성당 보육사 연기자	聖堂保育員扮演者	TRAP	notchar2	NONE	1	x-2/x-2/x-2	856	
+mingzhutai	明烛台	trap_238_dydfst				MAA resource/battle_data.json · chars	Candle Stand	明燭台	명촉대	明燭台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	696	
+xialuxiangfeng	狭路相逢	trap_239_dyffgd				MAA resource/battle_data.json · chars	Face to Face	隘路の衝突	외나무다리	狹路相逢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1042	
+xialuxiangfeng	狭路相逢	trap_240_dyffdd				MAA resource/battle_data.json · chars	Face to Face	隘路の衝突	외나무다리	狹路相逢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1044	
+jubaozhai	聚宝斋	trap_241_dyldlz				MAA resource/battle_data.json · chars	Chamber of Treasures	聚宝斎	취보재	聚寶齋	TRAP	notchar2	NONE	1	0-1/0-1/0-1	529	
+sheyingji	摄影机	trap_247_crfilm				MAA resource/battle_data.json · chars	Camera	撮影カメラ	카메라	攝影機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	874	
+daguangdaoju	打光道具	trap_248_crprop				MAA resource/battle_data.json · chars	Lighting Prop	照明機材	조명 도구	打光道具	TRAP	notchar2	NONE	1	0-1/0-1/0-1	179	
+yueyingzhijian	“月影之茧”	trap_249_mjcsdw				MAA resource/battle_data.json · chars	'Moonlight Cocoon'	「月影の繭」	'달그림자 고치'	“月影之繭”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1258	
+xungenshengshi	寻根圣事	trap_250_hlctrl				MAA resource/battle_data.json · chars	Sacrament of Genesis	根源を辿る儀式	근원 탐구 성사	尋根聖事	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1113	
+yiwuzhongshu	遗物中枢	trap_251_buftrp				MAA resource/battle_data.json · chars	Artifact Center	遺物中枢	유물 중추	遺物中樞	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1212	
+tianminglaixi	天命来袭	trap_252_pckstp				MAA resource/battle_data.json · chars	Fate Striker	天命襲来	운명의 강림	天命來襲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	972	
+yalishuhuanbangshou	压力舒缓帮手	trap_253_boxnma				MAA resource/battle_data.json · chars	Stress-Relief Helper	モヤモヤナクナール	스트레스 해소 기기	壓力舒緩幫手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1125	
+yaliguilingbangshou	压力归零帮手	trap_254_boxmac				MAA resource/battle_data.json · chars	Zero-Stress Helper	イライラナクナール	스트레스 제거 기기	壓力歸零幫手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1124	
+zhan	“斩”	trap_255_pckzhn				MAA resource/battle_data.json · chars	'Zan'	「斬」	'참'	“斬”	TRAP	notchar2	NONE	1	x-7/x-7/x-7	1281	
+mihuanfanshejing	迷幻反射镜	trap_257_muulct				MAA resource/battle_data.json · chars	Illusion Reflector	夢幻の鏡	미혹의 거울	迷幻反射鏡	TRAP	notchar2	NONE	1	x-1/x-1/x-1	687	
+gudiaochang	古雕伥	trap_258_rgcssm				MAA resource/battle_data.json · chars	Ancient Statuegeist	いにしえの彫像器鬼	고대 디오창	古雕倀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	342	
+quanshoudongtuijinqi	全手动推进器	trap_259_murjet				MAA resource/battle_data.json · chars	Manual Booster	手動推進機	수동 프로펠러	全手動推進器	TRAP	notchar2	NONE	1	x-5/x-5/x-5	799	
+jichufuban	基础浮板	trap_260_murbas				MAA resource/battle_data.json · chars	Basic Floater	基礎フロート	기본 부력판	基礎浮板	TRAP	notchar2	NONE	1	0-1/0-1/0-1	462	
+yinlifuban	引力浮板	trap_261_murmag				MAA resource/battle_data.json · chars	Gravity Floater	重力フロート	인력 부력판	引力浮板	TRAP	notchar2	NONE	1	x-3/x-3/x-3	1201	
+wuzifuban	物资浮板	trap_262_murtre				MAA resource/battle_data.json · chars	Supplies Floater	物資フロート	물자 부력판	物資浮板	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1036	
+fangshuiwuzixiang	防水物资箱	trap_263_murbox				MAA resource/battle_data.json · chars	Waterproof Supply Crate	防水物資箱	방수 물자함	防水物資箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	241	
+yisibeitagaotai	伊斯贝塔高台	trap_264_xdplat				MAA resource/battle_data.json · chars	Isbit High Ground	イスビット高台	이스빗 고지대	伊斯貝塔高台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1211	
+shengnvxiang	圣女像	trap_265_xdice1				MAA resource/battle_data.json · chars	Saintess Statue	巫女像	성녀상	聖女像	TRAP	notchar2	NONE	1	0-1/0-1/0-1	855	
+xuebengchufazhuangzhi	雪崩触发装置	trap_267_xdmac1				MAA resource/battle_data.json · chars	Avalanche Trigger System	雪崩発生装置	눈사태 유도 장치	雪崩觸發裝置	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1103	
+jixuegudingzhuangzhi	积雪固定装置	trap_268_xdmac2				MAA resource/battle_data.json · chars	Snow Retention System	雪面固定装置	적설 고정 장치	積雪固定裝置	TRAP	notchar2	NONE	1	0-1/0-1/0-1	525	
+luoxuefanghuzhuangzhi	落雪防护装置	trap_269_xdmac3				MAA resource/battle_data.json · chars	Avalanche Control System	落雪防護装置	낙설 방호 장치	落雪防護裝置	TRAP	notchar2	NONE	1	0-1/0-1/0-1	654	
+yinbikuangdao	隐蔽矿道	trap_270_spawnp				MAA resource/battle_data.json · chars	Hidden Tunnel	隠された坑道	비밀 갱도	隱蔽礦道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1179	
+yanzhongwuransheshi	严重污染设施	trap_271_fowstn				MAA resource/battle_data.json · chars	Heavily Polluted Facility	重度汚染施設	고위험 오염 시설	嚴重汙染設施	TRAP	notchar2	NONE	1	x-2/x-2/x-2	1146	
+zudaoyanbi	阻道岩壁	trap_272_nomstn				MAA resource/battle_data.json · chars	Rock Wall	道を塞ぐ岩壁	차단암벽	阻道岩壁	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1363	
+buwanquanchongnengfanji	不完全充能反击	trap_273_pycgp				MAA resource/battle_data.json · chars	不完全充能反击	不完全充能反击	不完全充能反击	不完全充能反击	TRAP	notchar2	NONE	1	0-1/0-1/0-1	120	
+paoyingliudachongji	泡影流大冲击	trap_274_pyctrn				MAA resource/battle_data.json · chars	泡影流大冲击	泡影流大冲击	泡影流大冲击	泡影流大冲击	TRAP	notchar2	NONE	1	3-5/3-5/3-5	756	
+xiangchongshanji	翔虫闪击	trap_275_pycfly				MAA resource/battle_data.json · chars	翔虫闪击	翔虫闪击	翔虫闪击	翔虫闪击	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1049	
+shufutiechongsi	束缚铁虫丝	trap_276_pycstp				MAA resource/battle_data.json · chars	束缚铁虫丝	束缚铁虫丝	束缚铁虫丝	束缚铁虫丝	TRAP	notchar2	NONE	1	0-1/0-1/0-1	918	
+panjuyanfeng	盘踞岩峰	trap_277_pycblk				MAA resource/battle_data.json · chars	盘踞岩峰	盘踞岩峰	盘踞岩峰	盘踞岩峰	TRAP	notchar2	NONE	1	0-1/0-1/0-1	751	
+xialuxiangfeng	狭路相逢	trap_278_dyfgdd				MAA resource/battle_data.json · chars	Face to Face	隘路の衝突	외나무다리	狹路相逢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1045	
+penquanshuichi	喷泉水池	trap_279_pirene				MAA resource/battle_data.json · chars	Fountain	憩いの池	분수대 수조	噴泉水池	TRAP	notchar2	NONE	1	x-5/x-5/x-5	763	
+fenghuadesuixie	风化的碎屑	trap_280_pycfbd				MAA resource/battle_data.json · chars	风化的碎屑	风化的碎屑	风化的碎屑	风化的碎屑	TRAP	notchar2	NONE	1	0-1/0-1/0-1	277	
+yulongfankegui	御龙：反壳龟	trap_281_ctlrol				MAA resource/battle_data.json · chars	御龙：反壳龟	御龙：反壳龟	御龙：反壳龟	御龙：反壳龟	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1263	
+yulongyingsizhu	御龙：影丝蛛	trap_282_ctlspy				MAA resource/battle_data.json · chars	御龙：影丝蛛	御龙：影丝蛛	御龙：影丝蛛	御龙：影丝蛛	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1266	
+yulongyanjiashou	御龙：岩甲兽	trap_283_ctlblk				MAA resource/battle_data.json · chars	御龙：岩甲兽	御龙：岩甲兽	御龙：岩甲兽	御龙：岩甲兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1265	
+yulongleilanglong	御龙：雷狼龙	trap_284_ctlzog				MAA resource/battle_data.json · chars	御龙：雷狼龙	御龙：雷狼龙	御龙：雷狼龙	御龙：雷狼龙	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1264	
+shanji	山脊	trap_285_tjggt				MAA resource/battle_data.json · chars	Ridge	尾根	산등성이	山脊	TRAP	notchar2	NONE	1	0-1/0-1/0-1	839	
+shudao	书刀	trap_286_tjgsd				MAA resource/battle_data.json · chars	Writing Knife	書刀	서도	書刀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	916	
+duan	断	trap_287_baizi				MAA resource/battle_data.json · chars	Broken	キリ	'단'	斷	TRAP	notchar2	NONE	1	0-1/0-1/0-1	221	
+zhensuizhu	镇岁柱	trap_288_sunmao				MAA resource/battle_data.json · chars	Suppression Pillar	鎮歳柱	쉐이 진압 기둥	鎮歲柱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1316	
+caizi	财字	trap_289_zicai				MAA resource/battle_data.json · chars	'Wealth'	「財」	'재'	財字	TRAP	notchar2	NONE	1	0-1/0-1/0-1	124	
+shizi	食字	trap_290_zishi				MAA resource/battle_data.json · chars	'Food'	「食」	'식'	食字	TRAP	notchar2	NONE	1	0-1/0-1/0-1	904	
+bingzi	兵字	trap_291_zibin				MAA resource/battle_data.json · chars	'Soldier'	「兵」	'병'	兵字	TRAP	notchar2	NONE	1	0-1/0-1/0-1	93	
+shanzi	山字	trap_292_zishan				MAA resource/battle_data.json · chars	'Mountain'	「山」	'산'	山字	TRAP	notchar2	NONE	1	0-1/0-1/0-1	843	
+suiyongshan	岁用山	trap_293_suishan				MAA resource/battle_data.json · chars	Sui's Mountain	歳用山	쉐이용 산	歲用山	TRAP	notchar2	NONE	1	0-1/0-1/0-1	943	
+youzi	友字	trap_294_ziyou				MAA resource/battle_data.json · chars	'Friend'	「友」	'우'	友字	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1220	
+yinzi	印字	trap_295_ziyin				MAA resource/battle_data.json · chars	'Stamp'	「印」	'인'	印字	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1208	
+luoposhibing	落魄士兵	trap_296_iznsbr				MAA resource/battle_data.json · chars	落魄士兵	落魄士兵	落魄士兵	落魄士兵	TRAP	notchar2	NONE	1	0-1/0-1/0-1	652	
+chidunzhanbaiqishi	持盾战败骑士	trap_297_izsdkn				MAA resource/battle_data.json · chars	持盾战败骑士	持盾战败骑士	持盾战败骑士	持盾战败骑士	TRAP	notchar2	NONE	1	0-1/0-1/0-1	151	
+wusasinushouxingcunzhe	乌萨斯弩手幸存者	trap_298_izuabn				MAA resource/battle_data.json · chars	乌萨斯弩手幸存者	乌萨斯弩手幸存者	乌萨斯弩手幸存者	乌萨斯弩手幸存者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1030	
+shenchijiaojuzhanshi	深池搅局战士	trap_299_izduph				MAA resource/battle_data.json · chars	深池搅局战士	深池搅局战士	深池搅局战士	深池搅局战士	TRAP	notchar2	NONE	1	0-1/0-1/0-1	849	
+sakaziyeyushushi	萨卡兹业余术师	trap_300_izdmge				MAA resource/battle_data.json · chars	萨卡兹业余术师	萨卡兹业余术师	萨卡兹业余术师	萨卡兹业余术师	TRAP	notchar2	NONE	1	0-1/0-1/0-1	824	
+wendingdegaonengyuanshichong	稳定的高能源石虫	trap_301_izbslm				MAA resource/battle_data.json · chars	稳定的高能源石虫	稳定的高能源石虫	稳定的高能源石虫	稳定的高能源石虫	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1019	
+sakazikuxiuweizhangzhe	萨卡兹枯朽胃胀者	trap_302_iznhkd				MAA resource/battle_data.json · chars	萨卡兹枯朽胃胀者	萨卡兹枯朽胃胀者	萨卡兹枯朽胃胀者	萨卡兹枯朽胃胀者	TRAP	notchar2	NONE	1	0-1/0-1/0-1	823	
+xiabandegaopunike	下班的高普尼克	trap_303_izbear				MAA resource/battle_data.json · chars	下班的高普尼克	下班的高普尼克	下班的高普尼克	下班的高普尼克	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1039	
+biangeboshi	变格博士	trap_304_izdoc				MAA resource/battle_data.json · chars	变格博士	变格博士	变格博士	变格博士	TRAP	notchar2	NONE	1	0-1/0-1/0-1	70	
+biangeweishendaier	变格维什戴尔	trap_305_izwsdl				MAA resource/battle_data.json · chars	变格维什戴尔	变格维什戴尔	变格维什戴尔	变格维什戴尔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	72	
+biangekaierxi	变格凯尔希	trap_306_izklst				MAA resource/battle_data.json · chars	变格凯尔希	变格凯尔希	变格凯尔希	变格凯尔希	TRAP	notchar2	NONE	1	0-1/0-1/0-1	71	
+biangeyinhui	变格银灰	trap_307_izsvas				MAA resource/battle_data.json · chars	变格银灰	变格银灰	变格银灰	变格银灰	TRAP	notchar2	NONE	1	0-1/0-1/0-1	73	
+yuanxingzhishou	原型之手	trap_308_izcamp				MAA resource/battle_data.json · chars	原型之手	原型之手	原型之手	原型之手	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1238	
+zhinengcaipanguan	智能裁判官	trap_309_muctba				MAA resource/battle_data.json · chars	智能裁判官	智能裁判官	智能裁判官	智能裁判官	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1327	
+jingjieta	警戒塔	trap_316_ubtower				MAA resource/battle_data.json · chars	警戒塔	警戒塔	警戒塔	警戒塔	TRAP	notchar2	NONE	1	4-13/4-13/4-13	497	
+jinbisuo	禁闭所	trap_317_ubprison				MAA resource/battle_data.json · chars	禁闭所	禁闭所	禁闭所	禁闭所	TRAP	notchar2	NONE	1	0-1/0-1/0-1	489	
+weizhuanggongju	伪装工具	trap_318_ubodst				MAA resource/battle_data.json · chars	伪装工具	伪装工具	伪装工具	伪装工具	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1017	
+fengraoshuzhong	丰饶树冢	trap_320_shtlbx				MAA resource/battle_data.json · chars	丰饶树冢	丰饶树冢	丰饶树冢	丰饶树冢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	280	
+elongcao	恶笼草	trap_321_shnbox				MAA resource/battle_data.json · chars	恶笼草	恶笼草	恶笼草	恶笼草	TRAP	notchar2	NONE	1	0-1/0-1/0-1	236	
+jibianelongcao	畸变恶笼草	trap_322_shrbox				MAA resource/battle_data.json · chars	畸变恶笼草	畸变恶笼草	畸变恶笼草	畸变恶笼草	TRAP	notchar2	NONE	1	0-1/0-1/0-1	461	
+xiangxingelongcao	箱型恶笼草	trap_323_shsbox				MAA resource/battle_data.json · chars	箱型恶笼草	箱型恶笼草	箱型恶笼草	箱型恶笼草	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1052	
+yuanjiefangmokuai	源阶方模块	trap_324_shmbmb				MAA resource/battle_data.json · chars	源阶方模块	源阶方模块	源阶方模块	源阶方模块	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1222	
+weixiu	“危朽”	trap_325_shfort				MAA resource/battle_data.json · chars	“危朽”	“危朽”	“危朽”	“危朽”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1014	
+bengjie	“崩解”	trap_326_shruin				MAA resource/battle_data.json · chars	“崩解”	“崩解”	“崩解”	“崩解”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	67	
+kannuotebaoxiangui	坎诺特保险柜	trap_327_shchst				MAA resource/battle_data.json · chars	坎诺特保险柜	坎诺特保险柜	坎诺特保险柜	坎诺特保险柜	TRAP	notchar2	NONE	1	0-1/0-1/0-1	548	
+chengshinihong	城市霓虹	trap_328_newlamp				MAA resource/battle_data.json · chars	City Neon	都市のネオン	네온사인	城市霓虹	TRAP	notchar2	NONE	1	x-5/x-5/x-5	148	
+xieloubiaoji	泄漏标记	trap_329_rift				MAA resource/battle_data.json · chars	泄漏标记	泄漏标记	泄漏标记	泄漏标记	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1068	
+yanchuwang	演出望	trap_330_ycwang				MAA resource/battle_data.json · chars	Performer Wang	演出用ウァン	연출용 왕	演出望	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1132	
+youxiang	邮箱	trap_334_agmbox				MAA resource/battle_data.json · chars	邮箱	邮箱	邮箱	邮箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1216	
+quanchangzonggongji	全场总攻击	trap_335_totalattack				MAA resource/battle_data.json · chars	全场总攻击	全场总攻击	全场总攻击	全场总攻击	TRAP	notchar2	NONE	1	0-1/0-1/0-1	797	
+bianxieshizhongzhicao	便携式种植槽	trap_400_xbfarm				MAA resource/battle_data.json · chars	Portable Planting Trough	栽培ポット	간이 재배용기	可擕式種植槽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	82	
+mucaicaijizhan	木材采集站	trap_401_xbfato				MAA resource/battle_data.json · chars	Sawing Harvester Hub	木材採取基地	목재 채집 허브	木材採集站	TRAP	notchar2	NONE	1	3-15/3-15/3-15	713	
+xiexiechoushuibeng	蟹蟹抽水泵	trap_403_wfactory				MAA resource/battle_data.json · chars	Crabbie Pumpie	カニカニポンプ	메탈 크랩 펌프	蟹蟹抽水泵	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1072	
+jianguzhutai	坚固筑台	trap_404_xbfortress				MAA resource/battle_data.json · chars	Firm Platform	堅牢な台	견고한 플랫폼	堅固築台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	435	
+dushifengbizhang	都市风壁障	trap_405_xbroadblock				MAA resource/battle_data.json · chars	Urban Style Barrier	都市様式障壁	도시풍 방벽	都市風壁障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	220	
+jiankongta	监控塔	trap_406_xboverwatch				MAA resource/battle_data.json · chars	Monitoring Tower	監視塔	감시탑	監控塔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	436	
+jidi	基地	trap_408_xbbase				MAA resource/battle_data.json · chars	Base	基地	기지	基地	TRAP	notchar2	NONE	1	0-1/0-1/0-1	464	
+zamulin	杂木林	trap_409_xbwood				MAA resource/battle_data.json · chars	Thickets	雑木林	잡목림	雜木林	TRAP	notchar2	NONE	1	x-5/x-5/x-5	1275	
+judayanshi	巨大岩石	trap_410_xbstone				MAA resource/battle_data.json · chars	Monoliths	巨大な岩	거대 암석	巨大岩石	TRAP	notchar2	NONE	1	x-5/x-5/x-5	531	
+qiyikuangmai	奇异矿脉	trap_411_xbiron				MAA resource/battle_data.json · chars	Strange Ore Vein	レアな鉱脈	신비 광맥	奇異礦脈	TRAP	notchar2	NONE	1	x-5/x-5/x-5	794	
+yidongzhanta	移动战塔	trap_412_redtower				MAA resource/battle_data.json · chars	Mobile Battle Tower	可動式戦術塔	이동식 전투 타워	移動戰塔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1172	
+yijicanhai	遗迹残骸	trap_413_hiddenstone				MAA resource/battle_data.json · chars	Historical Remains	遺跡の残骸	유적지 잔해	遺跡殘骸	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1175	
+guanmucong	灌木丛	trap_414_vegetation				MAA resource/battle_data.json · chars	Bush	茂み	관목림	灌木叢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	338	
+lianluoyuan	联络员	trap_415_trademan				MAA resource/battle_data.json · chars	Liaison	連絡員	연락책	聯絡員	TRAP	notchar2	NONE	1	0-1/0-1/0-1	602	
+maimojinshuxiang	埋没金属箱	trap_416_gtreasure				MAA resource/battle_data.json · chars	Buried Metal Chest	埋もれた金属の箱	파묻힌 금속 상자	埋沒金屬箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	663	
+hudunyaokongqi	护盾遥控器	trap_417_shielder				MAA resource/battle_data.json · chars	Remote Shield Generator	シールドリモコン	실드 컨트롤러	護盾遙控器	TRAP	notchar2	NONE	1	1-1/1-1/1-1	405	
+anmianmixiang	安眠迷香	trap_418_smokebomb				MAA resource/battle_data.json · chars	Hypnotic Censer	安眠のお香	슬리핑 디퓨저	安眠迷香	TRAP	notchar2	NONE	1	x-4/x-4/x-4	21	
+xingshenmiyao	醒神秘药	trap_419_enhancer				MAA resource/battle_data.json · chars	Refreshing Potion	覚醒の秘薬	리프레시 포션	醒神秘藥	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1082	
+fanzhenchacangniji	反侦察藏匿机	trap_420_umbrella				MAA resource/battle_data.json · chars	Camouflage Device	隠密支援用マシン	대정찰 위장 장치	反偵察藏匿機	TRAP	notchar2	NONE	1	x-4/x-4/x-4	247	
+yingjixiuliche	应急修理车	trap_421_repairman				MAA resource/battle_data.json · chars	Emergency Repair Vehicle	緊急修理車両	비상 수리 차량	應急修理車	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1194	
+baocijinshuxiang	宝刺金属箱	trap_422_streasure				MAA resource/battle_data.json · chars	Thorned Treasure Chest	棘の生えた金属の箱	가시 돋은 보물 상자	寶刺金屬箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	45	
+fuwangfashetai	缚网发射台	trap_423_bondtw				MAA resource/battle_data.json · chars	Trap Net Launcher	捕縛網発射台	그물 발사대	縛網發射台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	299	
+penjuqi	喷拒器	trap_424_pushtw				MAA resource/battle_data.json · chars	Gas Jet Thrower	噴射式強制移動機	가스 분사기	噴拒器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	762	
+fangyugongshi	防御工事	trap_425_xbwall				MAA resource/battle_data.json · chars	Fortification	防御施設	방어 공사	防禦工事	TRAP	notchar2	NONE	1	0-1/0-1/0-1	244	
+mokuaiyansuansheshi	模块演算设施	trap_426_xbmrcl				MAA resource/battle_data.json · chars	Modular Computing Station	モジュラー演算所	모듈 연산 시설	模組演算設施	TRAP	notchar2	NONE	1	0-1/0-1/0-1	706	
+ziyuanguihuazhan	资源规划站	trap_427_xbprsh				MAA resource/battle_data.json · chars	Resource Planning Station	人材計画所	자원 계획 스테이션	資源規劃站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1359	
+beiqinjihuozhan	备勤激活站	trap_428_xblrsh				MAA resource/battle_data.json · chars	Combat Readiness Station	戦闘計画所	전투 준비 스테이션	備勤啟動站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	63	
+kuadikuaitongxunzhan	跨地块通讯站	trap_429_xbescp				MAA resource/battle_data.json · chars	Transregional Communication Station	越境通信所	지역 간 통신기지	跨地塊通訊站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	573	
+taotuodian	逃脱点	trap_430_wdescp				MAA resource/battle_data.json · chars	Escape Route	脱出地点	철수 포인트	逃脫點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	956	
+yezhutai	冶铸台	trap_431_xbgldn				MAA resource/battle_data.json · chars	Mint	金床	작업대	冶鑄台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1169	
+laoyixin	老伊辛	trap_432_oldisin				MAA resource/battle_data.json · chars	Old Isin	イシン	이신	老伊辛	TRAP	notchar2	NONE	1	0-1/0-1/0-1	591	
+shazu	“沙卒”	trap_433_sandsdr				MAA resource/battle_data.json · chars	'Sand Soldier'	「サンドソルジャー」	'샌드솔저'	“沙卒”	TRAP	notchar2	NONE	1	3-1/3-1/3-1	847	
+mantikeshashou	曼提柯杀手	trap_434_klmantc				MAA resource/battle_data.json · chars	Manticore Killer	殺し屋のマンティコア	맨티코어 킬러	曼提柯殺手	TRAP	notchar2	NONE	1	y-1/y-1/y-1	666	
+xunbaoren	寻宝人	trap_435_trsrhuntr				MAA resource/battle_data.json · chars	Treasure Hunter	トレジャーハンター	트레저헌터	尋寶人	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1111	
+laolianlieshou	老练猎手	trap_437_poachr				MAA resource/battle_data.json · chars	Veteran Hunter	手練れのハンター	노련한 사냥꾼	老練獵手	TRAP	notchar2	NONE	1	x-3/x-3/x-3	590	
+shicaicaijizhan	石材采集站	trap_438_xbfato2				MAA resource/battle_data.json · chars	Quarrying Harvester Hub	石材採取基地	석재 채집 허브	石材採集站	TRAP	notchar2	NONE	1	3-15/3-15/3-15	876	
+tiekuangcaijizhan	铁矿采集站	trap_439_xbfato3				MAA resource/battle_data.json · chars	Mining Harvester Hub	鉄鉱石採取基地	철광석 채집 허브	鐵礦採集站	TRAP	notchar2	NONE	1	3-15/3-15/3-15	977	
+jianyinutai	简易弩台	trap_440_xbalis				MAA resource/battle_data.json · chars	Basic Repeater Turret	簡易弩台	간이 발리스타	簡易弩台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	444	
+huizhongqiwu	喙中奇物	trap_441_xbmgbird				MAA resource/battle_data.json · chars	Fowlbeast's Return	くちばしの中の珍品	부리 속 기물	喙中奇物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	409	
+liushaankeng	流沙黯坑	trap_442_xbtrap				MAA resource/battle_data.json · chars	Occluded Quicksand Pit	砂地獄	사막의 구덩이	流沙黯坑	TRAP	notchar2	NONE	1	x-4/x-4/x-4	631	
+zuozhanzhongxin	作战中心	trap_443_xbtent				MAA resource/battle_data.json · chars	Operations Station	作戦司令部	작전센터	作戰中心	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1369	
+jinian	“纪念”	trap_444_xbexbi				MAA resource/battle_data.json · chars	Lootmark	「記念」	'기념'	“紀念”	TRAP	notchar2	NONE	1	x-4/x-4/x-4	510	
+shoulan	兽栏	trap_445_xbfence				MAA resource/battle_data.json · chars	Corral	畜舎	축사	獸欄	TRAP	notchar2	NONE	1	0-1/0-1/0-1	905	
+fengshayinglei	风沙营垒	trap_446_xbfdtion				MAA resource/battle_data.json · chars	Headquarter of Sandbank	砂漠の砦	샌드뱅크	風沙營壘	TRAP	notchar2	NONE	1	x-4/x-4/x-4	281	
+kuangyefangche	旷野房车	trap_447_xbmcv				MAA resource/battle_data.json · chars	Campervan	キャンピングカー	캠핑카	曠野房車	TRAP	notchar2	NONE	1	0-1/0-1/0-1	576	
+wuzhuonizhao	污浊泥沼	trap_448_xbmire				MAA resource/battle_data.json · chars	Cursed Mire	汚濁した泥沼	진흙탕	污濁泥沼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1035	
+yanwufashetai	烟雾发射台	trap_449_xbspgun				MAA resource/battle_data.json · chars	Smoke Launcher	煙幕発射台	연막 발사대	煙霧發射台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1143	
+chengliangcaijizhan	澄亮采集站	trap_450_xbdrill				MAA resource/battle_data.json · chars	Extracting Harvester Hub	透珀石採取基地	명징석 채집 허브	澄亮採集站	TRAP	notchar2	NONE	1	3-15/3-15/3-15	143	
+yingguangbang	荧光棒	trap_451_xbflare				MAA resource/battle_data.json · chars	Glow Stick	ケミカルライト	형광봉	螢光棒	TRAP	notchar2	NONE	1	x-5/x-5/x-5	1189	
+bulielong	捕猎笼	trap_452_xbcage				MAA resource/battle_data.json · chars	Beast Trap	捕獲カゴ	비스트 트랩	捕獵籠	TRAP	notchar2	NONE	1	1-1/1-1/1-1	116	
+xunbaoyi	寻宝仪	trap_453_xbbee				MAA resource/battle_data.json · chars	Prospector	金属探知機	프로스펙터	尋寶儀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1112	
+jiliji	激励剂	trap_454_xbember				MAA resource/battle_data.json · chars	Restanding Potion	激励剤	격려제	激勵劑	TRAP	notchar2	NONE	1	1-1/1-1/1-1	488	
+bingbaoguan	冰爆罐	trap_455_xbistorm				MAA resource/battle_data.json · chars	Ice Bomb	氷爆缶	얼음 폭탄	冰爆罐	TRAP	notchar2	NONE	1	x-4/x-4/x-4	86	
+zhongzhixiangjiqun	种植箱集群	trap_456_xbfarmm				MAA resource/battle_data.json · chars	Planting Box Group	栽培ボックス	재배키트	種植箱集群	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1340	
+gaotaigongshi	高台工事	trap_457_xbfort				MAA resource/battle_data.json · chars	Battlement	臨時高台	고지대 공사	高台工事	TRAP	notchar2	NONE	1	0-1/0-1/0-1	317	
+fanyingbizhang	反应壁障	trap_458_xbbarir				MAA resource/battle_data.json · chars	Reactive Barrier	反応障壁	반응형 장벽	反應壁障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	246	
+jianshishaozhan	监视哨站	trap_459_xblight				MAA resource/battle_data.json · chars	Watch Tower	監視塔	감시초소	監視哨站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	441	
+chengliangkuangmai	澄亮矿脉	trap_460_xbdiam				MAA resource/battle_data.json · chars	Lighting Ore Vein	透珀石鉱脈	명징 광맥	澄亮礦脈	TRAP	notchar2	NONE	1	x-5/x-5/x-5	144	
+jiguanshimen	机关石门	trap_461_xbhydr				MAA resource/battle_data.json · chars	Olden Keystone	石の関門	석문 장치	機關石門	TRAP	notchar2	NONE	1	0-1/0-1/0-1	484	
+lingdongqingquan	灵动清泉	trap_462_xbsighta				MAA resource/battle_data.json · chars	Fountain	涼しげな泉	분수대	靈動清泉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	615	
+jingmipenzai	静谧盆栽	trap_463_xbsightb				MAA resource/battle_data.json · chars	Potting	静かなる盆栽	분재	靜謐盆栽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	502	
+xiuxianchangyi	休闲长椅	trap_464_xbsightc				MAA resource/battle_data.json · chars	Bench	休憩用ベンチ	벤치	休閒長椅	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1096	
+haolingdian	号令点	trap_465_xbstation				MAA resource/battle_data.json · chars	Command Point	号令ポイント	호령 포인트	號令點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	363	
+senran	森蚺	trap_466_tzumama				MAA resource/battle_data.json · chars	Eunectes	ユーネクテス	유넥티스	森蚺	TRAP	notchar2	NONE	1	0-1/0-1/0-1	829	
+tuye	图耶	trap_467_ttuye				MAA resource/battle_data.json · chars	Tuye	トゥイエ	투예	圖耶	TRAP	notchar2	NONE	1	0-1/0-1/0-1	997	
+dajisi	大祭司	trap_468_tpriest				MAA resource/battle_data.json · chars	High Priest	大祭司	대제사장	大祭司	TRAP	notchar2	NONE	1	0-1/0-1/0-1	184	
+yike	异客	trap_469_tpasngr				MAA resource/battle_data.json · chars	Passenger	パッセンジャー	패신저	異客	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1176	
+shixie	狮蝎	trap_470_tmantic				MAA resource/battle_data.json · chars	Manticore	マンティコア	맨티코어	獅蠍	TRAP	notchar2	NONE	1	0-1/0-1/0-1	900	
+peipei	佩佩	trap_471_tegmaus				MAA resource/battle_data.json · chars	Pepe	ペペ	페페	佩佩	TRAP	notchar2	NONE	1	0-1/0-1/0-1	760	
+hongsun	红隼	trap_472_tfalco				MAA resource/battle_data.json · chars	Kestrel	ケストレル	케스트럴	紅隼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	386	
+luodedaogongzuorenyuan	罗德岛工作人员	trap_473_trmedic				MAA resource/battle_data.json · chars	Rhodes Island Staff Worker	ロドスオペレーター	로도스 아일랜드 직원	羅德島工作人員	TRAP	notchar2	NONE	1	0-1/0-1/0-1	647	
+xinshiyoutong	信使邮筒	trap_474_mailbox				MAA resource/battle_data.json · chars	Mail Box	郵便ポスト	전달자 우편함	信使郵筒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1089	
+liehuolong	猎获笼	trap_475_xbcbag				MAA resource/battle_data.json · chars	Beast Cage	捕獲カゴ	케이지	獵獲籠	TRAP	notchar2	NONE	1	0-1/0-1/0-1	606	
+xunxixia	讯息匣	trap_476_mscskt				MAA resource/battle_data.json · chars	Message Casket	情報ボックス	사서함	訊息匣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1120	
+shihengyixiang	失衡异香	trap_477_xbspps				MAA resource/battle_data.json · chars	Overspeed Spice	眩暈のお香	언밸런스 디퓨저	失衡異香	TRAP	notchar2	NONE	1	x-4/x-4/x-4	882	
+tezhishuishangpingtai	特制水上平台	trap_478_xbcanoe				MAA resource/battle_data.json · chars	Custom Floating Platform	特設ボート	특제 수상 플랫폼	特製水上平台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	962	
+gaoshipai	告示牌	trap_479_xbbillb				MAA resource/battle_data.json · chars	Billboard	看板	게시판	告示牌	TRAP	notchar2	NONE	1	0-1/0-1/0-1	316	
+daoluzhangaiwu	道路障碍物	trap_480_roadblockxb				MAA resource/battle_data.json · chars	Static Roadblock	道路障害物	도로 장애물	道路障礙物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	195	
+maimojinshuxiang	埋没金属箱	trap_481_gtreasureb				MAA resource/battle_data.json · chars	Buried Metal Chest	埋もれた金属の箱	파묻힌 금속 상자	埋沒金屬箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	662	
+yuanshichongyinyouqi	源石虫引诱器	trap_482_xbblure				MAA resource/battle_data.json · chars	Slug Lure	オリジムシ捕獲トラップ	원석충 유인 장치	源石蟲引誘器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1227	
+yuanshichongzhixin	“源石虫之心”	trap_483_xbtrophy				MAA resource/battle_data.json · chars	'Heart of a Slug'	「オリジムシハート」	'원석충의 심장'	“源石蟲之心”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1228	
+jianchadian	检查点	trap_484_xbcp				MAA resource/battle_data.json · chars	Checkpoint	チェックポイント	체크포인트	檢查點	TRAP	notchar2	NONE	1	0-1/0-1/0-1	427	
+suijidaojuhe	随机道具盒	trap_485_xbrandprop				MAA resource/battle_data.json · chars	Random Item Box	ランダムボックス	랜덤 아이템박스	隨機道具盒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	939	
+jiasukuai	加速块	trap_486_xbspd				MAA resource/battle_data.json · chars	Accelerator Tile	加速ブロック	가속 모듈	加速塊	TRAP	notchar2	NONE	1	0-1/0-1/0-1	454	
+daxingshoulan	大型兽栏	trap_487_xblfen				MAA resource/battle_data.json · chars	Large Corral	大型畜舎	대형 축사	大型獸欄	TRAP	notchar2	NONE	1	0-1/0-1/0-1	200	
+quanzidongqiemuzhan	全自动切木站	trap_488_xbtwod				MAA resource/battle_data.json · chars	Auto Sawing Hub	全自動伐採基地	전자동 벌목소	全自動切木站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	803	
+quanzidongjueshizhan	全自动掘石站	trap_489_xbtrok				MAA resource/battle_data.json · chars	Auto Quarry Hub	全自動採石基地	전자동 채석소	全自動掘石站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	802	
+quanzidongcaitiezhan	全自动采铁站	trap_490_xbtiro				MAA resource/battle_data.json · chars	Auto Mining Hub	全自動採鉱基地	전자동 철광소	全自動採鐵站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	800	
+xuyingbizhang	虚影壁障	trap_491_xbtwal				MAA resource/battle_data.json · chars	Phantomic Barrier	虚影障壁	환영 방벽	虛影壁障	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1121	
+shouwenxia	狩闻匣	trap_492_xbamai				MAA resource/battle_data.json · chars	Discovery Casket	狩猟ボックス	사냥 정보함	狩聞匣	TRAP	notchar2	NONE	1	0-1/0-1/0-1	907	
+zhuiliefashetai	追猎发射台	trap_493_xbabal				MAA resource/battle_data.json · chars	Hunting Net Launcher	狩猟用発射台	사냥용 발사대	追獵發射台	TRAP	notchar2	NONE	1	4-6/4-6/4-6	1347	
+ninanzhan	拟南盏	trap_494_xbasky				MAA resource/battle_data.json · chars	Thale Calyx	ナズナモドキの花	탈레잔	擬南盞	TRAP	notchar2	NONE	1	x-4/x-4/x-4	739	
+caoxiangfen	草香粉	trap_495_xbasmi				MAA resource/battle_data.json · chars	Spicy Pollen	香草の粉	바닐라 가루	草香粉	TRAP	notchar2	NONE	1	x-4/x-4/x-4	127	
+xiyoucaoxiangfen	稀有·草香粉	trap_496_xbaasm				MAA resource/battle_data.json · chars	Rare Spicy Pollen	珍しい香草の粉	레어 바닐라 가루	稀有·草香粉	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1099	
+yanchui	岩锤	trap_497_xbarok				MAA resource/battle_data.json · chars	Rock Hammer	ロックハンマー	바위 망치	岩錘	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1131	
+xiyouyanchui	稀有·岩锤	trap_498_xbaaro				MAA resource/battle_data.json · chars	Rare Rock Hammer	珍しいロックハンマー	레어 바위 망치	稀有·岩錘	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1101	
+xiyouninanzhan	稀有·拟南盏	trap_499_xbaask				MAA resource/battle_data.json · chars	Rare Thale Calyx	珍しいナズナモドキの花	레어 탈레잔	稀有·擬南盞	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1100	
+yingguangbangtanshezhuangzhi	荧光棒弹射装置	trap_500_xbaflu				MAA resource/battle_data.json · chars	Glow Stick Launcher	ケミカルライト発射装置	형광봉 사출기	螢光棒彈射裝置	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1190	
+waiguge	外骨骼	trap_501_xbaarm				MAA resource/battle_data.json · chars	Exoskeleton	外骨格	외골격	外骨骼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1000	
+bingpupensheguan	冰瀑喷射罐	trap_502_xbaice				MAA resource/battle_data.json · chars	Ice Blaster	氷瀑噴射缶	얼음 제트 폭탄	冰瀑噴射罐	TRAP	notchar2	NONE	1	0-1/0-1/0-1	90	
+diaowangfasheqi	凋亡发射器	trap_503_xbabla				MAA resource/battle_data.json · chars	Necrosis Transmitter	壊死損傷発射装置	쇠약 발사기	凋亡發射器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	208	
+tongzhuangyexiang	桶装液香	trap_504_xbaess				MAA resource/battle_data.json · chars	Barreled Perfume	樽詰め香液	통에 든 향수	桶裝液香	TRAP	notchar2	NONE	1	0-1/0-1/0-1	986	
+bihuzhizaoqi	庇护制造器	trap_505_xbawea				MAA resource/battle_data.json · chars	Omni Umbrella	パラソルマシン	쉘터 제조기	庇護製造器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	84	
+xunshoukouliang	驯兽口粮	trap_506_xbadiv				MAA resource/battle_data.json · chars	Hunting Rations	猛獣のエサ	조련용 사료	馴獸口糧	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1119	
+ganzhilianjieqi	感知链接器	trap_507_xbabut				MAA resource/battle_data.json · chars	Neural Chain	狩猟用発射台	뉴럴 체인	感知鏈接器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	311	
+xingdongtaozhuang	行动套装	trap_508_xbabat				MAA resource/battle_data.json · chars	Operation Kit	作戦補給品	작전 세트	行動套裝	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1079	
+mucaicaijizhancaigou	木材采集站·采购	trap_509_xbf1g				MAA resource/battle_data.json · chars	Deluxe Sawing Harvester Hub	既製品の木材採取基地	목재 채집 허브·구매	木材採集站·採購	TRAP	notchar2	NONE	1	3-15/3-15/3-15	714	
+shicaicaijizhancaigou	石材采集站·采购	trap_510_xbf2g				MAA resource/battle_data.json · chars	Deluxe Quarrying Harvester Hub	既製品の石材採取基地	석재 채집 허브·구매	石材採集站·採購	TRAP	notchar2	NONE	1	3-15/3-15/3-15	877	
+tiekuangcaijizhancaigou	铁矿采集站·采购	trap_511_xbf3g				MAA resource/battle_data.json · chars	Deluxe Mining Harvester Hub	既製品の鉄鉱石採取基地	철광석 채집 허브·구매	鐵礦採集站·採購	TRAP	notchar2	NONE	1	3-15/3-15/3-15	978	
+xiexiechoushuibengcaigou	蟹蟹抽水泵·采购	trap_512_xbwfg				MAA resource/battle_data.json · chars	Deluxe Crabbie Pumpie	既製品のカニカニポンプ	메탈 크랩 펌프·구매	蟹蟹抽水泵·採購	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1073	
+luodedaocaijijizhan	罗德岛采集基站	trap_513_xb2bas				MAA resource/battle_data.json · chars	罗德岛采集基站	罗德岛采集基站	罗德岛采集基站	罗德岛采集基站	TRAP	notchar2	NONE	1	x-4/x-4/x-4	646	
+linshicaijijizhan	临时采集基站	trap_514_xb2brh				MAA resource/battle_data.json · chars	临时采集基站	临时采集基站	临时采集基站	临时采集基站	TRAP	notchar2	NONE	1	3-3/3-3/3-3	625	
+zamulin	杂木林	trap_515_xb2wdo				MAA resource/battle_data.json · chars	杂木林	杂木林	杂木林	杂木林	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1274	
+zamulin	杂木林	trap_516_xb2wod				MAA resource/battle_data.json · chars	杂木林	杂木林	杂木林	杂木林	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1273	
+judayanshi	巨大岩石	trap_517_xb2stn				MAA resource/battle_data.json · chars	巨大岩石	巨大岩石	巨大岩石	巨大岩石	TRAP	notchar2	NONE	1	0-1/0-1/0-1	530	
+qiyikuangmai	奇异矿脉	trap_518_xb2irn				MAA resource/battle_data.json · chars	奇异矿脉	奇异矿脉	奇异矿脉	奇异矿脉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	793	
+chengliangkuangmai	澄亮矿脉	trap_519_xb2dmn				MAA resource/battle_data.json · chars	澄亮矿脉	澄亮矿脉	澄亮矿脉	澄亮矿脉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	145	
+chaoxue	巢穴	trap_520_xb2cve				MAA resource/battle_data.json · chars	巢穴	巢穴	巢穴	巢穴	TRAP	notchar2	NONE	1	x-4/x-4/x-4	134	
+feiqiyidongzhanta	废弃移动战塔	trap_521_xb2cmp				MAA resource/battle_data.json · chars	废弃移动战塔	废弃移动战塔	废弃移动战塔	废弃移动战塔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	270	
+daiqinglicailiao	待清理材料	trap_522_xb2dor				MAA resource/battle_data.json · chars	待清理材料	待清理材料	待清理材料	待清理材料	TRAP	notchar2	NONE	1	0-1/0-1/0-1	181	
+haoqidexiaoyushou	好奇的小羽兽	trap_523_xb2brd				MAA resource/battle_data.json · chars	好奇的小羽兽	好奇的小羽兽	好奇的小羽兽	好奇的小羽兽	TRAP	notchar2	NONE	1	x-5/x-5/x-5	364	
+sunhuaideziyuanqianshaozhan	损坏的资源前哨站	trap_524_xb2onf				MAA resource/battle_data.json · chars	损坏的资源前哨站	损坏的资源前哨站	损坏的资源前哨站	损坏的资源前哨站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	947	
+bujichechufazhantai	补给车出发站台	trap_525_xb2sta				MAA resource/battle_data.json · chars	补给车出发站台	补给车出发站台	补给车出发站台	补给车出发站台	TRAP	notchar2	NONE	1	x-2/x-2/x-2	104	
+bujichezhongzhuanzhantai	补给车中转站台	trap_526_xb2sit				MAA resource/battle_data.json · chars	补给车中转站台	补给车中转站台	补给车中转站台	补给车中转站台	TRAP	notchar2	NONE	1	x-2/x-2/x-2	110	
+bujichezhongdianzhantai	补给车终点站台	trap_527_xb2tml				MAA resource/battle_data.json · chars	补给车终点站台	补给车终点站台	补给车终点站台	补给车终点站台	TRAP	notchar2	NONE	1	x-2/x-2/x-2	108	
+bujichezhuanjiaoguidao	补给车转角轨道	trap_529_xb2crv				MAA resource/battle_data.json · chars	补给车转角轨道	补给车转角轨道	补给车转角轨道	补给车转角轨道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	112	
+bujichezhixingguidao	补给车直行轨道	trap_529_xb2trk				MAA resource/battle_data.json · chars	补给车直行轨道	补给车直行轨道	补给车直行轨道	补给车直行轨道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	106	
+maimojinshuxiang	埋没金属箱	trap_530_xb2gtr				MAA resource/battle_data.json · chars	埋没金属箱	埋没金属箱	埋没金属箱	埋没金属箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	661	
+baocijinshuxiang	宝刺金属箱	trap_531_xb2str				MAA resource/battle_data.json · chars	宝刺金属箱	宝刺金属箱	宝刺金属箱	宝刺金属箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	44	
+guanmucong	灌木丛	trap_532_xb2shb				MAA resource/battle_data.json · chars	灌木丛	灌木丛	灌木丛	灌木丛	TRAP	notchar2	NONE	1	0-1/0-1/0-1	337	
+tongxunjizhan	通讯基站	trap_534_xb2cmu				MAA resource/battle_data.json · chars	通讯基站	通讯基站	通讯基站	通讯基站	TRAP	notchar2	NONE	1	3-3/3-3/3-3	985	
+jiancaijiagongtai	建材加工台	trap_535_xb2fbw				MAA resource/battle_data.json · chars	建材加工台	建材加工台	建材加工台	建材加工台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	426	
+maoxianjiagongtai	毛线加工台	trap_536_xb2fbw2				MAA resource/battle_data.json · chars	毛线加工台	毛线加工台	毛线加工台	毛线加工台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	667	
+ganyamajiagongtai	干亚麻加工台	trap_537_xb2fbs				MAA resource/battle_data.json · chars	干亚麻加工台	干亚麻加工台	干亚麻加工台	干亚麻加工台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	310	
+daogujiagongtai	稻谷加工台	trap_538_xb2fbs2				MAA resource/battle_data.json · chars	稻谷加工台	稻谷加工台	稻谷加工台	稻谷加工台	TRAP	notchar2	NONE	1	x-1/x-1/x-1	188	
+yushoudanjiagongtai	羽兽蛋加工台	trap_539_xb2fbi				MAA resource/battle_data.json · chars	羽兽蛋加工台	羽兽蛋加工台	羽兽蛋加工台	羽兽蛋加工台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1270	
+pimaojiagongtai	皮毛加工台	trap_540_xb2fbi2				MAA resource/battle_data.json · chars	皮毛加工台	皮毛加工台	皮毛加工台	皮毛加工台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	766	
+zamulinzaishengzhan	杂木林再生站	trap_541_xb2rgw				MAA resource/battle_data.json · chars	杂木林再生站	杂木林再生站	杂木林再生站	杂木林再生站	TRAP	notchar2	NONE	1	2-2/2-2/2-2	1276	
+judayanshizaishengzhan	巨大岩石再生站	trap_542_xb2rgs				MAA resource/battle_data.json · chars	巨大岩石再生站	巨大岩石再生站	巨大岩石再生站	巨大岩石再生站	TRAP	notchar2	NONE	1	2-2/2-2/2-2	532	
+qiyikuangmaizaishengzhan	奇异矿脉再生站	trap_543_xb2rgi				MAA resource/battle_data.json · chars	奇异矿脉再生站	奇异矿脉再生站	奇异矿脉再生站	奇异矿脉再生站	TRAP	notchar2	NONE	1	2-2/2-2/2-2	795	
+daoguzhongzhicao	稻谷种植槽	trap_544_xb2fmr				MAA resource/battle_data.json · chars	稻谷种植槽	稻谷种植槽	稻谷种植槽	稻谷种植槽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	192	
+yamazhongzhicao	亚麻种植槽	trap_545_xb2fmf				MAA resource/battle_data.json · chars	亚麻种植槽	亚麻种植槽	亚麻种植槽	亚麻种植槽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1129	
+daoguyoumiao	稻谷幼苗	trap_546_xb2fmr2				MAA resource/battle_data.json · chars	稻谷幼苗	稻谷幼苗	稻谷幼苗	稻谷幼苗	TRAP	notchar2	NONE	1	0-1/0-1/0-1	190	
+yamayoumiao	亚麻幼苗	trap_547_xb2fmf2				MAA resource/battle_data.json · chars	亚麻幼苗	亚麻幼苗	亚麻幼苗	亚麻幼苗	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1126	
+yingyangyepensaqi	营养液喷洒器	trap_548_xb2spk				MAA resource/battle_data.json · chars	营养液喷洒器	营养液喷洒器	营养液喷洒器	营养液喷洒器	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1197	
+donglibujizhan	动力补给站	trap_549_xb2pwr				MAA resource/battle_data.json · chars	动力补给站	动力补给站	动力补给站	动力补给站	TRAP	notchar2	NONE	1	x-2/x-2/x-2	217	
+yinleizhen	引雷针	trap_550_xb2ltr				MAA resource/battle_data.json · chars	引雷针	引雷针	引雷针	引雷针	TRAP	notchar2	NONE	1	4-12/4-12/4-12	1199	
+xiaoxingshoulan	小型兽栏	trap_551_xb2fnc				MAA resource/battle_data.json · chars	小型兽栏	小型兽栏	小型兽栏	小型兽栏	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1062	
+daxingshoulan	大型兽栏	trap_552_xb2fnc2				MAA resource/battle_data.json · chars	大型兽栏	大型兽栏	大型兽栏	大型兽栏	TRAP	notchar2	NONE	1	0-1/0-1/0-1	199	
+xiexiechoushuibeng	蟹蟹抽水泵	trap_553_xb2wfty				MAA resource/battle_data.json · chars	蟹蟹抽水泵	蟹蟹抽水泵	蟹蟹抽水泵	蟹蟹抽水泵	TRAP	notchar2	NONE	1	x-4/x-4/x-4	1071	
+xielong	蟹笼	trap_555_xb2cbp				MAA resource/battle_data.json · chars	蟹笼	蟹笼	蟹笼	蟹笼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1067	
+yeshengdongwuyinyouzhuangzhi	野生动物引诱装置	trap_556_xb2cbp2				MAA resource/battle_data.json · chars	野生动物引诱装置	野生动物引诱装置	野生动物引诱装置	野生动物引诱装置	TRAP	notchar2	NONE	1	x-2/x-2/x-2	1162	
+chengcheqingquan	澄澈清泉	trap_557_xb2fnt				MAA resource/battle_data.json · chars	澄澈清泉	澄澈清泉	澄澈清泉	澄澈清泉	TRAP	notchar2	NONE	1	x-1/x-1/x-1	138	
+qingyoupenzai	清幽盆栽	trap_558_xb2ppt				MAA resource/battle_data.json · chars	清幽盆栽	清幽盆栽	清幽盆栽	清幽盆栽	TRAP	notchar2	NONE	1	x-5/x-5/x-5	783	
+jianyuechangyi	简约长椅	trap_559_xb2bch				MAA resource/battle_data.json · chars	简约长椅	简约长椅	简约长椅	简约长椅	TRAP	notchar2	NONE	1	x-5/x-5/x-5	447	
+xiekejiagongtai	蟹壳加工台	trap_560_xb2mil				MAA resource/battle_data.json · chars	蟹壳加工台	蟹壳加工台	蟹壳加工台	蟹壳加工台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1070	
+shipinjiagongchang	食品加工厂	trap_562_xb2bbq				MAA resource/battle_data.json · chars	食品加工厂	食品加工厂	食品加工厂	食品加工厂	TRAP	notchar2	NONE	1	x-1/x-1/x-1	891	
+zhibeijiagongchang	制备加工厂	trap_563_xb2bbq2				MAA resource/battle_data.json · chars	制备加工厂	制备加工厂	制备加工厂	制备加工厂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1319	
+jinshujiagongchang	金属加工厂	trap_564_xb2txtl				MAA resource/battle_data.json · chars	金属加工厂	金属加工厂	金属加工厂	金属加工厂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	515	
+shiliaojiagongchang	石料加工厂	trap_566_xb2chm				MAA resource/battle_data.json · chars	石料加工厂	石料加工厂	石料加工厂	石料加工厂	TRAP	notchar2	NONE	1	x-1/x-1/x-1	885	
+muliaojiagongchang	木料加工厂	trap_567_xb2chm2				MAA resource/battle_data.json · chars	木料加工厂	木料加工厂	木料加工厂	木料加工厂	TRAP	notchar2	NONE	1	x-1/x-1/x-1	718	
+qixiejiagongchang	器械加工厂	trap_568_xb2wclr				MAA resource/battle_data.json · chars	器械加工厂	器械加工厂	器械加工厂	器械加工厂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	791	
+houqinjiagongchang	后勤加工厂	trap_569_xb2wclr2				MAA resource/battle_data.json · chars	后勤加工厂	后勤加工厂	后勤加工厂	后勤加工厂	TRAP	notchar2	NONE	1	0-1/0-1/0-1	389	
+waiqinjiagongchang	外勤加工厂	trap_570_xb2kln				MAA resource/battle_data.json · chars	外勤加工厂	外勤加工厂	外勤加工厂	外勤加工厂	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1001	
+fangzhijiagongchang	纺织加工厂	trap_573_xb2mdk2				MAA resource/battle_data.json · chars	纺织加工厂	纺织加工厂	纺织加工厂	纺织加工厂	TRAP	notchar2	NONE	1	x-5/x-5/x-5	245	
+niangzaojiagongchang	酿造加工厂	trap_580_xb2dik				MAA resource/battle_data.json · chars	酿造加工厂	酿造加工厂	酿造加工厂	酿造加工厂	TRAP	notchar2	NONE	1	1-3/1-3/1-3	735	
+yinpingongjizhan	饮品供给站	trap_582_xb2dstr				MAA resource/battle_data.json · chars	饮品供给站	饮品供给站	饮品供给站	饮品供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1203	
+shipingongjizhan	食品供给站	trap_583_xb2fstr				MAA resource/battle_data.json · chars	食品供给站	食品供给站	食品供给站	食品供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	889	
+yaopingongjizhan	药品供给站	trap_584_xb2mkstr				MAA resource/battle_data.json · chars	药品供给站	药品供给站	药品供给站	药品供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1148	
+gongjugongjizhan	工具供给站	trap_585_xb2hwstr				MAA resource/battle_data.json · chars	工具供给站	工具供给站	工具供给站	工具供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	331	
+zhuangbeigongjizhan	装备供给站	trap_586_xb2eqstr				MAA resource/battle_data.json · chars	装备供给站	装备供给站	装备供给站	装备供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1341	
+yingfengzhaozhan	迎风招展	trap_587_xb2sqr				MAA resource/battle_data.json · chars	迎风招展	迎风招展	迎风招展	迎风招展	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1187	
+daolu	道路	trap_588_xb2ord				MAA resource/battle_data.json · chars	道路	道路	道路	道路	TRAP	notchar2	NONE	1	0-1/0-1/0-1	194	
+qudao	渠道	trap_589_xb2ocnl				MAA resource/battle_data.json · chars	渠道	渠道	渠道	渠道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	805	
+guanshangzhiwu	观赏植物	trap_590_xb2oflr				MAA resource/battle_data.json · chars	观赏植物	观赏植物	观赏植物	观赏植物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	341	
+guanshangzhiwu	观赏植物	trap_590_xb2oflr2				MAA resource/battle_data.json · chars	观赏植物	观赏植物	观赏植物	观赏植物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	340	
+guanshangzhiwu	观赏植物	trap_590_xb2oflr3				MAA resource/battle_data.json · chars	观赏植物	观赏植物	观赏植物	观赏植物	TRAP	notchar2	NONE	1	0-1/0-1/0-1	339	
+jidijianzhu	基地建筑	trap_591_xb2orm				MAA resource/battle_data.json · chars	基地建筑	基地建筑	基地建筑	基地建筑	TRAP	notchar2	NONE	1	x-7/x-7/x-7	465	
+jidisheshi	基地设施	trap_592_xb2orm2				MAA resource/battle_data.json · chars	基地设施	基地设施	基地设施	基地设施	TRAP	notchar2	NONE	1	x-7/x-7/x-7	466	
+jiditongdao	基地通道	trap_593_xb2obdg				MAA resource/battle_data.json · chars	基地通道	基地通道	基地通道	基地通道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	467	
+daiqinglidikuai	待清理地块	trap_594_xb2ostn				MAA resource/battle_data.json · chars	待清理地块	待清理地块	待清理地块	待清理地块	TRAP	notchar2	NONE	1	0-1/0-1/0-1	182	
+jijiannengshou	“基建能手”	trap_595_xb2otph				MAA resource/battle_data.json · chars	“基建能手”	“基建能手”	“基建能手”	“基建能手”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	485	
+shilitongxin	“矢力同心”	trap_595_xb2otph2				MAA resource/battle_data.json · chars	“矢力同心”	“矢力同心”	“矢力同心”	“矢力同心”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	886	
+zaiduqihang	“再度起航”	trap_595_xb2otph3				MAA resource/battle_data.json · chars	“再度起航”	“再度起航”	“再度起航”	“再度起航”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1272	
+jiditongdaozhongzhuanshuniu	基地通道中转枢纽	trap_596_xb2obds				MAA resource/battle_data.json · chars	基地通道中转枢纽	基地通道中转枢纽	基地通道中转枢纽	基地通道中转枢纽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	468	
+bulielong	捕猎笼	trap_597_xb2cage				MAA resource/battle_data.json · chars	捕猎笼	捕猎笼	捕猎笼	捕猎笼	TRAP	notchar2	NONE	1	1-1/1-1/1-1	117	
+yamazhongzhicao	亚麻种植槽	trap_598_xb2ofmr2				MAA resource/battle_data.json · chars	亚麻种植槽	亚麻种植槽	亚麻种植槽	亚麻种植槽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1128	
+daoguzhongzhicao	稻谷种植槽	trap_599_xb2ofmf2				MAA resource/battle_data.json · chars	稻谷种植槽	稻谷种植槽	稻谷种植槽	稻谷种植槽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	191	
+daoguyoumiao	稻谷幼苗	trap_600_xb2ofmr				MAA resource/battle_data.json · chars	稻谷幼苗	稻谷幼苗	稻谷幼苗	稻谷幼苗	TRAP	notchar2	NONE	1	0-1/0-1/0-1	189	
+yamayoumiao	亚麻幼苗	trap_601_xb2ofmf				MAA resource/battle_data.json · chars	亚麻幼苗	亚麻幼苗	亚麻幼苗	亚麻幼苗	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1127	
+xiaoxingshoulan	小型兽栏	trap_602_xb2ofnc				MAA resource/battle_data.json · chars	小型兽栏	小型兽栏	小型兽栏	小型兽栏	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1063	
+daxingshoulan	大型兽栏	trap_603_xb2ofnc2				MAA resource/battle_data.json · chars	大型兽栏	大型兽栏	大型兽栏	大型兽栏	TRAP	notchar2	NONE	1	0-1/0-1/0-1	198	
+mucainengyuanzhuanhuazhuangzhi	木材能源转化装置	trap_604_xb2ofb2				MAA resource/battle_data.json · chars	木材能源转化装置	木材能源转化装置	木材能源转化装置	木材能源转化装置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	716	
+shicainengyuanzhuanhuazhuangzhi	石材能源转化装置	trap_604_xb2ofb3				MAA resource/battle_data.json · chars	石材能源转化装置	石材能源转化装置	石材能源转化装置	石材能源转化装置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	879	
+tiekuangshinengyuanzhuanhuazhuangzhi	铁矿石能源转化装置	trap_604_xb2ofb4				MAA resource/battle_data.json · chars	铁矿石能源转化装置	铁矿石能源转化装置	铁矿石能源转化装置	铁矿石能源转化装置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	980	
+mushinengyuanzhuanhuazhuangzhi	木石能源转化装置	trap_606_xb2org2				MAA resource/battle_data.json · chars	木石能源转化装置	木石能源转化装置	木石能源转化装置	木石能源转化装置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	723	
+shitienengyuanzhuanhuazhuangzhi	石铁能源转化装置	trap_606_xb2org3				MAA resource/battle_data.json · chars	石铁能源转化装置	石铁能源转化装置	石铁能源转化装置	石铁能源转化装置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	896	
+yingyangyepensaqi	营养液喷洒器	trap_607_xb2ospk				MAA resource/battle_data.json · chars	营养液喷洒器	营养液喷洒器	营养液喷洒器	营养液喷洒器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1196	
+yinpingongjizhan	饮品供给站	trap_608_xb2ostr				MAA resource/battle_data.json · chars	饮品供给站	饮品供给站	饮品供给站	饮品供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1204	
+nengyuanzengfuzhuangzhi	能源增幅装置	trap_609_xb2opwr				MAA resource/battle_data.json · chars	能源增幅装置	能源增幅装置	能源增幅装置	能源增幅装置	TRAP	notchar2	NONE	1	x-1/x-1/x-1	732	
+gaoxiaonengyuanzengfuzhuangzhi	高效能源增幅装置	trap_609_xb2opwr2				MAA resource/battle_data.json · chars	高效能源增幅装置	高效能源增幅装置	高效能源增幅装置	高效能源增幅装置	TRAP	notchar2	NONE	1	x-3/x-3/x-3	319	
+chengcheqingquan	澄澈清泉	trap_610_xb2ofnt				MAA resource/battle_data.json · chars	澄澈清泉	澄澈清泉	澄澈清泉	澄澈清泉	TRAP	notchar2	NONE	1	0-1/0-1/0-1	139	
+qingyoupenzai	清幽盆栽	trap_611_xb2oppt				MAA resource/battle_data.json · chars	清幽盆栽	清幽盆栽	清幽盆栽	清幽盆栽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	782	
+jianyuechangyi	简约长椅	trap_612_xb2obch				MAA resource/battle_data.json · chars	简约长椅	简约长椅	简约长椅	简约长椅	TRAP	notchar2	NONE	1	0-1/0-1/0-1	448	
+yingfengzhaozhan	迎风招展	trap_613_xb2osqr				MAA resource/battle_data.json · chars	迎风招展	迎风招展	迎风招展	迎风招展	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1186	
+yinleizhen	引雷针	trap_614_xb2oltr				MAA resource/battle_data.json · chars	引雷针	引雷针	引雷针	引雷针	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1200	
+bujichechufazhantai	补给车出发站台	trap_615_xb2osta				MAA resource/battle_data.json · chars	补给车出发站台	补给车出发站台	补给车出发站台	补给车出发站台	TRAP	notchar2	NONE	1	x-2/x-2/x-2	105	
+bujichezhongzhuanzhantai	补给车中转站台	trap_616_xb2osit				MAA resource/battle_data.json · chars	补给车中转站台	补给车中转站台	补给车中转站台	补给车中转站台	TRAP	notchar2	NONE	1	x-2/x-2/x-2	111	
+bujichezhongdianzhantai	补给车终点站台	trap_617_xb2otml				MAA resource/battle_data.json · chars	补给车终点站台	补给车终点站台	补给车终点站台	补给车终点站台	TRAP	notchar2	NONE	1	x-2/x-2/x-2	109	
+shipingongjizhan	食品供给站	trap_618_xb2fostr				MAA resource/battle_data.json · chars	食品供给站	食品供给站	食品供给站	食品供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	890	
+yaopingongjizhan	药品供给站	trap_619_xb2omkstr				MAA resource/battle_data.json · chars	药品供给站	药品供给站	药品供给站	药品供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1149	
+gongjugongjizhan	工具供给站	trap_620_xb2ohwstr				MAA resource/battle_data.json · chars	工具供给站	工具供给站	工具供给站	工具供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	332	
+yingguangbang	荧光棒	trap_621_xb2flr				MAA resource/battle_data.json · chars	荧光棒	荧光棒	荧光棒	荧光棒	TRAP	notchar2	NONE	1	x-6/x-6/x-6	1188	
+qingzajixieyushou	清杂机械羽兽	trap_622_xb2clr				MAA resource/battle_data.json · chars	清杂机械羽兽	清杂机械羽兽	清杂机械羽兽	清杂机械羽兽	TRAP	notchar2	NONE	1	0-1/0-1/0-1	784	
+maimojinshuxiang	埋没金属箱	trap_623_xb2fke				MAA resource/battle_data.json · chars	埋没金属箱	埋没金属箱	埋没金属箱	埋没金属箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	660	
+mon3tr	Mon3tr	trap_624_xb2mtr				MAA resource/battle_data.json · chars	Mon3tr	Mon3tr	Mon3tr	Mon3tr	TRAP	notchar2	NONE	1	0-1/0-1/0-1	708	非中文名（拼音列填小写原名，只为统一检索）
+stormeye	Stormeye	trap_625_xb2smy				MAA resource/battle_data.json · chars	Stormeye	Stormeye	Stormeye	Stormeye	TRAP	notchar2	NONE	1	0-1/0-1/0-1	933	非中文名（拼音列填小写原名，只为统一检索）
+thermalex	Thermal-EX	trap_626_xb2tex				MAA resource/battle_data.json · chars	Thermal-EX	Thermal-EX	Thermal-EX	Thermal-EX	TRAP	notchar2	NONE	1	0-1/0-1/0-1	963	非中文名（拼音列填小写原名，只为统一检索）
+amiya	阿米娅	trap_627_xb2amy				MAA resource/battle_data.json · chars	阿米娅	阿米娅	阿米娅	阿米娅	TRAP	notchar2	NONE	1	0-1/0-1/0-1	16	
+keluxier	可露希尔	trap_628_xb2cls				MAA resource/battle_data.json · chars	可露希尔	可露希尔	可露希尔	可露希尔	TRAP	notchar2	NONE	1	0-1/0-1/0-1	562	
+gaotaigongshi	高台工事	trap_629_xb2frt				MAA resource/battle_data.json · chars	高台工事	高台工事	高台工事	高台工事	TRAP	notchar2	NONE	1	0-1/0-1/0-1	318	
+jianyinutai	简易弩台	trap_630_xb2als				MAA resource/battle_data.json · chars	简易弩台	简易弩台	简易弩台	简易弩台	TRAP	notchar2	NONE	1	0-1/0-1/0-1	445	
+chigongluodedaonanganyuan	持弓罗德岛男干员	trap_631_xb2ach				MAA resource/battle_data.json · chars	持弓罗德岛男干员	持弓罗德岛男干员	持弓罗德岛男干员	持弓罗德岛男干员	TRAP	notchar2	NONE	1	0-1/0-1/0-1	152	
+zhuangbeigongjizhan	装备供给站	trap_632_xb2oeqstr				MAA resource/battle_data.json · chars	装备供给站	装备供给站	装备供给站	装备供给站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1342	
+bujichezhixingguidao	补给车直行轨道	trap_633_xb2otrk				MAA resource/battle_data.json · chars	补给车直行轨道	补给车直行轨道	补给车直行轨道	补给车直行轨道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	107	
+bujichezhuanjiaoguidao	补给车转角轨道	trap_634_xb2ocrv				MAA resource/battle_data.json · chars	补给车转角轨道	补给车转角轨道	补给车转角轨道	补给车转角轨道	TRAP	notchar2	NONE	1	0-1/0-1/0-1	113	
+mucaichulizhongxin	木材处理中心	trap_635_xb2owdp				MAA resource/battle_data.json · chars	木材处理中心	木材处理中心	木材处理中心	木材处理中心	TRAP	notchar2	NONE	1	0-1/0-1/0-1	715	
+shicaichulizhongxin	石材处理中心	trap_636_xb2ostnp				MAA resource/battle_data.json · chars	石材处理中心	石材处理中心	石材处理中心	石材处理中心	TRAP	notchar2	NONE	1	0-1/0-1/0-1	878	
+tiekuangshichulizhongxin	铁矿石处理中心	trap_637_xb2oirnp				MAA resource/battle_data.json · chars	铁矿石处理中心	铁矿石处理中心	铁矿石处理中心	铁矿石处理中心	TRAP	notchar2	NONE	1	0-1/0-1/0-1	979	
+hexinnengyuanjizhan	核心能源基站	trap_638_xb2oafkp				MAA resource/battle_data.json · chars	核心能源基站	核心能源基站	核心能源基站	核心能源基站	TRAP	notchar2	NONE	1	0-1/0-1/0-1	377	
+gaoxiaonengyuanzhuanhuazhuangzhi	高效能源转化装置	trap_639_xb2ohfct				MAA resource/battle_data.json · chars	高效能源转化装置	高效能源转化装置	高效能源转化装置	高效能源转化装置	TRAP	notchar2	NONE	1	x-5/x-5/x-5	320	
+liehuolong	猎获笼	trap_640_xbcbag2				MAA resource/battle_data.json · chars	猎获笼	猎获笼	猎获笼	猎获笼	TRAP	notchar2	NONE	1	0-1/0-1/0-1	607	
+ageershiboqi	阿戈尔示波器	trap_700_cdabyss				MAA resource/battle_data.json · chars	Ægirian Oscilloscope	エーギル式振波計	에기르 오실로스코프	阿戈爾示波器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1	
+ageershiboqi	阿戈尔示波器	trap_701_cdabyssa				MAA resource/battle_data.json · chars	Ægirian Oscilloscope	エーギル式振波計	에기르 오실로스코프	阿戈爾示波器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	3	
+ageershiboqi	阿戈尔示波器	trap_702_cdabyssb				MAA resource/battle_data.json · chars	Ægirian Oscilloscope	エーギル式振波計	에기르 오실로스코프	阿戈爾示波器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	2	
+zishiyingbujiyuanjian	自适应补给元件	trap_703_cdcredit				MAA resource/battle_data.json · chars	Adaptive Supply Component	多機能補給デバイス	다목적 공급장치	自適應補給元件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1356	
+zishiyingbujiyuanjian	自适应补给元件	trap_704_cdcredita				MAA resource/battle_data.json · chars	Adaptive Supply Component	多機能補給デバイス	다목적 공급장치	自適應補給元件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1358	
+zishiyingbujiyuanjian	自适应补给元件	trap_705_cdcreditb				MAA resource/battle_data.json · chars	Adaptive Supply Component	多機能補給デバイス	다목적 공급장치	自適應補給元件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1357	
+dumozhuangzhidaonengfa	镀膜装置导能阀	trap_706_cdshield				MAA resource/battle_data.json · chars	Coating Device Conduction Valve	コーティングデバイス	코팅 장치 전도 밸브	鍍膜裝置導能閥	TRAP	notchar2	NONE	1	1-1/1-1/1-1	229	
+chongzhengdaonengzujian	重整导能组件	trap_707_cdshielda				MAA resource/battle_data.json · chars	Redeployment Conduction Component	再稼働コンポーネント	에너지 재정비 유닛	重整導能組件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1339	
+dumozhuangzhidaonengfa	镀膜装置导能阀	trap_708_cdshieldb				MAA resource/battle_data.json · chars	Coating Device Conduction Valve	コーティングデバイス	코팅 장치 전도 밸브	鍍膜裝置導能閥	TRAP	notchar2	NONE	1	1-1/1-1/1-1	228	
+conglinyongshizongxinbiao	丛林用示踪信标	trap_709_cdbeacon				MAA resource/battle_data.json · chars	Eunectes' Beacon	ジャングル用追跡ビーコン	정글용 추적 비콘	叢林用示蹤信標	TRAP	notchar2	MELEE	1	0-1/0-1/0-1	170	
+zuduanbochang	阻断波长	trap_710_cdbeacona				MAA resource/battle_data.json · chars	Block Wavelength	遮断電波	차단 파장	阻斷波長	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1364	
+ganraobochang	干扰波长	trap_711_cdbeaconb				MAA resource/battle_data.json · chars	Jam Wavelength	妨害電波	간섭 파장	干擾波長	TRAP	notchar2	NONE	1	0-1/0-1/0-1	307	
+chaozhongjueyuanshuini	超重绝缘水泥	trap_712_cdhvrk				MAA resource/battle_data.json · chars	Heavy Insulated Concrete	超過重絶縁セメント	과중 단열 시멘트	超重絕緣水泥	TRAP	notchar2	NONE	1	0-1/0-1/0-1	135	
+liezhishanguangdan	劣质闪光弹	trap_713_cdflsb				MAA resource/battle_data.json · chars	Shoddy Flashbang	粗悪なスタングレネード	불량 섬광탄	劣質閃光彈	TRAP	notchar2	NONE	1	0-1/0-1/0-1	610	
+nengliangraodongfangdaqi	能量扰动放大器	trap_714_cdaltar				MAA resource/battle_data.json · chars	Energy Perturbation Amplifier	エネルギー摂動増幅器	에너지 교란 증폭기	能量擾動放大器	TRAP	notchar2	NONE	1	x-1/x-1/x-1	729	
+nengliangraodongfangdaqi	能量扰动放大器	trap_715_cdaltara				MAA resource/battle_data.json · chars	Energy Perturbation Amplifier	エネルギー摂動増幅器	에너지 교란 증폭기	能量擾動放大器	TRAP	notchar2	NONE	1	x-1/x-1/x-1	730	
+nengliangraodongfangdaqi	能量扰动放大器	trap_716_cdaltarb				MAA resource/battle_data.json · chars	Energy Perturbation Amplifier	エネルギー摂動増幅器	에너지 교란 증폭기	能量擾動放大器	TRAP	notchar2	NONE	1	x-1/x-1/x-1	728	
+zhanshuzhuangbeizhenglixiang	战术装备整理箱	trap_717_cddiff				MAA resource/battle_data.json · chars	Tactical Equipment Toolbox	戦術装備整理箱	전술 장비 정리함	戰術裝備整理箱	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1298	
+zhanshuzhuangbeizhenglixiang	战术装备整理箱	trap_718_cddiffa				MAA resource/battle_data.json · chars	Tactical Equipment Toolbox	戦術装備整理箱	전술 장비 정리함	戰術裝備整理箱	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1297	
+zhanshuzhuangbeizhenglixiang	战术装备整理箱	trap_719_cddiffb				MAA resource/battle_data.json · chars	Tactical Equipment Toolbox	戦術装備整理箱	전술 장비 정리함	戰術裝備整理箱	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1299	
+bianxieshiyiliaoshebei	便携式医疗设备	trap_720_cdheal				MAA resource/battle_data.json · chars	Portable First-aid Kit	携帯式医療設備	이동식 의료 설비	便攜式醫療設備	TRAP	notchar2	NONE	1	0-1/0-1/0-1	81	
+bianxieshiyiliaoshebei	便携式医疗设备	trap_721_cdheala				MAA resource/battle_data.json · chars	Portable First-aid Kit	携帯式医療設備	이동식 의료 설비	便攜式醫療設備	TRAP	notchar2	NONE	1	0-1/0-1/0-1	79	
+bianxieshiyiliaoshebei	便携式医疗设备	trap_722_cdhealb				MAA resource/battle_data.json · chars	Portable First-aid Kit	携帯式医療設備	이동식 의료 설비	便攜式醫療設備	TRAP	notchar2	NONE	1	0-1/0-1/0-1	80	
+yinenghuishouzhuanhuaqi	溢能回收转化器	trap_723_cdcvrt				MAA resource/battle_data.json · chars	Energy Overflow Converter	オーバーフロー変換機	오버플로우 컨버터	溢能回收轉化器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1182	
+yinenghuishouzhuanhuaqi	溢能回收转化器	trap_724_cdcvrta				MAA resource/battle_data.json · chars	Energy Overflow Converter	オーバーフロー変換機	오버플로우 컨버터	溢能回收轉化器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1183	
+yinenghuishouzhuanhuaqi	溢能回收转化器	trap_725_cdcvrtb				MAA resource/battle_data.json · chars	Energy Overflow Converter	オーバーフロー変換機	오버플로우 컨버터	溢能回收轉化器	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1184	
+zhandiyuanhuwurenji	战地援护无人机	trap_726_cdrone				MAA resource/battle_data.json · chars	Field Support Drone	戦場サポートドローン	전장 지원 드론	戰地援護無人機	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1287	
+zhandiyuanhuwurenji	战地援护无人机	trap_727_cdronea				MAA resource/battle_data.json · chars	Field Support Drone	戦場サポートドローン	전장 지원 드론	戰地援護無人機	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1288	
+zhandiyuanhuwurenji	战地援护无人机	trap_728_cdroneb				MAA resource/battle_data.json · chars	Field Support Drone	戦場サポートドローン	전장 지원 드론	戰地援護無人機	TRAP	notchar2	NONE	1	x-1/x-1/x-1	1289	
+jingjijilufenxiyi	竞技记录分析仪	trap_729_cdkzmr				MAA resource/battle_data.json · chars	Competition Records Analyzer	競技記録アナライザー	경기 기록 분석기	競技記錄分析儀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	499	
+tianmikuangjiao	“甜蜜狂搅”	trap_730_truamr				MAA resource/battle_data.json · chars	'Supersweetie Superblend'	「スイート・スーパーブレンド」	'달콤한 교란'	“甜蜜狂攪”	TRAP	notchar2	NONE	1	1-1/1-1/1-1	971	
+shenjingzaisheng	神经再生	trap_732_ltnova				MAA resource/battle_data.json · chars	Neuronal Revival	神経再生	신경 재생	神經再生	TRAP	notchar2	NONE	1	0-1/0-1/0-1	866	
+jingjijilufenxiyi	竞技记录分析仪	trap_733_cdkzmra				MAA resource/battle_data.json · chars	Competition Records Analyzer	競技記録アナライザー	경기 기록 분석기	競技記錄分析儀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	498	
+jingjijilufenxiyi	竞技记录分析仪	trap_734_cdkzmrb				MAA resource/battle_data.json · chars	Competition Records Analyzer	競技記録アナライザー	경기 기록 분석기	競技記錄分析儀	TRAP	notchar2	NONE	1	0-1/0-1/0-1	500	
+jiquti	汲取体	trap_735_platre				MAA resource/battle_data.json · chars	Absorber	渇望の触手	흡수체	汲取體	TRAP	notchar2	NONE	1	0-1/0-1/0-1	516	
+kechongnengduzhanyinxiang	可充能督战音响	trap_736_mercha				MAA resource/battle_data.json · chars	Chargeable Supervisory Speaker	充電式前線用スピーカー	충전식 독전용 스피커	可充能督戰音響	TRAP	notchar2	NONE	1	1-1/1-1/1-1	555	
+kechongnengduzhanyinxiang	可充能督战音响	trap_737_merchaa				MAA resource/battle_data.json · chars	Chargeable Supervisory Speaker	充電式前線用スピーカー	충전식 독전용 스피커	可充能督戰音響	TRAP	notchar2	NONE	1	1-1/1-1/1-1	556	
+kechongnengduzhanyinxiang	可充能督战音响	trap_738_merchab				MAA resource/battle_data.json · chars	Chargeable Supervisory Speaker	充電式前線用スピーカー	충전식 독전용 스피커	可充能督戰音響	TRAP	notchar2	NONE	1	1-1/1-1/1-1	554	
+zhinengkongyukongzhiji	智能空域控制机	trap_739_sniper				MAA resource/battle_data.json · chars	Smart Airspace Controller	高性能空域制御器	스마트 영공 제어기	智慧空域控制機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1330	
+zhinengkongyukongzhiji	智能空域控制机	trap_740_snipera				MAA resource/battle_data.json · chars	Smart Airspace Controller	高性能空域制御器	스마트 영공 제어기	智慧空域控制機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1329	
+zhinengkongyukongzhiji	智能空域控制机	trap_741_sniperb				MAA resource/battle_data.json · chars	Smart Airspace Controller	高性能空域制御器	스마트 영공 제어기	智慧空域控制機	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1328	
+sulengpenwufashetai	速冷喷雾发射台	trap_742_gasbot				MAA resource/battle_data.json · chars	Quick-freezing Sprayer Platform	急速冷却噴射台	급랭 스프레이 발사대	速冷噴霧發射台	TRAP	notchar2	NONE	1	x-1/x-1/x-1	946	
+sulengpenwufashetai	速冷喷雾发射台	trap_743_gasbota				MAA resource/battle_data.json · chars	Quick-freezing Sprayer Platform	急速冷却噴射台	급랭 스프레이 발사대	速冷噴霧發射台	TRAP	notchar2	NONE	1	x-1/x-1/x-1	945	
+sulengpenwufashetai	速冷喷雾发射台	trap_744_gasbotb				MAA resource/battle_data.json · chars	Quick-freezing Sprayer Platform	急速冷却噴射台	급랭 스프레이 발사대	速冷噴霧發射台	TRAP	notchar2	NONE	1	x-1/x-1/x-1	944	
+miniangwansui	“蜜酿万岁！”	trap_745_beer				MAA resource/battle_data.json · chars	'Long Live Mead!'	「ミード万歳！」	“벌꿀주 만세!”	“蜜釀萬歲！”	TRAP	notchar2	NONE	1	x-4/x-4/x-4	697	
+jianduanyanjiuchengguogongxiangzhongduan	尖端研究成果共享终端	trap_746_cdrhine				MAA resource/battle_data.json · chars	Pinnacle Insights Port	最新学説共有端末	최첨단 성과 공유 단말기	尖端研究成果共享終端	TRAP	notchar2	NONE	1	1-1/1-1/1-1	432	
+jianduanyanjiuchengguogongxiangzhongduan	尖端研究成果共享终端	trap_747_cdrhinea				MAA resource/battle_data.json · chars	Pinnacle Insights Port	最新学説共有端末	최첨단 성과 공유 단말기	尖端研究成果共享終端	TRAP	notchar2	NONE	1	1-1/1-1/1-1	431	
+jianduanyanjiuchengguogongxiangzhongduan	尖端研究成果共享终端	trap_748_cdrhineb				MAA resource/battle_data.json · chars	Pinnacle Insights Port	最新学説共有端末	최첨단 성과 공유 단말기	尖端研究成果共享終端	TRAP	notchar2	NONE	1	1-1/1-1/1-1	430	
+shengbojilukuoyinqi	声波记录扩音器	trap_749_cd1punch				MAA resource/battle_data.json · chars	Sound Recording Amplifier	音波記録増幅器	음파 기록 증폭기	聲波記錄擴音器	TRAP	notchar2	NONE	1	4-1/4-1/4-1	852	
+shengbojilukuoyinqi	声波记录扩音器	trap_750_cd1puncha				MAA resource/battle_data.json · chars	Sound Recording Amplifier	音波記録増幅器	음파 기록 증폭기	聲波記錄擴音器	TRAP	notchar2	NONE	1	4-1/4-1/4-1	851	
+shengbojilukuoyinqi	声波记录扩音器	trap_751_cd1punchb				MAA resource/battle_data.json · chars	Sound Recording Amplifier	音波記録増幅器	음파 기록 증폭기	聲波記錄擴音器	TRAP	notchar2	NONE	1	4-1/4-1/4-1	853	
+fashutiaohenengliangchang	法术调和能量场	trap_752_cdcaster				MAA resource/battle_data.json · chars	Arts Resonant Energy Field	アーツ同調力場	아츠 공명 에너지장	法術調和能量場	TRAP	notchar2	NONE	1	x-2/x-2/x-2	253	
+fashutiaohenengliangchang	法术调和能量场	trap_753_cdcastera				MAA resource/battle_data.json · chars	Arts Resonant Energy Field	アーツ同調力場	아츠 공명 에너지장	法術調和能量場	TRAP	notchar2	NONE	1	x-2/x-2/x-2	252	
+fashutiaohenengliangchang	法术调和能量场	trap_754_cdcasterb				MAA resource/battle_data.json · chars	Arts Resonant Energy Field	アーツ同調力場	아츠 공명 에너지장	法術調和能量場	TRAP	notchar2	NONE	1	x-2/x-2/x-2	254	
+xiaojiaoyinxiang	啸叫音响	trap_755_cdsoul				MAA resource/battle_data.json · chars	Squeaking Sound	ハウリングスピーカー	울부짖는 스피커	嘯叫音響	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1059	
+nianniandezengpin	“黏黏的赠品”	trap_756_cdnest				MAA resource/battle_data.json · chars	'Sticky Prize'	「ねばねばしたおまけ」	'끈적이는 사은품'	“黏黏的贈品”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	736	
+baoxiang	宝箱	trap_757_skzbox				MAA resource/battle_data.json · chars	Treasure Chest	宝箱	보물 상자	寶箱	TRAP	notchar2	NONE	1	0-1/0-1/0-1	55	
+tingzhiqiaoxie	停滞巧械	trap_758_skzmbx				MAA resource/battle_data.json · chars	Idle Exquisicart	アイドリングメカ	멈춰버린 장치	停滯巧械	TRAP	notchar2	NONE	1	0-1/0-1/0-1	983	
+chuisiyushou	垂死羽兽	trap_759_skzwyx				MAA resource/battle_data.json · chars	Dying Fowlbeast	瀕死の羽獣	빈사의 파울비스트	垂死羽獸	TRAP	notchar2	NONE	1	0-1/0-1/0-1	161	
+niandaizhici	年代之刺	trap_760_skztzs				MAA resource/battle_data.json · chars	Spines of Epoch	時代の棘	시대의 가시	年代之刺	TRAP	notchar2	NONE	1	0-1/0-1/0-1	734	
+zunzhudecanying	尊主的残影	trap_761_skzthx				MAA resource/battle_data.json · chars	Shadows of the Lord	主の残像	군주의 잔상	尊主的殘影	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1367	
+teleixiyaheiguanshengxian	特蕾西娅，黑冠圣贤	trap_762_skztxy				MAA resource/battle_data.json · chars	Theresa, Black-crowned Sage	「黒き王冠の聖賢」テレジア	테레시아, 검은 왕관의 성현	特蕾西婭，黑冠聖賢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	959	
+shengweijiandun	圣卫坚盾	trap_763_skzddd				MAA resource/battle_data.json · chars	Guardian Bulwark	聖衛の盾	신성 경비 방패	聖衛堅盾	TRAP	notchar2	NONE	1	0-1/0-1/0-1	860	
+tuoshoulvxingjia	驮兽旅行家	trap_764_skzshp				MAA resource/battle_data.json · chars	Burdenbeast Traveler	旅する駄獣	버든비스트 여행가	馱獸旅行家	TRAP	notchar2	NONE	1	0-1/0-1/0-1	993	
+wukezhiyidezuizheng	无可置疑的罪证	trap_765_bmoney				MAA resource/battle_data.json · chars	Indisputable Evidence	決定的な証拠	명백한 죄증	無可置疑的罪證	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1026	
+xialuxiangfeng	狭路相逢	trap_766_duelwal				MAA resource/battle_data.json · chars	Face to Face	隘路の衝突	외나무다리	狹路相逢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1043	
+xialuxiangfeng	狭路相逢	trap_767_duelcdt				MAA resource/battle_data.json · chars	Face to Face	隘路の衝突	외나무다리	狹路相逢	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1046	
+baoquanrencaihezuoxieyi	保全人才合作协议	trap_768_godch				MAA resource/battle_data.json · chars	Security Talent Agreement	保全人員協力協定	보안 인재 협력 협정	保全人才合作協議	TRAP	notchar2	NONE	1	1-1/1-1/1-1	52	
+jiajixuketiaokuan	加急许可条款	trap_769_godcha				MAA resource/battle_data.json · chars	Expedited Licensing Terms	緊急派遣規約	긴급 허가 조항	加急許可條款	TRAP	notchar2	NONE	1	1-1/1-1/1-1	424	
+linshirenmingtiaokuan	临时任命条款	trap_770_godchb				MAA resource/battle_data.json · chars	Interim Appointment Terms	臨時任命規約	임시 임명 조항	臨時任命條款	TRAP	notchar2	NONE	1	1-1/1-1/1-1	626	
+huangjiakexueyuanwangyuanjing	皇家科学院望远镜	trap_771_bqrnge				MAA resource/battle_data.json · chars	Royal Academy of Sciences Telescope	科学研究用望遠鏡	로열 사이언스 아카데미 망원경	皇家科學院望遠鏡	TRAP	notchar2	NONE	1	0-1/0-1/0-1	396	
+zhuanyexianshimokuai	专业显示模块	trap_772_bqrngea				MAA resource/battle_data.json · chars	Professional Display Module	プロ仕様モニターモジュール	전문 디스플레이 모듈	專業顯示模組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1344	
+linghuojiashemokuai	灵活架设模块	trap_773_bqrngeb				MAA resource/battle_data.json · chars	Agile Installation Module	フレキシブル設置モジュール	신축성 설치 모듈	靈活架設模組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	616	
+panyunji	攀云机	trap_774_bqmlee				MAA resource/battle_data.json · chars	Cloudstepper	登雲具	구름다리	攀雲機	TRAP	notchar2	NONE	1	1-1/1-1/1-1	753	
+jiagukuocungaizhuang	加固扩存改装	trap_775_bqmleea				MAA resource/battle_data.json · chars	Reinforcement Expansion Modification	補強＆拡容改造	강화 확장 개조	加固擴存改裝	TRAP	notchar2	NONE	1	1-1/1-1/1-1	422	
+changjuzengyungaizhuang	长距增运改装	trap_776_bqmleeb				MAA resource/battle_data.json · chars	Long-Expansion Modification	遠距離＆効率化改造	장거리 운송 개조	長距增運改裝	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1294	
+liushengjidizuo	“留声机”底座	trap_777_giacan				MAA resource/battle_data.json · chars	Gramophone Pedestal	「蓄音機」の台座	'축음기' 받침대	“留聲機”底座	TRAP	notchar2	NONE	1	0-1/0-1/0-1	632	
+l44liushengji	L-44"留声机"	trap_778_giatow				MAA resource/battle_data.json · chars	L-44 'Gramophone'	L-44「蓄音機」	L-44 '축음기'	L-44"留聲機"	TRAP	notchar2	NONE	1	x-2/x-2/x-2	638	
+niluhuo	尼卢火	trap_779_skzth				MAA resource/battle_data.json · chars	Aggini of Nila	ニーラのアグニ	푸른 불꽃	尼盧火	TRAP	notchar2	NONE	1	x-6/x-6/x-6	738	
+tiangongyexingtaozhuang	天工夜行套装	trap_780_supspt				MAA resource/battle_data.json · chars	Nightwalker's Gear	天工夜行セット	천공 야행 세트	天工夜行套裝	TRAP	notchar2	NONE	1	0-1/0-1/0-1	966	
+yexingdoupengmokuai	夜行斗篷模块	trap_781_supspta				MAA resource/battle_data.json · chars	Nightwalker's Cloak Module	夜行笠モジュール	야행 망토 모듈	夜行斗篷模組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1163	
+yexinggouzhaomokuai	夜行钩爪模块	trap_782_supsptb				MAA resource/battle_data.json · chars	Nightwalker's Hook Module	夜行鉤爪モジュール	야행 갈고리 모듈	夜行鉤爪模組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1164	
+fanzhizhuangjiataozu	反制装甲套组	trap_783_tnkspk				MAA resource/battle_data.json · chars	Counter Armor Set	カウンターアーマーセット	역제압 장갑 세트	反制裝甲套組	TRAP	notchar2	NONE	1	0-1/0-1/0-1	248	
+weixingjiancipeijian	微型尖刺配件	trap_784_tnkspka				MAA resource/battle_data.json · chars	Microspike Addon	鍼治療キットパーツ	소형 스파이크 키트	微型尖刺配件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1013	
+weishengjiancepeijian	维生监测配件	trap_785_tnkspkb				MAA resource/battle_data.json · chars	Life Support Monitor Addon	バイタルモニターパーツ	바이탈 모니터링 키트	維生監測配件	TRAP	notchar2	NONE	1	0-1/0-1/0-1	1010	
+jueduizhushou	“绝对助手”	trap_786_fxdtwr				MAA resource/battle_data.json · chars	'Unwavering Assistant'	「パーフェクトサポーター」	'완벽한 조수'	“絕對助手”	TRAP	notchar2	NONE	1	0-1/0-1/0-1	533	
+lengbaoji	冷爆机	trap_787_supctl				MAA resource/battle_data.json · chars	Ice Blast Machine	寒冷弾発射装置	냉폭기	冷爆機	TRAP	notchar2	NONE	1	3-13/3-13/3-13	598	
+diwenchuandaomokuai	低温传导模块	trap_788_supctla				MAA resource/battle_data.json · chars	Thermal Conduction Module	冷気拡散モジュール	저온 전도 모듈	低溫傳導模組	TRAP	notchar2	NONE	1	3-13/3-13/3-13	214	
+binglangmaichongmokuai	冰浪脉冲模块	trap_789_supctlb				MAA resource/battle_data.json · chars	Ice Wave Module	氷結波動モジュール	얼음 충격파 모듈	冰浪脈衝模組	TRAP	notchar2	NONE	1	3-13/3-13/3-13	88	
+suao	宿傲	trap_790_dytswd				MAA resource/battle_data.json · chars	Olden Pride	宿傲	숙오	宿傲	TRAP	notchar2	NONE	1	0-1/0-1/0-1	937	
+sunu	宿怒	trap_791_dytfre				MAA resource/battle_data.json · chars	Olden Grudge	宿怒	숙노	宿怒	TRAP	notchar2	NONE	1	0-1/0-1/0-1	948	
+zhudongmaizhiyuanxitong	“主动脉”支援系统	trap_792_healbf				MAA resource/battle_data.json · chars	“主动脉”支援系统	“主动脉”支援系统	“主动脉”支援系统	“主动脉”支援系统	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1345	
+yizhijiechumozu	抑制解除模组	trap_793_healbfa				MAA resource/battle_data.json · chars	抑制解除模组	抑制解除模组	抑制解除模组	抑制解除模组	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1213	
+xuejianghuohuamozu	血浆活化模组	trap_794_healbfb				MAA resource/battle_data.json · chars	血浆活化模组	血浆活化模组	血浆活化模组	血浆活化模组	TRAP	notchar2	NONE	1	1-1/1-1/1-1	1104	

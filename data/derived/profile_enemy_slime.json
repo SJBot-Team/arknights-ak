@@ -1,0 +1,63 @@
+{
+ "enemyId": "enemy_1007_slime",
+ "name": "源石虫",
+ "enemyIndex": "B1",
+ "enemyLevel": "NORMAL",
+ "race": "",
+ "damageType": [
+  "PHYSIC"
+ ],
+ "attackType": null,
+ "ability": null,
+ "abilityList": [],
+ "description": "野生的被感染生物。这种低智能生物极有可能会被敌方术师操纵，以进入人工设施内发动集群攻击。",
+ "linkEnemies": [],
+ "hideInHandbook": false,
+ "stats_by_level": [
+  {
+   "hp": 550,
+   "atk": 130,
+   "def": 0,
+   "res": 0.0,
+   "aspd": 1.7,
+   "range": 0.0,
+   "weight": 0,
+   "lifepoint": 1,
+   "ms": 1.0,
+   "epDamageResistance": 0.0,
+   "epResistance": 0.0,
+   "traits": [],
+   "special": []
+  },
+  {
+   "hp": 2050,
+   "atk": 300,
+   "def": 0,
+   "res": 0.0,
+   "aspd": 1.7,
+   "range": 0.0,
+   "weight": 0,
+   "lifepoint": 1,
+   "ms": 1.0,
+   "epDamageResistance": 0.0,
+   "epResistance": 0.0,
+   "traits": [],
+   "special": []
+  }
+ ],
+ "forms": [
+  {
+   "title": null,
+   "normal_attack": {
+    "atk_type": [
+     "melee",
+     "phys"
+    ],
+    "hits": 1
+   },
+   "status_immune": []
+  }
+ ],
+ "enemy_index": "B1",
+ "collider_local": "<无匹配（报告键数 2）>"
+}

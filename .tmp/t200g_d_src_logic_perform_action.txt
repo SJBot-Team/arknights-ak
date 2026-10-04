@@ -1,0 +1,133 @@
+src=C:\Users\23922\Documents\ds_harness\ak\.tmp\pyz\src_logic_perform_action.pyc len=6475 code_off=0
+CODE <module> argcount=0 nlocals=0 flags=0x40 co_code=478
+  names=['time', 'typing', 'Callable', 'src.logger', 'logger', 'src.config', 'GameRatioConfig', 'ratioconfig', 'PerformActionConfig', 'actionconfig', 'src.logic.action', 'Action', 'ActionType', 'DirectionType', 'src.logic.game_time', 'GameTime', 'src.logic.locate_avatar', 'locate_avatar', 'src.logic.analyze_time', 'get_game_time', 'src.mumu.mumu_controller', 'pause', 'esc', 'mouseclick', 'mousedown', 'mouseup', 'mousemove', 'Exception', 'PerformLateError', 'UserPausedError', 'bool', 'wait_until_threshold', 'perform_deploy', 'perform_skill_or_retreat', 'perform_action', '__name__', 'src.cache', 'get_map_by_code', 'src.logic.calc_view', 'transform_map_to_view', 'map', 'view_map_front', 'view_map_side', 'DEPLOY', 'RIGHT', 'action', 'start_time', 'end_time', 'info']
+  varnames=[]
+  consts[0] = 0
+  consts[1] = None
+  consts[2] = ('Callable',)
+  consts[3] = ('logger',)
+  consts[4] = ('GameRatioConfig',)
+  consts[5] = ('PerformActionConfig',)
+  consts[6] = ('Action', 'ActionType', 'DirectionType')
+  consts[7] = ('GameTime',)
+  consts[8] = ('locate_avatar',)
+  consts[9] = ('get_game_time',)
+  consts[10] = ('pause', 'esc', 'mouseclick', 'mousedown', 'mouseup', 'mousemove')
+  CODE <module>.PerformLateError argcount=0 nlocals=0 flags=0x0 co_code=52
+    names=['__name__', '__module__', '__qualname__', 'GameTime', '__init__', '__str__', '__repr__', '__classcell__']
+    varnames=[]
+    consts[0] = 'PerformLateError'
+    consts[1] = ('actual_time', 'scheduled_time')
+    CODE <module>.PerformLateError.__init__ argcount=3 nlocals=3 flags=0x3 co_code=40
+      names=['super', '__init__', 'actual_time', 'scheduled_time']
+      varnames=['self', 'actual_time', 'scheduled_time']
+      consts[0] = None
+      consts[1] = 'Performed action at '
+      consts[2] = ' instead of '
+    consts[3] = 'PerformLateError.__init__'
+    CODE <module>.PerformLateError.__str__ argcount=1 nlocals=1 flags=0x43 co_code=20
+      names=['actual_time', 'scheduled_time']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'Performed action at '
+      consts[2] = ' instead of '
+    consts[5] = 'PerformLateError.__str__'
+    CODE <module>.PerformLateError.__repr__ argcount=1 nlocals=1 flags=0x43 co_code=22
+      names=['actual_time', 'scheduled_time']
+      varnames=['self']
+      consts[0] = None
+      consts[1] = 'PerformActionError('
+      consts[2] = ', '
+      consts[3] = ')'
+    consts[7] = 'PerformLateError.__repr__'
+  consts[12] = 'PerformLateError'
+  CODE <module>.UserPausedError argcount=0 nlocals=0 flags=0x40 co_code=12
+    names=['__name__', '__module__', '__qualname__']
+    varnames=[]
+    consts[0] = 'UserPausedError'
+    consts[1] = None
+  consts[14] = 'UserPausedError'
+  consts[15] = ('target_time', 'threshold', 'need_cost', 'user_paused', 'return')
+  CODE <module>.wait_until_threshold argcount=4 nlocals=4 flags=0x43 co_code=42
+    names=['get_game_time', 'esc', 'UserPausedError']
+    varnames=['target_time', 'threshold', 'need_cost', 'user_paused']
+    consts[0] = None
+    consts[1] = ('need_cost',)
+  consts[17] = 'wait_until_threshold'
+  consts[18] = ('action', 'user_paused', 'BULLET_THRESHOLD', 'FRAME_THRESHOLD', 'return')
+  CODE <module>.perform_deploy argcount=4 nlocals=9 flags=0x43 co_code=960
+    names=['get_game_time', 'time', 'logger', 'debug', 'pause', 'wait_until_threshold', 'mouseclick', 'ratioconfig', 'LAST_OPER_RATIO', 'sleep', 'actionconfig', 'GENERAL_WAITTIME', 'esc', 'FRAME_WAITTIME', 'UserPausedError', 'locate_avatar', 'avatar_pos', 'OPERATOR_SELECTED_RATIO', 'oper', 'DEPLOY_DRAG_RATIO', 'mousedown', 'mousemove', 'MINIMUM_WAITTIME', 'warning', 'cost', 'view_pos_side', 'DEPLOY_DELTA_RATIO', 'mouseup', 'direction', 'DirectionType', 'LEFT', 'max', 'DIRECTION_RATIO', 'RIGHT', 'min', 'UP', 'DOWN']
+    varnames=['action', 'user_paused', 'BULLET_THRESHOLD', 'FRAME_THRESHOLD', 'target_time', 'need_cost', 'middle_pos', 'actual_time', 'dir_pos']
+    consts[0] = None
+    consts[1] = ('need_cost',)
+    consts[2] = 'Too much time, resuming and entering bullet time'
+    consts[3] = 'Within bullet threshold, entering bullet time'
+    consts[4] = 'Within frame threshold, entering bullet time'
+    consts[5] = 1
+    consts[6] = 'Operator '
+    consts[7] = ' is already selected'
+    consts[8] = 0
+    consts[9] = True
+    consts[10] = 'Game time mismatch, performed action at '
+    consts[11] = ' instead of '
+    consts[12] = 'Cost mismatch: expected '
+    consts[13] = ', got '
+    consts[14] = ' (time matches: '
+    consts[15] = ' == '
+    consts[16] = ')'
+  consts[20] = 'perform_deploy'
+  CODE <module>.perform_skill_or_retreat argcount=4 nlocals=7 flags=0x43 co_code=596
+    names=['get_game_time', 'time', 'logger', 'debug', 'pause', 'wait_until_threshold', 'mouseclick', 'view_pos_front', 'sleep', 'actionconfig', 'GENERAL_WAITTIME', 'esc', 'ratioconfig', 'LAST_OPER_RATIO', 'view_pos_side', 'MINIMUM_WAITTIME', 'FRAME_WAITTIME', 'UserPausedError', 'warning', 'cost', 'action_type', 'ActionType', 'SKILL', 'SKILL_RATIO', 'RETREAT', 'RETREAT_RATIO', 'ValueError']
+    varnames=['action', 'user_paused', 'BULLET_THRESHOLD', 'FRAME_THRESHOLD', 'target_time', 'need_cost', 'actual_time']
+    consts[0] = None
+    consts[1] = ('need_cost',)
+    consts[2] = 'Too much time, resuming and entering bullet time'
+    consts[3] = 'Within bullet threshold, entering bullet time'
+    consts[4] = 'Within frame threshold, entering side view'
+    consts[5] = True
+    consts[6] = 'Game time mismatch, performed action at '
+    consts[7] = ' instead of '
+    consts[8] = 'Cost mismatch: expected '
+    consts[9] = ', got '
+    consts[10] = ' (time matches: '
+    consts[11] = ' == '
+    consts[12] = ')'
+    consts[13] = 'Invalid action type: '
+  consts[22] = 'perform_skill_or_retreat'
+  consts[23] = ('action', 'user_paused', 'return')
+  CODE <module>.perform_action argcount=2 nlocals=5 flags=0x43 co_code=300
+    names=['logger', 'debug', 'GameTime', 'actionconfig', 'BULLET_THRESHOLD', 'FRAME_THRESHOLD', 'get_game_time', 'action_type', 'ActionType', 'DEPLOY', 'perform_deploy', 'SKILL', 'RETREAT', 'perform_skill_or_retreat', 'ValueError', 'info', 'time', 'cost', 'PerformLateError', 'warning', 'error']
+    varnames=['action', 'user_paused', 'BULLET_THRESHOLD', 'FRAME_THRESHOLD', 'actual_time']
+    consts[0] = None
+    consts[1] = 'Performing action: '
+    consts[2] = 0
+    consts[3] = ('cost', 'tick', 'time')
+    consts[4] = 'Invalid action type: '
+    consts[5] = 'Performed action: '
+    consts[6] = ' (not on time)'
+    consts[7] = ' (unexpected time)'
+  consts[25] = 'perform_action'
+  consts[26] = '__main__'
+  consts[27] = ('get_map_by_code',)
+  consts[28] = ('transform_map_to_view',)
+  consts[29] = ('DirectionType',)
+  consts[30] = '1-7'
+  consts[31] = False
+  consts[32] = True
+  consts[33] = 15
+  consts[34] = '斑点'
+  consts[35] = 'D2'
+  consts[36] = ''
+  consts[37] = (1, 3)
+  consts[38] = 3
+  consts[39] = 1
+  CODE <module>.<lambda> argcount=0 nlocals=0 flags=0x43 co_code=4
+    names=[]
+    varnames=[]
+    consts[0] = None
+    consts[1] = False
+  consts[41] = '<lambda>'
+  consts[42] = 'Action performed: '
+  consts[43] = ' (time elapsed: '
+  consts[44] = '.3f'
+  consts[45] = ' seconds)'

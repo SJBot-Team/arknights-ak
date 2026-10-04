@@ -1,0 +1,13 @@
+﻿cur ascii-ish: # 00 \u9429\ue1bc\u7d8d / \u7035\u8270\u57c5\u951b\u581f\u669f\u93b9\ue1bc\ue1ee
+orig utf8 bytes: 2320303020e79baee5bd95202f20e5afbce888aaefbc88e695b0e68daee5afb9e5ba94e4b88ee6a0b8e9aa8cefbc89
+D:\__soft\Anaconda\python.exe : Traceback (most recent call last):
+所在位置 行:1 字符: 172
++ ... harness\ak; D:\__soft\Anaconda\python.exe .tmp\t200a_probe.py 2>&1 |  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\23922\Documents\ds_harness\ak\.tmp\t200a_probe.py", line 18, in <module>
+    print("%-10s -> %s" % (enc, s[:16]))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\ufffd' in position 20: illegal multibyte sequence
